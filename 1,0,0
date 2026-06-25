@@ -1,0 +1,14 @@
+Mira· v1.0.0:
+
+Como se indicó anteriormente, esta APK fue desarrollada como un proyecto de tiempo libre y se comparte con ustedes.
+
+Características:
+
+- Diseño minimalista con personalización de colores, incluyendo modos oscuro y claro.
+- Múltiples fuentes, entre las que se incluyen: Latanime, TuDorama, Cuevana, Cinecalidad y Gnula, entre otras.
+- Extractores de video: Cuenta con extractores de video internos; en Windows se utiliza adicionalmente YT-dlp.
+- Conexión con TMDB: Además de la extracción en diversas fuentes, se ha agregado compatibilidad con TMDB para obtener datos relevantes y mejorar significativamente la experiencia.
+- Descargas: Permite descargar el contenido, reintentar descargas y seleccionar la ruta de descarga.
+- Reproducción: Al intentar reproducir el contenido, se dispone de múltiples fuentes, validación de enlaces disponibles antes de la reproducción y validación de la velocidad de los videos. Adicionalmente, se puede seleccionar entre múltiples reproductores, como VLC, MX Player y Web Video Caster.
+
+Adicionalmente, existen funciones como Próximamente, filtros de búsqueda, listas y clasificación de contenido.
