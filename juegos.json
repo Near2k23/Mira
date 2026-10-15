@@ -1,68 +1,75 @@
 {
-  "version": 1,
+  "version": 2,
   "categorias": [
     {
-      "id": "action",
-      "nombre": "Acción"
-    },
-    {
-      "id": "arcade",
-      "nombre": "Arcade"
-    },
-    {
-      "id": "shooter",
-      "nombre": "Shooter"
-    },
-    {
-      "id": "adventure",
-      "nombre": "Aventura"
-    },
-    {
-      "id": "puzzle",
-      "nombre": "Puzzle"
-    },
-    {
-      "id": "simulation",
-      "nombre": "Simulación"
-    },
-    {
-      "id": "strategy",
-      "nombre": "Estrategia"
-    },
-    {
-      "id": "platformer",
-      "nombre": "Plataformas"
-    },
-    {
-      "id": "sports",
-      "nombre": "Deportes"
-    },
-    {
-      "id": "creative",
-      "nombre": "Creativo"
-    },
-    {
-      "id": "racing",
-      "nombre": "Carreras"
-    },
-    {
-      "id": "logic",
-      "nombre": "Lógica"
-    },
-    {
-      "id": "educational",
-      "nombre": "Educativo"
-    },
-    {
-      "id": "quiz",
-      "nombre": "Quiz"
+      "id": "flash",
+      "nombre": "Flash",
+      "subcategorias": [
+        {
+          "id": "action",
+          "nombre": "Acción"
+        },
+        {
+          "id": "arcade",
+          "nombre": "Arcade"
+        },
+        {
+          "id": "shooter",
+          "nombre": "Shooter"
+        },
+        {
+          "id": "adventure",
+          "nombre": "Aventura"
+        },
+        {
+          "id": "puzzle",
+          "nombre": "Puzzle"
+        },
+        {
+          "id": "simulation",
+          "nombre": "Simulación"
+        },
+        {
+          "id": "strategy",
+          "nombre": "Estrategia"
+        },
+        {
+          "id": "platformer",
+          "nombre": "Plataformas"
+        },
+        {
+          "id": "sports",
+          "nombre": "Deportes"
+        },
+        {
+          "id": "creative",
+          "nombre": "Creativo"
+        },
+        {
+          "id": "racing",
+          "nombre": "Carreras"
+        },
+        {
+          "id": "logic",
+          "nombre": "Lógica"
+        },
+        {
+          "id": "educational",
+          "nombre": "Educativo"
+        },
+        {
+          "id": "quiz",
+          "nombre": "Quiz"
+        }
+      ]
     }
   ],
   "juegos": [
     {
       "id": "the-last-stand-union-city",
       "titulo": "The Last Stand: Union City",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/the-last-stand-union-city",
       "swf": "https://wasmarcade.com/flash/swf/the-last-stand-union-city.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-last-stand-union-city-450.webp",
@@ -78,7 +85,8 @@
     {
       "id": "alien-hominid",
       "titulo": "Alien Hominid",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/alien-hominid",
       "swf": "https://wasmarcade.com/flash/swf/alien-hominid.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/alien-hominid-450.webp",
@@ -94,7 +102,8 @@
     {
       "id": "cactus-mccoy",
       "titulo": "Cactus McCoy",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/cactus-mccoy",
       "swf": "https://wasmarcade.com/flash/swf/cactus-mccoy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cactus-mccoy-450.webp",
@@ -110,7 +119,8 @@
     {
       "id": "bloxorz",
       "titulo": "Bloxorz",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/bloxorz",
       "swf": "https://wasmarcade.com/flash/swf/bloxorz.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bloxorz-450.webp",
@@ -127,7 +137,8 @@
     {
       "id": "swords-and-sandals-crusader",
       "titulo": "Swords and Sandals: Crusader",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/swords-and-sandals-crusader",
       "swf": "https://wasmarcade.com/flash/swf/swords-and-sandals-crusader.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/swords-and-sandals-crusader-450.webp",
@@ -144,7 +155,8 @@
     {
       "id": "strike-force-heroes-2",
       "titulo": "Strike Force Heroes 2",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/strike-force-heroes-2",
       "swf": "https://wasmarcade.com/flash/swf/strike-force-heroes-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/strike-force-heroes-2-450.webp",
@@ -160,7 +172,8 @@
     {
       "id": "riddle-school-3",
       "titulo": "Riddle School 3",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/riddle-school-3",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-3-450.webp",
@@ -177,7 +190,8 @@
     {
       "id": "riddle-school-5",
       "titulo": "Riddle School 5",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/riddle-school-5",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school-5.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-5-450.webp",
@@ -194,7 +208,8 @@
     {
       "id": "bang-boom-splat",
       "titulo": "Bang, Boom, Splat!",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/bang-boom-splat",
       "swf": "https://wasmarcade.com/flash/swf/bang-boom-splat.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bang-boom-splat-450.webp",
@@ -210,7 +225,8 @@
     {
       "id": "cactus-mccoy-2",
       "titulo": "Cactus McCoy 2",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/cactus-mccoy-2",
       "swf": "https://wasmarcade.com/flash/swf/cactus-mccoy-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cactus-mccoy-2-450.webp",
@@ -226,7 +242,8 @@
     {
       "id": "escaping-the-prison",
       "titulo": "Escaping the Prison",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/escaping-the-prison",
       "swf": "https://wasmarcade.com/flash/swf/escaping-the-prison.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/escaping-the-prison-450.webp",
@@ -243,7 +260,8 @@
     {
       "id": "raft-wars",
       "titulo": "Raft Wars",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/raft-wars",
       "swf": "https://wasmarcade.com/flash/swf/raft-wars.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raft-wars-450.webp",
@@ -259,7 +277,8 @@
     {
       "id": "age-of-war",
       "titulo": "Age of War",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/age-of-war",
       "swf": "https://wasmarcade.com/flash/swf/age-of-war.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/age-of-war-450.webp",
@@ -276,7 +295,8 @@
     {
       "id": "gun-mayhem-2-more-mayhem",
       "titulo": "Gun Mayhem 2: More Mayhem",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/gun-mayhem-2-more-mayhem",
       "swf": "https://wasmarcade.com/flash/swf/gun-mayhem-2-more-mayhem.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/gun-mayhem-2-more-mayhem-450.webp",
@@ -292,7 +312,8 @@
     {
       "id": "riddle-school-4",
       "titulo": "Riddle School 4",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/riddle-school-4",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-4-450.webp",
@@ -309,7 +330,8 @@
     {
       "id": "strike-force-heroes",
       "titulo": "Strike Force Heroes",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/strike-force-heroes",
       "swf": "https://wasmarcade.com/flash/swf/strike-force-heroes.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/strike-force-heroes-450.webp",
@@ -325,7 +347,8 @@
     {
       "id": "learn-to-fly-3",
       "titulo": "Learn to Fly 3",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/learn-to-fly-3",
       "swf": "https://wasmarcade.com/flash/swf/learn-to-fly-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/learn-to-fly-3-450.webp",
@@ -341,7 +364,8 @@
     {
       "id": "robot-unicorn-attack",
       "titulo": "Robot Unicorn Attack",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/robot-unicorn-attack",
       "swf": "https://wasmarcade.com/flash/swf/robot-unicorn-attack.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/robot-unicorn-attack-450.webp",
@@ -357,7 +381,8 @@
     {
       "id": "3-foot-ninja-ii",
       "titulo": "3 Foot Ninja II",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/3-foot-ninja-ii",
       "swf": "https://wasmarcade.com/flash/swf/3-foot-ninja-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/3-foot-ninja-ii-450.webp",
@@ -373,7 +398,8 @@
     {
       "id": "achievement-unlocked",
       "titulo": "Achievement Unlocked",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/achievement-unlocked",
       "swf": "https://wasmarcade.com/flash/swf/achievement-unlocked.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/achievement-unlocked-450.webp",
@@ -390,7 +416,8 @@
     {
       "id": "flight",
       "titulo": "Flight",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/flight",
       "swf": "https://wasmarcade.com/flash/swf/flight.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/flight-450.webp",
@@ -406,7 +433,8 @@
     {
       "id": "the-impossible-quiz-2",
       "titulo": "The Impossible Quiz 2",
-      "categoria": "quiz",
+      "categoria": "flash",
+      "subcategoria": "quiz",
       "url": "https://wasmarcade.com/flash-games/the-impossible-quiz-2",
       "swf": "https://wasmarcade.com/flash/swf/the-impossible-quiz-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-impossible-quiz-2-450.webp",
@@ -423,7 +451,8 @@
     {
       "id": "mario-combat",
       "titulo": "Mario Combat",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/mario-combat",
       "swf": "https://wasmarcade.com/flash/swf/mario-combat.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-combat-450.webp",
@@ -439,7 +468,8 @@
     {
       "id": "the-fancy-pants-adventure",
       "titulo": "The Fancy Pants Adventures: World 1",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/the-fancy-pants-adventure",
       "swf": "https://wasmarcade.com/flash/swf/the-fancy-pants-adventure.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-fancy-pants-adventure-450.webp",
@@ -456,7 +486,8 @@
     {
       "id": "minecraft-tower-defence-2",
       "titulo": "Minecraft Tower Defence 2",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/minecraft-tower-defence-2",
       "swf": "https://wasmarcade.com/flash/swf/minecraft-tower-defence-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/minecraft-tower-defence-2-450.webp",
@@ -473,7 +504,8 @@
     {
       "id": "super-mario-sunshine-64",
       "titulo": "Super Mario Sunshine 64",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/super-mario-sunshine-64",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-sunshine-64.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-sunshine-64-450.webp",
@@ -489,7 +521,8 @@
     {
       "id": "3-foot-ninja",
       "titulo": "3 Foot Ninja",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/3-foot-ninja",
       "swf": "https://wasmarcade.com/flash/swf/3-foot-ninja.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/3-foot-ninja-450.webp",
@@ -505,7 +538,8 @@
     {
       "id": "drag-racer-v3",
       "titulo": "Drag Racer V3",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/drag-racer-v3",
       "swf": "https://wasmarcade.com/flash/swf/drag-racer-v3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/drag-racer-v3-450.webp",
@@ -522,7 +556,8 @@
     {
       "id": "learn-to-fly",
       "titulo": "Learn to Fly",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/learn-to-fly",
       "swf": "https://wasmarcade.com/flash/swf/learn-to-fly.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/learn-to-fly-450.webp",
@@ -538,7 +573,8 @@
     {
       "id": "canyon-defense",
       "titulo": "Canyon Defense",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/canyon-defense",
       "swf": "https://wasmarcade.com/flash/swf/canyon-defense.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/canyon-defense-450.webp",
@@ -555,7 +591,8 @@
     {
       "id": "epic-battle-fantasy",
       "titulo": "Epic Battle Fantasy",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/epic-battle-fantasy",
       "swf": "https://wasmarcade.com/flash/swf/epic-battle-fantasy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/epic-battle-fantasy-450.webp",
@@ -571,7 +608,8 @@
     {
       "id": "interactive-buddy",
       "titulo": "Interactive Buddy",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/interactive-buddy",
       "swf": "https://wasmarcade.com/flash/swf/interactive-buddy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/interactive-buddy-450.webp",
@@ -588,7 +626,8 @@
     {
       "id": "vex2",
       "titulo": "Vex 2",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/vex2",
       "swf": "https://wasmarcade.com/flash/swf/vex2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/vex2-450.webp",
@@ -604,7 +643,8 @@
     {
       "id": "learn-to-fly-2",
       "titulo": "Learn to Fly 2",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/learn-to-fly-2",
       "swf": "https://wasmarcade.com/flash/swf/learn-to-fly-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/learn-to-fly-2-450.webp",
@@ -620,7 +660,8 @@
     {
       "id": "papas-donuteria",
       "titulo": "Papa’s Donuteria",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/papas-donuteria",
       "swf": "https://wasmarcade.com/flash/swf/papas-donuteria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-donuteria-450.webp",
@@ -637,7 +678,8 @@
     {
       "id": "madness-accelerant",
       "titulo": "Madness Accelerant",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/madness-accelerant",
       "swf": "https://wasmarcade.com/flash/swf/madness-accelerant.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/madness-accelerant-450.webp",
@@ -653,7 +695,8 @@
     {
       "id": "super-mario-flash-2",
       "titulo": "Super Mario Flash 2",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/super-mario-flash-2",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-flash-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-flash-2-450.webp",
@@ -669,7 +712,8 @@
     {
       "id": "super-smash-flash",
       "titulo": "Super Smash Flash",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/super-smash-flash",
       "swf": "https://wasmarcade.com/flash/swf/super-smash-flash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-smash-flash-450.webp",
@@ -685,7 +729,8 @@
     {
       "id": "motherload",
       "titulo": "MotherLoad",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/motherload",
       "swf": "https://wasmarcade.com/flash/swf/motherload.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/motherload-450.webp",
@@ -702,7 +747,8 @@
     {
       "id": "papas-cheeseria",
       "titulo": "Papa’s Cheeseria",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/papas-cheeseria",
       "swf": "https://wasmarcade.com/flash/swf/papas-cheeseria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-cheeseria-450.webp",
@@ -719,7 +765,8 @@
     {
       "id": "raft-wars-2",
       "titulo": "Raft Wars 2",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/raft-wars-2",
       "swf": "https://wasmarcade.com/flash/swf/raft-wars-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raft-wars-2-450.webp",
@@ -735,7 +782,8 @@
     {
       "id": "riddle-school-2",
       "titulo": "Riddle School 2",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/riddle-school-2",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-2-450.webp",
@@ -752,7 +800,8 @@
     {
       "id": "papa-louie-when-pizza-attack",
       "titulo": "Papa Louie: When Pizza Attack!",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/papa-louie-when-pizza-attack",
       "swf": "https://wasmarcade.com/flash/swf/papa-louie-when-pizza-attack.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papa-louie-when-pizza-attack-450.webp",
@@ -767,7 +816,8 @@
     {
       "id": "stick-war",
       "titulo": "Stick War",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/stick-war",
       "swf": "https://wasmarcade.com/flash/swf/stick-war.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stick-war-450.webp",
@@ -783,7 +833,8 @@
     {
       "id": "breaking-the-bank",
       "titulo": "Breaking The Bank",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/breaking-the-bank",
       "swf": "https://wasmarcade.com/flash/swf/breaking-the-bank.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/breaking-the-bank-450.webp",
@@ -800,7 +851,8 @@
     {
       "id": "burger-tycoon",
       "titulo": "Burger Tycoon",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/burger-tycoon",
       "swf": "https://wasmarcade.com/flash/swf/burger-tycoon.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/burger-tycoon-450.webp",
@@ -816,7 +868,8 @@
     {
       "id": "portal-the-flash-version",
       "titulo": "Portal: The Flash Version",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/portal-the-flash-version",
       "swf": "https://wasmarcade.com/flash/swf/portal-the-flash-version.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/portal-the-flash-version-450.webp",
@@ -833,7 +886,8 @@
     {
       "id": "stick-rpg-complete",
       "titulo": "Stick RPG Complete",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/stick-rpg-complete",
       "swf": "https://wasmarcade.com/flash/swf/stick-rpg-complete.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stick-rpg-complete-450.webp",
@@ -849,7 +903,8 @@
     {
       "id": "jacksmith",
       "titulo": "Jacksmith",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/jacksmith",
       "swf": "https://wasmarcade.com/flash/swf/jacksmith.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/jacksmith-450.webp",
@@ -866,7 +921,8 @@
     {
       "id": "madness-project-nexus",
       "titulo": "Madness: Project Nexus",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/madness-project-nexus",
       "swf": "https://wasmarcade.com/flash/swf/madness-project-nexus.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/madness-project-nexus-450.webp",
@@ -882,7 +938,8 @@
     {
       "id": "raze-2",
       "titulo": "Raze 2",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/raze-2",
       "swf": "https://wasmarcade.com/flash/swf/raze-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raze-2-450.webp",
@@ -898,7 +955,8 @@
     {
       "id": "strike-force-heroes-3",
       "titulo": "Strike Force Heroes 3",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/strike-force-heroes-3",
       "swf": "https://wasmarcade.com/flash/swf/strike-force-heroes-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/strike-force-heroes-3-450.webp",
@@ -914,7 +972,8 @@
     {
       "id": "earn-to-die",
       "titulo": "Earn to Die",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/earn-to-die",
       "swf": "https://wasmarcade.com/flash/swf/earn-to-die.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/earn-to-die-450.webp",
@@ -930,7 +989,8 @@
     {
       "id": "happy-wheels",
       "titulo": "Happy Wheels",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/happy-wheels",
       "swf": "https://wasmarcade.com/flash/swf/happy-wheels.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/happy-wheels-450.webp",
@@ -947,7 +1007,8 @@
     {
       "id": "mario-forever-flash",
       "titulo": "Mario Forever Flash",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/mario-forever-flash",
       "swf": "https://wasmarcade.com/flash/swf/mario-forever-flash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-forever-flash-450.webp",
@@ -963,7 +1024,8 @@
     {
       "id": "one-chance",
       "titulo": "One Chance",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/one-chance",
       "swf": "https://wasmarcade.com/flash/swf/one-chance.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/one-chance-450.webp",
@@ -980,7 +1042,8 @@
     {
       "id": "fishy",
       "titulo": "Fishy",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/fishy",
       "swf": "https://wasmarcade.com/flash/swf/fishy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fishy-450.webp",
@@ -995,7 +1058,8 @@
     {
       "id": "helicopter-game",
       "titulo": "Helicopter Game",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/helicopter-game",
       "swf": "https://wasmarcade.com/flash/swf/helicopter-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/helicopter-game-450.webp",
@@ -1011,7 +1075,8 @@
     {
       "id": "stealing-the-diamond",
       "titulo": "Stealing The Diamond",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/stealing-the-diamond",
       "swf": "https://wasmarcade.com/flash/swf/stealing-the-diamond.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stealing-the-diamond-450.webp",
@@ -1028,7 +1093,8 @@
     {
       "id": "toss-the-turtle",
       "titulo": "Toss The Turtle",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/toss-the-turtle",
       "swf": "https://wasmarcade.com/flash/swf/toss-the-turtle.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/toss-the-turtle-450.webp",
@@ -1044,7 +1110,8 @@
     {
       "id": "ageofwar2",
       "titulo": "Age of War 2",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/ageofwar2",
       "swf": "https://wasmarcade.com/flash/swf/ageofwar2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ageofwar2-450.webp",
@@ -1061,7 +1128,8 @@
     {
       "id": "max-dirt-bike",
       "titulo": "Max Dirt Bike",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/max-dirt-bike",
       "swf": "https://wasmarcade.com/flash/swf/max-dirt-bike.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/max-dirt-bike-450.webp",
@@ -1077,7 +1145,8 @@
     {
       "id": "social-interaction-trainer",
       "titulo": "Social Interaction Trainer",
-      "categoria": "educational",
+      "categoria": "flash",
+      "subcategoria": "educational",
       "url": "https://wasmarcade.com/flash-games/social-interaction-trainer",
       "swf": "https://wasmarcade.com/flash/swf/social-interaction-trainer.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/social-interaction-trainer-450.webp",
@@ -1093,7 +1162,8 @@
     {
       "id": "talking-tom-cat-2-in-2011-2",
       "titulo": "Talking Tom Cat 2",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/talking-tom-cat-2-in-2011-2",
       "swf": "https://wasmarcade.com/flash/swf/talking-tom-cat-2-in-2011-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/talking-tom-cat-2-in-2011-2-450.webp",
@@ -1110,7 +1180,8 @@
     {
       "id": "a-koopas-revenge-2",
       "titulo": "A Koopa’s Revenge 2",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/a-koopas-revenge-2",
       "swf": "https://wasmarcade.com/flash/swf/a-koopas-revenge-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/a-koopas-revenge-2-450.webp",
@@ -1125,7 +1196,8 @@
     {
       "id": "achievement-unlocked-2",
       "titulo": "Achievement Unlocked 2",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/achievement-unlocked-2",
       "swf": "https://wasmarcade.com/flash/swf/achievement-unlocked-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/achievement-unlocked-2-450.webp",
@@ -1142,7 +1214,8 @@
     {
       "id": "armed-with-wings-2",
       "titulo": "Armed with Wings 2",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/armed-with-wings-2",
       "swf": "https://wasmarcade.com/flash/swf/armed-with-wings-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/armed-with-wings-2-450.webp",
@@ -1158,7 +1231,8 @@
     {
       "id": "defend-your-castle",
       "titulo": "Defend Your Castle",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/defend-your-castle",
       "swf": "https://wasmarcade.com/flash/swf/defend-your-castle.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/defend-your-castle-450.webp",
@@ -1174,7 +1248,8 @@
     {
       "id": "divine-intervention",
       "titulo": "Divine Intervention",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/divine-intervention",
       "swf": "https://wasmarcade.com/flash/swf/divine-intervention.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/divine-intervention-450.webp",
@@ -1190,7 +1265,8 @@
     {
       "id": "earn-to-die-2012",
       "titulo": "Earn to Die 2012",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/earn-to-die-2012",
       "swf": "https://wasmarcade.com/flash/swf/earn-to-die-2012.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/earn-to-die-2012-450.webp",
@@ -1206,7 +1282,8 @@
     {
       "id": "flashtrek-broken-mirror",
       "titulo": "FlashTrek: Broken Mirror",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/flashtrek-broken-mirror",
       "swf": "https://wasmarcade.com/flash/swf/flashtrek-broken-mirror.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/flashtrek-broken-mirror-450.webp",
@@ -1223,7 +1300,8 @@
     {
       "id": "sports-heads-football-championship",
       "titulo": "Sports Heads: Football Championship",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/sports-heads-football-championship",
       "swf": "https://wasmarcade.com/flash/swf/sports-heads-football-championship.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sports-heads-football-championship-450.webp",
@@ -1239,7 +1317,8 @@
     {
       "id": "the-impossible-quiz",
       "titulo": "The Impossible Quiz",
-      "categoria": "quiz",
+      "categoria": "flash",
+      "subcategoria": "quiz",
       "url": "https://wasmarcade.com/flash-games/the-impossible-quiz",
       "swf": "https://wasmarcade.com/flash/swf/the-impossible-quiz.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-impossible-quiz-450.webp",
@@ -1256,7 +1335,8 @@
     {
       "id": "warlords-call-to-arms",
       "titulo": "Warlords: Call to Arms",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/warlords-call-to-arms",
       "swf": "https://wasmarcade.com/flash/swf/warlords-call-to-arms.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/warlords-call-to-arms-450.webp",
@@ -1273,7 +1353,8 @@
     {
       "id": "arcuz-behind-the-dark",
       "titulo": "Arcuz: Behind the Dark",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/arcuz-behind-the-dark",
       "swf": "https://wasmarcade.com/flash/swf/arcuz-behind-the-dark.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/arcuz-behind-the-dark-450.webp",
@@ -1289,7 +1370,8 @@
     {
       "id": "fat-ninja",
       "titulo": "Fat Ninja",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/fat-ninja",
       "swf": "https://wasmarcade.com/flash/swf/fat-ninja.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fat-ninja-450.webp",
@@ -1305,7 +1387,8 @@
     {
       "id": "not-so-special-stage",
       "titulo": "Not-So Special Stage",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/not-so-special-stage",
       "swf": "https://wasmarcade.com/flash/swf/not-so-special-stage.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/not-so-special-stage-450.webp",
@@ -1321,7 +1404,8 @@
     {
       "id": "red-ball-2-the-king",
       "titulo": "Red Ball 2: The King",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/red-ball-2-the-king",
       "swf": "https://wasmarcade.com/flash/swf/red-ball-2-the-king.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/red-ball-2-the-king-450.webp",
@@ -1337,7 +1421,8 @@
     {
       "id": "run-3",
       "titulo": "Run 3",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/run-3",
       "swf": "https://wasmarcade.com/flash/swf/run-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/run-3-450.webp",
@@ -1353,7 +1438,8 @@
     {
       "id": "stark-tower-defense",
       "titulo": "Stark Tower Defense",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/stark-tower-defense",
       "swf": "https://wasmarcade.com/flash/swf/stark-tower-defense.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stark-tower-defense-450.webp",
@@ -1370,7 +1456,8 @@
     {
       "id": "super-mario-63",
       "titulo": "Super Mario 63",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/super-mario-63",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-63.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-63-450.webp",
@@ -1386,7 +1473,8 @@
     {
       "id": "the-last-stand-2",
       "titulo": "The Last Stand 2",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/the-last-stand-2",
       "swf": "https://wasmarcade.com/flash/swf/the-last-stand-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-last-stand-2-450.webp",
@@ -1402,7 +1490,8 @@
     {
       "id": "warfare-1917",
       "titulo": "Warfare 1917",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/warfare-1917",
       "swf": "https://wasmarcade.com/flash/swf/warfare-1917.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/warfare-1917-450.webp",
@@ -1419,7 +1508,8 @@
     {
       "id": "canterlot-siege-2",
       "titulo": "Canterlot Siege 2",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/canterlot-siege-2",
       "swf": "https://wasmarcade.com/flash/swf/canterlot-siege-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/canterlot-siege-2-450.webp",
@@ -1436,7 +1526,8 @@
     {
       "id": "crush-the-castle-2",
       "titulo": "Crush the Castle 2",
-      "categoria": "logic",
+      "categoria": "flash",
+      "subcategoria": "logic",
       "url": "https://wasmarcade.com/flash-games/crush-the-castle-2",
       "swf": "https://wasmarcade.com/flash/swf/crush-the-castle-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/crush-the-castle-2-450.webp",
@@ -1453,7 +1544,8 @@
     {
       "id": "papas-cupcakeria",
       "titulo": "Papa’s Cupcakeria",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/papas-cupcakeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-cupcakeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-cupcakeria-450.webp",
@@ -1470,7 +1562,8 @@
     {
       "id": "shop-empire-2",
       "titulo": "Shop Empire 2",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/shop-empire-2",
       "swf": "https://wasmarcade.com/flash/swf/shop-empire-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/shop-empire-2-450.webp",
@@ -1487,7 +1580,8 @@
     {
       "id": "the-visitor",
       "titulo": "The Visitor",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/the-visitor",
       "swf": "https://wasmarcade.com/flash/swf/the-visitor.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-visitor-450.webp",
@@ -1503,7 +1597,8 @@
     {
       "id": "absolute-madness",
       "titulo": "absolute.Madness",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/absolute-madness",
       "swf": "https://wasmarcade.com/flash/swf/absolute-madness.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/absolute-madness-450.webp",
@@ -1519,7 +1614,8 @@
     {
       "id": "bloons-tower-defense-3",
       "titulo": "Bloons Tower Defense 3",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/bloons-tower-defense-3",
       "swf": "https://wasmarcade.com/flash/swf/bloons-tower-defense-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bloons-tower-defense-3-450.webp",
@@ -1536,7 +1632,8 @@
     {
       "id": "bowmaster-prelude",
       "titulo": "BowMaster Prelude",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/bowmaster-prelude",
       "swf": "https://wasmarcade.com/flash/swf/bowmaster-prelude.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bowmaster-prelude-450.webp",
@@ -1552,7 +1649,8 @@
     {
       "id": "electric-box",
       "titulo": "Electric Box",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/electric-box",
       "swf": "https://wasmarcade.com/flash/swf/electric-box.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/electric-box-450.webp",
@@ -1569,7 +1667,8 @@
     {
       "id": "ultimate-flash-sonic",
       "titulo": "Ultimate Flash Sonic",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/ultimate-flash-sonic",
       "swf": "https://wasmarcade.com/flash/swf/ultimate-flash-sonic.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ultimate-flash-sonic-450.webp",
@@ -1585,7 +1684,8 @@
     {
       "id": "heli-attack-3",
       "titulo": "Heli Attack 3",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/heli-attack-3",
       "swf": "https://wasmarcade.com/flash/swf/heli-attack-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/heli-attack-3-450.webp",
@@ -1601,7 +1701,8 @@
     {
       "id": "papas-bakeria",
       "titulo": "Papa’s Bakeria",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/papas-bakeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-bakeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-bakeria-450.webp",
@@ -1618,7 +1719,8 @@
     {
       "id": "the-right-mix",
       "titulo": "The Right Mix",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/the-right-mix",
       "swf": "https://wasmarcade.com/flash/swf/the-right-mix.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-right-mix-450.webp",
@@ -1635,7 +1737,8 @@
     {
       "id": "unfair-mario",
       "titulo": "Unfair Mario",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/unfair-mario",
       "swf": "https://wasmarcade.com/flash/swf/unfair-mario.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/unfair-mario-450.webp",
@@ -1651,7 +1754,8 @@
     {
       "id": "whack-your-boss",
       "titulo": "Whack Your Boss",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/whack-your-boss",
       "swf": "https://wasmarcade.com/flash/swf/whack-your-boss.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/whack-your-boss-450.webp",
@@ -1667,7 +1771,8 @@
     {
       "id": "xiao-xiao-no-4",
       "titulo": "Xiao Xiao No. 4",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/xiao-xiao-no-4",
       "swf": "https://wasmarcade.com/flash/swf/xiao-xiao-no-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/xiao-xiao-no-4-450.webp",
@@ -1683,7 +1788,8 @@
     {
       "id": "bart-simpson-saw-game",
       "titulo": "Bart Simpson Saw Game",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/bart-simpson-saw-game",
       "swf": "https://wasmarcade.com/flash/swf/bart-simpson-saw-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bart-simpson-saw-game-450.webp",
@@ -1700,7 +1806,8 @@
     {
       "id": "canabalt",
       "titulo": "Canabalt",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/canabalt",
       "swf": "https://wasmarcade.com/flash/swf/canabalt.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/canabalt-450.webp",
@@ -1716,7 +1823,8 @@
     {
       "id": "papas-pizzeria",
       "titulo": "Papa’s Pizzeria",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/papas-pizzeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-pizzeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-pizzeria-450.webp",
@@ -1733,7 +1841,8 @@
     {
       "id": "resort-empire",
       "titulo": "Resort Empire",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/resort-empire",
       "swf": "https://wasmarcade.com/flash/swf/resort-empire.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/resort-empire-450.webp",
@@ -1750,7 +1859,8 @@
     {
       "id": "sands-of-the-coliseum",
       "titulo": "Sands of the Coliseum",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/sands-of-the-coliseum",
       "swf": "https://wasmarcade.com/flash/swf/sands-of-the-coliseum.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sands-of-the-coliseum-450.webp",
@@ -1766,7 +1876,8 @@
     {
       "id": "crush-the-castle",
       "titulo": "Crush the Castle",
-      "categoria": "logic",
+      "categoria": "flash",
+      "subcategoria": "logic",
       "url": "https://wasmarcade.com/flash-games/crush-the-castle",
       "swf": "https://wasmarcade.com/flash/swf/crush-the-castle.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/crush-the-castle-450.webp",
@@ -1783,7 +1894,8 @@
     {
       "id": "decision-medieval",
       "titulo": "Decision Medieval",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/decision-medieval",
       "swf": "https://wasmarcade.com/flash/swf/decision-medieval.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/decision-medieval-450.webp",
@@ -1799,7 +1911,8 @@
     {
       "id": "gunblood",
       "titulo": "Gunblood",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/gunblood",
       "swf": "https://wasmarcade.com/flash/swf/gunblood.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/gunblood-450.webp",
@@ -1815,7 +1928,8 @@
     {
       "id": "home-sheep-home",
       "titulo": "Home Sheep Home",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/home-sheep-home",
       "swf": "https://wasmarcade.com/flash/swf/home-sheep-home.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/home-sheep-home-450.webp",
@@ -1832,7 +1946,8 @@
     {
       "id": "line-rider",
       "titulo": "Line Rider",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/line-rider",
       "swf": "https://wasmarcade.com/flash/swf/line-rider.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/line-rider-450.webp",
@@ -1849,7 +1964,8 @@
     {
       "id": "pacman-advanced",
       "titulo": "Pacman Advanced",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/pacman-advanced",
       "swf": "https://wasmarcade.com/flash/swf/pacman-advanced.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pacman-advanced-450.webp",
@@ -1865,7 +1981,8 @@
     {
       "id": "pandemic-ii",
       "titulo": "Pandemic II",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/pandemic-ii",
       "swf": "https://wasmarcade.com/flash/swf/pandemic-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pandemic-ii-450.webp",
@@ -1882,7 +1999,8 @@
     {
       "id": "pokemon-trainer-creator",
       "titulo": "Pokémon Trainer Creator",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/pokemon-trainer-creator",
       "swf": "https://wasmarcade.com/flash/swf/pokemon-trainer-creator.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pokemon-trainer-creator-450.webp",
@@ -1899,7 +2017,8 @@
     {
       "id": "riddle-school",
       "titulo": "Riddle School",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/riddle-school",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-450.webp",
@@ -1916,7 +2035,8 @@
     {
       "id": "samurai-jack-code-of-the-samurai",
       "titulo": "Samurai Jack: Code of the Samurai",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/samurai-jack-code-of-the-samurai",
       "swf": "https://wasmarcade.com/flash/swf/samurai-jack-code-of-the-samurai.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/samurai-jack-code-of-the-samurai-450.webp",
@@ -1932,7 +2052,8 @@
     {
       "id": "star-island",
       "titulo": "Star Island",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/star-island",
       "swf": "https://wasmarcade.com/flash/swf/star-island.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/star-island-450.webp",
@@ -1947,7 +2068,8 @@
     {
       "id": "mini-golf",
       "titulo": "Mini Golf",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/mini-golf",
       "swf": "https://wasmarcade.com/flash/swf/mini-golf.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mini-golf-450.webp",
@@ -1963,7 +2085,8 @@
     {
       "id": "raze",
       "titulo": "Raze",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/raze",
       "swf": "https://wasmarcade.com/flash/swf/raze.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raze-450.webp",
@@ -1979,7 +2102,8 @@
     {
       "id": "sonic-blox",
       "titulo": "Sonic Blox",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/sonic-blox",
       "swf": "https://wasmarcade.com/flash/swf/sonic-blox.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sonic-blox-450.webp",
@@ -1995,7 +2119,8 @@
     {
       "id": "tetris",
       "titulo": "Tetris",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/tetris",
       "swf": "https://wasmarcade.com/flash/swf/tetris.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/tetris-450.webp",
@@ -2011,7 +2136,8 @@
     {
       "id": "the-worlds-hardest-game-2",
       "titulo": "The World’s Hardest Game 2",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/the-worlds-hardest-game-2",
       "swf": "https://wasmarcade.com/flash/swf/the-worlds-hardest-game-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-worlds-hardest-game-2-450.webp",
@@ -2026,7 +2152,8 @@
     {
       "id": "american-racing",
       "titulo": "American Racing",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/american-racing",
       "swf": "https://wasmarcade.com/flash/swf/american-racing.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/american-racing-450.webp",
@@ -2042,7 +2169,8 @@
     {
       "id": "madness-premeditation",
       "titulo": "Madness Premeditation",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/madness-premeditation",
       "swf": "https://wasmarcade.com/flash/swf/madness-premeditation.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/madness-premeditation-450.webp",
@@ -2059,7 +2187,8 @@
     {
       "id": "pandemic",
       "titulo": "Pandemic",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/pandemic",
       "swf": "https://wasmarcade.com/flash/swf/pandemic.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pandemic-450.webp",
@@ -2076,7 +2205,8 @@
     {
       "id": "sports-heads-basketball",
       "titulo": "Sports Heads: Basketball",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/sports-heads-basketball",
       "swf": "https://wasmarcade.com/flash/swf/sports-heads-basketball.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sports-heads-basketball-450.webp",
@@ -2092,7 +2222,8 @@
     {
       "id": "battle-of-britain-commando",
       "titulo": "Battle of Britain: Commando",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/battle-of-britain-commando",
       "swf": "https://wasmarcade.com/flash/swf/battle-of-britain-commando.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/battle-of-britain-commando-450.webp",
@@ -2108,7 +2239,8 @@
     {
       "id": "dad-n-me",
       "titulo": "Dad ‘n Me",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/dad-n-me",
       "swf": "https://wasmarcade.com/flash/swf/dad-n-me.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dad-n-me-450.webp",
@@ -2123,7 +2255,8 @@
     {
       "id": "penguin-diner",
       "titulo": "Penguin Diner",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/penguin-diner",
       "swf": "https://wasmarcade.com/flash/swf/penguin-diner.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/penguin-diner-450.webp",
@@ -2140,7 +2273,8 @@
     {
       "id": "road-of-the-dead",
       "titulo": "Road of the Dead",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/road-of-the-dead",
       "swf": "https://wasmarcade.com/flash/swf/road-of-the-dead.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/road-of-the-dead-450.webp",
@@ -2156,7 +2290,8 @@
     {
       "id": "run-2",
       "titulo": "Run 2",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/run-2",
       "swf": "https://wasmarcade.com/flash/swf/run-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/run-2-450.webp",
@@ -2172,7 +2307,8 @@
     {
       "id": "time-fcuk",
       "titulo": "Time Fcuk",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/time-fcuk",
       "swf": "https://wasmarcade.com/flash/swf/time-fcuk.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/time-fcuk-450.webp",
@@ -2189,7 +2325,8 @@
     {
       "id": "1-on-1-soccer",
       "titulo": "1 on 1 Soccer",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/1-on-1-soccer",
       "swf": "https://wasmarcade.com/flash/swf/1-on-1-soccer.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/1-on-1-soccer-450.webp",
@@ -2205,7 +2342,8 @@
     {
       "id": "game-over-gopher",
       "titulo": "Game Over Gopher",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/game-over-gopher",
       "swf": "https://wasmarcade.com/flash/swf/game-over-gopher.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/game-over-gopher-450.webp",
@@ -2221,7 +2359,8 @@
     {
       "id": "hot-dog-bush",
       "titulo": "Hot Dog Bush",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/hot-dog-bush",
       "swf": "https://wasmarcade.com/flash/swf/hot-dog-bush.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hot-dog-bush-450.webp",
@@ -2238,7 +2377,8 @@
     {
       "id": "papas-freezeria",
       "titulo": "Papa’s Freezeria",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/papas-freezeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-freezeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-freezeria-450.webp",
@@ -2255,7 +2395,8 @@
     {
       "id": "pirateers",
       "titulo": "Pirateers",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/pirateers",
       "swf": "https://wasmarcade.com/flash/swf/pirateers.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pirateers-450.webp",
@@ -2271,7 +2412,8 @@
     {
       "id": "super-mario-flash",
       "titulo": "Super Mario Flash",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/super-mario-flash",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-flash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-flash-450.webp",
@@ -2287,7 +2429,8 @@
     {
       "id": "hannah-montana-wireless-quest",
       "titulo": "Hannah Montana: Wireless Quest",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/hannah-montana-wireless-quest",
       "swf": "https://wasmarcade.com/flash/swf/hannah-montana-wireless-quest.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hannah-montana-wireless-quest-450.webp",
@@ -2304,7 +2447,8 @@
     {
       "id": "potty-racers",
       "titulo": "Potty Racers",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/potty-racers",
       "swf": "https://wasmarcade.com/flash/swf/potty-racers.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/potty-racers-450.webp",
@@ -2320,7 +2464,8 @@
     {
       "id": "spongebob-saw-game",
       "titulo": "SpongeBob Saw Game",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/spongebob-saw-game",
       "swf": "https://wasmarcade.com/flash/swf/spongebob-saw-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spongebob-saw-game-450.webp",
@@ -2337,7 +2482,8 @@
     {
       "id": "tom-loves-angela",
       "titulo": "Tom Loves Angela",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/tom-loves-angela",
       "swf": "https://wasmarcade.com/flash/swf/tom-loves-angela.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/tom-loves-angela-450.webp",
@@ -2353,7 +2499,8 @@
     {
       "id": "gold-miner",
       "titulo": "Gold Miner",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/gold-miner",
       "swf": "https://wasmarcade.com/flash/swf/gold-miner.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/gold-miner-450.webp",
@@ -2369,7 +2516,8 @@
     {
       "id": "submachine-1-the-basement",
       "titulo": "Submachine 1: The Basement",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/submachine-1-the-basement",
       "swf": "https://wasmarcade.com/flash/swf/submachine-1-the-basement.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/submachine-1-the-basement-450.webp",
@@ -2386,7 +2534,8 @@
     {
       "id": "super-mario-world-flash",
       "titulo": "Super Mario World Flash",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/super-mario-world-flash",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-world-flash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-world-flash-450.webp",
@@ -2402,7 +2551,8 @@
     {
       "id": "swords-and-sandals-2-emperors-reign",
       "titulo": "Swords and Sandals 2: Emperor’s Reign",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/swords-and-sandals-2-emperors-reign",
       "swf": "https://wasmarcade.com/flash/swf/swords-and-sandals-2-emperors-reign.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/swords-and-sandals-2-emperors-reign-450.webp",
@@ -2419,7 +2569,8 @@
     {
       "id": "the-waitress",
       "titulo": "The Waitress",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/the-waitress",
       "swf": "https://wasmarcade.com/flash/swf/the-waitress.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-waitress-450.webp",
@@ -2436,7 +2587,8 @@
     {
       "id": "awesome-tanks",
       "titulo": "Awesome Tanks",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/awesome-tanks",
       "swf": "https://wasmarcade.com/flash/swf/awesome-tanks.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/awesome-tanks-450.webp",
@@ -2453,7 +2605,8 @@
     {
       "id": "bloons-td-4",
       "titulo": "Bloons Tower Defense 4",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/bloons-td-4",
       "swf": "https://wasmarcade.com/flash/swf/bloons-td-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bloons-td-4-450.webp",
@@ -2470,7 +2623,8 @@
     {
       "id": "stunt-dirt-bike",
       "titulo": "Stunt Dirt Bike",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/stunt-dirt-bike",
       "swf": "https://wasmarcade.com/flash/swf/stunt-dirt-bike.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stunt-dirt-bike-450.webp",
@@ -2486,7 +2640,8 @@
     {
       "id": "swords-and-sandals-gladiator",
       "titulo": "Swords and Sandals: Gladiator",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/swords-and-sandals-gladiator",
       "swf": "https://wasmarcade.com/flash/swf/swords-and-sandals-gladiator.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/swords-and-sandals-gladiator-450.webp",
@@ -2503,7 +2658,8 @@
     {
       "id": "dont-whack-your-boss",
       "titulo": "Don’t Whack Your Boss",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/dont-whack-your-boss",
       "swf": "https://wasmarcade.com/flash/swf/dont-whack-your-boss.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dont-whack-your-boss-450.webp",
@@ -2519,7 +2675,8 @@
     {
       "id": "miami-shark",
       "titulo": "Miami Shark",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/miami-shark",
       "swf": "https://wasmarcade.com/flash/swf/miami-shark.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/miami-shark-450.webp",
@@ -2535,7 +2692,8 @@
     {
       "id": "the-last-stand",
       "titulo": "The Last Stand",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/the-last-stand",
       "swf": "https://wasmarcade.com/flash/swf/the-last-stand.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-last-stand-450.webp",
@@ -2551,7 +2709,8 @@
     {
       "id": "monkey-go-happy",
       "titulo": "Monkey GO Happy",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/monkey-go-happy",
       "swf": "https://wasmarcade.com/flash/swf/monkey-go-happy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/monkey-go-happy-450.webp",
@@ -2568,7 +2727,8 @@
     {
       "id": "queenly-portrait-maker",
       "titulo": "Queenly Portrait Maker",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/queenly-portrait-maker",
       "swf": "https://wasmarcade.com/flash/swf/queenly-portrait-maker.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/queenly-portrait-maker-450.webp",
@@ -2584,7 +2744,8 @@
     {
       "id": "wolf-sheep-cabbage",
       "titulo": "Wolf Sheep & Cabbage",
-      "categoria": "logic",
+      "categoria": "flash",
+      "subcategoria": "logic",
       "url": "https://wasmarcade.com/flash-games/wolf-sheep-cabbage",
       "swf": "https://wasmarcade.com/flash/swf/wolf-sheep-cabbage.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/wolf-sheep-cabbage-450.webp",
@@ -2601,7 +2762,8 @@
     {
       "id": "bike-champ",
       "titulo": "Bike Champ",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/bike-champ",
       "swf": "https://wasmarcade.com/flash/swf/bike-champ.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bike-champ-450.webp",
@@ -2617,7 +2779,8 @@
     {
       "id": "crash-down",
       "titulo": "Crash Down",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/crash-down",
       "swf": "https://wasmarcade.com/flash/swf/crash-down.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/crash-down-450.webp",
@@ -2634,7 +2797,8 @@
     {
       "id": "planet-racer",
       "titulo": "Planet Racer",
-      "categoria": "racing",
+      "categoria": "flash",
+      "subcategoria": "racing",
       "url": "https://wasmarcade.com/flash-games/planet-racer",
       "swf": "https://wasmarcade.com/flash/swf/planet-racer.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/planet-racer-450.webp",
@@ -2649,7 +2813,8 @@
     {
       "id": "qwop",
       "titulo": "QWOP",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/qwop",
       "swf": "https://wasmarcade.com/flash/swf/qwop.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/qwop-450.webp",
@@ -2665,7 +2830,8 @@
     {
       "id": "fireys-candy-bar-adventure",
       "titulo": "Firey’s Candy Bar Adventure",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/fireys-candy-bar-adventure",
       "swf": "https://wasmarcade.com/flash/swf/fireys-candy-bar-adventure.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fireys-candy-bar-adventure-450.webp",
@@ -2681,7 +2847,8 @@
     {
       "id": "mario-combat-deluxe",
       "titulo": "Mario Combat Deluxe",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/mario-combat-deluxe",
       "swf": "https://wasmarcade.com/flash/swf/mario-combat-deluxe.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-combat-deluxe-450.webp",
@@ -2697,7 +2864,8 @@
     {
       "id": "micro-sports",
       "titulo": "Micro Sports",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/micro-sports",
       "swf": "https://wasmarcade.com/flash/swf/micro-sports.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/micro-sports-450.webp",
@@ -2713,7 +2881,8 @@
     {
       "id": "smash-palace",
       "titulo": "Smash Palace",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/smash-palace",
       "swf": "https://wasmarcade.com/flash/swf/smash-palace.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/smash-palace-450.webp",
@@ -2729,7 +2898,8 @@
     {
       "id": "elona-shooter",
       "titulo": "Elona Shooter",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/elona-shooter",
       "swf": "https://wasmarcade.com/flash/swf/elona-shooter.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/elona-shooter-450.webp",
@@ -2745,7 +2915,8 @@
     {
       "id": "scooby-doo-scooby-trap",
       "titulo": "Scooby-Doo: Scooby Trap",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/scooby-doo-scooby-trap",
       "swf": "https://wasmarcade.com/flash/swf/scooby-doo-scooby-trap.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/scooby-doo-scooby-trap-450.webp",
@@ -2761,7 +2932,8 @@
     {
       "id": "the-south-park-timmy-game",
       "titulo": "The South Park Timmy Game",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/the-south-park-timmy-game",
       "swf": "https://wasmarcade.com/flash/swf/the-south-park-timmy-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-south-park-timmy-game-450.webp",
@@ -2777,7 +2949,8 @@
     {
       "id": "edgy-wedgy-2",
       "titulo": "Edgy Wedgy 2",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/edgy-wedgy-2",
       "swf": "https://wasmarcade.com/flash/swf/edgy-wedgy-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/edgy-wedgy-2-450.webp",
@@ -2793,7 +2966,8 @@
     {
       "id": "fear-unlimited",
       "titulo": "Fear Unlimited",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/fear-unlimited",
       "swf": "https://wasmarcade.com/flash/swf/fear-unlimited.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fear-unlimited-450.webp",
@@ -2809,7 +2983,8 @@
     {
       "id": "minecraft-tower-defence",
       "titulo": "Minecraft Tower Defence",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/minecraft-tower-defence",
       "swf": "https://wasmarcade.com/flash/swf/minecraft-tower-defence.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/minecraft-tower-defence-450.webp",
@@ -2825,7 +3000,8 @@
     {
       "id": "raze-3",
       "titulo": "Raze 3",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/raze-3",
       "swf": "https://wasmarcade.com/flash/swf/raze-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raze-3-450.webp",
@@ -2841,7 +3017,8 @@
     {
       "id": "serious-santa",
       "titulo": "Serious Santa",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/serious-santa",
       "swf": "https://wasmarcade.com/flash/swf/serious-santa.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/serious-santa-450.webp",
@@ -2857,7 +3034,8 @@
     {
       "id": "the-amazing-world-of-gumball-water-sons",
       "titulo": "The Amazing World of Gumball: Water Sons",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/the-amazing-world-of-gumball-water-sons",
       "swf": "https://wasmarcade.com/flash/swf/the-amazing-world-of-gumball-water-sons.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-amazing-world-of-gumball-water-sons-450.webp",
@@ -2874,7 +3052,8 @@
     {
       "id": "fireboy-and-watergirl-dark-temple",
       "titulo": "Fireboy and Watergirl – Dark Temple",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/fireboy-and-watergirl-dark-temple",
       "swf": "https://wasmarcade.com/flash/swf/fireboy-and-watergirl-dark-temple.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fireboy-and-watergirl-dark-temple-450.webp",
@@ -2890,7 +3069,8 @@
     {
       "id": "fleabag-vs-mutt",
       "titulo": "Fleabag vs. Mutt",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/fleabag-vs-mutt",
       "swf": "https://wasmarcade.com/flash/swf/fleabag-vs-mutt.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fleabag-vs-mutt-450.webp",
@@ -2906,7 +3086,8 @@
     {
       "id": "papas-burgeria",
       "titulo": "Papa’s Burgeria",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/papas-burgeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-burgeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-burgeria-450.webp",
@@ -2923,7 +3104,8 @@
     {
       "id": "sift-heads-world-act-1",
       "titulo": "Sift Heads World: Act 1",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/sift-heads-world-act-1",
       "swf": "https://wasmarcade.com/flash/swf/sift-heads-world-act-1.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sift-heads-world-act-1-450.webp",
@@ -2939,7 +3121,8 @@
     {
       "id": "tank-trouble",
       "titulo": "Tank Trouble",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/tank-trouble",
       "swf": "https://wasmarcade.com/flash/swf/tank-trouble.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/tank-trouble-450.webp",
@@ -2954,7 +3137,8 @@
     {
       "id": "outdoor-basketball",
       "titulo": "Outdoor Basketball",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/outdoor-basketball",
       "swf": "https://wasmarcade.com/flash/swf/outdoor-basketball.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/outdoor-basketball-450.webp",
@@ -2970,7 +3154,8 @@
     {
       "id": "potty-racers-ii",
       "titulo": "Potty Racers II",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/potty-racers-ii",
       "swf": "https://wasmarcade.com/flash/swf/potty-racers-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/potty-racers-ii-450.webp",
@@ -2986,7 +3171,8 @@
     {
       "id": "territory-war",
       "titulo": "Territory War",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/territory-war",
       "swf": "https://wasmarcade.com/flash/swf/territory-war.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/territory-war-450.webp",
@@ -3003,7 +3189,8 @@
     {
       "id": "cyclomaniacs",
       "titulo": "Cyclomaniacs",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/cyclomaniacs",
       "swf": "https://wasmarcade.com/flash/swf/cyclomaniacs.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cyclomaniacs-450.webp",
@@ -3019,7 +3206,8 @@
     {
       "id": "grand-theft-grotto",
       "titulo": "Grand Theft Grotto",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/grand-theft-grotto",
       "swf": "https://wasmarcade.com/flash/swf/grand-theft-grotto.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/grand-theft-grotto-450.webp",
@@ -3035,7 +3223,8 @@
     {
       "id": "pico-vs-uberkids",
       "titulo": "Pico vs. Uberkids",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/pico-vs-uberkids",
       "swf": "https://wasmarcade.com/flash/swf/pico-vs-uberkids.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pico-vs-uberkids-450.webp",
@@ -3052,7 +3241,8 @@
     {
       "id": "sas-zombie-assault",
       "titulo": "SAS: Zombie Assault",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/sas-zombie-assault",
       "swf": "https://wasmarcade.com/flash/swf/sas-zombie-assault.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sas-zombie-assault-450.webp",
@@ -3068,7 +3258,8 @@
     {
       "id": "stealth-hunter",
       "titulo": "Stealth Hunter",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/stealth-hunter",
       "swf": "https://wasmarcade.com/flash/swf/stealth-hunter.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stealth-hunter-450.webp",
@@ -3084,7 +3275,8 @@
     {
       "id": "whip-the-worker",
       "titulo": "Whip the Worker",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/whip-the-worker",
       "swf": "https://wasmarcade.com/flash/swf/whip-the-worker.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/whip-the-worker-450.webp",
@@ -3099,7 +3291,8 @@
     {
       "id": "combat-instinct-3",
       "titulo": "Combat Instinct 3",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/combat-instinct-3",
       "swf": "https://wasmarcade.com/flash/swf/combat-instinct-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/combat-instinct-3-450.webp",
@@ -3115,7 +3308,8 @@
     {
       "id": "dolphin-olympics-2",
       "titulo": "Dolphin Olympics 2",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/dolphin-olympics-2",
       "swf": "https://wasmarcade.com/flash/swf/dolphin-olympics-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dolphin-olympics-2-450.webp",
@@ -3131,7 +3325,8 @@
     {
       "id": "shift-3",
       "titulo": "SHIFT 3",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/shift-3",
       "swf": "https://wasmarcade.com/flash/swf/shift-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/shift-3-450.webp",
@@ -3148,7 +3343,8 @@
     {
       "id": "i-will-not-ever-never-eat-that-lunch",
       "titulo": "I Will Not Ever Never Eat That Lunch",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/i-will-not-ever-never-eat-that-lunch",
       "swf": "https://wasmarcade.com/flash/swf/i-will-not-ever-never-eat-that-lunch.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/i-will-not-ever-never-eat-that-lunch-450.webp",
@@ -3165,7 +3361,8 @@
     {
       "id": "ragdoll-invaders",
       "titulo": "Ragdoll Invaders",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/ragdoll-invaders",
       "swf": "https://wasmarcade.com/flash/swf/ragdoll-invaders.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ragdoll-invaders-450.webp",
@@ -3181,7 +3378,8 @@
     {
       "id": "bubble-spinner",
       "titulo": "Bubble Spinner",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/bubble-spinner",
       "swf": "https://wasmarcade.com/flash/swf/bubble-spinner.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bubble-spinner-450.webp",
@@ -3198,7 +3396,8 @@
     {
       "id": "cartoon-network-snowbrawl-fight",
       "titulo": "Cartoon Network: SnowBrawl Fight!",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/cartoon-network-snowbrawl-fight",
       "swf": "https://wasmarcade.com/flash/swf/cartoon-network-snowbrawl-fight.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cartoon-network-snowbrawl-fight-450.webp",
@@ -3213,7 +3412,8 @@
     {
       "id": "coaster-racer",
       "titulo": "Coaster Racer",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/coaster-racer",
       "swf": "https://wasmarcade.com/flash/swf/coaster-racer.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/coaster-racer-450.webp",
@@ -3229,7 +3429,8 @@
     {
       "id": "double-wires",
       "titulo": "Double Wires",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/double-wires",
       "swf": "https://wasmarcade.com/flash/swf/double-wires.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/double-wires-450.webp",
@@ -3246,7 +3447,8 @@
     {
       "id": "arcane-the-armor-collector",
       "titulo": "Arcane: The Armor Collector",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/arcane-the-armor-collector",
       "swf": "https://wasmarcade.com/flash/swf/arcane-the-armor-collector.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/arcane-the-armor-collector-450.webp",
@@ -3262,7 +3464,8 @@
     {
       "id": "boxhead-the-zombie-wars",
       "titulo": "Boxhead: The Zombie Wars",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/boxhead-the-zombie-wars",
       "swf": "https://wasmarcade.com/flash/swf/boxhead-the-zombie-wars.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/boxhead-the-zombie-wars-450.webp",
@@ -3278,7 +3481,8 @@
     {
       "id": "dont-shoot-the-puppy",
       "titulo": "Don’t Shoot the Puppy",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/dont-shoot-the-puppy",
       "swf": "https://wasmarcade.com/flash/swf/dont-shoot-the-puppy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dont-shoot-the-puppy-450.webp",
@@ -3293,7 +3497,8 @@
     {
       "id": "governor-of-poker",
       "titulo": "Governor of Poker",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/governor-of-poker",
       "swf": "https://wasmarcade.com/flash/swf/governor-of-poker.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/governor-of-poker-450.webp",
@@ -3310,7 +3515,8 @@
     {
       "id": "hedgehog-launch-2",
       "titulo": "Hedgehog Launch 2",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/hedgehog-launch-2",
       "swf": "https://wasmarcade.com/flash/swf/hedgehog-launch-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hedgehog-launch-2-450.webp",
@@ -3326,7 +3532,8 @@
     {
       "id": "hobo-prison-brawl",
       "titulo": "Hobo Prison Brawl",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/hobo-prison-brawl",
       "swf": "https://wasmarcade.com/flash/swf/hobo-prison-brawl.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hobo-prison-brawl-450.webp",
@@ -3342,7 +3549,8 @@
     {
       "id": "hungry-knight",
       "titulo": "Hungry Knight",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/hungry-knight",
       "swf": "https://wasmarcade.com/flash/swf/hungry-knight.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hungry-knight-450.webp",
@@ -3358,7 +3566,8 @@
     {
       "id": "my-friend-pedro",
       "titulo": "My Friend Pedro",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/my-friend-pedro",
       "swf": "https://wasmarcade.com/flash/swf/my-friend-pedro.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/my-friend-pedro-450.webp",
@@ -3374,7 +3583,8 @@
     {
       "id": "newgrounds-rumble",
       "titulo": "Newgrounds Rumble",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/newgrounds-rumble",
       "swf": "https://wasmarcade.com/flash/swf/newgrounds-rumble.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/newgrounds-rumble-450.webp",
@@ -3390,7 +3600,8 @@
     {
       "id": "nick-jr-mailbox",
       "titulo": "Nick Jr. Mailbox",
-      "categoria": "educational",
+      "categoria": "flash",
+      "subcategoria": "educational",
       "url": "https://wasmarcade.com/flash-games/nick-jr-mailbox",
       "swf": "https://wasmarcade.com/flash/swf/nick-jr-mailbox.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/nick-jr-mailbox-450.webp",
@@ -3407,7 +3618,8 @@
     {
       "id": "penguin-diner-2",
       "titulo": "Penguin Diner 2",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/penguin-diner-2",
       "swf": "https://wasmarcade.com/flash/swf/penguin-diner-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/penguin-diner-2-450.webp",
@@ -3424,7 +3636,8 @@
     {
       "id": "sindicate",
       "titulo": "Sindicate",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/sindicate",
       "swf": "https://wasmarcade.com/flash/swf/sindicate.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sindicate-450.webp",
@@ -3441,7 +3654,8 @@
     {
       "id": "the-binding-of-isaac-demo",
       "titulo": "The Binding of Isaac Demo",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/the-binding-of-isaac-demo",
       "swf": "https://wasmarcade.com/flash/swf/the-binding-of-isaac-demo.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-binding-of-isaac-demo-450.webp",
@@ -3458,7 +3672,8 @@
     {
       "id": "warfare-1944",
       "titulo": "Warfare 1944",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/warfare-1944",
       "swf": "https://wasmarcade.com/flash/swf/warfare-1944.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/warfare-1944-450.webp",
@@ -3475,7 +3690,8 @@
     {
       "id": "warlords-heroes",
       "titulo": "Warlords: Heroes",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/warlords-heroes",
       "swf": "https://wasmarcade.com/flash/swf/warlords-heroes.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/warlords-heroes-450.webp",
@@ -3491,7 +3707,8 @@
     {
       "id": "whack-your-ex",
       "titulo": "Whack Your Ex",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/whack-your-ex",
       "swf": "https://wasmarcade.com/flash/swf/whack-your-ex.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/whack-your-ex-450.webp",
@@ -3508,7 +3725,8 @@
     {
       "id": "celebrity-fight-club",
       "titulo": "Celebrity Fight Club",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/celebrity-fight-club",
       "swf": "https://wasmarcade.com/flash/swf/celebrity-fight-club.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/celebrity-fight-club-450.webp",
@@ -3524,7 +3742,8 @@
     {
       "id": "edgy-wedgy",
       "titulo": "Edgy Wedgy",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/edgy-wedgy",
       "swf": "https://wasmarcade.com/flash/swf/edgy-wedgy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/edgy-wedgy-450.webp",
@@ -3540,7 +3759,8 @@
     {
       "id": "flakboy",
       "titulo": "Flakboy",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/flakboy",
       "swf": "https://wasmarcade.com/flash/swf/flakboy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/flakboy-450.webp",
@@ -3557,7 +3777,8 @@
     {
       "id": "flea",
       "titulo": "Flea",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/flea",
       "swf": "https://wasmarcade.com/flash/swf/flea.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/flea-450.webp",
@@ -3572,7 +3793,8 @@
     {
       "id": "pogo-panic",
       "titulo": "Pogo Panic",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/pogo-panic",
       "swf": "https://wasmarcade.com/flash/swf/pogo-panic.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pogo-panic-450.webp",
@@ -3588,7 +3810,8 @@
     {
       "id": "redball1",
       "titulo": "Redball",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/redball1",
       "swf": "https://wasmarcade.com/flash/swf/redball1.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/redball1-450.webp",
@@ -3604,7 +3827,8 @@
     {
       "id": "blind-fooled",
       "titulo": "The Amazing World of Gumball: Blind Fooled",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/blind-fooled",
       "swf": "https://wasmarcade.com/flash/swf/blind-fooled.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/blind-fooled-450.webp",
@@ -3621,7 +3845,8 @@
     {
       "id": "toon-cup-2006",
       "titulo": "Toon Cup 2006",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/toon-cup-2006",
       "swf": "https://wasmarcade.com/flash/swf/toon-cup-2006.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/toon-cup-2006-450.webp",
@@ -3637,7 +3862,8 @@
     {
       "id": "transylmania-ii",
       "titulo": "Transylmania II",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/transylmania-ii",
       "swf": "https://wasmarcade.com/flash/swf/transylmania-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/transylmania-ii-450.webp",
@@ -3652,7 +3878,8 @@
     {
       "id": "red-code-2",
       "titulo": "Red Code 2",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/red-code-2",
       "swf": "https://wasmarcade.com/flash/swf/red-code-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/red-code-2-450.webp",
@@ -3668,7 +3895,8 @@
     {
       "id": "super-stacker-2",
       "titulo": "Super Stacker 2",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/super-stacker-2",
       "swf": "https://wasmarcade.com/flash/swf/super-stacker-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-stacker-2-450.webp",
@@ -3685,7 +3913,8 @@
     {
       "id": "zed",
       "titulo": "Zed",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/zed",
       "swf": "https://wasmarcade.com/flash/swf/zed.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/zed-450.webp",
@@ -3700,7 +3929,8 @@
     {
       "id": "a-small-favor",
       "titulo": "A Small Favor",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/a-small-favor",
       "swf": "https://wasmarcade.com/flash/swf/a-small-favor.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/a-small-favor-450.webp",
@@ -3717,7 +3947,8 @@
     {
       "id": "haunt-the-house",
       "titulo": "Haunt the House",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/haunt-the-house",
       "swf": "https://wasmarcade.com/flash/swf/haunt-the-house.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/haunt-the-house-450.webp",
@@ -3733,7 +3964,8 @@
     {
       "id": "mario-remix-boss-edition",
       "titulo": "Mario Remix: Boss Edition",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/mario-remix-boss-edition",
       "swf": "https://wasmarcade.com/flash/swf/mario-remix-boss-edition.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-remix-boss-edition-450.webp",
@@ -3750,7 +3982,8 @@
     {
       "id": "monster-brawl",
       "titulo": "Monster Brawl",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/monster-brawl",
       "swf": "https://wasmarcade.com/flash/swf/monster-brawl.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/monster-brawl-450.webp",
@@ -3767,7 +4000,8 @@
     {
       "id": "sin-mark",
       "titulo": "Sin Mark",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/sin-mark",
       "swf": "https://wasmarcade.com/flash/swf/sin-mark.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sin-mark-450.webp",
@@ -3784,7 +4018,8 @@
     {
       "id": "toms-trap-o-matic",
       "titulo": "Tom’s Trap-O-Matic",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/toms-trap-o-matic",
       "swf": "https://wasmarcade.com/flash/swf/toms-trap-o-matic.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/toms-trap-o-matic-450.webp",
@@ -3800,7 +4035,8 @@
     {
       "id": "bush-shoot-out",
       "titulo": "Bush Shoot-Out",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/bush-shoot-out",
       "swf": "https://wasmarcade.com/flash/swf/bush-shoot-out.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bush-shoot-out-450.webp",
@@ -3816,7 +4052,8 @@
     {
       "id": "superfighters",
       "titulo": "Superfighters",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/superfighters",
       "swf": "https://wasmarcade.com/flash/swf/superfighters.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/superfighters-450.webp",
@@ -3832,7 +4069,8 @@
     {
       "id": "the-flood-runner",
       "titulo": "The Flood Runner",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/the-flood-runner",
       "swf": "https://wasmarcade.com/flash/swf/the-flood-runner.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-flood-runner-450.webp",
@@ -3848,7 +4086,8 @@
     {
       "id": "windows-xp-parody",
       "titulo": "Windows XP Parody",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/windows-xp-parody",
       "swf": "https://wasmarcade.com/flash/swf/windows-xp-parody.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/windows-xp-parody-450.webp",
@@ -3865,7 +4104,8 @@
     {
       "id": "a-koopas-revenge",
       "titulo": "A Koopa’s Revenge",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/a-koopas-revenge",
       "swf": "https://wasmarcade.com/flash/swf/a-koopas-revenge.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/a-koopas-revenge-450.webp",
@@ -3880,7 +4120,8 @@
     {
       "id": "drivers-ed-direct-parking-game",
       "titulo": "Drivers Ed Direct: Parking Game",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/drivers-ed-direct-parking-game",
       "swf": "https://wasmarcade.com/flash/swf/drivers-ed-direct-parking-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/drivers-ed-direct-parking-game-450.webp",
@@ -3897,7 +4138,8 @@
     {
       "id": "radio-zed",
       "titulo": "Radio Zed",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/radio-zed",
       "swf": "https://wasmarcade.com/flash/swf/radio-zed.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/radio-zed-450.webp",
@@ -3912,7 +4154,8 @@
     {
       "id": "scooby-doo-and-the-creepy-castle",
       "titulo": "Scooby-Doo and the Creepy Castle",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/scooby-doo-and-the-creepy-castle",
       "swf": "https://wasmarcade.com/flash/swf/scooby-doo-and-the-creepy-castle.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/scooby-doo-and-the-creepy-castle-450.webp",
@@ -3929,7 +4172,8 @@
     {
       "id": "treasure-seas-incorporated",
       "titulo": "Treasure Seas Incorporated",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/treasure-seas-incorporated",
       "swf": "https://wasmarcade.com/flash/swf/treasure-seas-incorporated.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/treasure-seas-incorporated-450.webp",
@@ -3945,7 +4189,8 @@
     {
       "id": "choose-your-weapon-2",
       "titulo": "Choose Your Weapon 2",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/choose-your-weapon-2",
       "swf": "https://wasmarcade.com/flash/swf/choose-your-weapon-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/choose-your-weapon-2-450.webp",
@@ -3961,7 +4206,8 @@
     {
       "id": "ducklife-4",
       "titulo": "DuckLife 4",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/ducklife-4",
       "swf": "https://wasmarcade.com/flash/swf/ducklife-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ducklife-4-450.webp",
@@ -3978,7 +4224,8 @@
     {
       "id": "field-command",
       "titulo": "Field Command",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/field-command",
       "swf": "https://wasmarcade.com/flash/swf/field-command.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/field-command-450.webp",
@@ -3995,7 +4242,8 @@
     {
       "id": "guy-of-my-dreams",
       "titulo": "Guy of My Dreams",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/guy-of-my-dreams",
       "swf": "https://wasmarcade.com/flash/swf/guy-of-my-dreams.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/guy-of-my-dreams-450.webp",
@@ -4011,7 +4259,8 @@
     {
       "id": "legends-of-kong",
       "titulo": "Legends of Kong",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/legends-of-kong",
       "swf": "https://wasmarcade.com/flash/swf/legends-of-kong.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/legends-of-kong-450.webp",
@@ -4027,7 +4276,8 @@
     {
       "id": "mario-mushroom-adventure-2",
       "titulo": "Mario Mushroom Adventure 2",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/mario-mushroom-adventure-2",
       "swf": "https://wasmarcade.com/flash/swf/mario-mushroom-adventure-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-mushroom-adventure-2-450.webp",
@@ -4043,7 +4293,8 @@
     {
       "id": "sesame-street-dress-grover",
       "titulo": "Sesame Street: Dress Grover",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/sesame-street-dress-grover",
       "swf": "https://wasmarcade.com/flash/swf/sesame-street-dress-grover.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sesame-street-dress-grover-450.webp",
@@ -4060,7 +4311,8 @@
     {
       "id": "the-skullkid",
       "titulo": "The skullkid",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/the-skullkid",
       "swf": "https://wasmarcade.com/flash/swf/the-skullkid.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-skullkid-450.webp",
@@ -4075,7 +4327,8 @@
     {
       "id": "airport-tycoon",
       "titulo": "Airport Tycoon",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/airport-tycoon",
       "swf": "https://wasmarcade.com/flash/swf/airport-tycoon.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/airport-tycoon-450.webp",
@@ -4092,7 +4345,8 @@
     {
       "id": "demolition-city",
       "titulo": "Demolition City",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/demolition-city",
       "swf": "https://wasmarcade.com/flash/swf/demolition-city.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/demolition-city-450.webp",
@@ -4109,7 +4363,8 @@
     {
       "id": "mario-mushroom-adventure",
       "titulo": "Mario Mushroom Adventure",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/mario-mushroom-adventure",
       "swf": "https://wasmarcade.com/flash/swf/mario-mushroom-adventure.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-mushroom-adventure-450.webp",
@@ -4125,7 +4380,8 @@
     {
       "id": "mini-putt",
       "titulo": "Mini Putt",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/mini-putt",
       "swf": "https://wasmarcade.com/flash/swf/mini-putt.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mini-putt-450.webp",
@@ -4140,7 +4396,8 @@
     {
       "id": "rooney-on-the-rampage",
       "titulo": "Rooney on the Rampage",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/rooney-on-the-rampage",
       "swf": "https://wasmarcade.com/flash/swf/rooney-on-the-rampage.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/rooney-on-the-rampage-450.webp",
@@ -4156,7 +4413,8 @@
     {
       "id": "spongebob-squarepants-dutchmans-dash",
       "titulo": "SpongeBob SquarePants: Dutchman’s Dash",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/spongebob-squarepants-dutchmans-dash",
       "swf": "https://wasmarcade.com/flash/swf/spongebob-squarepants-dutchmans-dash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spongebob-squarepants-dutchmans-dash-450.webp",
@@ -4171,7 +4429,8 @@
     {
       "id": "straw-hat-samurai",
       "titulo": "Straw Hat Samurai",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/straw-hat-samurai",
       "swf": "https://wasmarcade.com/flash/swf/straw-hat-samurai.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/straw-hat-samurai-450.webp",
@@ -4187,7 +4446,8 @@
     {
       "id": "attack-of-the-puppybots",
       "titulo": "The Powerpuff Girls: Attack of the Puppybots",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/attack-of-the-puppybots",
       "swf": "https://wasmarcade.com/flash/swf/attack-of-the-puppybots.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/attack-of-the-puppybots-450.webp",
@@ -4203,7 +4463,8 @@
     {
       "id": "xiao-xiao-no-6",
       "titulo": "Xiao Xiao No. 6",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/xiao-xiao-no-6",
       "swf": "https://wasmarcade.com/flash/swf/xiao-xiao-no-6.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/xiao-xiao-no-6-450.webp",
@@ -4219,7 +4480,8 @@
     {
       "id": "grow-rpg",
       "titulo": "GROW RPG",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/grow-rpg",
       "swf": "https://wasmarcade.com/flash/swf/grow-rpg.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/grow-rpg-450.webp",
@@ -4236,7 +4498,8 @@
     {
       "id": "spongebob-squarepants-boo-or-boom",
       "titulo": "SpongeBob SquarePants: Boo or Boom",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/spongebob-squarepants-boo-or-boom",
       "swf": "https://wasmarcade.com/flash/swf/spongebob-squarepants-boo-or-boom.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spongebob-squarepants-boo-or-boom-450.webp",
@@ -4252,7 +4515,8 @@
     {
       "id": "ducklife3-evolution",
       "titulo": "DuckLife3: Evolution",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/ducklife3-evolution",
       "swf": "https://wasmarcade.com/flash/swf/ducklife3-evolution.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ducklife3-evolution-450.webp",
@@ -4268,7 +4532,8 @@
     {
       "id": "marios-adventure-2",
       "titulo": "Mario’s Adventure 2",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/marios-adventure-2",
       "swf": "https://wasmarcade.com/flash/swf/marios-adventure-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/marios-adventure-2-450.webp",
@@ -4283,7 +4548,8 @@
     {
       "id": "milk-the-cow",
       "titulo": "Milk the Cow",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/milk-the-cow",
       "swf": "https://wasmarcade.com/flash/swf/milk-the-cow.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/milk-the-cow-450.webp",
@@ -4298,7 +4564,8 @@
     {
       "id": "adventure-time-jumping-finn",
       "titulo": "Adventure Time: Jumping Finn",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/adventure-time-jumping-finn",
       "swf": "https://wasmarcade.com/flash/swf/adventure-time-jumping-finn.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/adventure-time-jumping-finn-450.webp",
@@ -4314,7 +4581,8 @@
     {
       "id": "battleships-general-quarters-ii",
       "titulo": "Battleships: General Quarters II",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/battleships-general-quarters-ii",
       "swf": "https://wasmarcade.com/flash/swf/battleships-general-quarters-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/battleships-general-quarters-ii-450.webp",
@@ -4330,7 +4598,8 @@
     {
       "id": "cartoon-cove-mini-golf",
       "titulo": "Cartoon Network: Cartoon Cove Mini Golf",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/cartoon-cove-mini-golf",
       "swf": "https://wasmarcade.com/flash/swf/cartoon-cove-mini-golf.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cartoon-cove-mini-golf-450.webp",
@@ -4346,7 +4615,8 @@
     {
       "id": "escape",
       "titulo": "Escape",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/escape",
       "swf": "https://wasmarcade.com/flash/swf/escape.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/escape-450.webp",
@@ -4363,7 +4633,8 @@
     {
       "id": "icarly-ispace-out",
       "titulo": "iCarly: iSpace Out",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/icarly-ispace-out",
       "swf": "https://wasmarcade.com/flash/swf/icarly-ispace-out.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/icarly-ispace-out-450.webp",
@@ -4379,7 +4650,8 @@
     {
       "id": "mario-cart",
       "titulo": "Mario Cart",
-      "categoria": "racing",
+      "categoria": "flash",
+      "subcategoria": "racing",
       "url": "https://wasmarcade.com/flash-games/mario-cart",
       "swf": "https://wasmarcade.com/flash/swf/mario-cart.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-cart-450.webp",
@@ -4395,7 +4667,8 @@
     {
       "id": "mario-cart-2",
       "titulo": "Mario Cart 2",
-      "categoria": "racing",
+      "categoria": "flash",
+      "subcategoria": "racing",
       "url": "https://wasmarcade.com/flash-games/mario-cart-2",
       "swf": "https://wasmarcade.com/flash/swf/mario-cart-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-cart-2-450.webp",
@@ -4411,7 +4684,8 @@
     {
       "id": "sports-heads-football",
       "titulo": "Sports Heads: Football",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/sports-heads-football",
       "swf": "https://wasmarcade.com/flash/swf/sports-heads-football.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sports-heads-football-450.webp",
@@ -4427,7 +4701,8 @@
     {
       "id": "teen-titans-go-grab-that-grub",
       "titulo": "Teen Titans Go! Grab that Grub",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/teen-titans-go-grab-that-grub",
       "swf": "https://wasmarcade.com/flash/swf/teen-titans-go-grab-that-grub.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/teen-titans-go-grab-that-grub-450.webp",
@@ -4443,7 +4718,8 @@
     {
       "id": "the-backyardigans-adventure-maker",
       "titulo": "The Backyardigans: Adventure Maker",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/the-backyardigans-adventure-maker",
       "swf": "https://wasmarcade.com/flash/swf/the-backyardigans-adventure-maker.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-backyardigans-adventure-maker-450.webp",
@@ -4460,7 +4736,8 @@
     {
       "id": "digimon-ruki",
       "titulo": "Digimon Ruki",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/digimon-ruki",
       "swf": "https://wasmarcade.com/flash/swf/digimon-ruki.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/digimon-ruki-450.webp",
@@ -4477,7 +4754,8 @@
     {
       "id": "ducklife",
       "titulo": "DuckLife",
-      "categoria": "simulation",
+      "categoria": "flash",
+      "subcategoria": "simulation",
       "url": "https://wasmarcade.com/flash-games/ducklife",
       "swf": "https://wasmarcade.com/flash/swf/ducklife.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ducklife-450.webp",
@@ -4494,7 +4772,8 @@
     {
       "id": "effing-worms",
       "titulo": "Effing Worms",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/effing-worms",
       "swf": "https://wasmarcade.com/flash/swf/effing-worms.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/effing-worms-450.webp",
@@ -4510,7 +4789,8 @@
     {
       "id": "the-legend-of-zelda-and-the-lampshade-of-no-real-significance",
       "titulo": "The Legend of Zelda and the Lampshade of No Real Significance",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/the-legend-of-zelda-and-the-lampshade-of-no-real-significance",
       "swf": "https://wasmarcade.com/flash/swf/the-legend-of-zelda-and-the-lampshade-of-no-real-significance.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-legend-of-zelda-and-the-lampshade-of-no-real-significance-450.webp",
@@ -4527,7 +4807,8 @@
     {
       "id": "battlefield-general",
       "titulo": "Battlefield General",
-      "categoria": "strategy",
+      "categoria": "flash",
+      "subcategoria": "strategy",
       "url": "https://wasmarcade.com/flash-games/battlefield-general",
       "swf": "https://wasmarcade.com/flash/swf/battlefield-general.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/battlefield-general-450.webp",
@@ -4544,7 +4825,8 @@
     {
       "id": "bendee-the-game",
       "titulo": "Bendee: The Game",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/bendee-the-game",
       "swf": "https://wasmarcade.com/flash/swf/bendee-the-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bendee-the-game-450.webp",
@@ -4560,7 +4842,8 @@
     {
       "id": "gen8-dressup-doll",
       "titulo": "Gen8 Dressup Doll",
-      "categoria": "creative",
+      "categoria": "flash",
+      "subcategoria": "creative",
       "url": "https://wasmarcade.com/flash-games/gen8-dressup-doll",
       "swf": "https://wasmarcade.com/flash/swf/gen8-dressup-doll.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/gen8-dressup-doll-450.webp",
@@ -4576,7 +4859,8 @@
     {
       "id": "haunted-house",
       "titulo": "Haunted House",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/haunted-house",
       "swf": "https://wasmarcade.com/flash/swf/haunted-house.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/haunted-house-450.webp",
@@ -4593,7 +4877,8 @@
     {
       "id": "higgly-beach-or-bust",
       "titulo": "Higgly Beach or Bust",
-      "categoria": "adventure",
+      "categoria": "flash",
+      "subcategoria": "adventure",
       "url": "https://wasmarcade.com/flash-games/higgly-beach-or-bust",
       "swf": "https://wasmarcade.com/flash/swf/higgly-beach-or-bust.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/higgly-beach-or-bust-450.webp",
@@ -4610,7 +4895,8 @@
     {
       "id": "spec-ops-war-on-terrorism",
       "titulo": "Spec Ops: War on Terrorism",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/spec-ops-war-on-terrorism",
       "swf": "https://wasmarcade.com/flash/swf/spec-ops-war-on-terrorism.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spec-ops-war-on-terrorism-450.webp",
@@ -4626,7 +4912,8 @@
     {
       "id": "testsubjectarena",
       "titulo": "Test Subject Arena",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/testsubjectarena",
       "swf": "https://wasmarcade.com/flash/swf/testsubjectarena.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/testsubjectarena-450.webp",
@@ -4641,7 +4928,8 @@
     {
       "id": "bad-piggies",
       "titulo": "Bad Piggies",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/bad-piggies",
       "swf": "https://wasmarcade.com/flash/swf/bad-piggies.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bad-piggies-450.webp",
@@ -4657,7 +4945,8 @@
     {
       "id": "codename-kids-next-door-flight-of-the-hamsters",
       "titulo": "Codename: Kids Next Door: Flight of the Hamsters",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/codename-kids-next-door-flight-of-the-hamsters",
       "swf": "https://wasmarcade.com/flash/swf/codename-kids-next-door-flight-of-the-hamsters.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/codename-kids-next-door-flight-of-the-hamsters-450.webp",
@@ -4673,7 +4962,8 @@
     {
       "id": "dogfight-the-great-war",
       "titulo": "Dogfight: The Great War",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/dogfight-the-great-war",
       "swf": "https://wasmarcade.com/flash/swf/dogfight-the-great-war.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dogfight-the-great-war-450.webp",
@@ -4689,7 +4979,8 @@
     {
       "id": "drakkens-lair",
       "titulo": "Drakken’s Lair",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/drakkens-lair",
       "swf": "https://wasmarcade.com/flash/swf/drakkens-lair.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/drakkens-lair-450.webp",
@@ -4704,7 +4995,8 @@
     {
       "id": "chisel",
       "titulo": "Chisel",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/chisel",
       "swf": "https://wasmarcade.com/flash/swf/chisel.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/chisel-450.webp",
@@ -4720,7 +5012,8 @@
     {
       "id": "dora-the-explorer-find-floatie",
       "titulo": "Dora the Explorer: Find Floatie",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/dora-the-explorer-find-floatie",
       "swf": "https://wasmarcade.com/flash/swf/dora-the-explorer-find-floatie.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dora-the-explorer-find-floatie-450.webp",
@@ -4736,7 +5029,8 @@
     {
       "id": "factory-balls-4",
       "titulo": "Factory Balls 4",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/factory-balls-4",
       "swf": "https://wasmarcade.com/flash/swf/factory-balls-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/factory-balls-4-450.webp",
@@ -4753,7 +5047,8 @@
     {
       "id": "fullmetal-alchemist-quest-for-the-philosophers-stone",
       "titulo": "Fullmetal Alchemist: Quest For The Philosopher’s Stone",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/fullmetal-alchemist-quest-for-the-philosophers-stone",
       "swf": "https://wasmarcade.com/flash/swf/fullmetal-alchemist-quest-for-the-philosophers-stone.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fullmetal-alchemist-quest-for-the-philosophers-stone-450.webp",
@@ -4769,7 +5064,8 @@
     {
       "id": "fullmetal-alchemist-state-alchemy-exam",
       "titulo": "Fullmetal Alchemist: State Alchemy Exam",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/fullmetal-alchemist-state-alchemy-exam",
       "swf": "https://wasmarcade.com/flash/swf/fullmetal-alchemist-state-alchemy-exam.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fullmetal-alchemist-state-alchemy-exam-450.webp",
@@ -4786,7 +5082,8 @@
     {
       "id": "spongebob-squarepants-ship-o-ghouls",
       "titulo": "SpongeBob SquarePants: Ship O’ Ghouls",
-      "categoria": "platformer",
+      "categoria": "flash",
+      "subcategoria": "platformer",
       "url": "https://wasmarcade.com/flash-games/spongebob-squarepants-ship-o-ghouls",
       "swf": "https://wasmarcade.com/flash/swf/spongebob-squarepants-ship-o-ghouls.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spongebob-squarepants-ship-o-ghouls-450.webp",
@@ -4801,7 +5098,8 @@
     {
       "id": "ben-10-power-splash",
       "titulo": "Ben 10: Power Splash",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/ben-10-power-splash",
       "swf": "https://wasmarcade.com/flash/swf/ben-10-power-splash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ben-10-power-splash-450.webp",
@@ -4816,7 +5114,8 @@
     {
       "id": "ben-10-spore-attack",
       "titulo": "Ben 10: Spore Attack",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/ben-10-spore-attack",
       "swf": "https://wasmarcade.com/flash/swf/ben-10-spore-attack.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ben-10-spore-attack-450.webp",
@@ -4832,7 +5131,8 @@
     {
       "id": "ben-10-ultimate-alien-ultimate-alien-rescue",
       "titulo": "Ben 10: Ultimate Alien: Ultimate Alien Rescue",
-      "categoria": "shooter",
+      "categoria": "flash",
+      "subcategoria": "shooter",
       "url": "https://wasmarcade.com/flash-games/ben-10-ultimate-alien-ultimate-alien-rescue",
       "swf": "https://wasmarcade.com/flash/swf/ben-10-ultimate-alien-ultimate-alien-rescue.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ben-10-ultimate-alien-ultimate-alien-rescue-450.webp",
@@ -4847,7 +5147,8 @@
     {
       "id": "bowja-the-ninja-on-factory-island",
       "titulo": "Bowja the Ninja On Factory Island",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/bowja-the-ninja-on-factory-island",
       "swf": "https://wasmarcade.com/flash/swf/bowja-the-ninja-on-factory-island.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bowja-the-ninja-on-factory-island-450.webp",
@@ -4864,7 +5165,8 @@
     {
       "id": "donkey-kong-ii-game-watch",
       "titulo": "Donkey Kong II Game & Watch",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/donkey-kong-ii-game-watch",
       "swf": "https://wasmarcade.com/flash/swf/donkey-kong-ii-game-watch.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/donkey-kong-ii-game-watch-450.webp",
@@ -4879,7 +5181,8 @@
     {
       "id": "hobo-brawl",
       "titulo": "Hobo Brawl",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/hobo-brawl",
       "swf": "https://wasmarcade.com/flash/swf/hobo-brawl.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hobo-brawl-450.webp",
@@ -4894,7 +5197,8 @@
     {
       "id": "jojos-circus-jojos-juggling-jumble",
       "titulo": "JoJo’s Circus: JoJo’s Juggling Jumble",
-      "categoria": "puzzle",
+      "categoria": "flash",
+      "subcategoria": "puzzle",
       "url": "https://wasmarcade.com/flash-games/jojos-circus-jojos-juggling-jumble",
       "swf": "https://wasmarcade.com/flash/swf/jojos-circus-jojos-juggling-jumble.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/jojos-circus-jojos-juggling-jumble-450.webp",
@@ -4910,7 +5214,8 @@
     {
       "id": "ping-pong-3d",
       "titulo": "Ping Pong 3D",
-      "categoria": "sports",
+      "categoria": "flash",
+      "subcategoria": "sports",
       "url": "https://wasmarcade.com/flash-games/ping-pong-3d",
       "swf": "https://wasmarcade.com/flash/swf/ping-pong-3d.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ping-pong-3d-450.webp",
@@ -4926,7 +5231,8 @@
     {
       "id": "scooby-doo-creepy-run",
       "titulo": "Scooby-Doo!: Creepy Run",
-      "categoria": "arcade",
+      "categoria": "flash",
+      "subcategoria": "arcade",
       "url": "https://wasmarcade.com/flash-games/scooby-doo-creepy-run",
       "swf": "https://wasmarcade.com/flash/swf/scooby-doo-creepy-run.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/scooby-doo-creepy-run-450.webp",
@@ -4942,7 +5248,8 @@
     {
       "id": "the-batman-the-cobblepot-caper",
       "titulo": "The Batman: The Cobblepot Caper",
-      "categoria": "action",
+      "categoria": "flash",
+      "subcategoria": "action",
       "url": "https://wasmarcade.com/flash-games/the-batman-the-cobblepot-caper",
       "swf": "https://wasmarcade.com/flash/swf/the-batman-the-cobblepot-caper.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-batman-the-cobblepot-caper-450.webp",
