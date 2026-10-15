@@ -1001,7 +1001,46 @@
         "cruz": "espacio",
         "circulo": "shift",
         "cuadrado": "ctrl",
-        "triangulo": "z"
+        "triangulo": "z",
+        "l1": "",
+        "r1": ""
+      },
+      "disposicion": {
+        "joystick": {
+          "x": 0.17,
+          "y": 0.72,
+          "escala": 1
+        },
+        "rombo": {
+          "x": 0.81,
+          "y": 0.67,
+          "escala": 1
+        },
+        "l1": {
+          "x": 0.13,
+          "y": 0.21,
+          "escala": 1
+        },
+        "r1": {
+          "x": 0.87,
+          "y": 0.21,
+          "escala": 1
+        },
+        "centro": {
+          "x": 0.5,
+          "y": 0.83,
+          "escala": 1
+        },
+        "mouse": {
+          "x": 0.59,
+          "y": 0.75,
+          "escala": 1
+        },
+        "clic": {
+          "x": 0.59,
+          "y": 0.47,
+          "escala": 1
+        }
       }
     },
     {
