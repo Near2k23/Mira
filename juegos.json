@@ -100,6 +100,10 @@
         {
           "id": "action",
           "nombre": "Acción"
+        },
+        {
+          "id": "sports",
+          "nombre": "Deportes"
         }
       ]
     }
@@ -26463,6 +26467,38 @@
           "x": 0.59,
           "y": 0.47,
           "escala": 1
+        }
+      }
+    },
+    {
+      "id": "fifa-street-2",
+      "titulo": "FIFA Street 2",
+      "categoria": "pc",
+      "subcategoria": "sports",
+      "url": "https://fifastreet2.fun/",
+      "selector": "#game-frame",
+      "portada": "",
+      "descripcion": "FIFA Street 2 jugable directamente en el navegador. Fútbol callejero con soporte para teclado y mando.",
+      "peso": 0,
+      "mouse": false,
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "enter",
+        "cuadrado": "ctrl",
+        "triangulo": "shift",
+        "l1": "q",
+        "r1": "e"
+      },
+      "disposicion": {
+        "joystick": {
+          "x": 0.16,
+          "y": 0.7,
+          "escala": 1.1
+        },
+        "rombo": {
+          "x": 0.82,
+          "y": 0.66,
+          "escala": 1.1
         }
       }
     }
