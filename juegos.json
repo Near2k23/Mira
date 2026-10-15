@@ -66,6 +66,8 @@
       "url": "https://wasmarcade.com/flash-games/the-last-stand-union-city",
       "swf": "https://wasmarcade.com/flash/swf/the-last-stand-union-city.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-last-stand-union-city-450.webp",
+      "descripcion": "The Last Stand: Union City is a 2011 zombie action RPG where players scavenge, shoot and survive through a ruined metropolis.",
+      "peso": 21184907,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -80,6 +82,8 @@
       "url": "https://wasmarcade.com/flash-games/alien-hominid",
       "swf": "https://wasmarcade.com/flash/swf/alien-hominid.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/alien-hominid-450.webp",
+      "descripcion": "Alien Hominid is a 2002 side-scrolling platformer from Tom Fulp and Dan Paladin where a stranded alien battles the FBI.",
+      "peso": 2037879,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -94,6 +98,8 @@
       "url": "https://wasmarcade.com/flash-games/cactus-mccoy",
       "swf": "https://wasmarcade.com/flash/swf/cactus-mccoy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cactus-mccoy-450.webp",
+      "descripcion": "Cactus McCoy is a 2011 platformer brawler from Flipline Studios set in a strange Wild West full of treasure and enemies.",
+      "peso": 6913412,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -108,6 +114,8 @@
       "url": "https://wasmarcade.com/flash-games/bloxorz",
       "swf": "https://wasmarcade.com/flash/swf/bloxorz.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bloxorz-450.webp",
+      "descripcion": "Bloxorz is a 2007 logic puzzle game from Miniclip and Damien Clarke in which a block must be rolled into a square hole.",
+      "peso": 2286600,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -123,6 +131,8 @@
       "url": "https://wasmarcade.com/flash-games/swords-and-sandals-crusader",
       "swf": "https://wasmarcade.com/flash/swf/swords-and-sandals-crusader.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/swords-and-sandals-crusader-450.webp",
+      "descripcion": "Swords and Sandals: Crusader is a 2007 turn-based strategy and action game where players command armies across the realm of Brandor.",
+      "peso": 10390762,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -138,6 +148,8 @@
       "url": "https://wasmarcade.com/flash-games/strike-force-heroes-2",
       "swf": "https://wasmarcade.com/flash/swf/strike-force-heroes-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/strike-force-heroes-2-450.webp",
+      "descripcion": "Strike Force Heroes 2 is a 2013 side-view sci-fi shooter from Sky9 Games with cartoon action and character customization.",
+      "peso": 16554821,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -152,6 +164,8 @@
       "url": "https://wasmarcade.com/flash-games/riddle-school-3",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-3-450.webp",
+      "descripcion": "Riddle School 3 is a 2008 point-and-click adventure game by JohBro in which Phil tries to escape from his high school.",
+      "peso": 7701743,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -167,6 +181,8 @@
       "url": "https://wasmarcade.com/flash-games/riddle-school-5",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school-5.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-5-450.webp",
+      "descripcion": "Riddle School 5 is a point-and-click adventure from 2010 and the final chapter of JonBro's series, with puzzles and plot twists to uncover.",
+      "peso": 14539355,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -182,6 +198,8 @@
       "url": "https://wasmarcade.com/flash-games/bang-boom-splat",
       "swf": "https://wasmarcade.com/flash/swf/bang-boom-splat.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bang-boom-splat-450.webp",
+      "descripcion": "Bang, Boom, Splat! is a 2008 shooting gallery game from Eddsworld where players control Edd across ten levels.",
+      "peso": 9496526,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -196,6 +214,8 @@
       "url": "https://wasmarcade.com/flash-games/cactus-mccoy-2",
       "swf": "https://wasmarcade.com/flash/swf/cactus-mccoy-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cactus-mccoy-2-450.webp",
+      "descripcion": "Cactus McCoy 2 is a 2011 platformer brawler from Flipline Studios, continuing the treasure hunter's journey to the Ruins of Calavera.",
+      "peso": 10380845,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -210,6 +230,8 @@
       "url": "https://wasmarcade.com/flash-games/escaping-the-prison",
       "swf": "https://wasmarcade.com/flash/swf/escaping-the-prison.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/escaping-the-prison-450.webp",
+      "descripcion": "Escaping the Prison is a 2010 adventure game from PuffballsUnited where players find a route out of jail through three possible endings.",
+      "peso": 9799626,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -225,6 +247,8 @@
       "url": "https://wasmarcade.com/flash-games/raft-wars",
       "swf": "https://wasmarcade.com/flash/swf/raft-wars.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raft-wars-450.webp",
+      "descripcion": "Raft Wars is a 2007 action game by Martijn Kunst where Simon and his baby brother defend found diamonds from pirates and Vikings.",
+      "peso": 1913834,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -239,6 +263,8 @@
       "url": "https://wasmarcade.com/flash-games/age-of-war",
       "swf": "https://wasmarcade.com/flash/swf/age-of-war.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/age-of-war-450.webp",
+      "descripcion": "Age of War is a 2008 strategy game by Louissi where players advance through eras of history to defeat a rival civilization.",
+      "peso": 3628478,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -254,6 +280,8 @@
       "url": "https://wasmarcade.com/flash-games/gun-mayhem-2-more-mayhem",
       "swf": "https://wasmarcade.com/flash/swf/gun-mayhem-2-more-mayhem.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/gun-mayhem-2-more-mayhem-450.webp",
+      "descripcion": "Gun Mayhem 2: More Mayhem is a 2012 cartoony arena shooter by Kevin Gu, supporting up to four players in battles against AI or friends.",
+      "peso": 8882538,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -268,6 +296,8 @@
       "url": "https://wasmarcade.com/flash-games/riddle-school-4",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-4-450.webp",
+      "descripcion": "Riddle School 4 is a 2010 adventure game by JonBro in which Phil arrives at Riddle University and starts planning his escape.",
+      "peso": 6167736,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -283,6 +313,8 @@
       "url": "https://wasmarcade.com/flash-games/strike-force-heroes",
       "swf": "https://wasmarcade.com/flash/swf/strike-force-heroes.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/strike-force-heroes-450.webp",
+      "descripcion": "Strike Force Heroes is a 2012 action shooter from Sky9 Games where four classes level up to unlock weapons, skills, and killstreaks.",
+      "peso": 18625489,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -297,6 +329,8 @@
       "url": "https://wasmarcade.com/flash-games/learn-to-fly-3",
       "swf": "https://wasmarcade.com/flash/swf/learn-to-fly-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/learn-to-fly-3-450.webp",
+      "descripcion": "Learn to Fly 3 sends a penguin from the slopes to outer space in this 2015 arcade launch game from Light Bringer Games.",
+      "peso": 20397901,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -311,6 +345,8 @@
       "url": "https://wasmarcade.com/flash-games/robot-unicorn-attack",
       "swf": "https://wasmarcade.com/flash/swf/robot-unicorn-attack.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/robot-unicorn-attack-450.webp",
+      "descripcion": "Robot Unicorn Attack is a 2010 side-view action runner from Adult Swim Games and Spiritonin Media Games.",
+      "peso": 2463432,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -325,6 +361,8 @@
       "url": "https://wasmarcade.com/flash-games/3-foot-ninja-ii",
       "swf": "https://wasmarcade.com/flash/swf/3-foot-ninja-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/3-foot-ninja-ii-450.webp",
+      "descripcion": "3 Foot Ninja II is a 2004 action game from MiniClip where a small ninja battles enemies to rescue a princess.",
+      "peso": 2410049,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -339,6 +377,8 @@
       "url": "https://wasmarcade.com/flash-games/achievement-unlocked",
       "swf": "https://wasmarcade.com/flash/swf/achievement-unlocked.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/achievement-unlocked-450.webp",
+      "descripcion": "Achievement Unlocked is a 2008 puzzle platformer from Armor Games and jmtb02 where collecting achievements is the whole point.",
+      "peso": 2499931,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -354,6 +394,8 @@
       "url": "https://wasmarcade.com/flash-games/flight",
       "swf": "https://wasmarcade.com/flash/swf/flight.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/flight-450.webp",
+      "descripcion": "Flight is a 2010 arcade game from Armor Games and Krin where a paper plane is thrown to collect points and save the world.",
+      "peso": 8460835,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -368,6 +410,8 @@
       "url": "https://wasmarcade.com/flash-games/the-impossible-quiz-2",
       "swf": "https://wasmarcade.com/flash/swf/the-impossible-quiz-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-impossible-quiz-2-450.webp",
+      "descripcion": "The Impossible Quiz 2 is a 2007 logic quiz by Splapp-me-do where every answer must be chosen without dying.",
+      "peso": 9814030,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -383,6 +427,8 @@
       "url": "https://wasmarcade.com/flash-games/mario-combat",
       "swf": "https://wasmarcade.com/flash/swf/mario-combat.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-combat-450.webp",
+      "descripcion": "Mario Combat is a 2008 action game from Sun-Studios in which Mario faces off against Bowser.",
+      "peso": 3934211,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -397,6 +443,8 @@
       "url": "https://wasmarcade.com/flash-games/the-fancy-pants-adventure",
       "swf": "https://wasmarcade.com/flash/swf/the-fancy-pants-adventure.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-fancy-pants-adventure-450.webp",
+      "descripcion": "The Fancy Pants Adventures: World 1 is a 2006 adventure game that opens the series, with later code updates improving its frame rate.",
+      "peso": 1718640,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -412,6 +460,8 @@
       "url": "https://wasmarcade.com/flash-games/minecraft-tower-defence-2",
       "swf": "https://wasmarcade.com/flash/swf/minecraft-tower-defence-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/minecraft-tower-defence-2-450.webp",
+      "descripcion": "Minecraft Tower Defence 2 is a 2012 strategy game by Microwave Games with 16 maps, 18 items, and an Adventure Mode starring Steve.",
+      "peso": 12053669,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -427,6 +477,8 @@
       "url": "https://wasmarcade.com/flash-games/super-mario-sunshine-64",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-sunshine-64.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-sunshine-64-450.webp",
+      "descripcion": "Super Mario Sunshine 64 is a side-view platformer and adventure game from Runouw where players explore, collect, and build their own levels.",
+      "peso": 5145387,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -441,6 +493,8 @@
       "url": "https://wasmarcade.com/flash-games/3-foot-ninja",
       "swf": "https://wasmarcade.com/flash/swf/3-foot-ninja.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/3-foot-ninja-450.webp",
+      "descripcion": "3 Foot Ninja is a 2003 action game by Denni Ames where a small warrior cuts through deadly foes while chasing his destiny.",
+      "peso": 1049638,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -455,6 +509,8 @@
       "url": "https://wasmarcade.com/flash-games/drag-racer-v3",
       "swf": "https://wasmarcade.com/flash/swf/drag-racer-v3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/drag-racer-v3-450.webp",
+      "descripcion": "Drag Racer V3 is a 2004 racing game from Phantom Games where players shift gears and use nitrous to win drag races.",
+      "peso": 3214196,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -470,6 +526,8 @@
       "url": "https://wasmarcade.com/flash-games/learn-to-fly",
       "swf": "https://wasmarcade.com/flash/swf/learn-to-fly.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/learn-to-fly-450.webp",
+      "descripcion": "Learn to Fly, a 2009 arcade game by Light Bringer, follows a penguin determined to prove he can take to the skies.",
+      "peso": 894960,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -484,6 +542,8 @@
       "url": "https://wasmarcade.com/flash-games/canyon-defense",
       "swf": "https://wasmarcade.com/flash/swf/canyon-defense.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/canyon-defense-450.webp",
+      "descripcion": "Canyon Defense is a 2008 top-down tower defense strategy game from IriySoft, played solo as part of the Canyon Defense series.",
+      "peso": 1767284,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -499,6 +559,8 @@
       "url": "https://wasmarcade.com/flash-games/epic-battle-fantasy",
       "swf": "https://wasmarcade.com/flash/swf/epic-battle-fantasy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/epic-battle-fantasy-450.webp",
+      "descripcion": "Epic Battle Fantasy is a 2009 action platformer by Matt Roszak in which the player fights through successive waves of enemies.",
+      "peso": 8415577,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -513,6 +575,8 @@
       "url": "https://wasmarcade.com/flash-games/interactive-buddy",
       "swf": "https://wasmarcade.com/flash/swf/interactive-buddy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/interactive-buddy-450.webp",
+      "descripcion": "Interactive Buddy is a 2005 creative sandbox from Shock Value where players poke, prod and play with a virtual character.",
+      "peso": 1553105,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -528,6 +592,8 @@
       "url": "https://wasmarcade.com/flash-games/vex2",
       "swf": "https://wasmarcade.com/flash/swf/vex2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/vex2-450.webp",
+      "descripcion": "Vex 2 is a platformer with 11 stages of swimming, wall jumps, zip-lines, cannons and gravity changes, plus a stage builder.",
+      "peso": 4356245,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -542,6 +608,8 @@
       "url": "https://wasmarcade.com/flash-games/learn-to-fly-2",
       "swf": "https://wasmarcade.com/flash/swf/learn-to-fly-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/learn-to-fly-2-450.webp",
+      "descripcion": "Learn to Fly 2 is a 2011 arcade launch game from Light Bringer where a penguin seeks revenge on the icebergs that ended its first flight.",
+      "peso": 5376498,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -556,6 +624,8 @@
       "url": "https://wasmarcade.com/flash-games/papas-donuteria",
       "swf": "https://wasmarcade.com/flash/swf/papas-donuteria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-donuteria-450.webp",
+      "descripcion": "Papa's Donuteria is a 2014 simulation game from Flipline Studios where players cook and decorate donuts for customers in Powder Point.",
+      "peso": 12211081,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -571,6 +641,8 @@
       "url": "https://wasmarcade.com/flash-games/madness-accelerant",
       "swf": "https://wasmarcade.com/flash/swf/madness-accelerant.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/madness-accelerant-450.webp",
+      "descripcion": "Madness Accelerant is a 2009 action shooter from TomFulp that remakes Krinkel's Madness Consternation as a playable, shot-by-shot tribute.",
+      "peso": 17983308,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -585,6 +657,8 @@
       "url": "https://wasmarcade.com/flash-games/super-mario-flash-2",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-flash-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-flash-2-450.webp",
+      "descripcion": "Super Mario Flash 2 is a 2011 single-player action platformer from Pouetpu Games with pixel visuals and a level editor.",
+      "peso": 3847858,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -599,6 +673,8 @@
       "url": "https://wasmarcade.com/flash-games/super-smash-flash",
       "swf": "https://wasmarcade.com/flash/swf/super-smash-flash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-smash-flash-450.webp",
+      "descripcion": "Super Smash Flash is a 2006 action game from McLeodGaming and Cleod-9 with 28 playable characters and several solo modes.",
+      "peso": 8833126,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -613,6 +689,8 @@
       "url": "https://wasmarcade.com/flash-games/motherload",
       "swf": "https://wasmarcade.com/flash/swf/motherload.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/motherload-450.webp",
+      "descripcion": "MotherLoad is a 2004 simulation game from XGen Studios where players dig beneath the surface of Mars in search of valuable minerals.",
+      "peso": 3977393,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -628,6 +706,8 @@
       "url": "https://wasmarcade.com/flash-games/papas-cheeseria",
       "swf": "https://wasmarcade.com/flash/swf/papas-cheeseria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-cheeseria-450.webp",
+      "descripcion": "Papa's Cheeseria is a 2015 restaurant simulation from Flipline Studios where players build grilled cheese sandwiches and serve customers.",
+      "peso": 12339497,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -643,6 +723,8 @@
       "url": "https://wasmarcade.com/flash-games/raft-wars-2",
       "swf": "https://wasmarcade.com/flash/swf/raft-wars-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raft-wars-2-450.webp",
+      "descripcion": "Raft Wars 2 is a 2013 action game by Martijn Kunst in which a waterpark has been built over buried treasure.",
+      "peso": 3757719,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -657,6 +739,8 @@
       "url": "https://wasmarcade.com/flash-games/riddle-school-2",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-2-450.webp",
+      "descripcion": "Riddle School 2 is a 2006 point-and-click adventure from JonBro, continuing the series' puzzle-driven school escape story.",
+      "peso": 1495672,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -672,6 +756,7 @@
       "url": "https://wasmarcade.com/flash-games/papa-louie-when-pizza-attack",
       "swf": "https://wasmarcade.com/flash/swf/papa-louie-when-pizza-attack.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papa-louie-when-pizza-attack-450.webp",
+      "peso": 2565924,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -686,6 +771,8 @@
       "url": "https://wasmarcade.com/flash-games/stick-war",
       "swf": "https://wasmarcade.com/flash/swf/stick-war.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stick-war-450.webp",
+      "descripcion": "Stick War is a 2009 arcade strategy game where players command an army, gather gold, and train sword, spear, archer, mage, and giant units.",
+      "peso": 7003484,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -700,6 +787,8 @@
       "url": "https://wasmarcade.com/flash-games/breaking-the-bank",
       "swf": "https://wasmarcade.com/flash/swf/breaking-the-bank.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/breaking-the-bank-450.webp",
+      "descripcion": "Breaking The Bank is a 2008 adventure game from PuffballsUnited where a hapless stick figure attempts a series of failed heists.",
+      "peso": 3143678,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -715,6 +804,7 @@
       "url": "https://wasmarcade.com/flash-games/burger-tycoon",
       "swf": "https://wasmarcade.com/flash/swf/burger-tycoon.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/burger-tycoon-450.webp",
+      "peso": 1464336,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -730,6 +820,8 @@
       "url": "https://wasmarcade.com/flash-games/portal-the-flash-version",
       "swf": "https://wasmarcade.com/flash/swf/portal-the-flash-version.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/portal-the-flash-version-450.webp",
+      "descripcion": "Portal: The Flash Version is a 2007 puzzle game by We Create Stuff with over 40 2D levels built around portal-based thinking.",
+      "peso": 7104190,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -745,6 +837,7 @@
       "url": "https://wasmarcade.com/flash-games/stick-rpg-complete",
       "swf": "https://wasmarcade.com/flash/swf/stick-rpg-complete.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stick-rpg-complete-450.webp",
+      "peso": 1233598,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -760,6 +853,8 @@
       "url": "https://wasmarcade.com/flash-games/jacksmith",
       "swf": "https://wasmarcade.com/flash/swf/jacksmith.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/jacksmith-450.webp",
+      "descripcion": "Jacksmith is a 2012 simulation game from Flipline Studios where a blacksmith forges weapons for warriors.",
+      "peso": 6564021,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -775,6 +870,8 @@
       "url": "https://wasmarcade.com/flash-games/madness-project-nexus",
       "swf": "https://wasmarcade.com/flash/swf/madness-project-nexus.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/madness-project-nexus-450.webp",
+      "descripcion": "Madness: Project Nexus is a 2012 side-scrolling shooter from Michael Swain and Matt Krinkels Jolly, set in the Madness universe.",
+      "peso": 15592970,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -789,6 +886,8 @@
       "url": "https://wasmarcade.com/flash-games/raze-2",
       "swf": "https://wasmarcade.com/flash/swf/raze-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raze-2-450.webp",
+      "descripcion": "Raze 2 is a 2011 action shooter from Addisonr and Juice-Tin where players battle alien forces or join them to decide humanity's fate.",
+      "peso": 16214694,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -803,6 +902,8 @@
       "url": "https://wasmarcade.com/flash-games/strike-force-heroes-3",
       "swf": "https://wasmarcade.com/flash/swf/strike-force-heroes-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/strike-force-heroes-3-450.webp",
+      "descripcion": "Strike Force Heroes 3 is a 2015 side-view sci-fi shooter from Sky9 Games, part of the Strike Force Heroes series.",
+      "peso": 19397942,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -817,6 +918,8 @@
       "url": "https://wasmarcade.com/flash-games/earn-to-die",
       "swf": "https://wasmarcade.com/flash/swf/earn-to-die.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/earn-to-die-450.webp",
+      "descripcion": "Earn to Die is a 2011 action game from Toffee Games about upgrading a car and driving through zombie hordes to reach a destination alive.",
+      "peso": 4070725,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -831,6 +934,8 @@
       "url": "https://wasmarcade.com/flash-games/happy-wheels",
       "swf": "https://wasmarcade.com/flash/swf/happy-wheels.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/happy-wheels-450.webp",
+      "descripcion": "Happy Wheels is a 2010 simulation game from Total Jerkface and Jim Bonacci, built around ragdoll riders and user-made levels.",
+      "peso": 4404697,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -846,6 +951,8 @@
       "url": "https://wasmarcade.com/flash-games/mario-forever-flash",
       "swf": "https://wasmarcade.com/flash/swf/mario-forever-flash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-forever-flash-450.webp",
+      "descripcion": "Mario Forever Flash is a 2009 side-view platformer from developer Mauft in which Mario sets out to rescue Princess Toadstool.",
+      "peso": 2787565,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -860,6 +967,8 @@
       "url": "https://wasmarcade.com/flash-games/one-chance",
       "swf": "https://wasmarcade.com/flash/swf/one-chance.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/one-chance-450.webp",
+      "descripcion": "One Chance is a 2010 adventure game from Awkward Silence Games about a scientist facing the final six days before Earth's collapse.",
+      "peso": 2774068,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -875,6 +984,7 @@
       "url": "https://wasmarcade.com/flash-games/fishy",
       "swf": "https://wasmarcade.com/flash/swf/fishy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fishy-450.webp",
+      "peso": 282494,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -889,6 +999,8 @@
       "url": "https://wasmarcade.com/flash-games/helicopter-game",
       "swf": "https://wasmarcade.com/flash/swf/helicopter-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/helicopter-game-450.webp",
+      "descripcion": "Helicopter Game is a classic arcade challenge of balance and timing, first released in 2002 by Silver Arcade.",
+      "peso": 44807,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -903,6 +1015,8 @@
       "url": "https://wasmarcade.com/flash-games/stealing-the-diamond",
       "swf": "https://wasmarcade.com/flash/swf/stealing-the-diamond.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stealing-the-diamond-450.webp",
+      "descripcion": "Stealing the Diamond is a 2011 adventure game from Puffballs United about a thief planning a diamond heist.",
+      "peso": 14610074,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -918,6 +1032,8 @@
       "url": "https://wasmarcade.com/flash-games/toss-the-turtle",
       "swf": "https://wasmarcade.com/flash/swf/toss-the-turtle.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/toss-the-turtle-450.webp",
+      "descripcion": "Toss The Turtle is a 2009 arcade game where players launch a turtle with cannons, bombs and jetpacks to send it as far as possible.",
+      "peso": 7832060,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -932,6 +1048,8 @@
       "url": "https://wasmarcade.com/flash-games/ageofwar2",
       "swf": "https://wasmarcade.com/flash/swf/ageofwar2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ageofwar2-450.webp",
+      "descripcion": "Age of War 2 is a 2014 single-player strategy game from developer Louissi, continuing the Age of War series.",
+      "peso": 11413675,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -947,6 +1065,8 @@
       "url": "https://wasmarcade.com/flash-games/max-dirt-bike",
       "swf": "https://wasmarcade.com/flash/swf/max-dirt-bike.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/max-dirt-bike-450.webp",
+      "descripcion": "Max Dirt Bike is a 2007 sports game from Max Games where players balance a dirt bike across hilly terrain using revving and braking.",
+      "peso": 949123,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -961,6 +1081,7 @@
       "url": "https://wasmarcade.com/flash-games/social-interaction-trainer",
       "swf": "https://wasmarcade.com/flash/swf/social-interaction-trainer.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/social-interaction-trainer-450.webp",
+      "peso": 1697068,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -976,6 +1097,8 @@
       "url": "https://wasmarcade.com/flash-games/talking-tom-cat-2-in-2011-2",
       "swf": "https://wasmarcade.com/flash/swf/talking-tom-cat-2-in-2011-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/talking-tom-cat-2-in-2011-2-450.webp",
+      "descripcion": "Talking Tom Cat 2 is a 2011 creative game from Outfit7 in which a cartoon cat mimics whatever is spoken into a microphone.",
+      "peso": 6570551,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -991,6 +1114,7 @@
       "url": "https://wasmarcade.com/flash-games/a-koopas-revenge-2",
       "swf": "https://wasmarcade.com/flash/swf/a-koopas-revenge-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/a-koopas-revenge-2-450.webp",
+      "peso": 13067024,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1005,6 +1129,8 @@
       "url": "https://wasmarcade.com/flash-games/achievement-unlocked-2",
       "swf": "https://wasmarcade.com/flash/swf/achievement-unlocked-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/achievement-unlocked-2-450.webp",
+      "descripcion": "Achievement Unlocked 2 is a 2010 puzzle platformer from Armor Games and John Cooney where a blue elephant hunts down strange goals.",
+      "peso": 3333711,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1020,6 +1146,8 @@
       "url": "https://wasmarcade.com/flash-games/armed-with-wings-2",
       "swf": "https://wasmarcade.com/flash/swf/armed-with-wings-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/armed-with-wings-2-450.webp",
+      "descripcion": "Armed with Wings 2 is a 2008 single-player action beat 'em up from Sun-Studios with samurai combat and a silhouette art style.",
+      "peso": 9540690,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1034,6 +1162,8 @@
       "url": "https://wasmarcade.com/flash-games/defend-your-castle",
       "swf": "https://wasmarcade.com/flash/swf/defend-your-castle.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/defend-your-castle-450.webp",
+      "descripcion": "Defend Your Castle is a 2003 arcade game from XGen Studios where players throw stick-wielding attackers away from their fortress.",
+      "peso": 323187,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1048,6 +1178,8 @@
       "url": "https://wasmarcade.com/flash-games/divine-intervention",
       "swf": "https://wasmarcade.com/flash/swf/divine-intervention.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/divine-intervention-450.webp",
+      "descripcion": "Divine Intervention is a 2003 side-scrolling shooter by Jim Bonacci in which a priest fights his way through waves of enemies.",
+      "peso": 4152725,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1062,6 +1194,8 @@
       "url": "https://wasmarcade.com/flash-games/earn-to-die-2012",
       "swf": "https://wasmarcade.com/flash/swf/earn-to-die-2012.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/earn-to-die-2012-450.webp",
+      "descripcion": "Earn to Die 2012 is a side-view action game where players drive through a zombie apocalypse, smashing hordes and upgrading vehicles.",
+      "peso": 5687663,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1076,6 +1210,8 @@
       "url": "https://wasmarcade.com/flash-games/flashtrek-broken-mirror",
       "swf": "https://wasmarcade.com/flash/swf/flashtrek-broken-mirror.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/flashtrek-broken-mirror-450.webp",
+      "descripcion": "FlashTrek: Broken Mirror is a 2005 strategy game by Vex Xiang where players build an empire across space.",
+      "peso": 3240370,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1091,6 +1227,8 @@
       "url": "https://wasmarcade.com/flash-games/sports-heads-football-championship",
       "swf": "https://wasmarcade.com/flash/swf/sports-heads-football-championship.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sports-heads-football-championship-450.webp",
+      "descripcion": "Sports Heads: Football Championship is a 2011 sports game from Mousebreaker where two big-headed players face off in one-on-one football.",
+      "peso": 1387711,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1105,6 +1243,8 @@
       "url": "https://wasmarcade.com/flash-games/the-impossible-quiz",
       "swf": "https://wasmarcade.com/flash/swf/the-impossible-quiz.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-impossible-quiz-450.webp",
+      "descripcion": "The Impossible Quiz is a 2007 logic quiz by Splapp-me-do where each question demands fast reflexes, strange reasoning, or plain luck.",
+      "peso": 8369962,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1120,6 +1260,8 @@
       "url": "https://wasmarcade.com/flash-games/warlords-call-to-arms",
       "swf": "https://wasmarcade.com/flash/swf/warlords-call-to-arms.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/warlords-call-to-arms-450.webp",
+      "descripcion": "Warlords: Call to Arms is a 2008 strategy game by Ben Olding where players pick a race and lead an army through 25 battles.",
+      "peso": 1717267,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1135,6 +1277,8 @@
       "url": "https://wasmarcade.com/flash-games/arcuz-behind-the-dark",
       "swf": "https://wasmarcade.com/flash/swf/arcuz-behind-the-dark.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/arcuz-behind-the-dark-450.webp",
+      "descripcion": "Arcuz: Behind the Dark is a 2009 action RPG from Funnaut where players battle monsters, train a hero and craft items.",
+      "peso": 13991560,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1149,6 +1293,8 @@
       "url": "https://wasmarcade.com/flash-games/fat-ninja",
       "swf": "https://wasmarcade.com/flash/swf/fat-ninja.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fat-ninja-450.webp",
+      "descripcion": "Fat Ninja is a 2006 action game where a stealthy ninja sneaks through a guarded building, hiding and attacking to avoid detection.",
+      "peso": 1201044,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1163,6 +1309,8 @@
       "url": "https://wasmarcade.com/flash-games/not-so-special-stage",
       "swf": "https://wasmarcade.com/flash/swf/not-so-special-stage.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/not-so-special-stage-450.webp",
+      "descripcion": "Not-So Special Stage is a 2007 arcade game by Edd Gould in which Edd runs a Sonic-style special stage to collect the Chaos Eddmerald.",
+      "peso": 3910172,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1177,6 +1325,8 @@
       "url": "https://wasmarcade.com/flash-games/red-ball-2-the-king",
       "swf": "https://wasmarcade.com/flash/swf/red-ball-2-the-king.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/red-ball-2-the-king-450.webp",
+      "descripcion": "Red Ball 2: The King is a 2009 platformer by Evgeniy Fedoseev in which a round hero searches for a lost crown.",
+      "peso": 4867830,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1191,6 +1341,8 @@
       "url": "https://wasmarcade.com/flash-games/run-3",
       "swf": "https://wasmarcade.com/flash/swf/run-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/run-3-450.webp",
+      "descripcion": "Run 3 is a 2014 arcade game by player_03 where players race through a galaxy of levels, jumping and rotating the world to progress.",
+      "peso": 12585404,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1205,6 +1357,8 @@
       "url": "https://wasmarcade.com/flash-games/stark-tower-defense",
       "swf": "https://wasmarcade.com/flash/swf/stark-tower-defense.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stark-tower-defense-450.webp",
+      "descripcion": "Stark Tower Defense is a 2009 strategy game from Soap Creative where Marvel heroes must hold the line against an assault on Stark Tower.",
+      "peso": 4577616,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1220,6 +1374,8 @@
       "url": "https://wasmarcade.com/flash-games/super-mario-63",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-63.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-63-450.webp",
+      "descripcion": "Super Mario 63 is a 2009 fan-made platformer inspired by Super Mario 64, with Luigi, FLUDD power-ups, and a level designer.",
+      "peso": 15295370,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1234,6 +1390,8 @@
       "url": "https://wasmarcade.com/flash-games/the-last-stand-2",
       "swf": "https://wasmarcade.com/flash/swf/the-last-stand-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-last-stand-2-450.webp",
+      "descripcion": "The Last Stand 2 is a 2008 shooter from Con-Artists where players defend makeshift barricades while heading for Union City.",
+      "peso": 8824265,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1248,6 +1406,8 @@
       "url": "https://wasmarcade.com/flash-games/warfare-1917",
       "swf": "https://wasmarcade.com/flash/swf/warfare-1917.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/warfare-1917-450.webp",
+      "descripcion": "Warfare 1917 is a 2008 strategy game from ConArtists that puts players in command of British or German forces in the First World War.",
+      "peso": 5701960,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1263,6 +1423,8 @@
       "url": "https://wasmarcade.com/flash-games/canterlot-siege-2",
       "swf": "https://wasmarcade.com/flash/swf/canterlot-siege-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/canterlot-siege-2-450.webp",
+      "descripcion": "Canterlot Siege 2 is a 2013 strategy tower defense game by futzi01 featuring pony characters and an elemental mode.",
+      "peso": 21579793,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1278,6 +1440,8 @@
       "url": "https://wasmarcade.com/flash-games/crush-the-castle-2",
       "swf": "https://wasmarcade.com/flash/swf/crush-the-castle-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/crush-the-castle-2-450.webp",
+      "descripcion": "Crush the Castle 2 is a 2010 logic and action game from Armor Games and Joey Betz where players fire at fortified castles.",
+      "peso": 10972796,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1293,6 +1457,8 @@
       "url": "https://wasmarcade.com/flash-games/papas-cupcakeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-cupcakeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-cupcakeria-450.webp",
+      "descripcion": "Papa’s Cupcakeria is a 2013 simulation game from Flipline Studios where players run a cupcake shop, taking orders and baking treats for customers.",
+      "peso": 8915548,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1308,6 +1474,8 @@
       "url": "https://wasmarcade.com/flash-games/shop-empire-2",
       "swf": "https://wasmarcade.com/flash/swf/shop-empire-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/shop-empire-2-450.webp",
+      "descripcion": "Shop Empire 2 is a 2012 simulation game from Little Giant World where players build and run a shopping mall.",
+      "peso": 4330648,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1323,6 +1491,7 @@
       "url": "https://wasmarcade.com/flash-games/the-visitor",
       "swf": "https://wasmarcade.com/flash/swf/the-visitor.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-visitor-450.webp",
+      "peso": 1687829,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1338,6 +1507,8 @@
       "url": "https://wasmarcade.com/flash-games/absolute-madness",
       "swf": "https://wasmarcade.com/flash/swf/absolute-madness.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/absolute-madness-450.webp",
+      "descripcion": "absolute.Madness is a 2007 shooter by DonutMaster where players battle waves of enemies, zombies, and bosses.",
+      "peso": 2385417,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1352,6 +1523,8 @@
       "url": "https://wasmarcade.com/flash-games/bloons-tower-defense-3",
       "swf": "https://wasmarcade.com/flash/swf/bloons-tower-defense-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bloons-tower-defense-3-450.webp",
+      "descripcion": "Bloons Tower Defense 3 is a 2009 strategy game from Ninja Kiwi where players place towers to pop waves of Bloons.",
+      "peso": 1395321,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1367,6 +1540,7 @@
       "url": "https://wasmarcade.com/flash-games/bowmaster-prelude",
       "swf": "https://wasmarcade.com/flash/swf/bowmaster-prelude.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bowmaster-prelude-450.webp",
+      "peso": 2685483,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1382,6 +1556,8 @@
       "url": "https://wasmarcade.com/flash-games/electric-box",
       "swf": "https://wasmarcade.com/flash/swf/electric-box.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/electric-box-450.webp",
+      "descripcion": "Electric Box is a 2009 puzzle game from Twinkle Star Games and Funtank where players wire components together to power a target.",
+      "peso": 3135529,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1397,6 +1573,8 @@
       "url": "https://wasmarcade.com/flash-games/ultimate-flash-sonic",
       "swf": "https://wasmarcade.com/flash/swf/ultimate-flash-sonic.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ultimate-flash-sonic-450.webp",
+      "descripcion": "Ultimate Flash Sonic, a 2004 action game by Dennis-Gid, lets players control Sonic and other characters in a side-scrolling adventure.",
+      "peso": 1506445,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1411,6 +1589,8 @@
       "url": "https://wasmarcade.com/flash-games/heli-attack-3",
       "swf": "https://wasmarcade.com/flash/swf/heli-attack-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/heli-attack-3-450.webp",
+      "descripcion": "Heli Attack 3 is a 2005 action shooter by SquareCircleCo where players battle enemy units across varied terrain.",
+      "peso": 1700938,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1425,6 +1605,8 @@
       "url": "https://wasmarcade.com/flash-games/papas-bakeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-bakeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-bakeria-450.webp",
+      "descripcion": "Papa's Bakeria is a 2016 bakery simulation from Flipline Studios where players bake pies for customers in Whiskview Mall.",
+      "peso": 14315042,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1440,6 +1622,8 @@
       "url": "https://wasmarcade.com/flash-games/the-right-mix",
       "swf": "https://wasmarcade.com/flash/swf/the-right-mix.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-right-mix-450.webp",
+      "descripcion": "The Right Mix is a 2013 cartoon-style simulation game from Liquid Light where players run a restaurant and mix drinks.",
+      "peso": 693558,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1455,6 +1639,8 @@
       "url": "https://wasmarcade.com/flash-games/unfair-mario",
       "swf": "https://wasmarcade.com/flash/swf/unfair-mario.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/unfair-mario-450.webp",
+      "descripcion": "Unfair Mario is a 2013 arcade platformer that looks like Super Mario but hides traps at every turn.",
+      "peso": 1658941,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1469,6 +1655,7 @@
       "url": "https://wasmarcade.com/flash-games/whack-your-boss",
       "swf": "https://wasmarcade.com/flash/swf/whack-your-boss.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/whack-your-boss-450.webp",
+      "peso": 2030733,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1484,6 +1671,8 @@
       "url": "https://wasmarcade.com/flash-games/xiao-xiao-no-4",
       "swf": "https://wasmarcade.com/flash/swf/xiao-xiao-no-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/xiao-xiao-no-4-450.webp",
+      "descripcion": "Xiao Xiao No. 4 is a 2001 action shooter from developer Zhu Zhiqiang that plays in a 3D style.",
+      "peso": 2023776,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1498,6 +1687,8 @@
       "url": "https://wasmarcade.com/flash-games/bart-simpson-saw-game",
       "swf": "https://wasmarcade.com/flash/swf/bart-simpson-saw-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bart-simpson-saw-game-450.webp",
+      "descripcion": "Bart Simpson Saw Game is a 2011 point-and-click adventure from Inkagames in which Bart Simpson faces a Saw-style trap.",
+      "peso": 3182170,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1513,6 +1704,8 @@
       "url": "https://wasmarcade.com/flash-games/canabalt",
       "swf": "https://wasmarcade.com/flash/swf/canabalt.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/canabalt-450.webp",
+      "descripcion": "Canabalt, the 2009 arcade endless runner by Adam Saltsman and Adam Atomic, has players fleeing a ruined city using a single button.",
+      "peso": 3389333,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1527,6 +1720,8 @@
       "url": "https://wasmarcade.com/flash-games/papas-pizzeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-pizzeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-pizzeria-450.webp",
+      "descripcion": "Papa's Pizzeria is a 2007 simulation game from Flipline Studios where players take orders and run a busy pizza shop.",
+      "peso": 2842151,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1542,6 +1737,8 @@
       "url": "https://wasmarcade.com/flash-games/resort-empire",
       "swf": "https://wasmarcade.com/flash/swf/resort-empire.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/resort-empire-450.webp",
+      "descripcion": "Resort Empire is a 2013 pixel-art tycoon simulation from LittleGiantWorld in which players build and manage their own holiday resort.",
+      "peso": 2777262,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1557,6 +1754,8 @@
       "url": "https://wasmarcade.com/flash-games/sands-of-the-coliseum",
       "swf": "https://wasmarcade.com/flash/swf/sands-of-the-coliseum.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sands-of-the-coliseum-450.webp",
+      "descripcion": "Sands of the Coliseum is a 2012 action game from Berzerk Studio where players fight as a gladiator to climb the rankings.",
+      "peso": 10720998,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1571,6 +1770,8 @@
       "url": "https://wasmarcade.com/flash-games/crush-the-castle",
       "swf": "https://wasmarcade.com/flash/swf/crush-the-castle.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/crush-the-castle-450.webp",
+      "descripcion": "Crush the Castle is a 2009 logic and action game from Armor Games and Joey Betz where a trebuchet brings down medieval fortresses.",
+      "peso": 2340476,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1586,6 +1787,8 @@
       "url": "https://wasmarcade.com/flash-games/decision-medieval",
       "swf": "https://wasmarcade.com/flash/swf/decision-medieval.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/decision-medieval-450.webp",
+      "descripcion": "Decision Medieval is a 2014 action shooter from FlyAnvil that pits a kingdom's defenders against zombies, orcs, werewolves and trolls.",
+      "peso": 23461765,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1600,6 +1803,8 @@
       "url": "https://wasmarcade.com/flash-games/gunblood",
       "swf": "https://wasmarcade.com/flash/swf/gunblood.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/gunblood-450.webp",
+      "descripcion": "Gunblood is a 2010 reflex shooter where you face nine computer gunslingers in one-on-one duels and four bonus rounds.",
+      "peso": 1906261,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1614,6 +1819,8 @@
       "url": "https://wasmarcade.com/flash-games/home-sheep-home",
       "swf": "https://wasmarcade.com/flash/swf/home-sheep-home.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/home-sheep-home-450.webp",
+      "descripcion": "Home Sheep Home is a 2010 puzzle platformer from Aardman Digital where three sheep with different abilities must reach the barn.",
+      "peso": 3990790,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1629,6 +1836,8 @@
       "url": "https://wasmarcade.com/flash-games/line-rider",
       "swf": "https://wasmarcade.com/flash/swf/line-rider.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/line-rider-450.webp",
+      "descripcion": "Line Rider, a 2006 creative sandbox from Boštjan Čadež, lets players sketch slopes and watch a sledder ride their hand-drawn tracks.",
+      "peso": 82054,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1644,6 +1853,8 @@
       "url": "https://wasmarcade.com/flash-games/pacman-advanced",
       "swf": "https://wasmarcade.com/flash/swf/pacman-advanced.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pacman-advanced-450.webp",
+      "descripcion": "Pacman Advanced is a 2007 arcade game from Start Games in which the player guides Pacman while avoiding ghosts.",
+      "peso": 78933,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1658,6 +1869,8 @@
       "url": "https://wasmarcade.com/flash-games/pandemic-ii",
       "swf": "https://wasmarcade.com/flash/swf/pandemic-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pandemic-ii-450.webp",
+      "descripcion": "Pandemic II is a 2008 strategy and simulation game from Dark Realm Studios where players evolve a disease to infect and destroy mankind.",
+      "peso": 4378927,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1673,6 +1886,8 @@
       "url": "https://wasmarcade.com/flash-games/pokemon-trainer-creator",
       "swf": "https://wasmarcade.com/flash/swf/pokemon-trainer-creator.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pokemon-trainer-creator-450.webp",
+      "descripcion": "Pokémon Trainer Creator is a 2013 dress-up game by Joy Chiang Ling where players assemble a trainer from a range of clothing and color options.",
+      "peso": 17001909,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1688,6 +1903,8 @@
       "url": "https://wasmarcade.com/flash-games/riddle-school",
       "swf": "https://wasmarcade.com/flash/swf/riddle-school.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/riddle-school-450.webp",
+      "descripcion": "Riddle School is a 2006 point-and-click adventure from JonBro in which a student tries to escape the classroom.",
+      "peso": 627624,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1703,6 +1920,8 @@
       "url": "https://wasmarcade.com/flash-games/samurai-jack-code-of-the-samurai",
       "swf": "https://wasmarcade.com/flash/swf/samurai-jack-code-of-the-samurai.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/samurai-jack-code-of-the-samurai-450.webp",
+      "descripcion": "Samurai Jack: Code of the Samurai is a 2003 action game from Cartoon Network in which the cartoon hero battles his way into hostile lands.",
+      "peso": 1540137,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1717,6 +1936,7 @@
       "url": "https://wasmarcade.com/flash-games/star-island",
       "swf": "https://wasmarcade.com/flash/swf/star-island.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/star-island-450.webp",
+      "peso": 3415523,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1731,6 +1951,8 @@
       "url": "https://wasmarcade.com/flash-games/mini-golf",
       "swf": "https://wasmarcade.com/flash/swf/mini-golf.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mini-golf-450.webp",
+      "descripcion": "Mini Golf is a 2006 sports game from Electrotank in which the goal is simply to sink the ball into the hole.",
+      "peso": 247198,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1745,6 +1967,8 @@
       "url": "https://wasmarcade.com/flash-games/raze",
       "swf": "https://wasmarcade.com/flash/swf/raze.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raze-450.webp",
+      "descripcion": "Raze is a 2010 action shooter from Addisonr and Juice-Tin where players fight aliens, robots and zombies in a battle over Earth's fate.",
+      "peso": 6468422,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1759,6 +1983,8 @@
       "url": "https://wasmarcade.com/flash-games/sonic-blox",
       "swf": "https://wasmarcade.com/flash/swf/sonic-blox.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sonic-blox-450.webp",
+      "descripcion": "Sonic Blox is a 2004 arcade puzzler from Mikhail Kafanov that mixes Sonic the Hedgehog with block-stacking Tetris action.",
+      "peso": 1077516,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1773,6 +1999,8 @@
       "url": "https://wasmarcade.com/flash-games/tetris",
       "swf": "https://wasmarcade.com/flash/swf/tetris.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/tetris-450.webp",
+      "descripcion": "Tetris, Paul Neave's 2003 arcade take on the classic block-stacking game, challenges players to clear lines as falling pieces pile up.",
+      "peso": 14386,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1787,6 +2015,7 @@
       "url": "https://wasmarcade.com/flash-games/the-worlds-hardest-game-2",
       "swf": "https://wasmarcade.com/flash/swf/the-worlds-hardest-game-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-worlds-hardest-game-2-450.webp",
+      "peso": 2377358,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1801,6 +2030,8 @@
       "url": "https://wasmarcade.com/flash-games/american-racing",
       "swf": "https://wasmarcade.com/flash/swf/american-racing.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/american-racing-450.webp",
+      "descripcion": "American Racing is a 2012 stock car game from Turbo Nuke where players take part in a calendar of events against large fields of rivals.",
+      "peso": 5702664,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1815,6 +2046,8 @@
       "url": "https://wasmarcade.com/flash-games/madness-premeditation",
       "swf": "https://wasmarcade.com/flash/swf/madness-premeditation.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/madness-premeditation-450.webp",
+      "descripcion": "Madness Premeditation is a 2010 strategy-action game by BoMToons where players plan Hank's moves through a strange area of Nevada.",
+      "peso": 5845726,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1830,6 +2063,8 @@
       "url": "https://wasmarcade.com/flash-games/pandemic",
       "swf": "https://wasmarcade.com/flash/swf/pandemic.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pandemic-450.webp",
+      "descripcion": "Pandemic is a 2007 strategy game from Dark Realm Studios and Blips in which players evolve a virus and try to wipe out mankind.",
+      "peso": 1472233,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1845,6 +2080,8 @@
       "url": "https://wasmarcade.com/flash-games/sports-heads-basketball",
       "swf": "https://wasmarcade.com/flash/swf/sports-heads-basketball.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sports-heads-basketball-450.webp",
+      "descripcion": "Sports Heads: Basketball is a 2012 single-player sports game from Mousebreaker with cartoon, side-view basketball action.",
+      "peso": 1346752,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1859,6 +2096,8 @@
       "url": "https://wasmarcade.com/flash-games/battle-of-britain-commando",
       "swf": "https://wasmarcade.com/flash/swf/battle-of-britain-commando.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/battle-of-britain-commando-450.webp",
+      "descripcion": "Battle of Britain: Commando, a 2006 MiniClip shooter, puts players in the role of defending the Allies against an enemy invasion.",
+      "peso": 6388010,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1873,6 +2112,7 @@
       "url": "https://wasmarcade.com/flash-games/dad-n-me",
       "swf": "https://wasmarcade.com/flash/swf/dad-n-me.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dad-n-me-450.webp",
+      "peso": 2754896,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1887,6 +2127,8 @@
       "url": "https://wasmarcade.com/flash-games/penguin-diner",
       "swf": "https://wasmarcade.com/flash/swf/penguin-diner.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/penguin-diner-450.webp",
+      "descripcion": "Penguin Diner is a 2008 simulation game where Penny the Penguin waits tables to earn money and find her way home.",
+      "peso": 824167,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1902,6 +2144,8 @@
       "url": "https://wasmarcade.com/flash-games/road-of-the-dead",
       "swf": "https://wasmarcade.com/flash/swf/road-of-the-dead.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/road-of-the-dead-450.webp",
+      "descripcion": "Road of the Dead is a 2010 shooter and action game from Evil-Dog in which a driver battles through a zombie-filled highway to leave a quarantined city.",
+      "peso": 25694284,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1916,6 +2160,8 @@
       "url": "https://wasmarcade.com/flash-games/run-2",
       "swf": "https://wasmarcade.com/flash/swf/run-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/run-2-450.webp",
+      "descripcion": "Run 2 is a 2011 arcade game from developer player_03 about sprinting, leaping and gliding through space in unusual footwear.",
+      "peso": 1076536,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1930,6 +2176,8 @@
       "url": "https://wasmarcade.com/flash-games/time-fcuk",
       "swf": "https://wasmarcade.com/flash/swf/time-fcuk.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/time-fcuk-450.webp",
+      "descripcion": "Time Fcuk is a 2009 puzzle platformer by Edmund McMillen that mixes block-based challenges with shifting perspectives.",
+      "peso": 5954933,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1945,6 +2193,8 @@
       "url": "https://wasmarcade.com/flash-games/1-on-1-soccer",
       "swf": "https://wasmarcade.com/flash/swf/1-on-1-soccer.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/1-on-1-soccer-450.webp",
+      "descripcion": "1 on 1 Soccer is a 2012 sports game by Adam Wardle that strips the sport down to a single player per team.",
+      "peso": 299590,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -1959,6 +2209,7 @@
       "url": "https://wasmarcade.com/flash-games/game-over-gopher",
       "swf": "https://wasmarcade.com/flash/swf/game-over-gopher.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/game-over-gopher-450.webp",
+      "peso": 11401784,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1974,6 +2225,8 @@
       "url": "https://wasmarcade.com/flash-games/hot-dog-bush",
       "swf": "https://wasmarcade.com/flash/swf/hot-dog-bush.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hot-dog-bush-450.webp",
+      "descripcion": "Hot Dog Bush is a 2007 simulation game from 2D Play about running a hot dog stand and keeping customers served.",
+      "peso": 2984728,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -1989,6 +2242,8 @@
       "url": "https://wasmarcade.com/flash-games/papas-freezeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-freezeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-freezeria-450.webp",
+      "descripcion": "Papa's Freezeria is a 2011 simulation game from Flipline Studios where players run a tropical ice cream shop and serve sundaes to customers.",
+      "peso": 5216905,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2004,6 +2259,8 @@
       "url": "https://wasmarcade.com/flash-games/pirateers",
       "swf": "https://wasmarcade.com/flash/swf/pirateers.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pirateers-450.webp",
+      "descripcion": "Pirateers is a 2012 shooter from Labu Games where players take on the role of a pirate on the open sea.",
+      "peso": 9979930,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2018,6 +2275,8 @@
       "url": "https://wasmarcade.com/flash-games/super-mario-flash",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-flash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-flash-450.webp",
+      "descripcion": "Super Mario Flash is a 2007 side-scrolling platformer by Pouetpu with pixel art, score attack runs and a built-in level editor.",
+      "peso": 2233636,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2032,6 +2291,8 @@
       "url": "https://wasmarcade.com/flash-games/hannah-montana-wireless-quest",
       "swf": "https://wasmarcade.com/flash/swf/hannah-montana-wireless-quest.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hannah-montana-wireless-quest-450.webp",
+      "descripcion": "Hannah Montana: Wireless Quest is a 2013 adventure game where Miley races to recover her diary before class begins.",
+      "peso": 2679126,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2047,6 +2308,8 @@
       "url": "https://wasmarcade.com/flash-games/potty-racers",
       "swf": "https://wasmarcade.com/flash/swf/potty-racers.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/potty-racers-450.webp",
+      "descripcion": "Potty Racers is a 2009 arcade launch game where a stick man rides a porta potty down a hill and off a cliff.",
+      "peso": 1138750,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2061,6 +2324,8 @@
       "url": "https://wasmarcade.com/flash-games/spongebob-saw-game",
       "swf": "https://wasmarcade.com/flash/swf/spongebob-saw-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spongebob-saw-game-450.webp",
+      "descripcion": "SpongeBob Saw Game is a 2012 point-and-click adventure from Inka Games set in an underwater parody world.",
+      "peso": 5683930,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2076,6 +2341,7 @@
       "url": "https://wasmarcade.com/flash-games/tom-loves-angela",
       "swf": "https://wasmarcade.com/flash/swf/tom-loves-angela.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/tom-loves-angela-450.webp",
+      "peso": 7152954,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2091,6 +2357,8 @@
       "url": "https://wasmarcade.com/flash-games/gold-miner",
       "swf": "https://wasmarcade.com/flash/swf/gold-miner.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/gold-miner-450.webp",
+      "descripcion": "Gold Miner is an arcade game from 2003 by GameRival where players reel in gold to hit each stage's cash goal.",
+      "peso": 298764,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2105,6 +2373,8 @@
       "url": "https://wasmarcade.com/flash-games/submachine-1-the-basement",
       "swf": "https://wasmarcade.com/flash/swf/submachine-1-the-basement.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/submachine-1-the-basement-450.webp",
+      "descripcion": "Submachine 1: The Basement is a 2014 adventure game by Mateusz Skutnik set among ruins, runes and old artefacts.",
+      "peso": 1635512,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2120,6 +2390,8 @@
       "url": "https://wasmarcade.com/flash-games/super-mario-world-flash",
       "swf": "https://wasmarcade.com/flash/swf/super-mario-world-flash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-mario-world-flash-450.webp",
+      "descripcion": "Super Mario World Flash is a 2008 single-player platformer by Nowe Reginald, blending pixel-style adventure with score-attack play.",
+      "peso": 2076140,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2134,6 +2406,8 @@
       "url": "https://wasmarcade.com/flash-games/swords-and-sandals-2-emperors-reign",
       "swf": "https://wasmarcade.com/flash/swf/swords-and-sandals-2-emperors-reign.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/swords-and-sandals-2-emperors-reign-450.webp",
+      "descripcion": "Swords and Sandals 2: Emperor's Reign is a 2007 role-playing adventure set in Ancient Rome from 3RD SENSE Australia.",
+      "peso": 6584057,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2149,6 +2423,8 @@
       "url": "https://wasmarcade.com/flash-games/the-waitress",
       "swf": "https://wasmarcade.com/flash/swf/the-waitress.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-waitress-450.webp",
+      "descripcion": "The Waitress is a 2007 simulation game from D-Man in which a server races to take customer orders and keep tables clean.",
+      "peso": 970424,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2164,6 +2440,8 @@
       "url": "https://wasmarcade.com/flash-games/awesome-tanks",
       "swf": "https://wasmarcade.com/flash/swf/awesome-tanks.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/awesome-tanks-450.webp",
+      "descripcion": "Awesome Tanks is a 2012 action game by Alexander Gette in which players steer a tank, aim with the mouse and spend coins on upgrades.",
+      "peso": 5773327,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2179,6 +2457,8 @@
       "url": "https://wasmarcade.com/flash-games/bloons-td-4",
       "swf": "https://wasmarcade.com/flash/swf/bloons-td-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bloons-td-4-450.webp",
+      "descripcion": "Bloons Tower Defense 4 is a 2009 strategy game from Ninja Kiwi where players place towers to stop waves of Bloons.",
+      "peso": 3193757,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2194,6 +2474,8 @@
       "url": "https://wasmarcade.com/flash-games/stunt-dirt-bike",
       "swf": "https://wasmarcade.com/flash/swf/stunt-dirt-bike.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stunt-dirt-bike-450.webp",
+      "descripcion": "Stunt Dirt Bike is a 2007 sports game where players guide a dirt bike or ATV across short obstacle courses without crashing.",
+      "peso": 1616931,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2208,6 +2490,8 @@
       "url": "https://wasmarcade.com/flash-games/swords-and-sandals-gladiator",
       "swf": "https://wasmarcade.com/flash/swf/swords-and-sandals-gladiator.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/swords-and-sandals-gladiator-450.webp",
+      "descripcion": "Swords and Sandals: Gladiator is a 2006 action adventure game of arena fighting and character building set in Ancient Rome.",
+      "peso": 4684530,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2223,6 +2507,7 @@
       "url": "https://wasmarcade.com/flash-games/dont-whack-your-boss",
       "swf": "https://wasmarcade.com/flash/swf/dont-whack-your-boss.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dont-whack-your-boss-450.webp",
+      "peso": 3615897,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2238,6 +2523,8 @@
       "url": "https://wasmarcade.com/flash-games/miami-shark",
       "swf": "https://wasmarcade.com/flash/swf/miami-shark.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/miami-shark-450.webp",
+      "descripcion": "Miami Shark, a 2009 arcade action game by Felix Wiesner, follows a shark causing destruction and mayhem through its daily routine.",
+      "peso": 4108381,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2252,6 +2539,8 @@
       "url": "https://wasmarcade.com/flash-games/the-last-stand",
       "swf": "https://wasmarcade.com/flash/swf/the-last-stand.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-last-stand-450.webp",
+      "descripcion": "The Last Stand, a 2007 shooter by Con-Artists, pits players against zombies from behind a barricade across 20 days and nights.",
+      "peso": 4470872,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2266,6 +2555,8 @@
       "url": "https://wasmarcade.com/flash-games/monkey-go-happy",
       "swf": "https://wasmarcade.com/flash/swf/monkey-go-happy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/monkey-go-happy-450.webp",
+      "descripcion": "Monkey GO Happy is a 2008 puzzle adventure from Pencilkids and Robin Vencel about keeping a monkey entertained.",
+      "peso": 1136472,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2281,6 +2572,7 @@
       "url": "https://wasmarcade.com/flash-games/queenly-portrait-maker",
       "swf": "https://wasmarcade.com/flash/swf/queenly-portrait-maker.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/queenly-portrait-maker-450.webp",
+      "peso": 16551830,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2296,6 +2588,8 @@
       "url": "https://wasmarcade.com/flash-games/wolf-sheep-cabbage",
       "swf": "https://wasmarcade.com/flash/swf/wolf-sheep-cabbage.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/wolf-sheep-cabbage-450.webp",
+      "descripcion": "Wolf Sheep & Cabbage is a single-player logic puzzle from 2001, part of the Plastelina Logic Games series.",
+      "peso": 51696,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2311,6 +2605,8 @@
       "url": "https://wasmarcade.com/flash-games/bike-champ",
       "swf": "https://wasmarcade.com/flash/swf/bike-champ.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bike-champ-450.webp",
+      "descripcion": "Bike Champ is a 2009 sports game from 2DPlay that puts players on a motorcycle assault course.",
+      "peso": 2126565,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2325,6 +2621,8 @@
       "url": "https://wasmarcade.com/flash-games/crash-down",
       "swf": "https://wasmarcade.com/flash/swf/crash-down.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/crash-down-450.webp",
+      "descripcion": "Crash Down is a 2003 puzzle arcade game from MiniClip in which players race to clear squares as fast as they can.",
+      "peso": 250228,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2340,6 +2638,7 @@
       "url": "https://wasmarcade.com/flash-games/planet-racer",
       "swf": "https://wasmarcade.com/flash/swf/planet-racer.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/planet-racer-450.webp",
+      "peso": 1262899,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2354,6 +2653,8 @@
       "url": "https://wasmarcade.com/flash-games/qwop",
       "swf": "https://wasmarcade.com/flash/swf/qwop.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/qwop-450.webp",
+      "descripcion": "QWOP, Bennett Foddy's 2008 sports arcade game, challenges players to sprint 100 meters using four keyboard keys.",
+      "peso": 137929,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2368,6 +2669,7 @@
       "url": "https://wasmarcade.com/flash-games/fireys-candy-bar-adventure",
       "swf": "https://wasmarcade.com/flash/swf/fireys-candy-bar-adventure.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fireys-candy-bar-adventure-450.webp",
+      "peso": 232836,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2383,6 +2685,8 @@
       "url": "https://wasmarcade.com/flash-games/mario-combat-deluxe",
       "swf": "https://wasmarcade.com/flash/swf/mario-combat-deluxe.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-combat-deluxe-450.webp",
+      "descripcion": "Mario Combat Deluxe is a 2009 action platformer by Sun-Studios where players battle through stages toward a castle and a final clash with Bowser.",
+      "peso": 4884921,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2397,6 +2701,8 @@
       "url": "https://wasmarcade.com/flash-games/micro-sports",
       "swf": "https://wasmarcade.com/flash/swf/micro-sports.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/micro-sports-450.webp",
+      "descripcion": "Micro Sports is a 2009 sports mini-game collection from Mousebreaker and Tom Vencel with 30 timed levels to clear.",
+      "peso": 3146447,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2411,6 +2717,8 @@
       "url": "https://wasmarcade.com/flash-games/smash-palace",
       "swf": "https://wasmarcade.com/flash/swf/smash-palace.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/smash-palace-450.webp",
+      "descripcion": "Smash Palace is a top-down action driving game from BulletProof Arcade, released in 2013 for a single player.",
+      "peso": 12377384,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2425,6 +2733,8 @@
       "url": "https://wasmarcade.com/flash-games/elona-shooter",
       "swf": "https://wasmarcade.com/flash/swf/elona-shooter.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/elona-shooter-450.webp",
+      "descripcion": "Elona Shooter is a 2009 action shooter with RPG elements, offering eight playable classes and weapon customization.",
+      "peso": 2475691,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2439,6 +2749,8 @@
       "url": "https://wasmarcade.com/flash-games/scooby-doo-scooby-trap",
       "swf": "https://wasmarcade.com/flash/swf/scooby-doo-scooby-trap.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/scooby-doo-scooby-trap-450.webp",
+      "descripcion": "Scooby-Doo: Scooby Trap is a 2003 platformer from Cartoon Network in which Scooby navigates a series of tricks and traps.",
+      "peso": 835166,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2453,6 +2765,8 @@
       "url": "https://wasmarcade.com/flash-games/the-south-park-timmy-game",
       "swf": "https://wasmarcade.com/flash/swf/the-south-park-timmy-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-south-park-timmy-game-450.webp",
+      "descripcion": "The South Park Timmy Game is a 2001 action game from Comedy Central where Timmy navigates obstacles and gathers items.",
+      "peso": 1364592,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2467,6 +2781,8 @@
       "url": "https://wasmarcade.com/flash-games/edgy-wedgy-2",
       "swf": "https://wasmarcade.com/flash/swf/edgy-wedgy-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/edgy-wedgy-2-450.webp",
+      "descripcion": "Edgy Wedgy 2 is a 2000 arcade game from Teletoon, built for single-player sessions and part of the Edgy Wedgy series.",
+      "peso": 663607,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2481,6 +2797,8 @@
       "url": "https://wasmarcade.com/flash-games/fear-unlimited",
       "swf": "https://wasmarcade.com/flash/swf/fear-unlimited.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fear-unlimited-450.webp",
+      "descripcion": "Fear Unlimited is a 2005 action game from Dizimz in which players control Encon, a demon slayer armed with swords and guns.",
+      "peso": 6185270,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2495,6 +2813,7 @@
       "url": "https://wasmarcade.com/flash-games/minecraft-tower-defence",
       "swf": "https://wasmarcade.com/flash/swf/minecraft-tower-defence.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/minecraft-tower-defence-450.webp",
+      "peso": 3785651,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2510,6 +2829,8 @@
       "url": "https://wasmarcade.com/flash-games/raze-3",
       "swf": "https://wasmarcade.com/flash/swf/raze-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/raze-3-450.webp",
+      "descripcion": "Raze 3 is a 2014 action shooter from Sky9 Games that picks up the story where Raze 2 ended.",
+      "peso": 22838729,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2524,6 +2845,8 @@
       "url": "https://wasmarcade.com/flash-games/serious-santa",
       "swf": "https://wasmarcade.com/flash/swf/serious-santa.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/serious-santa-450.webp",
+      "descripcion": "Serious Santa is a 2006 arcade shooter by Josh Tuttle where Santa battles goblins across the north pole with a small weapons arsenal.",
+      "peso": 2714645,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2538,6 +2861,8 @@
       "url": "https://wasmarcade.com/flash-games/the-amazing-world-of-gumball-water-sons",
       "swf": "https://wasmarcade.com/flash/swf/the-amazing-world-of-gumball-water-sons.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-amazing-world-of-gumball-water-sons-450.webp",
+      "descripcion": "The Amazing World of Gumball: Water Sons is a 2014 Cartoon Network artillery puzzle game played from a side view.",
+      "peso": 3726251,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2553,6 +2878,7 @@
       "url": "https://wasmarcade.com/flash-games/fireboy-and-watergirl-dark-temple",
       "swf": "https://wasmarcade.com/flash/swf/fireboy-and-watergirl-dark-temple.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fireboy-and-watergirl-dark-temple-450.webp",
+      "peso": 1760592,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2568,6 +2894,8 @@
       "url": "https://wasmarcade.com/flash-games/fleabag-vs-mutt",
       "swf": "https://wasmarcade.com/flash/swf/fleabag-vs-mutt.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fleabag-vs-mutt-450.webp",
+      "descripcion": "Fleabag vs. Mutt is a 2000 cartoon artillery action game from Gametuner, pitting cat against dog in a side-view duel.",
+      "peso": 217575,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2582,6 +2910,8 @@
       "url": "https://wasmarcade.com/flash-games/papas-burgeria",
       "swf": "https://wasmarcade.com/flash/swf/papas-burgeria.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/papas-burgeria-450.webp",
+      "descripcion": "Papa's Burgeria is a 2010 simulation game from Flipline Studios where players cook and stack burgers for demanding customers.",
+      "peso": 3814175,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2597,6 +2927,8 @@
       "url": "https://wasmarcade.com/flash-games/sift-heads-world-act-1",
       "swf": "https://wasmarcade.com/flash/swf/sift-heads-world-act-1.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sift-heads-world-act-1-450.webp",
+      "descripcion": "Sift Heads World: Act 1 is a 2010 stick-figure shooter from PopBrain in which Vinnie, Shorty and Kiro take on the Italian Mafia.",
+      "peso": 5574983,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2611,6 +2943,7 @@
       "url": "https://wasmarcade.com/flash-games/tank-trouble",
       "swf": "https://wasmarcade.com/flash/swf/tank-trouble.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/tank-trouble-450.webp",
+      "peso": 157832,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2625,6 +2958,8 @@
       "url": "https://wasmarcade.com/flash-games/outdoor-basketball",
       "swf": "https://wasmarcade.com/flash/swf/outdoor-basketball.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/outdoor-basketball-450.webp",
+      "descripcion": "Outdoor Basketball is a 2014 sports game from Bit of Games where players pick a mode and try to score as many points as possible.",
+      "peso": 1836822,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2639,6 +2974,8 @@
       "url": "https://wasmarcade.com/flash-games/potty-racers-ii",
       "swf": "https://wasmarcade.com/flash/swf/potty-racers-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/potty-racers-ii-450.webp",
+      "descripcion": "Potty Racers II is a 2010 arcade launch game from Gonzo Games where players send a porta-potty through the air on a new island.",
+      "peso": 3726900,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2653,6 +2990,8 @@
       "url": "https://wasmarcade.com/flash-games/territory-war",
       "swf": "https://wasmarcade.com/flash/swf/territory-war.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/territory-war-450.webp",
+      "descripcion": "Territory War is a 2006 strategy shooter from Shawn Tanner and Afro-Ninja Productions with mission, challenge and custom battle modes.",
+      "peso": 1005978,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2668,6 +3007,8 @@
       "url": "https://wasmarcade.com/flash-games/cyclomaniacs",
       "swf": "https://wasmarcade.com/flash/swf/cyclomaniacs.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cyclomaniacs-450.webp",
+      "descripcion": "Cyclomaniacs is a 2009 sports racing game from LongAnimals where players steer a bike and hop over obstacles.",
+      "peso": 4384598,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2682,6 +3023,8 @@
       "url": "https://wasmarcade.com/flash-games/grand-theft-grotto",
       "swf": "https://wasmarcade.com/flash/swf/grand-theft-grotto.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/grand-theft-grotto-450.webp",
+      "descripcion": "Grand Theft Grotto is a 2008 arcade game from Presence Multimedia and Steve Rutherford where arrow keys guide a character to collect presents.",
+      "peso": 1277962,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2696,6 +3039,8 @@
       "url": "https://wasmarcade.com/flash-games/pico-vs-uberkids",
       "swf": "https://wasmarcade.com/flash/swf/pico-vs-uberkids.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pico-vs-uberkids-450.webp",
+      "descripcion": "Pico vs. Uberkids is a 2000 adventure game from Tom Fulp in which Pico faces genetically engineered rivals in Rock Paper Scissors Roulette.",
+      "peso": 228536,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2711,6 +3056,8 @@
       "url": "https://wasmarcade.com/flash-games/sas-zombie-assault",
       "swf": "https://wasmarcade.com/flash/swf/sas-zombie-assault.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sas-zombie-assault-450.webp",
+      "descripcion": "SAS: Zombie Assault is a 2008 shooter from Ninja Kiwi where players hold out against wave after wave of undead attackers.",
+      "peso": 2146020,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2725,6 +3072,8 @@
       "url": "https://wasmarcade.com/flash-games/stealth-hunter",
       "swf": "https://wasmarcade.com/flash/swf/stealth-hunter.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/stealth-hunter-450.webp",
+      "descripcion": "Stealth Hunter is a single-player action game from 2DPlay, played from an axonometric view with pre-rendered 3D visuals and a stealth theme.",
+      "peso": 1288439,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2739,6 +3088,7 @@
       "url": "https://wasmarcade.com/flash-games/whip-the-worker",
       "swf": "https://wasmarcade.com/flash/swf/whip-the-worker.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/whip-the-worker-450.webp",
+      "peso": 428410,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2753,6 +3103,8 @@
       "url": "https://wasmarcade.com/flash-games/combat-instinct-3",
       "swf": "https://wasmarcade.com/flash/swf/combat-instinct-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/combat-instinct-3-450.webp",
+      "descripcion": "Combat Instinct 3 is a 2002 shooter by McFretN, offering the full game with enhanced audio and two hidden weapons.",
+      "peso": 3881052,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2767,6 +3119,8 @@
       "url": "https://wasmarcade.com/flash-games/dolphin-olympics-2",
       "swf": "https://wasmarcade.com/flash/swf/dolphin-olympics-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dolphin-olympics-2-450.webp",
+      "descripcion": "Dolphin Olympics 2 is a 2007 arcade game where players guide a dolphin through two minutes of swimming and tricks for points.",
+      "peso": 778607,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2781,6 +3135,8 @@
       "url": "https://wasmarcade.com/flash-games/shift-3",
       "swf": "https://wasmarcade.com/flash/swf/shift-3.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/shift-3-450.webp",
+      "descripcion": "SHIFT 3 is a 2008 puzzle platformer from Armor Games and Antony Lavelle, continuing the series with an adventure mode and classic levels.",
+      "peso": 1020094,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2796,6 +3152,8 @@
       "url": "https://wasmarcade.com/flash-games/i-will-not-ever-never-eat-that-lunch",
       "swf": "https://wasmarcade.com/flash/swf/i-will-not-ever-never-eat-that-lunch.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/i-will-not-ever-never-eat-that-lunch-450.webp",
+      "descripcion": "I Will Not Ever Never Eat That Lunch is a 2005 Playhouse Disney adventure and visual novel game based on Charlie and Lola.",
+      "peso": 3912885,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2811,6 +3169,8 @@
       "url": "https://wasmarcade.com/flash-games/ragdoll-invaders",
       "swf": "https://wasmarcade.com/flash/swf/ragdoll-invaders.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ragdoll-invaders-450.webp",
+      "descripcion": "Ragdoll Invaders is a 2007 arcade shooter from Rag Doll Software and Matteo Guarnieri with stick-figure ragdoll action.",
+      "peso": 3079773,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2825,6 +3185,8 @@
       "url": "https://wasmarcade.com/flash-games/bubble-spinner",
       "swf": "https://wasmarcade.com/flash/swf/bubble-spinner.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bubble-spinner-450.webp",
+      "descripcion": "Bubble Spinner, a puzzle game where players build the largest possible group of bubbles while avoiding red edges.",
+      "peso": 1011460,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2840,6 +3202,7 @@
       "url": "https://wasmarcade.com/flash-games/cartoon-network-snowbrawl-fight",
       "swf": "https://wasmarcade.com/flash/swf/cartoon-network-snowbrawl-fight.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cartoon-network-snowbrawl-fight-450.webp",
+      "peso": 7149788,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2854,6 +3217,8 @@
       "url": "https://wasmarcade.com/flash-games/coaster-racer",
       "swf": "https://wasmarcade.com/flash/swf/coaster-racer.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/coaster-racer-450.webp",
+      "descripcion": "Coaster Racer is a 2010 sports racing game from LongAnimals where sixteen rivals compete on roller coaster-style tracks.",
+      "peso": 4355658,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2868,6 +3233,8 @@
       "url": "https://wasmarcade.com/flash-games/double-wires",
       "swf": "https://wasmarcade.com/flash/swf/double-wires.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/double-wires-450.webp",
+      "descripcion": "Double Wires is a 2006 arcade physics game from JayIsGames and D_of_I where a stick figure swings through a side-view course using only the mouse.",
+      "peso": 30391,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2883,6 +3250,8 @@
       "url": "https://wasmarcade.com/flash-games/arcane-the-armor-collector",
       "swf": "https://wasmarcade.com/flash/swf/arcane-the-armor-collector.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/arcane-the-armor-collector-450.webp",
+      "descripcion": "Arcane: The Armor Collector is a 2008 action RPG where players battle through medieval-style arenas with bows, swords, axes and more.",
+      "peso": 5652673,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2897,6 +3266,8 @@
       "url": "https://wasmarcade.com/flash-games/boxhead-the-zombie-wars",
       "swf": "https://wasmarcade.com/flash/swf/boxhead-the-zombie-wars.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/boxhead-the-zombie-wars-450.webp",
+      "descripcion": "Boxhead: The Zombie Wars is a 2008 top-down shooter from Sean Cooper where players fight off hordes of the undead and build defenses.",
+      "peso": 2643846,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2911,6 +3282,7 @@
       "url": "https://wasmarcade.com/flash-games/dont-shoot-the-puppy",
       "swf": "https://wasmarcade.com/flash/swf/dont-shoot-the-puppy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dont-shoot-the-puppy-450.webp",
+      "peso": 61824,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2925,6 +3297,8 @@
       "url": "https://wasmarcade.com/flash-games/governor-of-poker",
       "swf": "https://wasmarcade.com/flash/swf/governor-of-poker.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/governor-of-poker-450.webp",
+      "descripcion": "Governor of Poker is a 2008 single-player simulation from Youda Games that mixes poker playing with a Western setting.",
+      "peso": 6566026,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -2940,6 +3314,8 @@
       "url": "https://wasmarcade.com/flash-games/hedgehog-launch-2",
       "swf": "https://wasmarcade.com/flash/swf/hedgehog-launch-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hedgehog-launch-2-450.webp",
+      "descripcion": "Hedgehog Launch 2 is a 2009 arcade game by John Cooney in which a hedgehog is fired through the planet's core and out toward deep space.",
+      "peso": 3811369,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2954,6 +3330,8 @@
       "url": "https://wasmarcade.com/flash-games/hobo-prison-brawl",
       "swf": "https://wasmarcade.com/flash/swf/hobo-prison-brawl.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hobo-prison-brawl-450.webp",
+      "descripcion": "Hobo Prison Brawl is a 2009 action game from SeethingSwarm in which a hobo fights prisoners, guards and the government.",
+      "peso": 5147172,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2968,6 +3346,8 @@
       "url": "https://wasmarcade.com/flash-games/hungry-knight",
       "swf": "https://wasmarcade.com/flash/swf/hungry-knight.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hungry-knight-450.webp",
+      "descripcion": "Hungry Knight is a 2014 action game from Team Cherry in which a small adventurer battles through a hostile wasteland while staying fed.",
+      "peso": 16457496,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2982,6 +3362,8 @@
       "url": "https://wasmarcade.com/flash-games/my-friend-pedro",
       "swf": "https://wasmarcade.com/flash/swf/my-friend-pedro.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/my-friend-pedro-450.webp",
+      "descripcion": "My Friend Pedro is a 2014 single-player shooter from DeadToast Entertainment, part of the My Friend Pedro series.",
+      "peso": 3965928,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -2996,6 +3378,8 @@
       "url": "https://wasmarcade.com/flash-games/newgrounds-rumble",
       "swf": "https://wasmarcade.com/flash/swf/newgrounds-rumble.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/newgrounds-rumble-450.webp",
+      "descripcion": "Newgrounds Rumble is a 2007 action fighting game from developer Aaron Worrall where characters from the site battle it out.",
+      "peso": 9018097,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3010,6 +3394,8 @@
       "url": "https://wasmarcade.com/flash-games/nick-jr-mailbox",
       "swf": "https://wasmarcade.com/flash/swf/nick-jr-mailbox.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/nick-jr-mailbox-450.webp",
+      "descripcion": "Nick Jr. Mailbox is a 2001 educational game for young children from Nick Jr. in which familiar characters appear in a single-player mailbox activity.",
+      "peso": 408525,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3025,6 +3411,8 @@
       "url": "https://wasmarcade.com/flash-games/penguin-diner-2",
       "swf": "https://wasmarcade.com/flash/swf/penguin-diner-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/penguin-diner-2-450.webp",
+      "descripcion": "Penguin Diner 2 is a 2010 simulation game where players seat penguin customers, take orders, and serve food before the 9pm closing time.",
+      "peso": 2320642,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3040,6 +3428,8 @@
       "url": "https://wasmarcade.com/flash-games/sindicate",
       "swf": "https://wasmarcade.com/flash/swf/sindicate.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sindicate-450.webp",
+      "descripcion": "Sindicate is a 2007 gang simulation by Adam Telfer where players run a criminal crew, seize stores, and battle for territory.",
+      "peso": 4260780,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3055,6 +3445,8 @@
       "url": "https://wasmarcade.com/flash-games/the-binding-of-isaac-demo",
       "swf": "https://wasmarcade.com/flash/swf/the-binding-of-isaac-demo.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-binding-of-isaac-demo-450.webp",
+      "descripcion": "The Binding of Isaac Demo is a 2011 action adventure by Edmund McMillen and Florian Himsl, offering two of the full game's eight levels.",
+      "peso": 9253069,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3070,6 +3462,8 @@
       "url": "https://wasmarcade.com/flash-games/warfare-1944",
       "swf": "https://wasmarcade.com/flash/swf/warfare-1944.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/warfare-1944-450.webp",
+      "descripcion": "Warfare 1944 is a 2009 strategy game from ConArtists where U.S. forces battle the German Wehrmacht in Normandy.",
+      "peso": 8653031,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3085,6 +3479,8 @@
       "url": "https://wasmarcade.com/flash-games/warlords-heroes",
       "swf": "https://wasmarcade.com/flash/swf/warlords-heroes.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/warlords-heroes-450.webp",
+      "descripcion": "Warlords: Heroes is a 2008 action game by Ben Olding where players fight through four fantasy episodes, buying moves and hiring henchmen.",
+      "peso": 6090743,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3099,6 +3495,8 @@
       "url": "https://wasmarcade.com/flash-games/whack-your-ex",
       "swf": "https://wasmarcade.com/flash/swf/whack-your-ex.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/whack-your-ex-450.webp",
+      "descripcion": "Whack Your Ex is a 2007 comedy adventure by Tom Winkler where players act out relationship revenge fantasies through a menu.",
+      "peso": 1796896,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3114,6 +3512,8 @@
       "url": "https://wasmarcade.com/flash-games/celebrity-fight-club",
       "swf": "https://wasmarcade.com/flash/swf/celebrity-fight-club.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/celebrity-fight-club-450.webp",
+      "descripcion": "Celebrity Fight Club is a 2002 single-player action game from TechRadium Studios that pits famous figures against each other in first-person combat.",
+      "peso": 434356,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3128,6 +3528,8 @@
       "url": "https://wasmarcade.com/flash-games/edgy-wedgy",
       "swf": "https://wasmarcade.com/flash/swf/edgy-wedgy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/edgy-wedgy-450.webp",
+      "descripcion": "Edgy Wedgy is a 1999 single-player arcade game from Teletoon, part of the Edgy Wedgy series.",
+      "peso": 341177,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3142,6 +3544,8 @@
       "url": "https://wasmarcade.com/flash-games/flakboy",
       "swf": "https://wasmarcade.com/flash/swf/flakboy.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/flakboy-450.webp",
+      "descripcion": "Flakboy is a 2010 physics puzzle game from Spil Games where players experiment with a ragdoll in a fixed-screen sandbox.",
+      "peso": 3612144,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3157,6 +3561,7 @@
       "url": "https://wasmarcade.com/flash-games/flea",
       "swf": "https://wasmarcade.com/flash/swf/flea.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/flea-450.webp",
+      "peso": 937767,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3171,6 +3576,8 @@
       "url": "https://wasmarcade.com/flash-games/pogo-panic",
       "swf": "https://wasmarcade.com/flash/swf/pogo-panic.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/pogo-panic-450.webp",
+      "descripcion": "Pogo Panic is a 2006 arcade side-view game from Corus Entertainment, built around a single-player time-attack challenge.",
+      "peso": 1729715,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3185,6 +3592,8 @@
       "url": "https://wasmarcade.com/flash-games/redball1",
       "swf": "https://wasmarcade.com/flash/swf/redball1.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/redball1-450.webp",
+      "descripcion": "Redball is a platformer where a bouncing red ball rolls through portals, dodging red ones and using black and yellow ones.",
+      "peso": 888452,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3199,6 +3608,8 @@
       "url": "https://wasmarcade.com/flash-games/blind-fooled",
       "swf": "https://wasmarcade.com/flash/swf/blind-fooled.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/blind-fooled-450.webp",
+      "descripcion": "The Amazing World of Gumball: Blind Fooled is a 2012 single-player puzzle platformer from Cartoon Network and The Podge.",
+      "peso": 3749630,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3214,6 +3625,8 @@
       "url": "https://wasmarcade.com/flash-games/toon-cup-2006",
       "swf": "https://wasmarcade.com/flash/swf/toon-cup-2006.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/toon-cup-2006-450.webp",
+      "descripcion": "Toon Cup 2006 is a single-player sports game from Cartoon Network where characters from several animated series take part in soccer matches.",
+      "peso": 478777,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3228,6 +3641,7 @@
       "url": "https://wasmarcade.com/flash-games/transylmania-ii",
       "swf": "https://wasmarcade.com/flash/swf/transylmania-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/transylmania-ii-450.webp",
+      "peso": 2730897,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3242,6 +3656,8 @@
       "url": "https://wasmarcade.com/flash-games/red-code-2",
       "swf": "https://wasmarcade.com/flash/swf/red-code-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/red-code-2-450.webp",
+      "descripcion": "Red Code 2 is a 2009 action shooter from PlayStival where a trooper defends beacons against an alien insect horde.",
+      "peso": 8335709,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3256,6 +3672,8 @@
       "url": "https://wasmarcade.com/flash-games/super-stacker-2",
       "swf": "https://wasmarcade.com/flash/swf/super-stacker-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/super-stacker-2-450.webp",
+      "descripcion": "Super Stacker 2 is a 2009 puzzle game by Gaz Thomas where players balance shapes into a stable tower across dozens of levels.",
+      "peso": 1466179,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3271,6 +3689,7 @@
       "url": "https://wasmarcade.com/flash-games/zed",
       "swf": "https://wasmarcade.com/flash/swf/zed.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/zed-450.webp",
+      "peso": 1168755,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3285,6 +3704,8 @@
       "url": "https://wasmarcade.com/flash-games/a-small-favor",
       "swf": "https://wasmarcade.com/flash/swf/a-small-favor.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/a-small-favor-450.webp",
+      "descripcion": "A Small Favor is a 2009 adventure game from Zeebarf and RiftMaster about an alien assassin sent to kill a Senator.",
+      "peso": 5036300,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3300,6 +3721,8 @@
       "url": "https://wasmarcade.com/flash-games/haunt-the-house",
       "swf": "https://wasmarcade.com/flash/swf/haunt-the-house.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/haunt-the-house-450.webp",
+      "descripcion": "Haunt the House is a 2010 arcade game by The Super Flash Bros where a ghost scares party guests out of its home.",
+      "peso": 2735150,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3314,6 +3737,8 @@
       "url": "https://wasmarcade.com/flash-games/mario-remix-boss-edition",
       "swf": "https://wasmarcade.com/flash/swf/mario-remix-boss-edition.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-remix-boss-edition-450.webp",
+      "descripcion": "Mario Remix: Boss Edition is a 2008 adventure game from Greg Vottero where players face 35 bosses from past series.",
+      "peso": 9288225,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3329,6 +3754,8 @@
       "url": "https://wasmarcade.com/flash-games/monster-brawl",
       "swf": "https://wasmarcade.com/flash/swf/monster-brawl.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/monster-brawl-450.webp",
+      "descripcion": "Monster Brawl is a 2014 strategy action game from Godlimations where two players can fight using mouse and keyboard controls.",
+      "peso": 5069589,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3344,6 +3771,8 @@
       "url": "https://wasmarcade.com/flash-games/sin-mark",
       "swf": "https://wasmarcade.com/flash/swf/sin-mark.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sin-mark-450.webp",
+      "descripcion": "Sin Mark is a 2009 action RPG adventure in which Akahn travels toward the origin of a persistent evil.",
+      "peso": 6314135,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3359,6 +3788,7 @@
       "url": "https://wasmarcade.com/flash-games/toms-trap-o-matic",
       "swf": "https://wasmarcade.com/flash/swf/toms-trap-o-matic.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/toms-trap-o-matic-450.webp",
+      "peso": 1499215,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3374,6 +3804,8 @@
       "url": "https://wasmarcade.com/flash-games/bush-shoot-out",
       "swf": "https://wasmarcade.com/flash/swf/bush-shoot-out.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bush-shoot-out-450.webp",
+      "descripcion": "Bush Shoot-Out is a 2004 single-player shooter from MiniClip in which the player must get Bush and Condoleezza out of the White House alive.",
+      "peso": 1957087,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3388,6 +3820,8 @@
       "url": "https://wasmarcade.com/flash-games/superfighters",
       "swf": "https://wasmarcade.com/flash/swf/superfighters.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/superfighters-450.webp",
+      "descripcion": "Superfighters is a chaotic 2011 action platformer by Mythologic Interactive where tiny fighters shoot, stab and smash each other.",
+      "peso": 3051851,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3402,6 +3836,8 @@
       "url": "https://wasmarcade.com/flash-games/the-flood-runner",
       "swf": "https://wasmarcade.com/flash/swf/the-flood-runner.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-flood-runner-450.webp",
+      "descripcion": "The Flood Runner is a 2010 arcade runner from Ben Rad Vinyl, part of the Flood Runner series and built for single-player play.",
+      "peso": 491997,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3416,6 +3852,8 @@
       "url": "https://wasmarcade.com/flash-games/windows-xp-parody",
       "swf": "https://wasmarcade.com/flash/swf/windows-xp-parody.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/windows-xp-parody-450.webp",
+      "descripcion": "Windows XP Parody is a 2002 simulation from Smoothstudios that recreates the look of the operating system with sounds, icons, and a start menu.",
+      "peso": 399291,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3431,6 +3869,7 @@
       "url": "https://wasmarcade.com/flash-games/a-koopas-revenge",
       "swf": "https://wasmarcade.com/flash/swf/a-koopas-revenge.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/a-koopas-revenge-450.webp",
+      "peso": 2286117,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3445,6 +3884,8 @@
       "url": "https://wasmarcade.com/flash-games/drivers-ed-direct-parking-game",
       "swf": "https://wasmarcade.com/flash/swf/drivers-ed-direct-parking-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/drivers-ed-direct-parking-game-450.webp",
+      "descripcion": "Drivers Ed Direct: Parking Game is a 2006 simulation that lets players practice parallel parking and lot challenges.",
+      "peso": 1331927,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3460,6 +3901,7 @@
       "url": "https://wasmarcade.com/flash-games/radio-zed",
       "swf": "https://wasmarcade.com/flash/swf/radio-zed.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/radio-zed-450.webp",
+      "peso": 1565562,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3474,6 +3916,8 @@
       "url": "https://wasmarcade.com/flash-games/scooby-doo-and-the-creepy-castle",
       "swf": "https://wasmarcade.com/flash/swf/scooby-doo-and-the-creepy-castle.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/scooby-doo-and-the-creepy-castle-450.webp",
+      "descripcion": "Scooby-Doo and the Creepy Castle is a 2003 Cartoon Network puzzle game where players help Scooby rescue the gang.",
+      "peso": 881047,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3489,6 +3933,8 @@
       "url": "https://wasmarcade.com/flash-games/treasure-seas-incorporated",
       "swf": "https://wasmarcade.com/flash/swf/treasure-seas-incorporated.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/treasure-seas-incorporated-450.webp",
+      "descripcion": "Treasure Seas Incorporated is a 2008 arcade action game from Felix Wiesner where players upgrade a submarine and search for treasure.",
+      "peso": 2439562,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3503,6 +3949,8 @@
       "url": "https://wasmarcade.com/flash-games/choose-your-weapon-2",
       "swf": "https://wasmarcade.com/flash/swf/choose-your-weapon-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/choose-your-weapon-2-450.webp",
+      "descripcion": "Choose Your Weapon 2 is a 2008 arcade action game from Glowmonkey, part of the Choose your Weapon series and played solo.",
+      "peso": 2725330,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3517,6 +3965,8 @@
       "url": "https://wasmarcade.com/flash-games/ducklife-4",
       "swf": "https://wasmarcade.com/flash/swf/ducklife-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ducklife-4-450.webp",
+      "descripcion": "DuckLife 4 is a 2012 simulation game from Wix Games where players raise and prepare ducks for racing competition.",
+      "peso": 8872475,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3532,6 +3982,8 @@
       "url": "https://wasmarcade.com/flash-games/field-command",
       "swf": "https://wasmarcade.com/flash/swf/field-command.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/field-command-450.webp",
+      "descripcion": "Field Command is a 2005 strategy game by BARMan in which the player directs troops toward victory in Vietnam.",
+      "peso": 3159805,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3547,6 +3999,8 @@
       "url": "https://wasmarcade.com/flash-games/guy-of-my-dreams",
       "swf": "https://wasmarcade.com/flash/swf/guy-of-my-dreams.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/guy-of-my-dreams-450.webp",
+      "descripcion": "Guy of My Dreams is a 2010 arcade game by Nerdook where players search for their ideal man and gather Happiness before turning 50.",
+      "peso": 1981572,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3561,6 +4015,8 @@
       "url": "https://wasmarcade.com/flash-games/legends-of-kong",
       "swf": "https://wasmarcade.com/flash/swf/legends-of-kong.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/legends-of-kong-450.webp",
+      "descripcion": "Legends of Kong is a 2011 action platformer RPG from Nerdook in which a party crosses a randomly generated city.",
+      "peso": 2392111,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3575,6 +4031,8 @@
       "url": "https://wasmarcade.com/flash-games/mario-mushroom-adventure-2",
       "swf": "https://wasmarcade.com/flash/swf/mario-mushroom-adventure-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-mushroom-adventure-2-450.webp",
+      "descripcion": "Mario Mushroom Adventure 2 is a 2013 platformer from King of Games that continues the mushroom-themed journey of its predecessor.",
+      "peso": 3037741,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3589,6 +4047,8 @@
       "url": "https://wasmarcade.com/flash-games/sesame-street-dress-grover",
       "swf": "https://wasmarcade.com/flash/swf/sesame-street-dress-grover.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sesame-street-dress-grover-450.webp",
+      "descripcion": "Sesame Street: Dress Grover is a 2002 creative dress-up toy from Sesame Workshop for one player.",
+      "peso": 325114,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3604,6 +4064,7 @@
       "url": "https://wasmarcade.com/flash-games/the-skullkid",
       "swf": "https://wasmarcade.com/flash/swf/the-skullkid.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-skullkid-450.webp",
+      "peso": 718523,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3618,6 +4079,8 @@
       "url": "https://wasmarcade.com/flash-games/airport-tycoon",
       "swf": "https://wasmarcade.com/flash/swf/airport-tycoon.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/airport-tycoon-450.webp",
+      "descripcion": "Airport Tycoon is a 2008 simulation game from Mousebreaker in which the player takes charge of running an airport.",
+      "peso": 217429,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3633,6 +4096,8 @@
       "url": "https://wasmarcade.com/flash-games/demolition-city",
       "swf": "https://wasmarcade.com/flash/swf/demolition-city.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/demolition-city-450.webp",
+      "descripcion": "Demolition City is a 2009 puzzle game from Armor Games and Joey Betz where dynamite brings down towers level by level.",
+      "peso": 1914948,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3648,6 +4113,8 @@
       "url": "https://wasmarcade.com/flash-games/mario-mushroom-adventure",
       "swf": "https://wasmarcade.com/flash/swf/mario-mushroom-adventure.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-mushroom-adventure-450.webp",
+      "descripcion": "Mario Mushroom Adventure is a 2013 platformer from King of Games, sending players through a land of mushrooms across many levels.",
+      "peso": 2696475,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3662,6 +4129,7 @@
       "url": "https://wasmarcade.com/flash-games/mini-putt",
       "swf": "https://wasmarcade.com/flash/swf/mini-putt.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mini-putt-450.webp",
+      "peso": 884255,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3676,6 +4144,8 @@
       "url": "https://wasmarcade.com/flash-games/rooney-on-the-rampage",
       "swf": "https://wasmarcade.com/flash/swf/rooney-on-the-rampage.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/rooney-on-the-rampage-450.webp",
+      "descripcion": "Rooney on the Rampage is a 2006 single-player sports game from 2DPlay that mixes soccer with a running challenge.",
+      "peso": 910199,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3690,6 +4160,7 @@
       "url": "https://wasmarcade.com/flash-games/spongebob-squarepants-dutchmans-dash",
       "swf": "https://wasmarcade.com/flash/swf/spongebob-squarepants-dutchmans-dash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spongebob-squarepants-dutchmans-dash-450.webp",
+      "peso": 3070209,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3704,6 +4175,8 @@
       "url": "https://wasmarcade.com/flash-games/straw-hat-samurai",
       "swf": "https://wasmarcade.com/flash/swf/straw-hat-samurai.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/straw-hat-samurai-450.webp",
+      "descripcion": "Straw Hat Samurai is a 2008 action game by lutc that centers on sword-fighting combat with heavy slashing and blood.",
+      "peso": 898004,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3718,6 +4191,8 @@
       "url": "https://wasmarcade.com/flash-games/attack-of-the-puppybots",
       "swf": "https://wasmarcade.com/flash/swf/attack-of-the-puppybots.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/attack-of-the-puppybots-450.webp",
+      "descripcion": "The Powerpuff Girls: Attack of the Puppybots is a 2007 side-scrolling action shooter from Cartoon Network and Bamtang.",
+      "peso": 1270459,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3732,6 +4207,8 @@
       "url": "https://wasmarcade.com/flash-games/xiao-xiao-no-6",
       "swf": "https://wasmarcade.com/flash/swf/xiao-xiao-no-6.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/xiao-xiao-no-6-450.webp",
+      "descripcion": "Xiao Xiao No. 6 is a 2002 action game by Zhu Zhiqiang in which rapid space bar presses drive an interactive fight.",
+      "peso": 314489,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3746,6 +4223,8 @@
       "url": "https://wasmarcade.com/flash-games/grow-rpg",
       "swf": "https://wasmarcade.com/flash/swf/grow-rpg.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/grow-rpg-450.webp",
+      "descripcion": "GROW RPG is a 2005 single-player adventure from Eyezmaze and On Nakayama, with hidden content and multiple endings to uncover.",
+      "peso": 656653,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3761,6 +4240,8 @@
       "url": "https://wasmarcade.com/flash-games/spongebob-squarepants-boo-or-boom",
       "swf": "https://wasmarcade.com/flash/swf/spongebob-squarepants-boo-or-boom.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spongebob-squarepants-boo-or-boom-450.webp",
+      "descripcion": "SpongeBob SquarePants: Boo or Boom is a 2007 Nickelodeon arcade game with a Halloween theme and single-player bomb maze action.",
+      "peso": 1841027,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3775,6 +4256,7 @@
       "url": "https://wasmarcade.com/flash-games/ducklife3-evolution",
       "swf": "https://wasmarcade.com/flash/swf/ducklife3-evolution.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ducklife3-evolution-450.webp",
+      "peso": 6051049,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3790,6 +4272,7 @@
       "url": "https://wasmarcade.com/flash-games/marios-adventure-2",
       "swf": "https://wasmarcade.com/flash/swf/marios-adventure-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/marios-adventure-2-450.webp",
+      "peso": 3527851,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3804,6 +4287,7 @@
       "url": "https://wasmarcade.com/flash-games/milk-the-cow",
       "swf": "https://wasmarcade.com/flash/swf/milk-the-cow.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/milk-the-cow-450.webp",
+      "peso": 480870,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3818,6 +4302,8 @@
       "url": "https://wasmarcade.com/flash-games/adventure-time-jumping-finn",
       "swf": "https://wasmarcade.com/flash/swf/adventure-time-jumping-finn.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/adventure-time-jumping-finn-450.webp",
+      "descripcion": "Adventure Time: Jumping Finn is a 2011 arcade launch game where players fling Finn toward the Ice Kingdom to rescue Princess Bubblegum.",
+      "peso": 6851962,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3832,6 +4318,7 @@
       "url": "https://wasmarcade.com/flash-games/battleships-general-quarters-ii",
       "swf": "https://wasmarcade.com/flash/swf/battleships-general-quarters-ii.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/battleships-general-quarters-ii-450.webp",
+      "peso": 377909,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3847,6 +4334,8 @@
       "url": "https://wasmarcade.com/flash-games/cartoon-cove-mini-golf",
       "swf": "https://wasmarcade.com/flash/swf/cartoon-cove-mini-golf.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/cartoon-cove-mini-golf-450.webp",
+      "descripcion": "Cartoon Network: Cartoon Cove Mini Golf is a 2003 sports game with nine cartoon-themed holes on a tropical island.",
+      "peso": 1940451,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3861,6 +4350,8 @@
       "url": "https://wasmarcade.com/flash-games/escape",
       "swf": "https://wasmarcade.com/flash/swf/escape.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/escape-450.webp",
+      "descripcion": "Escape is a 2007 vertical wall-jumper from Godlimations where the only direction is upward.",
+      "peso": 9989648,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3876,6 +4367,8 @@
       "url": "https://wasmarcade.com/flash-games/icarly-ispace-out",
       "swf": "https://wasmarcade.com/flash/swf/icarly-ispace-out.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/icarly-ispace-out-450.webp",
+      "descripcion": "iCarly: iSpace Out is a 2010 Nickelodeon arcade action game where players take on a run 'n' gun challenge in a score-attack format.",
+      "peso": 1559016,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3890,6 +4383,8 @@
       "url": "https://wasmarcade.com/flash-games/mario-cart",
       "swf": "https://wasmarcade.com/flash/swf/mario-cart.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-cart-450.webp",
+      "descripcion": "Mario Cart is a 2012 single-player 3D racing game from KillHours with a third-person view and Super Mario theme.",
+      "peso": 5964457,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3904,6 +4399,8 @@
       "url": "https://wasmarcade.com/flash-games/mario-cart-2",
       "swf": "https://wasmarcade.com/flash/swf/mario-cart-2.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/mario-cart-2-450.webp",
+      "descripcion": "Mario Cart 2 is a 3D racing game from developer KillHours, released in 2012, in which a single player takes the wheel for solo driving action.",
+      "peso": 5689129,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3918,6 +4415,8 @@
       "url": "https://wasmarcade.com/flash-games/sports-heads-football",
       "swf": "https://wasmarcade.com/flash/swf/sports-heads-football.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/sports-heads-football-450.webp",
+      "descripcion": "Sports Heads: Football is a side-view cartoon soccer game from 2011 by Mousebreaker, playable solo or against another player.",
+      "peso": 1301617,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3932,6 +4431,8 @@
       "url": "https://wasmarcade.com/flash-games/teen-titans-go-grab-that-grub",
       "swf": "https://wasmarcade.com/flash/swf/teen-titans-go-grab-that-grub.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/teen-titans-go-grab-that-grub-450.webp",
+      "descripcion": "Teen Titans Go! Grab that Grub is a 2013 side-view platformer from Cartoon Network, played solo and based on the animated series.",
+      "peso": 8314501,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -3946,6 +4447,8 @@
       "url": "https://wasmarcade.com/flash-games/the-backyardigans-adventure-maker",
       "swf": "https://wasmarcade.com/flash/swf/the-backyardigans-adventure-maker.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-backyardigans-adventure-maker-450.webp",
+      "descripcion": "The Backyardigans: Adventure Maker lets kids pick Uniqua, Tyrone or Pablo and send them to one of four places.",
+      "peso": 2267351,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3961,6 +4464,8 @@
       "url": "https://wasmarcade.com/flash-games/digimon-ruki",
       "swf": "https://wasmarcade.com/flash/swf/digimon-ruki.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/digimon-ruki-450.webp",
+      "descripcion": "Digimon Ruki is a 2010 dress-up game in which players style Ruki Makino, the fashion model's daughter from the Digimon cartoon.",
+      "peso": 110288,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3976,6 +4481,8 @@
       "url": "https://wasmarcade.com/flash-games/ducklife",
       "swf": "https://wasmarcade.com/flash/swf/ducklife.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ducklife-450.webp",
+      "descripcion": "DuckLife is a 2010 simulation and arcade game from Wix Games where a duckling is trained to race and save the farm.",
+      "peso": 1282227,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -3991,6 +4498,8 @@
       "url": "https://wasmarcade.com/flash-games/effing-worms",
       "swf": "https://wasmarcade.com/flash/swf/effing-worms.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/effing-worms-450.webp",
+      "descripcion": "Effing Worms, a 2010 action game from Effing Games, puts players in control of a giant worm that devours stick figures to grow larger.",
+      "peso": 4215448,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4005,6 +4514,8 @@
       "url": "https://wasmarcade.com/flash-games/the-legend-of-zelda-and-the-lampshade-of-no-real-significance",
       "swf": "https://wasmarcade.com/flash/swf/the-legend-of-zelda-and-the-lampshade-of-no-real-significance.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-legend-of-zelda-and-the-lampshade-of-no-real-significance-450.webp",
+      "descripcion": "The Legend of Zelda and the Lampshade of No Real Significance is a 2005 adventure RPG from Super Flash Bros set in the town of Hyscule.",
+      "peso": 742100,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4020,6 +4531,8 @@
       "url": "https://wasmarcade.com/flash-games/battlefield-general",
       "swf": "https://wasmarcade.com/flash/swf/battlefield-general.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/battlefield-general-450.webp",
+      "descripcion": "Battlefield General is a 2007 strategy game from FreeWorldStudios set in Qin dynasty China, where each campaign is judged by the gold it brings in.",
+      "peso": 2810326,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4035,6 +4548,8 @@
       "url": "https://wasmarcade.com/flash-games/bendee-the-game",
       "swf": "https://wasmarcade.com/flash/swf/bendee-the-game.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bendee-the-game-450.webp",
+      "descripcion": "Bendee: The Game is a 2003 shooter-adventure from Edd Gould and Eddsworld, built around the stick figure character Bendee.",
+      "peso": 632153,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4049,6 +4564,7 @@
       "url": "https://wasmarcade.com/flash-games/gen8-dressup-doll",
       "swf": "https://wasmarcade.com/flash/swf/gen8-dressup-doll.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/gen8-dressup-doll-450.webp",
+      "peso": 142511,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4064,6 +4580,8 @@
       "url": "https://wasmarcade.com/flash-games/haunted-house",
       "swf": "https://wasmarcade.com/flash/swf/haunted-house.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/haunted-house-450.webp",
+      "descripcion": "Haunted House is a 2006 adventure game from developer Kmart in which the player explores a spooky residence.",
+      "peso": 1337874,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4079,6 +4597,8 @@
       "url": "https://wasmarcade.com/flash-games/higgly-beach-or-bust",
       "swf": "https://wasmarcade.com/flash/swf/higgly-beach-or-bust.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/higgly-beach-or-bust-450.webp",
+      "descripcion": "Higgly Beach or Bust is a 2004 single-player adventure game from Playhouse Disney and Cricket Moon Media.",
+      "peso": 2822637,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4094,6 +4614,8 @@
       "url": "https://wasmarcade.com/flash-games/spec-ops-war-on-terrorism",
       "swf": "https://wasmarcade.com/flash/swf/spec-ops-war-on-terrorism.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spec-ops-war-on-terrorism-450.webp",
+      "descripcion": "Spec Ops: War on Terrorism is a 2001 action game from TechRadium and Denni with four missions and no mercy.",
+      "peso": 689527,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4108,6 +4630,7 @@
       "url": "https://wasmarcade.com/flash-games/testsubjectarena",
       "swf": "https://wasmarcade.com/flash/swf/testsubjectarena.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/testsubjectarena-450.webp",
+      "peso": 4416272,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4122,6 +4645,7 @@
       "url": "https://wasmarcade.com/flash-games/bad-piggies",
       "swf": "https://wasmarcade.com/flash/swf/bad-piggies.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bad-piggies-450.webp",
+      "peso": 2397989,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4137,6 +4661,8 @@
       "url": "https://wasmarcade.com/flash-games/codename-kids-next-door-flight-of-the-hamsters",
       "swf": "https://wasmarcade.com/flash/swf/codename-kids-next-door-flight-of-the-hamsters.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/codename-kids-next-door-flight-of-the-hamsters-450.webp",
+      "descripcion": "Codename: Kids Next Door: Flight of the Hamsters is a 2007 arcade game from Cartoon Network starring the Treehouse rodents.",
+      "peso": 1223524,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4151,6 +4677,8 @@
       "url": "https://wasmarcade.com/flash-games/dogfight-the-great-war",
       "swf": "https://wasmarcade.com/flash/swf/dogfight-the-great-war.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dogfight-the-great-war-450.webp",
+      "descripcion": "Dogfight: The Great War, a 2008 side-view shooter from Rock Solid Arcade, puts players in a Sopwith Camel for World War 1 aerial combat.",
+      "peso": 2096984,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4165,6 +4693,7 @@
       "url": "https://wasmarcade.com/flash-games/drakkens-lair",
       "swf": "https://wasmarcade.com/flash/swf/drakkens-lair.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/drakkens-lair-450.webp",
+      "peso": 2042899,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4179,6 +4708,7 @@
       "url": "https://wasmarcade.com/flash-games/chisel",
       "swf": "https://wasmarcade.com/flash/swf/chisel.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/chisel-450.webp",
+      "peso": 1320855,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4194,6 +4724,7 @@
       "url": "https://wasmarcade.com/flash-games/dora-the-explorer-find-floatie",
       "swf": "https://wasmarcade.com/flash/swf/dora-the-explorer-find-floatie.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/dora-the-explorer-find-floatie-450.webp",
+      "peso": 1330808,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4209,6 +4740,8 @@
       "url": "https://wasmarcade.com/flash-games/factory-balls-4",
       "swf": "https://wasmarcade.com/flash/swf/factory-balls-4.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/factory-balls-4-450.webp",
+      "descripcion": "Factory Balls 4 is a 2011 puzzle game from BONTE games where each level asks players to produce the ball shown on the box.",
+      "peso": 331611,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4224,6 +4757,8 @@
       "url": "https://wasmarcade.com/flash-games/fullmetal-alchemist-quest-for-the-philosophers-stone",
       "swf": "https://wasmarcade.com/flash/swf/fullmetal-alchemist-quest-for-the-philosophers-stone.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fullmetal-alchemist-quest-for-the-philosophers-stone-450.webp",
+      "descripcion": "Fullmetal Alchemist: Quest For The Philosopher's Stone is a 2004 single-player platformer from FUNimation based on the anime series.",
+      "peso": 2614785,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4238,6 +4773,8 @@
       "url": "https://wasmarcade.com/flash-games/fullmetal-alchemist-state-alchemy-exam",
       "swf": "https://wasmarcade.com/flash/swf/fullmetal-alchemist-state-alchemy-exam.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/fullmetal-alchemist-state-alchemy-exam-450.webp",
+      "descripcion": "Fullmetal Alchemist: State Alchemy Exam is a 2004 single-player puzzle game from FUNimation Productions with sudoku-style challenges.",
+      "peso": 1776797,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4253,6 +4790,7 @@
       "url": "https://wasmarcade.com/flash-games/spongebob-squarepants-ship-o-ghouls",
       "swf": "https://wasmarcade.com/flash/swf/spongebob-squarepants-ship-o-ghouls.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/spongebob-squarepants-ship-o-ghouls-450.webp",
+      "peso": 1463059,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4267,6 +4805,7 @@
       "url": "https://wasmarcade.com/flash-games/ben-10-power-splash",
       "swf": "https://wasmarcade.com/flash/swf/ben-10-power-splash.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ben-10-power-splash-450.webp",
+      "peso": 1367127,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4281,6 +4820,8 @@
       "url": "https://wasmarcade.com/flash-games/ben-10-spore-attack",
       "swf": "https://wasmarcade.com/flash/swf/ben-10-spore-attack.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ben-10-spore-attack-450.webp",
+      "descripcion": "Ben 10: Spore Attack is a 2008 action game from Cartoon Network in which Ben and Gwen fly over a forest to destroy deadly spores.",
+      "peso": 2483887,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4295,6 +4836,7 @@
       "url": "https://wasmarcade.com/flash-games/ben-10-ultimate-alien-ultimate-alien-rescue",
       "swf": "https://wasmarcade.com/flash/swf/ben-10-ultimate-alien-ultimate-alien-rescue.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ben-10-ultimate-alien-ultimate-alien-rescue-450.webp",
+      "peso": 6655348,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4309,6 +4851,8 @@
       "url": "https://wasmarcade.com/flash-games/bowja-the-ninja-on-factory-island",
       "swf": "https://wasmarcade.com/flash/swf/bowja-the-ninja-on-factory-island.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/bowja-the-ninja-on-factory-island-450.webp",
+      "descripcion": "Bowja the Ninja On Factory Island is a 2008 point-and-click puzzle adventure from Pencilkids and Robin Vencel.",
+      "peso": 1376730,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4324,6 +4868,7 @@
       "url": "https://wasmarcade.com/flash-games/donkey-kong-ii-game-watch",
       "swf": "https://wasmarcade.com/flash/swf/donkey-kong-ii-game-watch.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/donkey-kong-ii-game-watch-450.webp",
+      "peso": 172951,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4338,6 +4883,7 @@
       "url": "https://wasmarcade.com/flash-games/hobo-brawl",
       "swf": "https://wasmarcade.com/flash/swf/hobo-brawl.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/hobo-brawl-450.webp",
+      "peso": 4967978,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4352,6 +4898,7 @@
       "url": "https://wasmarcade.com/flash-games/jojos-circus-jojos-juggling-jumble",
       "swf": "https://wasmarcade.com/flash/swf/jojos-circus-jojos-juggling-jumble.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/jojos-circus-jojos-juggling-jumble-450.webp",
+      "peso": 1141342,
       "mouse": true,
       "controles": {
         "cruz": "espacio",
@@ -4367,6 +4914,8 @@
       "url": "https://wasmarcade.com/flash-games/ping-pong-3d",
       "swf": "https://wasmarcade.com/flash/swf/ping-pong-3d.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/ping-pong-3d-450.webp",
+      "descripcion": "Ping Pong 3D is a 2002 table tennis arcade game from Luděk Salamánek in which only paddles appear on screen.",
+      "peso": 34496,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4381,6 +4930,8 @@
       "url": "https://wasmarcade.com/flash-games/scooby-doo-creepy-run",
       "swf": "https://wasmarcade.com/flash/swf/scooby-doo-creepy-run.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/scooby-doo-creepy-run-450.webp",
+      "descripcion": "Scooby-Doo!: Creepy Run is a 2010 arcade game where Shaggy runs through a graveyard while dodging obstacles and a ghost.",
+      "peso": 858375,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
@@ -4395,6 +4946,7 @@
       "url": "https://wasmarcade.com/flash-games/the-batman-the-cobblepot-caper",
       "swf": "https://wasmarcade.com/flash/swf/the-batman-the-cobblepot-caper.swf",
       "portada": "https://wasmarcade.com/flash/thumbs/the-batman-the-cobblepot-caper-450.webp",
+      "peso": 2078586,
       "controles": {
         "cruz": "espacio",
         "circulo": "enter",
