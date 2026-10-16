@@ -86,6 +86,14 @@
         {
           "id": "adventure",
           "nombre": "Aventura"
+        },
+        {
+          "id": "shooter",
+          "nombre": "Shooter"
+        },
+        {
+          "id": "rpg",
+          "nombre": "Rol"
         }
       ]
     },
@@ -133,6 +141,27 @@
     }
   ],
   "juegos": [
+    {
+      "id": "gta-v",
+      "titulo": "Grand Theft Auto V",
+      "categoria": "pc",
+      "subcategoria": "action",
+      "url": "https://fiveplay.lol/?mode=story",
+      "selector": "body",
+      "portada": "https://fiveplay.lol/b/8b0b5899ed/title/logo.png",
+      "descripcion": "Los Santos en el navegador. Juego muy pesado: baja más de 1 GB y pide un teléfono potente. El joystick camina (WASD).",
+      "peso": 1300000000,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "f",
+        "cuadrado": "r",
+        "triangulo": "e",
+        "l1": "tab",
+        "r1": "shift"
+      }
+    },
     {
       "id": "vice-city",
       "titulo": "Grand Theft Auto: Vice City",
@@ -9550,6 +9579,7 @@
       "url": "https://wasm.rip/files/cuphead/index.html",
       "selector": "body",
       "descripcion": "Corre y dispara. Las flechas mueven, cruz salta y cuadrado dispara.",
+      "peso": 1357515176,
       "controles": {
         "cruz": "z",
         "circulo": "v",
@@ -9582,13 +9612,246 @@
       "titulo": "Super Mario Bros.",
       "categoria": "pc",
       "subcategoria": "platformer",
-      "url": "https://supermarioplay.com/",
-      "selector": "#game",
+      "url": "https://supermarioplay.com/game/mobilemario.html?v=1.0.20",
+      "selector": "body",
       "portada": "https://supermarioplay.com/site_image.png",
       "descripcion": "El Mario de 1985. Las flechas caminan y saltan. Cruz corre y tira fuego.",
       "controles": {
         "cruz": "shift",
         "circulo": "ctrl"
+      }
+    },
+    {
+      "id": "simpsons-hit-and-run",
+      "titulo": "The Simpsons: Hit & Run",
+      "categoria": "pc",
+      "subcategoria": "adventure",
+      "url": "https://wasmarcade.com/simpsons",
+      "selector": "#game-surface",
+      "portada": "https://wasmarcade.com/covers/hit-and-run-896.webp",
+      "descripcion": "Recorre Springfield a pie o en auto. Cruz salta, cuadrado sube al auto y círculo patea. Baja el juego mientras juegas.",
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "v",
+        "cuadrado": "e",
+        "triangulo": "enter",
+        "l1": "escape",
+        "r1": "shift"
+      }
+    },
+    {
+      "id": "minecraft",
+      "titulo": "Minecraft",
+      "categoria": "pc",
+      "subcategoria": "adventure",
+      "url": "https://wasmarcade.com/eaglercraft/1.8.8/app-js.html",
+      "selector": "body",
+      "portada": "https://wasmarcade.com/covers/minecraft-896.webp",
+      "descripcion": "Minecraft 1.8.8 en el navegador. El joystick camina, la palanca mira y el botón de clic rompe bloques.",
+      "peso": 18002621,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "shift",
+        "cuadrado": "e",
+        "triangulo": "q",
+        "l1": "escape",
+        "r1": "ctrl"
+      }
+    },
+    {
+      "id": "quakeworld",
+      "titulo": "Quake (QuakeWorld)",
+      "categoria": "pc",
+      "subcategoria": "shooter",
+      "url": "https://q1.pieter.com/play?name=Mira",
+      "selector": "#canvas",
+      "portada": "https://q1.pieter.com/assets/og.jpg?v=2",
+      "descripcion": "Deathmatch de Quake online contra jugadores y bots. El joystick camina, la palanca apunta y R1 dispara.",
+      "peso": 24100000,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "7",
+        "cuadrado": "2",
+        "triangulo": "tab",
+        "l1": "shift",
+        "r1": "ctrl"
+      }
+    },
+    {
+      "id": "quake-2",
+      "titulo": "Quake II",
+      "categoria": "pc",
+      "subcategoria": "shooter",
+      "url": "https://q2.pieter.com/play?name=Mira",
+      "selector": "#canvas",
+      "portada": "https://q2.pieter.com/assets/og.jpg",
+      "descripcion": "Deathmatch de Quake II online con bots. El joystick camina, la palanca apunta, R1 dispara y círculo lanza el gancho.",
+      "peso": 81300000,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "q",
+        "cuadrado": "shift",
+        "triangulo": "tab",
+        "l1": "1",
+        "r1": "ctrl"
+      }
+    },
+    {
+      "id": "quake-3-arena",
+      "titulo": "Quake III Arena",
+      "categoria": "pc",
+      "subcategoria": "shooter",
+      "url": "https://q3.pieter.com/game2/game?host=q3.pieter.com&proxyPort=443&fs_game=baseq3&name=Mira",
+      "selector": "#canvas",
+      "portada": "https://q3.pieter.com/assets/og.jpg",
+      "descripcion": "La arena de Quake III online con bots. El joystick camina, la palanca apunta, R1 dispara y cruz salta.",
+      "peso": 81400000,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "c",
+        "cuadrado": "[",
+        "triangulo": "]",
+        "l1": "tab",
+        "r1": "ctrl"
+      }
+    },
+    {
+      "id": "return-to-castle-wolfenstein",
+      "titulo": "Return to Castle Wolfenstein",
+      "categoria": "pc",
+      "subcategoria": "shooter",
+      "url": "https://rtcw.pieter.com/play?name=Mira",
+      "selector": "#canvas",
+      "portada": "https://rtcw.pieter.com/assets/og.jpg?v=1",
+      "descripcion": "Multijugador por equipos con bots. Pesado: baja casi 400 MB la primera vez. R1 dispara y círculo recarga.",
+      "peso": 393100000,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "r",
+        "cuadrado": "c",
+        "triangulo": "f",
+        "l1": "tab",
+        "r1": "insert"
+      }
+    },
+    {
+      "id": "half-life-uplink",
+      "titulo": "Half-Life: Uplink",
+      "categoria": "pc",
+      "subcategoria": "shooter",
+      "url": "https://x8bitrain.github.io/webXash/",
+      "selector": "#app",
+      "almacen": {
+        "xash": {
+          "selectedGameKey": "HL",
+          "selectedZip": "uplink.zip"
+        }
+      },
+      "portada": "https://cdn.cloudflare.steamstatic.com/steam/apps/70/header.jpg",
+      "descripcion": "La demo oficial de Half-Life. El joystick camina, la palanca apunta y el botón de clic dispara.",
+      "peso": 38000000,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "e",
+        "cuadrado": "r",
+        "triangulo": "f",
+        "l1": "ctrl",
+        "r1": "escape"
+      }
+    },
+    {
+      "id": "half-life",
+      "titulo": "Half-Life",
+      "categoria": "pc",
+      "subcategoria": "shooter",
+      "url": "https://pixelsuft.github.io/hl/xash.html#150",
+      "selector": "body",
+      "portada": "https://cdn.cloudflare.steamstatic.com/steam/apps/70/header.jpg",
+      "descripcion": "El Half-Life completo. Baja unos 230 MB. El joystick camina, la palanca apunta y el botón de clic dispara.",
+      "peso": 227000000,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "e",
+        "cuadrado": "r",
+        "triangulo": "f",
+        "l1": "ctrl",
+        "r1": "escape"
+      }
+    },
+    {
+      "id": "surfd",
+      "titulo": "SURFD (CS Surf)",
+      "categoria": "pc",
+      "subcategoria": "sports",
+      "url": "https://surfd.net/",
+      "selector": "body",
+      "portada": "https://surfd.net/social/surfd-card-v2.png",
+      "descripcion": "El surf de Counter-Strike: deslízate por rampas y gira la cámara con la palanca para ganar velocidad.",
+      "peso": 30000000,
+      "mouse": true,
+      "direcciones": "wasd",
+      "controles": {
+        "cruz": "espacio",
+        "circulo": "shift",
+        "cuadrado": "r",
+        "triangulo": "w",
+        "l1": "a",
+        "r1": "d"
+      }
+    },
+    {
+      "id": "pes-6",
+      "titulo": "PES 6",
+      "categoria": "pc",
+      "subcategoria": "sports",
+      "url": "https://pes6.optijuegos.net/",
+      "selector": "#stage",
+      "boton": "#startWithoutCommentary",
+      "portada": "https://pes6.optijuegos.net/assets/logo.png",
+      "descripcion": "Pro Evolution Soccer 6 de PSP en el navegador. La cruceta mueve; pasa y dispara con los botones.",
+      "peso": 18161682,
+      "controles": {
+        "cruz": "x",
+        "circulo": "c",
+        "cuadrado": "z",
+        "triangulo": "s",
+        "l1": "q",
+        "r1": "w"
+      }
+    },
+    {
+      "id": "diablo-demo",
+      "titulo": "Diablo (demo)",
+      "categoria": "pc",
+      "subcategoria": "rpg",
+      "url": "https://johnimril.github.io/diablo_web/",
+      "selector": "#root",
+      "portada": "https://johnimril.github.io/diablo_web/og-image.png",
+      "descripcion": "La demo del Diablo original. Mueve el puntero y haz clic para caminar y atacar; L1 toma una poción.",
+      "peso": 27700000,
+      "mouse": true,
+      "controles": {
+        "cruz": "enter",
+        "circulo": "escape",
+        "cuadrado": "i",
+        "triangulo": "c",
+        "l1": "1",
+        "r1": "tab"
       }
     }
   ]
