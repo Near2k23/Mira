@@ -1,0 +1,13 @@
+{
+  "tmdb": 296232,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Snowball Earth",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "snowball-earth"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 303796,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ゴーストコンサート : missing Songs",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ghost-concert-missing-songs"
+      }
+    }
+  }
+}

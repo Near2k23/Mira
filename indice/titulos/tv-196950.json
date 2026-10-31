@@ -1,0 +1,13 @@
+{
+  "tmdb": 196950,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Witch Hat Atelier",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tongari-boushi-no-atelier"
+      }
+    }
+  }
+}

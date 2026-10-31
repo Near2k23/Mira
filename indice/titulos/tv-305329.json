@@ -1,0 +1,13 @@
+{
+  "tmdb": 305329,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Needy Girl Overdose",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "needy-girl-overdose"
+      }
+    }
+  }
+}

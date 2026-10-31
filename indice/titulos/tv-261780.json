@@ -1,0 +1,13 @@
+{
+  "tmdb": 261780,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Pétalos de Reencarnación",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "reincarnation-no-kaben"
+      }
+    }
+  }
+}

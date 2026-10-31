@@ -1,0 +1,13 @@
+{
+  "tmdb": 285818,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mistress Kanan is Devilishly Easy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kanansama-wa-akumade-choroi"
+      }
+    }
+  }
+}

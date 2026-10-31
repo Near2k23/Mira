@@ -1,0 +1,13 @@
+{
+  "tmdb": 91768,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ascendance of a Bookworm",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-4th-season"
+      }
+    }
+  }
+}

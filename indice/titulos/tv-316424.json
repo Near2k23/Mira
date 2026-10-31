@@ -1,0 +1,13 @@
+{
+  "tmdb": 316424,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Haibara's Teenage New Game",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "haibarakun-no-tsuyokute-seishun-new-game"
+      }
+    }
+  }
+}

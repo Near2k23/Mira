@@ -1,0 +1,13 @@
+{
+  "tmdb": 260463,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yomi no Tsugai: Dúo del Inframundo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yomi-no-tsugai"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 295999,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "MAO",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mao"
+      }
+    }
+  }
+}

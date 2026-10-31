@@ -1,0 +1,13 @@
+{
+  "tmdb": 296870,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "神の庭付き楠木邸",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kami-no-niwatsuki-kusunokitei"
+      }
+    }
+  }
+}

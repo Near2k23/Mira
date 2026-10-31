@@ -1,0 +1,13 @@
+{
+  "tmdb": 310921,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru"
+      }
+    }
+  }
+}

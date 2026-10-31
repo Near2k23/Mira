@@ -1,0 +1,13 @@
+{
+  "tmdb": 91801,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Welcome to Demon School! Iruma-kun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "4": "mairimashita-irumakun-4th-season"
+      }
+    }
+  }
+}
