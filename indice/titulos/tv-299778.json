@@ -1,0 +1,13 @@
+{
+  "tmdb": 299778,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fujimoto Tatsuki 17-26",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "fujimoto-tatsuki-17-26"
+      }
+    }
+  }
+}

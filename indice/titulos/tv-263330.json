@@ -1,0 +1,18 @@
+{
+  "tmdb": 263330,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shibou Yuugi de Meshi wo Kuu.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shibou-yuugi-de-meshi-wo-kuu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shibou-yuugi-de-meshi-wo-kuu"
+      }
+    }
+  }
+}

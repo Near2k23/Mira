@@ -1,0 +1,25 @@
+{
+  "tmdb": 154526,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "MF Ghost",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "mf-ghost",
+            "episodios": 12
+          },
+          {
+            "slug": "mf-ghost-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "mf-ghost-3rd-season"
+          }
+        ]
+      }
+    }
+  }
+}

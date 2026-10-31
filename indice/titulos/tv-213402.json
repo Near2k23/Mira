@@ -1,0 +1,34 @@
+{
+  "tmdb": 213402,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tondemo Skill de Isekai Hourou Meshi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "tondemo-skill-de-isekai-hourou-meshi",
+            "episodios": 12
+          },
+          {
+            "slug": "tondemo-skill-de-isekai-hourou-meshi-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "tondemo-skill-de-isekai-hourou-meshi",
+            "episodios": 12
+          },
+          {
+            "slug": "tondemo-skill-de-isekai-hourou-meshi-2"
+          }
+        ]
+      }
+    }
+  }
+}

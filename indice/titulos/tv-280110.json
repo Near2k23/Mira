@@ -1,0 +1,34 @@
+{
+  "tmdb": 280110,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Vigilante: Boku no Hero Academia Illegals",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "vigilante-boku-no-hero-academia-illegals",
+            "episodios": 13
+          },
+          {
+            "slug": "vigilante-boku-no-hero-academia-illegals-2nd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "vigilante-boku-no-hero-academia-illegals",
+            "episodios": 13
+          },
+          {
+            "slug": "vigilante-boku-no-hero-academia-illegals-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

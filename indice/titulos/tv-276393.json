@@ -1,0 +1,13 @@
+{
+  "tmdb": 276393,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tamon-kun Ima Docchi!?",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tamon-kun-ima-docchi"
+      }
+    }
+  }
+}

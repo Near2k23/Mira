@@ -270,7 +270,35 @@
   "tv-303434": "completado",
   "tv-306762": "nuevo",
   "movie-1363974": "completado",
-  "movie-910850": "nuevo"
+  "movie-910850": "nuevo",
+  "tv-76757": "completado",
+  "tv-87478": "completado",
+  "tv-136342": "nuevo",
+  "tv-154526": "nuevo",
+  "tv-213402": "nuevo",
+  "tv-234776": "completado",
+  "tv-249907": "completado",
+  "tv-253476": "completado",
+  "tv-255064": "completado",
+  "tv-263330": "nuevo",
+  "tv-276393": "nuevo",
+  "tv-278604": "completado",
+  "tv-280110": "nuevo",
+  "tv-282662": "completado",
+  "tv-282946": "completado",
+  "tv-283689": "completado",
+  "tv-284495": "completado",
+  "tv-285070": "completado",
+  "tv-285166": "nuevo",
+  "tv-285743": "completado",
+  "tv-285933": "completado",
+  "tv-290667": "completado",
+  "tv-293144": "completado",
+  "tv-294280": "completado",
+  "tv-295366": "completado",
+  "tv-299778": "nuevo",
+  "tv-305163": "completado",
+  "movie-959646": "completado"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -308,7 +336,16 @@
   "fangkai-nage-nuwu": "no está en TMDB / no ubicado",
   "tensui-no-sakuna-hime-kokorowa-inasaku-nisshi": "Especial",
   "chou-kaguya-hime": "no está en TMDB / no ubicado",
-  "himesama-goumon-no-jikan-desu-2nd-season": "no está en TMDB / no ubicado"
+  "himesama-goumon-no-jikan-desu-2nd-season": "no está en TMDB / no ubicado",
+  "tv-286404": "T1 (tensei-akujo-no-kuro-rekishi): 13 eps en el sitio vs 12 en TMDB",
+  "fatestrange-fake": "no está en TMDB / no ubicado",
+  "yi-ren-zhi-xia-6": "no está en TMDB / no ubicado",
+  "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan": "Especial",
+  "undead-unluck-winter-hen": "Especial",
+  "xian-wang-de-richang-shenghuo-5": "no está en TMDB / no ubicado",
+  "shuumatsu-no-walkure-iii": "no está en TMDB / no ubicado",
+  "nukitashi-the-animation-specials": "no está en TMDB / no ubicado",
+  "cengjing-you-yongshi": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -344,6 +381,11 @@
   "latest_released 11-12": {
    "agregados": 11,
    "completados": 19,
+   "saltados": 3
+  },
+  "latest_released 13-14": {
+   "agregados": 8,
+   "completados": 20,
    "saltados": 3
   }
  }
