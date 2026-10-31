@@ -1,0 +1,13 @@
+{
+  "tmdb": 119099,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "锦心似玉",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sword-and-the-brocade"
+      }
+    }
+  }
+}

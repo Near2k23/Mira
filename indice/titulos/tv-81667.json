@@ -1,0 +1,13 @@
+{
+  "tmdb": 81667,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Ascenso de los Fénix",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-rise-of-phoenixes"
+      }
+    }
+  }
+}

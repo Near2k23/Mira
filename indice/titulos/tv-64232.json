@@ -1,0 +1,13 @@
+{
+  "tmdb": 64232,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "최고의 미래",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-best-future"
+      }
+    }
+  }
+}

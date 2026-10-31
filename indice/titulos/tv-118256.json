@@ -1,0 +1,13 @@
+{
+  "tmdb": 118256,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "扑通扑通喜欢你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "make-my-heart-smile"
+      }
+    }
+  }
+}

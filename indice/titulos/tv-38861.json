@@ -1,0 +1,13 @@
+{
+  "tmdb": 38861,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "49일",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "49-days"
+      }
+    }
+  }
+}

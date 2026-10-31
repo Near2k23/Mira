@@ -1,0 +1,13 @@
+{
+  "tmdb": 91284,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Café y Vainilla",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "coffee-and-vanilla"
+      }
+    }
+  }
+}

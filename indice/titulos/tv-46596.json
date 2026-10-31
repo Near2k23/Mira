@@ -1,0 +1,13 @@
+{
+  "tmdb": 46596,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "학교 2013",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "school-2013"
+      }
+    }
+  }
+}

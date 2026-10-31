@@ -1,0 +1,13 @@
+{
+  "tmdb": 95554,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "터치",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "touch"
+      }
+    }
+  }
+}

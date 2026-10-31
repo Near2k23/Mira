@@ -1,0 +1,13 @@
+{
+  "tmdb": 99478,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Memorista",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "memorist"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 109866,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我，喜欢你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dating-in-the-kitchen"
+      }
+    }
+  }
+}

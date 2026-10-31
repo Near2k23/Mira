@@ -1,0 +1,14 @@
+{
+  "tmdb": 81105,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "甜蜜暴击",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-combat"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 37 de 38 episodios"
+}

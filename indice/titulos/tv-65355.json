@@ -1,0 +1,13 @@
+{
+  "tmdb": 65355,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "퐁당퐁당 Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "splash-splash-love"
+      }
+    }
+  }
+}

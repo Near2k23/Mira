@@ -1,0 +1,13 @@
+{
+  "tmdb": 44573,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "바람의 화원",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "painter-of-the-wind"
+      }
+    }
+  }
+}

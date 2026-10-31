@@ -1,0 +1,13 @@
+{
+  "tmdb": 87405,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un mundo maravilloso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beautiful-world"
+      }
+    }
+  }
+}

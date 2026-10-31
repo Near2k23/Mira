@@ -1,0 +1,14 @@
+{
+  "tmdb": 86352,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아이템",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "item"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

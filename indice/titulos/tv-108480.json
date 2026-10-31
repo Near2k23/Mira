@@ -1,0 +1,13 @@
+{
+  "tmdb": 108480,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "비밀의 남자",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-man-in-a-veil"
+      }
+    }
+  }
+}

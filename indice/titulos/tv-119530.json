@@ -1,0 +1,13 @@
+{
+  "tmdb": 119530,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "가시리잇고",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "must-you-go"
+      }
+    }
+  }
+}

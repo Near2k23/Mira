@@ -1,0 +1,13 @@
+{
+  "tmdb": 63417,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Español",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "noble-my-love"
+      }
+    }
+  }
+}

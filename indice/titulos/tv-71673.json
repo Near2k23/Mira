@@ -1,0 +1,14 @@
+{
+  "tmdb": 71673,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Princesa Valiente",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "princess-agents"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 58 de 67 episodios"
+}

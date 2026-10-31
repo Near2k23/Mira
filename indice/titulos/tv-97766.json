@@ -1,0 +1,13 @@
+{
+  "tmdb": 97766,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Rugal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rugal"
+      }
+    }
+  }
+}

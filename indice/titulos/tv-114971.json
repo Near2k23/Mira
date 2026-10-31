@@ -1,0 +1,13 @@
+{
+  "tmdb": 114971,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "밥이 되어라",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-good-supper"
+      }
+    }
+  }
+}

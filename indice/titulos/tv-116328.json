@@ -1,0 +1,13 @@
+{
+  "tmdb": 116328,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的小确幸",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-little-happiness"
+      }
+    }
+  }
+}
