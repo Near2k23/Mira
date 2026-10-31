@@ -1,0 +1,13 @@
+{
+  "tmdb": 223890,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "야한 사진관",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-midnight-studio"
+      }
+    }
+  }
+}

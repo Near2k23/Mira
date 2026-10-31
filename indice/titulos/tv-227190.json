@@ -1,0 +1,13 @@
+{
+  "tmdb": 227190,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Wonderful World",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wonderful-world"
+      }
+    }
+  }
+}

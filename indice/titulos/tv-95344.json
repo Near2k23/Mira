@@ -1,0 +1,13 @@
+{
+  "tmdb": 95344,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "いつか、眠りにつく日",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-one-day-i-will-sleep"
+      }
+    }
+  }
+}

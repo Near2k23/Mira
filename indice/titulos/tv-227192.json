@@ -1,0 +1,13 @@
+{
+  "tmdb": 227192,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Juego de la Pirámide",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pyramid-game"
+      }
+    }
+  }
+}

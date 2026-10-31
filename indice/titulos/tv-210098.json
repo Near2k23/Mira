@@ -1,0 +1,13 @@
+{
+  "tmdb": 210098,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La última familia ninja",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "house-of-ninjas"
+      }
+    }
+  }
+}

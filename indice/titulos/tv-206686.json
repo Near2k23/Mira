@@ -1,0 +1,13 @@
+{
+  "tmdb": 206686,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nugget de pollo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chicken-nugget"
+      }
+    }
+  }
+}

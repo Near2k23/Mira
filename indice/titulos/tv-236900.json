@@ -1,0 +1,13 @@
+{
+  "tmdb": 236900,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อายุมั่นขวัญยืน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "1000-years-old"
+      }
+    }
+  }
+}

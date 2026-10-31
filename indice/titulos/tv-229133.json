@@ -1,0 +1,13 @@
+{
+  "tmdb": 229133,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "永安梦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yong-an-dream"
+      }
+    }
+  }
+}

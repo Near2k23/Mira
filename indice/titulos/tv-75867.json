@@ -1,0 +1,13 @@
+{
+  "tmdb": 75867,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mob Psycho 100",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mob-psycho-100"
+      }
+    }
+  }
+}

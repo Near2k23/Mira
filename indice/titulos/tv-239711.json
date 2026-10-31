@@ -1,0 +1,13 @@
+{
+  "tmdb": 239711,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คุณได้ไปต่อ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-be-continued"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 246827,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "暮色心迹",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dusk-love"
+      }
+    }
+  }
+}

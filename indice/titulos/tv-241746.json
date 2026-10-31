@@ -1,0 +1,13 @@
+{
+  "tmdb": 241746,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Living no Matsunaga-san",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "living-no-matsunaga-san"
+      }
+    }
+  }
+}

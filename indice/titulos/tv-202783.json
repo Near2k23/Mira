@@ -1,0 +1,13 @@
+{
+  "tmdb": 202783,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La paradoja del asesino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-killer-paradox"
+      }
+    }
+  }
+}

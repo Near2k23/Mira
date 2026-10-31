@@ -1,0 +1,13 @@
+{
+  "tmdb": 244588,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sugar Sugar Honey",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sugar-sugar-honey"
+      }
+    }
+  }
+}

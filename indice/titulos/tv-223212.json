@@ -1,0 +1,13 @@
+{
+  "tmdb": 223212,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El heredero imposible",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-impossible-heir"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 229302,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "トリリオンゲーム",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "trillion-game"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 244467,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "マイストロベリーフィルム",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-strawberry-film"
+      }
+    }
+  }
+}

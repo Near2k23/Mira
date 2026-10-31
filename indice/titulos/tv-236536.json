@@ -1,0 +1,13 @@
+{
+  "tmdb": 236536,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아파트404",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "apartment-404"
+      }
+    }
+  }
+}

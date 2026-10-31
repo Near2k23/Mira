@@ -1,0 +1,13 @@
+{
+  "tmdb": 228076,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "谢谢你温暖我",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "angels-fall-sometimes"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 230198,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "웨딩 임파서블",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wedding-impossible"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 239192,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ปลื้มคนโปรด",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-secretly-love"
+      }
+    }
+  }
+}

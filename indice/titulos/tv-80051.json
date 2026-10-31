@@ -1,0 +1,13 @@
+{
+  "tmdb": 80051,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "おっさんずラブ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ossans-love"
+      }
+    }
+  }
+}

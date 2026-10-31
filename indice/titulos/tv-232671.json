@@ -1,0 +1,13 @@
+{
+  "tmdb": 232671,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Huajai Mai Mee Bplom - Beauty Newbie",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beauty-newbie"
+      }
+    }
+  }
+}
