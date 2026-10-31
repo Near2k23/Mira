@@ -1,0 +1,13 @@
+{
+  "tmdb": 95486,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Esa sonrisa tuya",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "falling-into-your-smile"
+      }
+    }
+  }
+}

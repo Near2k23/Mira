@@ -1,0 +1,13 @@
+{
+  "tmdb": 316540,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "嫁入高门",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bittersweet-love"
+      }
+    }
+  }
+}

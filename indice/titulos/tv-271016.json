@@ -1,0 +1,13 @@
+{
+  "tmdb": 271016,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los nueve místicos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mystic-nine"
+      }
+    }
+  }
+}

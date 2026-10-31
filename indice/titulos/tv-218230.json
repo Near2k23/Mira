@@ -1,0 +1,13 @@
+{
+  "tmdb": 218230,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El juego de la muerte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "deaths-game"
+      }
+    }
+  }
+}

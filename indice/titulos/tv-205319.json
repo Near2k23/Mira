@@ -1,0 +1,13 @@
+{
+  "tmdb": 205319,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Una Dosis Diaria de Sol",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "daily-dose-of-sunshine"
+      }
+    }
+  }
+}

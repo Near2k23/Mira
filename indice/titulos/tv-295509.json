@@ -1,0 +1,13 @@
+{
+  "tmdb": 295509,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La leyenda del cocinero del ejército",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-legend-of-kitchen-soldier"
+      }
+    }
+  }
+}

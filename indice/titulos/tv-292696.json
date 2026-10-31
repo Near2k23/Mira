@@ -1,0 +1,13 @@
+{
+  "tmdb": 292696,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Primer jazmín",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-first-jasmine"
+      }
+    }
+  }
+}

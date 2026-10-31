@@ -1,0 +1,13 @@
+{
+  "tmdb": 278127,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El misterioso caso del palacio Tang",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unveil-jadewind"
+      }
+    }
+  }
+}

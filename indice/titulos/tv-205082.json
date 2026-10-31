@@ -1,0 +1,13 @@
+{
+  "tmdb": 205082,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Vigilante",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vigilante"
+      }
+    }
+  }
+}

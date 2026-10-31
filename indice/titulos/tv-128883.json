@@ -1,0 +1,13 @@
+{
+  "tmdb": 128883,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El amor es como el chachachá",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hometown-cha-cha-cha"
+      }
+    }
+  }
+}

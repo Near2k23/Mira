@@ -1,0 +1,13 @@
+{
+  "tmdb": 70649,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mientras dormías",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "while-you-were-sleeping"
+      }
+    }
+  }
+}

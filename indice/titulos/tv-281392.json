@@ -1,0 +1,13 @@
+{
+  "tmdb": 281392,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "钢铁森林",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sunsets-secrets-regrets"
+      }
+    }
+  }
+}

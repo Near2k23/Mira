@@ -1,0 +1,13 @@
+{
+  "tmdb": 326063,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "25 años de secretos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "25-years-of-you"
+      }
+    }
+  }
+}

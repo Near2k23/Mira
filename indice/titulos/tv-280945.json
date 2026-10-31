@@ -1,0 +1,13 @@
+{
+  "tmdb": 280945,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Bon appétit, majestad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bon-appetit-your-majesty"
+      }
+    }
+  }
+}

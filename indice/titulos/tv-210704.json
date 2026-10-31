@@ -1,0 +1,13 @@
+{
+  "tmdb": 210704,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Lo Peor del Mal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-worst-of-evil"
+      }
+    }
+  }
+}

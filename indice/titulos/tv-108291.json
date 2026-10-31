@@ -1,0 +1,13 @@
+{
+  "tmdb": 108291,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Campanilla de invierno",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "snowdrop"
+      }
+    }
+  }
+}

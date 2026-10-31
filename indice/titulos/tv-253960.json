@@ -1,0 +1,13 @@
+{
+  "tmdb": 253960,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Hombre Vapor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "human-vapor"
+      }
+    }
+  }
+}

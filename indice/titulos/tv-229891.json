@@ -1,0 +1,13 @@
+{
+  "tmdb": 229891,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Cómo se traduce este amor?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "can-this-love-be-translated"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 289424,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hacemos lo que podemos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "we-are-all-trying-here"
+      }
+    }
+  }
+}

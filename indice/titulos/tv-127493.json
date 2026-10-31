@@ -1,0 +1,13 @@
+{
+  "tmdb": 127493,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tú eres mi gloria",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-my-glory"
+      }
+    }
+  }
+}

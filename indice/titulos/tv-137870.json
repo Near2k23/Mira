@@ -1,0 +1,13 @@
+{
+  "tmdb": 137870,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "星汉灿烂",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-like-the-galaxy"
+      }
+    }
+  }
+}

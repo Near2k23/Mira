@@ -1,0 +1,13 @@
+{
+  "tmdb": 112833,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tribunal de menores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "juvenile-justice"
+      }
+    }
+  }
+}

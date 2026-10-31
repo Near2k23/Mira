@@ -1,0 +1,17 @@
+{
+  "tmdb": 235351,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La leyenda de los héroes",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-legend-of-heroes",
+        "2": "the-legend-of-heroes",
+        "3": "the-legend-of-heroes",
+        "4": "the-legend-of-heroes",
+        "5": "the-legend-of-heroes"
+      }
+    }
+  }
+}

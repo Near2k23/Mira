@@ -1,0 +1,14 @@
+{
+  "tmdb": 243083,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "国色芳华",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flourished-peony",
+        "2": "flourished-peony"
+      }
+    }
+  }
+}

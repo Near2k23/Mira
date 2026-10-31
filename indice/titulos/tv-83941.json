@@ -1,0 +1,13 @@
+{
+  "tmdb": 83941,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Encuentro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "encounter"
+      }
+    }
+  }
+}
