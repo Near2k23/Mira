@@ -1,0 +1,13 @@
+{
+  "tmdb": 253193,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sueño dentro de un sueño",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-dream-within-a-dream"
+      }
+    }
+  }
+}

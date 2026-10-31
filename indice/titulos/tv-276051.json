@@ -1,0 +1,14 @@
+{
+  "tmdb": 276051,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สถานะกั๊กใจ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gelboys",
+        "2": "gelboys"
+      }
+    }
+  }
+}

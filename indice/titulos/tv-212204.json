@@ -1,0 +1,13 @@
+{
+  "tmdb": 212204,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sandía chispeante",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twinkling-watermelon"
+      }
+    }
+  }
+}

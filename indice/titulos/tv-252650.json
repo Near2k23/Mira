@@ -1,0 +1,13 @@
+{
+  "tmdb": 252650,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สายรหัสเทวดา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "perfect-10-liners"
+      }
+    }
+  }
+}

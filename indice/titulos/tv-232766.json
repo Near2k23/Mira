@@ -1,0 +1,13 @@
+{
+  "tmdb": 232766,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sin piedad para nadie",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mercy-for-none"
+      }
+    }
+  }
+}

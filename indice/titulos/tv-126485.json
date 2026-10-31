@@ -1,0 +1,13 @@
+{
+  "tmdb": 126485,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Moving",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moving"
+      }
+    }
+  }
+}

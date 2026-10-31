@@ -1,0 +1,13 @@
+{
+  "tmdb": 235611,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "念无双",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-moment-but-forever"
+      }
+    }
+  }
+}

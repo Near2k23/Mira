@@ -1,0 +1,13 @@
+{
+  "tmdb": 210733,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor Oculto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hidden-love"
+      }
+    }
+  }
+}

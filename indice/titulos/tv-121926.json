@@ -1,0 +1,15 @@
+{
+  "tmdb": 121926,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "絶対BLになる世界vs絶対BLになりたくない男",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-man-who-defies-the-world-of-bl",
+        "2": "a-man-who-defies-the-world-of-bl",
+        "3": "a-man-who-defies-the-world-of-bl"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 301418,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "지금 불륜이 문제가 아닙니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-affair-was-just-the-beginning"
+      }
+    }
+  }
+}

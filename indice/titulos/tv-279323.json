@@ -1,0 +1,13 @@
+{
+  "tmdb": 279323,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El palacio del este",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-east-palace"
+      }
+    }
+  }
+}

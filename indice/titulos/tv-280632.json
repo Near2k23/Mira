@@ -1,0 +1,13 @@
+{
+  "tmdb": 280632,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿¡Cómo te Atreves!?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "how-dare-you"
+      }
+    }
+  }
+}

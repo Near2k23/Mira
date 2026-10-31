@@ -1,0 +1,13 @@
+{
+  "tmdb": 64010,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Contéstame 1988",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reply-1988"
+      }
+    }
+  }
+}

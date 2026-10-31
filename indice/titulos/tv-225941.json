@@ -1,0 +1,13 @@
+{
+  "tmdb": 225941,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "I Am Nobody",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-outcast-i-am-nobody"
+      }
+    }
+  }
+}

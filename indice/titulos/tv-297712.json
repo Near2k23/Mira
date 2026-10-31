@@ -1,0 +1,13 @@
+{
+  "tmdb": 297712,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Profesionales de la vieja escuela",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fifties-professionals"
+      }
+    }
+  }
+}

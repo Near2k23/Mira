@@ -1,0 +1,13 @@
+{
+  "tmdb": 117378,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mouse",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mouse"
+      }
+    }
+  }
+}

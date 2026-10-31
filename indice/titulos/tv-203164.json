@@ -1,0 +1,13 @@
+{
+  "tmdb": 203164,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nam-soon, Una chica superfuerte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "strong-girl-nam-soon"
+      }
+    }
+  }
+}

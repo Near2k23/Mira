@@ -1,0 +1,13 @@
+{
+  "tmdb": 285838,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Si los deseos mataran",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "if-wishes-could-kill"
+      }
+    }
+  }
+}

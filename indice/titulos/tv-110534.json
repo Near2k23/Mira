@@ -1,0 +1,14 @@
+{
+  "tmdb": 110534,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "D. P.: El cazadesertores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dp",
+        "2": "dp"
+      }
+    }
+  }
+}

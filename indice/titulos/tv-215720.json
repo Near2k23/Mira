@@ -1,0 +1,13 @@
+{
+  "tmdb": 215720,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Reina de las Lágrimas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queen-of-tears"
+      }
+    }
+  }
+}

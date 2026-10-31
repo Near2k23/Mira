@@ -1,0 +1,14 @@
+{
+  "tmdb": 246473,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Made in Korea",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "made-in-korea",
+        "2": "made-in-korea"
+      }
+    }
+  }
+}

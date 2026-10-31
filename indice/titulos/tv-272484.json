@@ -1,0 +1,13 @@
+{
+  "tmdb": 272484,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一笑随歌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fated-hearts"
+      }
+    }
+  }
+}
