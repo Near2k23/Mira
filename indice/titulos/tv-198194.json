@@ -1,0 +1,13 @@
+{
+  "tmdb": 198194,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "救了一万次的你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-a-loop"
+      }
+    }
+  }
+}

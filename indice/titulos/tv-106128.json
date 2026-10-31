@@ -1,0 +1,13 @@
+{
+  "tmdb": 106128,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "私たちはどうかしている",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cursed-in-love"
+      }
+    }
+  }
+}

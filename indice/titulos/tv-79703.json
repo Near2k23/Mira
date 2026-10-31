@@ -1,0 +1,13 @@
+{
+  "tmdb": 79703,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "이별이 떠났다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "goodbye-to-goodbye"
+      }
+    }
+  }
+}

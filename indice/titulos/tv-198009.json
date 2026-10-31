@@ -1,0 +1,13 @@
+{
+  "tmdb": 198009,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "心动不可耻 还很可爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dont-be-shy"
+      }
+    }
+  }
+}

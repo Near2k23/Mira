@@ -1,0 +1,13 @@
+{
+  "tmdb": 152291,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El embarazo de Kentaro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hiyama-kentaro-no-ninshin"
+      }
+    }
+  }
+}

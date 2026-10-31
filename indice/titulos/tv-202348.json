@@ -1,0 +1,13 @@
+{
+  "tmdb": 202348,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "凭栏一片风云起",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "defying-the-storm"
+      }
+    }
+  }
+}

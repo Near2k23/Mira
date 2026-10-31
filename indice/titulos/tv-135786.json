@@ -1,0 +1,13 @@
+{
+  "tmdb": 135786,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "괴이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "monstrous"
+      }
+    }
+  }
+}

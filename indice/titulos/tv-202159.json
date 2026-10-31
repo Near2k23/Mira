@@ -1,0 +1,13 @@
+{
+  "tmdb": 202159,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "二十四味暖浮生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rewriting-destiny"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 201628,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "女士的法則",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lady-of-law"
+      }
+    }
+  }
+}

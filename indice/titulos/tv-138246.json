@@ -1,0 +1,13 @@
+{
+  "tmdb": 138246,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Killer's Shopping List",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-killers-shopping-list"
+      }
+    }
+  }
+}

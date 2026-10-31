@@ -1,0 +1,13 @@
+{
+  "tmdb": 194820,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "지금부터, 쇼타임!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "from-now-on-showtime"
+      }
+    }
+  }
+}

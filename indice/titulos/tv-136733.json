@@ -1,0 +1,13 @@
+{
+  "tmdb": 136733,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Batalla de amor y poder",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bloody-heart"
+      }
+    }
+  }
+}

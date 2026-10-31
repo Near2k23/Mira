@@ -1,0 +1,13 @@
+{
+  "tmdb": 154891,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우리는 오늘부터",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "woori-the-virgin"
+      }
+    }
+  }
+}

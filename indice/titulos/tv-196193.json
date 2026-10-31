@@ -1,0 +1,13 @@
+{
+  "tmdb": 196193,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你好呀，我的橘子恋人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-robot-in-the-orange-orchard"
+      }
+    }
+  }
+}

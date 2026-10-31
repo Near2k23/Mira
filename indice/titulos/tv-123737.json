@@ -1,0 +1,15 @@
+{
+  "tmdb": 123737,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "โคตรแฟน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "close-friend",
+        "3": "close-friend"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,3 verificadas con listEpisodes de la API de doramasflix"
+}

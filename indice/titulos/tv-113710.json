@@ -1,0 +1,13 @@
+{
+  "tmdb": 113710,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en la ciudad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lovestruck-in-the-city"
+      }
+    }
+  }
+}

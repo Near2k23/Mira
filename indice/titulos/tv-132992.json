@@ -1,0 +1,13 @@
+{
+  "tmdb": 132992,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我家浴缸的二三事",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "49-days-with-a-merman"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 136973,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "与君初相识",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-blue-whisper-part-1"
+      }
+    }
+  }
+}

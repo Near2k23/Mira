@@ -1,0 +1,13 @@
+{
+  "tmdb": 197901,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "蓝焰突击",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blue-flame-assault"
+      }
+    }
+  }
+}

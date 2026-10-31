@@ -1,0 +1,13 @@
+{
+  "tmdb": 139797,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "猎罪图鉴",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "under-the-skin"
+      }
+    }
+  }
+}

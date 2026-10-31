@@ -1,0 +1,13 @@
+{
+  "tmdb": 92829,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Juntos hasta la muerte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "til-death-do-us-part"
+      }
+    }
+  }
+}

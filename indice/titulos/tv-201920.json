@@ -1,0 +1,13 @@
+{
+  "tmdb": 201920,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Destinado a encontrarte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "destined-to-meet-you"
+      }
+    }
+  }
+}

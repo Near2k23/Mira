@@ -1,0 +1,13 @@
+{
+  "tmdb": 123349,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El sonido de la magia",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sound-of-magic"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 195192,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "正負之間",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "plus-minus"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 13 y TMDB tiene 12; no verificada"
+}

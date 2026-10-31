@@ -1,0 +1,13 @@
+{
+  "tmdb": 121475,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "นายแคนดีของฉัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "thats-my-candy"
+      }
+    }
+  }
+}
