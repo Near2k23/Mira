@@ -1,0 +1,13 @@
+{
+  "tmdb": 274671,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Beginning After the End",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2"
+      }
+    }
+  }
+}

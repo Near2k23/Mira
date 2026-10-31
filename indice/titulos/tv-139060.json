@@ -1,0 +1,13 @@
+{
+  "tmdb": 139060,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chained Soldier",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "mato-seihei-no-slave-2"
+      }
+    }
+  }
+}

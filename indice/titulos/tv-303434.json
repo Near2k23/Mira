@@ -1,0 +1,13 @@
+{
+  "tmdb": 303434,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A Misanthrope Teaches a Class for Demi-Humans",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jingai-kyoushitsu-no-ningengirai-kyoushi"
+      }
+    }
+  }
+}

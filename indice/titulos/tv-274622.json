@@ -1,0 +1,13 @@
+{
+  "tmdb": 274622,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ガンバレ！中村くん！！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ganbare-nakamurakun"
+      }
+    }
+  }
+}

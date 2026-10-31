@@ -1,0 +1,13 @@
+{
+  "tmdb": 271609,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "DARK MOON: THE BLOOD ALTAR",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dark-moon-tsuki-no-saidan"
+      }
+    }
+  }
+}

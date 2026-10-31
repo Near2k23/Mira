@@ -1,0 +1,13 @@
+{
+  "tmdb": 284969,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hikuidori: Ushuu Boro Tobi-gumi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hikuidori-ushuu-boro-tobigumi"
+      }
+    }
+  }
+}

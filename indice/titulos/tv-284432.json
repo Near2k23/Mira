@@ -1,0 +1,13 @@
+{
+  "tmdb": 284432,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yuusha no Kuzu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yuusha-no-kuzu"
+      }
+    }
+  }
+}

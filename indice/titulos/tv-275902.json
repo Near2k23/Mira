@@ -1,0 +1,13 @@
+{
+  "tmdb": 275902,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kaya-chan wa Kowakunai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kayachan-wa-kowakunai"
+      }
+    }
+  }
+}

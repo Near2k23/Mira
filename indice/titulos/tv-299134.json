@@ -1,0 +1,13 @@
+{
+  "tmdb": 299134,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El diario gastronómico de la señorita Maid",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maidsan-wa-taberu-dake"
+      }
+    }
+  }
+}

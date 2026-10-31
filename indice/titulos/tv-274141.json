@@ -1,0 +1,13 @@
+{
+  "tmdb": 274141,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A Gentle Noble's Vacation Recommendation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "odayaka-kizoku-no-kyuuka-no-susume"
+      }
+    }
+  }
+}

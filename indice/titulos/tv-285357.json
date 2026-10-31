@@ -1,0 +1,13 @@
+{
+  "tmdb": 285357,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Roll Over and Die",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "omagoto"
+      }
+    }
+  }
+}

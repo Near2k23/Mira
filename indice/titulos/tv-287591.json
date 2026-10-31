@@ -1,0 +1,13 @@
+{
+  "tmdb": 287591,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "うるわしの宵の月",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uruwashi-no-yoi-no-tsuki"
+      }
+    }
+  }
+}

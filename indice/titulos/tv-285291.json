@@ -1,0 +1,13 @@
+{
+  "tmdb": 285291,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tensei-shitara-dragon-no-tamago-datta"
+      }
+    }
+  }
+}

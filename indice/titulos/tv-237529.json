@@ -1,0 +1,13 @@
+{
+  "tmdb": 237529,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Medalist",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "medalist-2nd-season"
+      }
+    }
+  }
+}

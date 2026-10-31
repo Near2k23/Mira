@@ -1,0 +1,13 @@
+{
+  "tmdb": 283891,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Eris no Seihai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "eris-no-seihai"
+      }
+    }
+  }
+}

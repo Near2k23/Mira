@@ -1,0 +1,13 @@
+{
+  "tmdb": 284444,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "シャンピニオンの魔女",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "champignon-no-majo"
+      }
+    }
+  }
+}

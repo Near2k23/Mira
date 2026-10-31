@@ -1,0 +1,13 @@
+{
+  "tmdb": 204266,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Trigun Stampede",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "trigun-stargaze"
+      }
+    }
+  }
+}
