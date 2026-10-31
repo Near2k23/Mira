@@ -1,0 +1,14 @@
+{
+  "tmdb": 46437,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kingdom",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "6": "kingdom-6th-season"
+      }
+    }
+  },
+  "nota": "tioanime 2025: 13 cap. publicados de 14 en TMDB (en emisión)."
+}

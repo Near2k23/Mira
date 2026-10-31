@@ -1,0 +1,13 @@
+{
+  "tmdb": 287278,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "機械じかけのマリー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kikaijikake-no-marie"
+      }
+    }
+  }
+}

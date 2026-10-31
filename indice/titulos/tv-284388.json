@@ -1,0 +1,13 @@
+{
+  "tmdb": 284388,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El extraño y maravilloso lugar de trabajo de una mangaka",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "egao-no-taenai-shokuba-desu"
+      }
+    }
+  }
+}

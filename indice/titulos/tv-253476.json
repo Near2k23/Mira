@@ -1,0 +1,13 @@
+{
+  "tmdb": 253476,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "違国日記",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ikoku-nikki"
+      }
+    }
+  }
+}

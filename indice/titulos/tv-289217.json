@@ -1,0 +1,13 @@
+{
+  "tmdb": 289217,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Alma-chan Wants to Be a Family!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "almachan-wa-kazoku-ni-naritai"
+      }
+    }
+  }
+}

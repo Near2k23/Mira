@@ -1,0 +1,13 @@
+{
+  "tmdb": 285788,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tojima Wants to Be a Kamen Rider",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "toujima-tanzaburou-wa-kamen-rider-ni-naritai"
+      }
+    }
+  }
+}

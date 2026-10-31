@@ -1,0 +1,13 @@
+{
+  "tmdb": 262259,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wandance",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wandance"
+      }
+    }
+  }
+}

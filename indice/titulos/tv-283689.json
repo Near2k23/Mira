@@ -1,0 +1,13 @@
+{
+  "tmdb": 283689,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Li'l Miss Vampire Can't Suck Right",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chanto-suenai-kyuuketsukichan"
+      }
+    }
+  }
+}

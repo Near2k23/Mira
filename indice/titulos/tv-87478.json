@@ -1,0 +1,13 @@
+{
+  "tmdb": 87478,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Isekai Quartet",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "3": "isekai-quartet-3"
+      }
+    }
+  }
+}

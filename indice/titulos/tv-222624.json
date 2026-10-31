@@ -1,0 +1,13 @@
+{
+  "tmdb": 222624,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "3年Z組銀八先生",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "3nen-zgumi-ginpachisensei"
+      }
+    }
+  }
+}

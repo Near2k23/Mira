@@ -1,0 +1,13 @@
+{
+  "tmdb": 285070,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ninja vs. Gokudo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ninja-to-gokudou"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 234776,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blue Miburo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "ao-no-miburo-serizawa-ansatsuhen"
+      }
+    }
+  }
+}

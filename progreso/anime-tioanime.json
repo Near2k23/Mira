@@ -1,6 +1,6 @@
 {
-  "pagina": 11,
-  "agregados": 178,
+  "pagina": 13,
+  "agregados": 203,
   "saltados": [
     {
       "id_o_slug": "cyberpunk-edgerunners-2",
@@ -105,6 +105,34 @@
     {
       "id_o_slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen",
       "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shibou-yuugi-de-meshi-wo-kuu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "vigilante-boku-no-hero-academia-illegals-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tamonkun-ima-docchi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kaguyasama-wa-kokurasetai-otona-e-no-kaidan",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "disney-twistedwonderland-the-animation-episode-of-heartslabyul",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tondemo-skill-de-isekai-hourou-meshi-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
     }
   ],
   "notas": [
@@ -161,7 +189,10 @@
     "tv-270603.json",
     "tv-216467.json",
     "tv-60761.json",
-    "tv-283428.json"
+    "tv-283428.json",
+    "tv-286404.json",
+    "tv-261343.json",
+    "tv-46437.json"
   ],
-  "idx": 210
+  "idx": 257
 }

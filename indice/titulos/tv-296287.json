@@ -1,0 +1,13 @@
+{
+  "tmdb": 296287,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "デブとラブと過ちと!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "debu-to-love-to-ayamachi-to"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 305163,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gomon Baito-kun no Nichijo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "goumon-baitokun-no-nichijou"
+      }
+    }
+  }
+}

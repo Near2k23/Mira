@@ -1,0 +1,13 @@
+{
+  "tmdb": 283880,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hands off: Sawaranaide Kotesashi-kun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sawaranaide-kotesashikun"
+      }
+    }
+  }
+}
