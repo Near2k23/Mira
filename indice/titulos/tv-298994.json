@@ -2,10 +2,6 @@
   "tmdb": 298994,
   "tipo": "tv",
   "categoria": "anime",
-<<<<<<< HEAD
-  "titulo": "The Villager of Level 999",
-  "fuentes": {
-=======
   "titulo": "Lv999 no Murabito",
   "fuentes": {
     "animeav1": {
@@ -13,7 +9,6 @@
         "1": "lv999-no-murabito"
       }
     },
->>>>>>> 72a101a (Índice: anime, páginas 7-8 de animeav1 (33 títulos))
     "tioanime": {
       "temporadas": {
         "1": "lv999-no-murabito"

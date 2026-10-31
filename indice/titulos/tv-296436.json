@@ -2,10 +2,6 @@
   "tmdb": 296436,
   "tipo": "tv",
   "categoria": "anime",
-<<<<<<< HEAD
-  "titulo": "The Oblivious Saint Can't Contain Her Power",
-  "fuentes": {
-=======
   "titulo": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
   "fuentes": {
     "animeav1": {
@@ -13,7 +9,6 @@
         "1": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"
       }
     },
->>>>>>> 72a101a (Índice: anime, páginas 7-8 de animeav1 (33 títulos))
     "tioanime": {
       "temporadas": {
         "1": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu"

@@ -2,10 +2,6 @@
   "tmdb": 300112,
   "tipo": "tv",
   "categoria": "anime",
-<<<<<<< HEAD
-  "titulo": "BanG Dream! Yume Mita",
-  "fuentes": {
-=======
   "titulo": "BanG Dream! Yume∞Mita",
   "fuentes": {
     "animeav1": {
@@ -13,7 +9,6 @@
         "1": "bang-dream-yumemita"
       }
     },
->>>>>>> 72a101a (Índice: anime, páginas 7-8 de animeav1 (33 títulos))
     "tioanime": {
       "temporadas": {
         "1": "bang-dream-yumemita"
