@@ -1,0 +1,13 @@
+{
+  "tmdb": 298281,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¡¿Mi favorito ha aparecido?!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-bias-is-showing"
+      }
+    }
+  }
+}

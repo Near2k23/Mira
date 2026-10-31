@@ -1,0 +1,13 @@
+{
+  "tmdb": 299689,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Therapy Game",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "therapy-game"
+      }
+    }
+  }
+}

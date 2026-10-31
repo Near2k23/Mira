@@ -1,0 +1,13 @@
+{
+  "tmdb": 283353,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Queendom",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queendom-2025"
+      }
+    }
+  }
+}

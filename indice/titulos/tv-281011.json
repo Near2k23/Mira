@@ -1,0 +1,13 @@
+{
+  "tmdb": 281011,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor de mentira",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "would-you-marry-me"
+      }
+    }
+  }
+}

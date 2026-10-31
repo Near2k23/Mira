@@ -1,0 +1,13 @@
+{
+  "tmdb": 278904,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "단죄",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-mercy"
+      }
+    }
+  }
+}

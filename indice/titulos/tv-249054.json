@@ -1,0 +1,13 @@
+{
+  "tmdb": 249054,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Románticos anónimos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "romantics-anonymous"
+      }
+    }
+  }
+}

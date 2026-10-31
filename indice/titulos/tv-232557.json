@@ -1,0 +1,13 @@
+{
+  "tmdb": 232557,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "은수 좋은 날",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "walking-on-thin-ice"
+      }
+    }
+  }
+}

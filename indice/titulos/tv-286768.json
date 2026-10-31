@@ -1,0 +1,13 @@
+{
+  "tmdb": 286768,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "บนพระจันทร์มีกระต่าย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rabbit-on-the-moon"
+      }
+    }
+  }
+}

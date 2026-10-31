@@ -1,0 +1,13 @@
+{
+  "tmdb": 271889,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "백번의 추억",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-hundred-memories"
+      }
+    }
+  }
+}

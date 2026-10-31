@@ -1,0 +1,13 @@
+{
+  "tmdb": 298698,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Escenario del crimen cero",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crime-scene-zero"
+      }
+    }
+  }
+}

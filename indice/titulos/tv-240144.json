@@ -1,0 +1,13 @@
+{
+  "tmdb": 240144,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สัญญารักแห่งแวมไพร์ ผนึกหัวใจ... ชั่วนิรันดร์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "revamp-the-undead-story"
+      }
+    }
+  }
+}

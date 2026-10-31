@@ -1,0 +1,13 @@
+{
+  "tmdb": 278361,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春迟",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spring-rewritten"
+      }
+    }
+  }
+}

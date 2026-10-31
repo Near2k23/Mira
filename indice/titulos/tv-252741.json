@@ -1,0 +1,14 @@
+{
+  "tmdb": 252741,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Soy el Conde Más Hermoso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "im-the-most-beautiful-count"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 13 de 15 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 284488,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ดีลลับฉบับเล่นเล่ห์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "harmony-secret"
+      }
+    }
+  }
+}

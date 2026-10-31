@@ -1,0 +1,13 @@
+{
+  "tmdb": 300208,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "거짓말, 뱀파이어가 어디 있어?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-secret-vampire"
+      }
+    }
+  }
+}

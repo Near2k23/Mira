@@ -1,0 +1,13 @@
+{
+  "tmdb": 243248,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Reina Mantis",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queen-mantis"
+      }
+    }
+  }
+}

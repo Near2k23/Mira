@@ -1,0 +1,13 @@
+{
+  "tmdb": 217837,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "มหาลัยคลั่ง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "zomvivor"
+      }
+    }
+  }
+}

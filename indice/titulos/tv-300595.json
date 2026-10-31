@@ -1,0 +1,13 @@
+{
+  "tmdb": 300595,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รัก สาป สูญ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-cursed-love"
+      }
+    }
+  }
+}
