@@ -1,0 +1,15 @@
+{
+  "tmdb": 201859,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "수업중입니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-class",
+        "2": "love-class",
+        "3": "love-class"
+      }
+    }
+  }
+}

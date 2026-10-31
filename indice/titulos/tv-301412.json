@@ -1,0 +1,13 @@
+{
+  "tmdb": 301412,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un sueño contigo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dream-to-you"
+      }
+    }
+  }
+}

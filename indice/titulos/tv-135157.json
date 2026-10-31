@@ -1,0 +1,14 @@
+{
+  "tmdb": 135157,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Alquimia de Almas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "alchemy-of-souls",
+        "2": "alchemy-of-souls"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 96648,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Dulce hogar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-home",
+        "2": "sweet-home",
+        "3": "sweet-home"
+      }
+    }
+  }
+}

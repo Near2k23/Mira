@@ -1,0 +1,13 @@
+{
+  "tmdb": 197067,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Woo, Una Abogada Extraordinaria",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "extraordinary-attorney-woo"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 303493,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "นอต",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "knot"
+      }
+    }
+  }
+}

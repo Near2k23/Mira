@@ -1,0 +1,13 @@
+{
+  "tmdb": 67915,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Goblin: El Guardián",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "goblin"
+      }
+    }
+  }
+}

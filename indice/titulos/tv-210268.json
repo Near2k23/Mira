@@ -1,0 +1,13 @@
+{
+  "tmdb": 210268,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cenizas del pasado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "burn-the-house-down"
+      }
+    }
+  }
+}

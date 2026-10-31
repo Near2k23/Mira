@@ -1,0 +1,13 @@
+{
+  "tmdb": 277520,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "斗罗大陆之燃魂战",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-land-of-warriors"
+      }
+    }
+  }
+}

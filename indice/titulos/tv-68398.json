@@ -1,0 +1,14 @@
+{
+  "tmdb": 68398,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kim, el Doctor Romántico",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dr-romantic",
+        "2": "dr-romantic"
+      }
+    }
+  }
+}

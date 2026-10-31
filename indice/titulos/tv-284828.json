@@ -1,0 +1,13 @@
+{
+  "tmdb": 284828,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Duang está contigo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "duang-with-you"
+      }
+    }
+  }
+}

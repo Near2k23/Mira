@@ -1,0 +1,13 @@
+{
+  "tmdb": 272711,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ไหนเฮียบอกไม่ชอบเด็ก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-stubborn"
+      }
+    }
+  }
+}

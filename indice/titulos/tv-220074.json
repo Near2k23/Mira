@@ -1,0 +1,14 @@
+{
+  "tmdb": 220074,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Chaebol X Detective",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flex-x-cop",
+        "2": "flex-x-cop"
+      }
+    }
+  }
+}

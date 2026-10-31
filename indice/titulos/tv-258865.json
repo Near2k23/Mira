@@ -1,0 +1,13 @@
+{
+  "tmdb": 258865,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "白日提灯​",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-beyond-the-grave"
+      }
+    }
+  }
+}

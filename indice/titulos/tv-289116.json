@@ -1,0 +1,13 @@
+{
+  "tmdb": 289116,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "天才，女友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "genius-girlfriend"
+      }
+    }
+  }
+}

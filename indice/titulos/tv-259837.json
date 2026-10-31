@@ -1,0 +1,13 @@
+{
+  "tmdb": 259837,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The WONDERfools",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-wonderfools"
+      }
+    }
+  }
+}

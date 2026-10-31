@@ -1,0 +1,13 @@
+{
+  "tmdb": 241454,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en la puerta de al lado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-next-door"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 250060,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "难哄",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-first-frost"
+      }
+    }
+  }
+}

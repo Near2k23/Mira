@@ -1,0 +1,13 @@
+{
+  "tmdb": 272938,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "师兄太稳健",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pull-strings"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 113268,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "A la caza de espíritus malignos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-uncanny-counter",
+        "2": "the-uncanny-counter"
+      }
+    }
+  }
+}

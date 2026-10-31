@@ -1,0 +1,13 @@
+{
+  "tmdb": 99966,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Estamos Muertos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "all-of-us-are-dead"
+      }
+    }
+  }
+}
