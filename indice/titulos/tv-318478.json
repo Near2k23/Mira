@@ -1,0 +1,13 @@
+{
+  "tmdb": 318478,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hyakki Yakoushou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hyakki-yakoushou"
+      }
+    }
+  }
+}

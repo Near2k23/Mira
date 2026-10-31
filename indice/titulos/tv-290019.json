@@ -1,0 +1,18 @@
+{
+  "tmdb": 290019,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "class-de-2banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta"
+      }
+    }
+  }
+}

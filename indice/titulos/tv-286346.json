@@ -1,0 +1,18 @@
+{
+  "tmdb": 286346,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "heroine-seijo-iie-all-works-maid-desu-hokori"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "heroine-seijo-iie-all-works-maid-desu-hokori"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 284568,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Replica datte, Koi wo Suru.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "replica-datte-koi-wo-suru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "replica-datte-koi-wo-suru"
+      }
+    }
+  }
+}

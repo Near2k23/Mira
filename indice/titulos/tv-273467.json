@@ -1,0 +1,18 @@
+{
+  "tmdb": 273467,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Himekishi wa Barbaroi no Yome",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "himekishi-wa-barbaroi-no-yome"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "himekishi-wa-barbaroi-no-yome"
+      }
+    }
+  }
+}

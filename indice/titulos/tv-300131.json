@@ -1,0 +1,20 @@
+{
+  "tmdb": 300131,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kill Ao",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "kill-ao"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "kill-ao"
+      }
+    }
+  }
+}

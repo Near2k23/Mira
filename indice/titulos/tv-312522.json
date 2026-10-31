@@ -1,0 +1,18 @@
+{
+  "tmdb": 312522,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Megami \\",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de"
+      }
+    }
+  }
+}

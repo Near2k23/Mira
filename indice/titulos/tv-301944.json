@@ -1,0 +1,20 @@
+{
+  "tmdb": 301944,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Marriagetoxin",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "marriagetoxin"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "marriagetoxin"
+      }
+    }
+  }
+}

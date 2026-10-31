@@ -1,0 +1,18 @@
+{
+  "tmdb": 295751,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ichijouma Mankitsugurashi!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ichijouma-mankitsugurashi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ichijouma-mankitsugurashi"
+      }
+    }
+  }
+}

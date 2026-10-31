@@ -1,0 +1,13 @@
+{
+  "tmdb": 316973,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dandelion",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dandelion"
+      }
+    }
+  }
+}

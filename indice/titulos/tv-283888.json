@@ -1,0 +1,18 @@
+{
+  "tmdb": 283888,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kujima Utaeba Ie Hororo",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kujima-utaeba-ie-hororo"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kujima-utaeba-ie-hororo"
+      }
+    }
+  }
+}

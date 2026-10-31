@@ -1,0 +1,14 @@
+{
+  "tmdb": 213326,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
+        "2": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2"
+      }
+    }
+  }
+}

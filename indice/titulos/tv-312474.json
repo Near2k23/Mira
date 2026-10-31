@@ -1,0 +1,20 @@
+{
+  "tmdb": 312474,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nippon Sangoku",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "nippon-sangoku"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "nippon-sangoku"
+      }
+    }
+  }
+}

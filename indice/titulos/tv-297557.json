@@ -1,0 +1,18 @@
+{
+  "tmdb": 297557,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kuroneko to Majo no Kyoushitsu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kuroneko-to-majo-no-kyoushitsu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kuroneko-to-majo-no-kyoushitsu"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 300126,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Liar Game",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "liar-game"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "liar-game"
+      }
+    }
+  }
+}

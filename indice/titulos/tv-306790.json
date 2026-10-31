@@ -1,0 +1,18 @@
+{
+  "tmdb": 306790,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tadaima, Ojamasaremasu!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tadaima-ojamasaremasu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tadaima-ojamasaremasu"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 295357,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hokuto no Ken: Fist of the North Star",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hokuto-no-ken-fist-of-the-north-star"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hokuto-no-ken-fist-of-the-north-star"
+      }
+    }
+  }
+}

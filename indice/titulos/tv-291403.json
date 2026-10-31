@@ -1,0 +1,18 @@
+{
+  "tmdb": 291403,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Awajima Hyakkei",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "awajima-hyakkei"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "awajima-hyakkei"
+      }
+    }
+  }
+}

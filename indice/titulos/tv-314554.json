@@ -1,0 +1,18 @@
+{
+  "tmdb": 314554,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-srank-cheat-majutsushi-boukenroku"
+      }
+    }
+  }
+}

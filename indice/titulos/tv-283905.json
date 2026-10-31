@@ -1,0 +1,18 @@
+{
+  "tmdb": 283905,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana"
+      }
+    }
+  }
+}

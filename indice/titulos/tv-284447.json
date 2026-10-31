@@ -1,0 +1,18 @@
+{
+  "tmdb": 284447,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yowayowa Sensei",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yowayowa-sensei"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yowayowa-sensei"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 309163,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Otaku ni Yasashii Gal wa Inai!?",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "otaku-ni-yasashii-gal-wa-inai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "otaku-ni-yasashii-gal-wa-inai"
+      }
+    }
+  }
+}

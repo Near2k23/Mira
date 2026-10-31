@@ -175,7 +175,40 @@
   "tv-312949": "nuevo",
   "tv-315054": "nuevo",
   "tv-324335": "nuevo",
-  "tv-325158": "nuevo"
+  "tv-325158": "nuevo",
+  "tv-96316": "nuevo",
+  "tv-213326": "nuevo",
+  "tv-245842": "nuevo",
+  "tv-254492": "nuevo",
+  "tv-273467": "nuevo",
+  "tv-283888": "nuevo",
+  "tv-283905": "nuevo",
+  "tv-284447": "nuevo",
+  "tv-284568": "nuevo",
+  "tv-286346": "nuevo",
+  "tv-290019": "nuevo",
+  "tv-291403": "nuevo",
+  "tv-293697": "nuevo",
+  "tv-295357": "nuevo",
+  "tv-295751": "nuevo",
+  "tv-296436": "nuevo",
+  "tv-297557": "nuevo",
+  "tv-298994": "nuevo",
+  "tv-300112": "nuevo",
+  "tv-300126": "nuevo",
+  "tv-300131": "nuevo",
+  "tv-301944": "nuevo",
+  "tv-305567": "nuevo",
+  "tv-306121": "nuevo",
+  "tv-306790": "nuevo",
+  "tv-309163": "nuevo",
+  "tv-312020": "nuevo",
+  "tv-312474": "nuevo",
+  "tv-312507": "nuevo",
+  "tv-312522": "nuevo",
+  "tv-314554": "nuevo",
+  "tv-316973": "nuevo",
+  "tv-318478": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -196,7 +229,13 @@
   "dogulwang": "no está en TMDB / no ubicado",
   "mushoku-tensei-iii-isekai-ittara-honki-dasu": "no está en TMDB / no ubicado",
   "one-piece-heroines": "Especial",
-  "bai-ri-cheng-wang": "no está en TMDB / no ubicado"
+  "bai-ri-cheng-wang": "no está en TMDB / no ubicado",
+  "mononoke-movie-3-hebigami": "no está en TMDB",
+  "bungou-stray-dogs-wan-2": "no está en TMDB / no ubicado",
+  "super-no-ura-de-yani-suu-futari-mini": "no está en TMDB / no ubicado",
+  "devil-may-cry-2026": "no está en TMDB / no ubicado",
+  "boku-no-hero-academia-more": "Especial",
+  "rezero-kara-hajimeru-isekai-seikatsu-4th-season": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -218,6 +257,11 @@
    "agregados": 37,
    "completados": 0,
    "saltados": 0
+  },
+  "latest_released 7-8": {
+   "agregados": 33,
+   "completados": 0,
+   "saltados": 1
   }
  }
 }

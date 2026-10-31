@@ -2,8 +2,18 @@
   "tmdb": 312507,
   "tipo": "tv",
   "categoria": "anime",
+<<<<<<< HEAD
   "titulo": "Dara-san of the Reiwa Era",
   "fuentes": {
+=======
+  "titulo": "Reiwa no Dara-san",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "reiwa-no-dara-san"
+      }
+    },
+>>>>>>> 72a101a (Índice: anime, páginas 7-8 de animeav1 (33 títulos))
     "tioanime": {
       "temporadas": {
         "1": "reiwa-no-darasan"

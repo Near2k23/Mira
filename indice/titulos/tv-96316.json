@@ -1,0 +1,58 @@
+{
+  "tmdb": 96316,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kanojo, Okarishimasu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kanojo-okarishimasu",
+            "episodios": 12
+          },
+          {
+            "slug": "kanojo-okarishimasu-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "kanojo-okarishimasu-3rd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "kanojo-okarishimasu-4th-season",
+            "episodios": 12
+          },
+          {
+            "slug": "kanojo-okarishimasu-5th-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kanojo-okarishimasu",
+            "episodios": 12
+          },
+          {
+            "slug": "kanojo-okarishimasu-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "kanojo-okarishimasu-3rd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "kanojo-okarishimasu-4th-season",
+            "episodios": 12
+          },
+          {
+            "slug": "kanojo-okarishimasu-5th-season"
+          }
+        ]
+      }
+    }
+  }
+}

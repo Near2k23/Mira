@@ -1,0 +1,18 @@
+{
+  "tmdb": 293697,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aishiteru Game wo Owarasetai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "aishiteru-game-wo-owarasetai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "aishiteru-game-wo-owarasetai"
+      }
+    }
+  }
+}

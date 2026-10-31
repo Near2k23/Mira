@@ -1,0 +1,18 @@
+{
+  "tmdb": 306121,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kami no Shizuku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kami-no-shizuku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kami-no-shizuku"
+      }
+    }
+  }
+}

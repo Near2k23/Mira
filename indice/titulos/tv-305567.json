@@ -1,0 +1,18 @@
+{
+  "tmdb": 305567,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hidarikiki no Eren",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hidarikiki-no-eren"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hidarikiki-no-eren"
+      }
+    }
+  }
+}
