@@ -1,0 +1,13 @@
+{
+  "tmdb": 286447,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夺天阙",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-seized-destiny"
+      }
+    }
+  }
+}

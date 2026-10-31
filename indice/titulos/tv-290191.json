@@ -1,0 +1,13 @@
+{
+  "tmdb": 290191,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "假面迷情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kill-lover"
+      }
+    }
+  }
+}

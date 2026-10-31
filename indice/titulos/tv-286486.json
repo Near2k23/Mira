@@ -1,0 +1,13 @@
+{
+  "tmdb": 286486,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "무언가 잘못되었다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "something-is-not-right"
+      }
+    }
+  }
+}

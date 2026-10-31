@@ -1,0 +1,13 @@
+{
+  "tmdb": 226270,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "淮水竹亭",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-pavilion"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 204160,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "落花时节又逢君",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-never-fails"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 38 de 40 episodios"
+}

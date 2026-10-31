@@ -1,0 +1,13 @@
+{
+  "tmdb": 272023,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "初めましてこんにちは、離婚してください",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hello-nice-to-meet-you-lets-divorce"
+      }
+    }
+  }
+}

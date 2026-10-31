@@ -1,0 +1,13 @@
+{
+  "tmdb": 278166,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เปิดเทอมใหม่ หัวใจหัดรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "boys-in-love"
+      }
+    }
+  }
+}

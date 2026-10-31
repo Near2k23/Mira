@@ -1,0 +1,13 @@
+{
+  "tmdb": 238588,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "을의 연애",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "business-as-usual"
+      }
+    }
+  }
+}

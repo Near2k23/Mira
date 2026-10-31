@@ -1,0 +1,13 @@
+{
+  "tmdb": 283161,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "千秋令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "destiny-and-saving"
+      }
+    }
+  }
+}

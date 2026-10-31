@@ -1,0 +1,13 @@
+{
+  "tmdb": 252920,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "榜上佳婿",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "serendipity-2025"
+      }
+    }
+  }
+}

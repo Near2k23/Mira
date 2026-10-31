@@ -1,0 +1,13 @@
+{
+  "tmdb": 254389,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hasta que el cielo nos reúna",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heavenly-ever-after"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 260555,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¡Entrenando por amor!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pump-up-the-healthy-love"
+      }
+    }
+  }
+}

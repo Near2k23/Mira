@@ -1,0 +1,13 @@
+{
+  "tmdb": 262828,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "바니와 오빠들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crushology-101"
+      }
+    }
+  }
+}

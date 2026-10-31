@@ -1,0 +1,13 @@
+{
+  "tmdb": 272045,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "宫墙厌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-love-or-to-defy"
+      }
+    }
+  }
+}

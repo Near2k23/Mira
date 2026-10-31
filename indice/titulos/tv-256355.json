@@ -1,0 +1,15 @@
+{
+  "tmdb": 256355,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El bizarro hostal de Kian84",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kians-bizarre-bandb",
+        "2": "kians-bizarre-bandb"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 239077,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un amor de tiempo atrás",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "way-back-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 274057,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "走火",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "accidental-firing"
+      }
+    }
+  }
+}

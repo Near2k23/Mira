@@ -1,0 +1,13 @@
+{
+  "tmdb": 286445,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "请再和我结婚吧",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "marry-me-again"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 263300,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "對立而已",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fight-for-you"
+      }
+    }
+  }
+}

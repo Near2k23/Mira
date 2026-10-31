@@ -1,0 +1,13 @@
+{
+  "tmdb": 259486,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El palacio embrujado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-haunted-palace"
+      }
+    }
+  }
+}

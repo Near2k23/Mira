@@ -1,0 +1,13 @@
+{
+  "tmdb": 285551,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "戀愛Casting",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-casting"
+      }
+    }
+  }
+}

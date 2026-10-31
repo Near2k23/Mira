@@ -1,0 +1,13 @@
+{
+  "tmdb": 258070,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "值得爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "such-a-good-love"
+      }
+    }
+  }
+}
