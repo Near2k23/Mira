@@ -1,0 +1,18 @@
+{
+  "tmdb": 298831,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "buchigire-reijou-wa-houfuku-wo-chikaimashita"
+      }
+    }
+  }
+}

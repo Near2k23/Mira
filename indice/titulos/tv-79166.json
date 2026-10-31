@@ -1,0 +1,22 @@
+{
+  "tmdb": 79166,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Grand Blue",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "grand-blue",
+        "2": "grand-blue-season-2",
+        "3": "grand-blue-season-3"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "grand-blue",
+        "2": "grand-blue-season-2",
+        "3": "grand-blue-season-3"
+      }
+    }
+  }
+}

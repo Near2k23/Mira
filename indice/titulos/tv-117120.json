@@ -1,0 +1,18 @@
+{
+  "tmdb": 117120,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "taiari-deshita-ojousama-wa-kakutou-game-nante-shinai"
+      }
+    }
+  }
+}

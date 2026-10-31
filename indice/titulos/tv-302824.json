@@ -1,0 +1,18 @@
+{
+  "tmdb": 302824,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Let's Go Kaiki-gumi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "lets-go-kaiki-gumi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "lets-go-kaikigumi"
+      }
+    }
+  }
+}

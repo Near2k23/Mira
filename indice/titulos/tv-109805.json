@@ -1,0 +1,20 @@
+{
+  "tmdb": 109805,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Azur Lane: Bisoku Zenshin!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "azur-lane-bisoku-zenshin",
+        "2": "azur-lane-bisoku-zenshin-ni"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "azur-lane-bisoku-zenshin",
+        "2": "azur-lane-bisoku-zenshin-ni"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "tmdb": 278043,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seihantai na Kimi to Boku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "seihantai-na-kimi-to-boku",
+            "episodios": 12
+          },
+          {
+            "slug": "seihantai-na-kimi-to-boku-2nd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "seihantai-na-kimi-to-boku",
+            "episodios": 12
+          },
+          {
+            "slug": "seihantai-na-kimi-to-boku-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

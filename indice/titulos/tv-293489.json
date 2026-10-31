@@ -1,0 +1,18 @@
+{
+  "tmdb": 293489,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Oni no Hanayome",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "oni-no-hanayome"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "oni-no-hanayome"
+      }
+    }
+  }
+}

@@ -138,7 +138,44 @@
   "tv-317259": "nuevo",
   "tv-326119": "nuevo",
   "tv-333622": "nuevo",
-  "tv-335194": "nuevo"
+  "tv-335194": "nuevo",
+  "tv-69346": "nuevo",
+  "tv-79166": "nuevo",
+  "tv-109805": "nuevo",
+  "tv-117120": "nuevo",
+  "tv-123528": "nuevo",
+  "tv-153217": "nuevo",
+  "tv-223564": "nuevo",
+  "tv-240576": "nuevo",
+  "tv-250008": "nuevo",
+  "tv-255358": "nuevo",
+  "tv-270603": "nuevo",
+  "tv-278043": "nuevo",
+  "tv-280049": "nuevo",
+  "tv-284029": "nuevo",
+  "tv-284581": "nuevo",
+  "tv-285574": "nuevo",
+  "tv-285993": "nuevo",
+  "tv-287028": "nuevo",
+  "tv-287075": "nuevo",
+  "tv-288971": "nuevo",
+  "tv-293489": "nuevo",
+  "tv-293629": "nuevo",
+  "tv-295071": "nuevo",
+  "tv-296101": "nuevo",
+  "tv-298831": "nuevo",
+  "tv-300267": "nuevo",
+  "tv-302051": "nuevo",
+  "tv-302824": "nuevo",
+  "tv-307585": "nuevo",
+  "tv-308403": "nuevo",
+  "tv-308874": "nuevo",
+  "tv-309974": "nuevo",
+  "tv-312849": "nuevo",
+  "tv-312949": "nuevo",
+  "tv-315054": "nuevo",
+  "tv-324335": "nuevo",
+  "tv-325158": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -156,7 +193,10 @@
   "shiguang-dailiren-iii": "no está en TMDB / no ubicado",
   "the-ribbon-hero": "no está en TMDB / no ubicado",
   "boku-no-hero-academia-i-am-a-hero-too": "no está en TMDB / no ubicado",
-  "dogulwang": "no está en TMDB / no ubicado"
+  "dogulwang": "no está en TMDB / no ubicado",
+  "mushoku-tensei-iii-isekai-ittara-honki-dasu": "no está en TMDB / no ubicado",
+  "one-piece-heroines": "Especial",
+  "bai-ri-cheng-wang": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -171,6 +211,11 @@
   },
   "latest_released 3-4": {
    "agregados": 31,
+   "completados": 0,
+   "saltados": 0
+  },
+  "latest_released 5-6": {
+   "agregados": 37,
    "completados": 0,
    "saltados": 0
   }

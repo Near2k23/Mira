@@ -1,0 +1,20 @@
+{
+  "tmdb": 280049,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
+        "2": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
+        "2": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 300267,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 255358,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Koukaku Kidoutai (TV)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "koukaku-kidoutai-tv"
+      }
+    }
+  }
+}

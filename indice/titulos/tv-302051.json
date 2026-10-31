@@ -1,0 +1,18 @@
+{
+  "tmdb": 302051,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10nen-ga-tattara-densetsu-ni-natteita"
+      }
+    }
+  }
+}

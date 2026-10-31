@@ -1,0 +1,18 @@
+{
+  "tmdb": 284581,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 296101,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Grow Up Show: Himawari no Circus-dan",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "grow-up-show-himawari-no-circus-dan"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "grow-up-show-himawari-no-circusdan"
+      }
+    }
+  }
+}

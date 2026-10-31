@@ -1,0 +1,20 @@
+{
+  "tmdb": 240576,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kabushikigaisha Magi-Lumière",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kabushikigaisha-magi-lumiere",
+        "2": "kabushikigaisha-magi-lumiere-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kabushikigaisha-magilumiere",
+        "2": "kabushikigaisha-magilumiere-2nd-season"
+      }
+    }
+  }
+}

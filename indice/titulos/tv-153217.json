@@ -1,0 +1,18 @@
+{
+  "tmdb": 153217,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "nijusseiki-denki-mokuroku-eureka-evrika"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "nijusseiki-denki-mokuroku-eureka-evrika"
+      }
+    }
+  }
+}

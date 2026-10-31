@@ -1,0 +1,18 @@
+{
+  "tmdb": 285574,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimi ga Shinu made Koi wo Shitai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kimi-ga-shinu-made-koi-wo-shitai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-ga-shinu-made-koi-wo-shitai"
+      }
+    }
+  }
+}

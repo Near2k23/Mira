@@ -1,0 +1,18 @@
+{
+  "tmdb": 307585,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Uchi no Otouto-domo ga Sumimasen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "uchi-no-otouto-domo-ga-sumimasen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "uchi-no-otoutodomo-ga-sumimasen"
+      }
+    }
+  }
+}

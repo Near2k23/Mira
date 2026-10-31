@@ -1,0 +1,18 @@
+{
+  "tmdb": 284029,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Neko to Ryuu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "neko-to-ryuu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "neko-to-ryuu"
+      }
+    }
+  }
+}

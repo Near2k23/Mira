@@ -1,0 +1,18 @@
+{
+  "tmdb": 309974,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita"
+      }
+    }
+  }
+}

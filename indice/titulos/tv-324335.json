@@ -1,0 +1,18 @@
+{
+  "tmdb": 324335,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Iwamoto-senpai no Suisen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "iwamoto-senpai-no-suisen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "iwamotosenpai-no-suisen"
+      }
+    }
+  }
+}

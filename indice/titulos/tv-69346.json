@@ -1,0 +1,20 @@
+{
+  "tmdb": 69346,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Youjo Senki",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "youjo-senki",
+        "2": "youjo-senki-ii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "youjo-senki",
+        "2": "youjo-senki-ii"
+      }
+    }
+  }
+}

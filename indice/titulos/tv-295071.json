@@ -1,0 +1,18 @@
+{
+  "tmdb": 295071,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sayonara Lara",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "sayonara-lara"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "sayonara-lara"
+      }
+    }
+  }
+}

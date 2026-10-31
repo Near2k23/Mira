@@ -1,0 +1,25 @@
+{
+  "tmdb": 223564,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "hyakkano",
+            "episodios": 12
+          },
+          {
+            "slug": "hyakkano-ii",
+            "episodios": 12
+          },
+          {
+            "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tmdb": 293629,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yoroi Shin Den Samurai Troopers",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "yoroi-shin-den-samurai-troopers",
+            "episodios": 12
+          },
+          {
+            "slug": "yoroi-shin-den-samurai-troopers-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

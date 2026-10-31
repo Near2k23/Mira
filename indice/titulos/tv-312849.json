@@ -1,0 +1,18 @@
+{
+  "tmdb": 312849,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "saijo-no-osewa"
+      }
+    }
+  }
+}

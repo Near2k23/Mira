@@ -1,0 +1,20 @@
+{
+  "tmdb": 287028,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kore Kaite Shine",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "kore-kaite-shine"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "kore-kaite-shine"
+      }
+    }
+  }
+}

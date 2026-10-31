@@ -1,0 +1,18 @@
+{
+  "tmdb": 308403,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tetsunabe no Jan!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tetsunabe-no-jan"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tetsunabe-no-jan"
+      }
+    }
+  }
+}
