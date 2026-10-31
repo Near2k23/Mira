@@ -1,0 +1,13 @@
+{
+  "tmdb": 66560,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "No te atrevas a soñar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jealousy-incarnate"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 101857,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Te gusta Brahms?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "do-you-like-brahms"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 99492,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Búsqueda",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "search"
+      }
+    }
+  }
+}

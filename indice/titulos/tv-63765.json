@@ -1,0 +1,13 @@
+{
+  "tmdb": 63765,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Caballero de Ensueño",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dream-knight"
+      }
+    }
+  }
+}

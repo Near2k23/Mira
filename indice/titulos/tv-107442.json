@@ -1,0 +1,13 @@
+{
+  "tmdb": 107442,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Privacidad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "private-lives"
+      }
+    }
+  }
+}

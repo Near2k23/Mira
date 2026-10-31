@@ -1,0 +1,13 @@
+{
+  "tmdb": 82462,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El tercer encanto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-third-charm"
+      }
+    }
+  }
+}

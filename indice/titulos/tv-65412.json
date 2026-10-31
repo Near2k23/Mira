@@ -1,0 +1,13 @@
+{
+  "tmdb": 65412,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Por favor regresa, señor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "come-back-alive"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 95066,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Chocolate",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chocolate"
+      }
+    }
+  }
+}

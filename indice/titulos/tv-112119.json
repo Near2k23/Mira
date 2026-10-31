@@ -1,0 +1,14 @@
+{
+  "tmdb": 112119,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "카이로스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kairos"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 110658,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los espías que me amaban",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-spies-who-loved-me"
+      }
+    }
+  }
+}

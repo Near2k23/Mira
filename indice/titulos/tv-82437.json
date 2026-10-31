@@ -1,0 +1,15 @@
+{
+  "tmdb": 82437,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "狐狸的夏天",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-foxs-summer",
+        "2": "the-foxs-summer"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

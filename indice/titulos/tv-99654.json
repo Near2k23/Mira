@@ -1,0 +1,13 @@
+{
+  "tmdb": 99654,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "18 otra vez",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "eighteen-again"
+      }
+    }
+  }
+}

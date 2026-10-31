@@ -1,0 +1,13 @@
+{
+  "tmdb": 70455,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "왕은 사랑한다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-king-in-love"
+      }
+    }
+  }
+}

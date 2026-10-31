@@ -1,0 +1,14 @@
+{
+  "tmdb": 86830,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "열혈사제",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-fiery-priest"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 20 de 40 episodios"
+}

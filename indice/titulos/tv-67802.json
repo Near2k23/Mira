@@ -1,0 +1,13 @@
+{
+  "tmdb": 67802,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "1%의 어떤것",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "something-about-1"
+      }
+    }
+  }
+}

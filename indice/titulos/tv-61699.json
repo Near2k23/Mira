@@ -1,0 +1,13 @@
+{
+  "tmdb": 61699,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "닥터 프로스트",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dr-frost"
+      }
+    }
+  }
+}

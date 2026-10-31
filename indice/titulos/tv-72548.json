@@ -1,0 +1,14 @@
+{
+  "tmdb": 72548,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Eres humano también?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "are-you-human"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 19 de 36 episodios"
+}

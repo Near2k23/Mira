@@ -1,0 +1,13 @@
+{
+  "tmdb": 81427,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱情进化论",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-evolution-of-our-love"
+      }
+    }
+  }
+}

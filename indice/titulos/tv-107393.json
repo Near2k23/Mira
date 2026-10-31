@@ -1,0 +1,13 @@
+{
+  "tmdb": 107393,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "트웬티 트웬티",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twenty-twenty"
+      }
+    }
+  }
+}

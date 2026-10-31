@@ -1,0 +1,13 @@
+{
+  "tmdb": 108146,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "경우의 수",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "more-than-friends"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 106465,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Do Do Sol Sol La La Sol",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "do-do-sol-sol-la-la-sol"
+      }
+    }
+  }
+}

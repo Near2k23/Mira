@@ -1,0 +1,14 @@
+{
+  "tmdb": 111603,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "불새 2020",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "phoenix-corea"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 59 de 120 episodios"
+}

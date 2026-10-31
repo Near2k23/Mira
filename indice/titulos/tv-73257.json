@@ -1,0 +1,14 @@
+{
+  "tmdb": 73257,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "병원선",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hospital-ship"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 40 de 41 episodios"
+}

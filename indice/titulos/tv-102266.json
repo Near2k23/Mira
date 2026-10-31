@@ -1,0 +1,13 @@
+{
+  "tmdb": 102266,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "侠探简不知",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ancient-detective"
+      }
+    }
+  }
+}

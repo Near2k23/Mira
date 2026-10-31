@@ -1,0 +1,13 @@
+{
+  "tmdb": 87313,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los Archivos de la Enfermera Escolar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-school-nurse-files"
+      }
+    }
+  }
+}

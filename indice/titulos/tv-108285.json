@@ -1,0 +1,13 @@
+{
+  "tmdb": 108285,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Detective Zombi",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "zombie-detective"
+      }
+    }
+  }
+}

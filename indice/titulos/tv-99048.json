@@ -1,0 +1,13 @@
+{
+  "tmdb": 99048,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Start-Up",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "start-up"
+      }
+    }
+  }
+}
