@@ -1,0 +1,13 @@
+{
+  "tmdb": 278449,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "归棹",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-way-home"
+      }
+    }
+  }
+}

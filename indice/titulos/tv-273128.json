@@ -1,0 +1,13 @@
+{
+  "tmdb": 273128,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我将喜欢告诉了风",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chasing-the-wind"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 226529,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Light Shop: Entre la vida y la muerte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "light-shop"
+      }
+    }
+  }
+}

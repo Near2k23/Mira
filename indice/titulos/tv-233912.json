@@ -9,5 +9,6 @@
         "1": "guardians-of-the-dafeng"
       }
     }
-  }
+  },
+  "nota": "nombre/año del sitio (Guardians of the Dafeng 2024) no coinciden con TMDB (大奉打更人 2025); se mantuvo el tmdb_id del sitio"
 }

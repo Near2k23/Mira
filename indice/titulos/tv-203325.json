@@ -1,0 +1,13 @@
+{
+  "tmdb": 203325,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ขั้วฟ้าของผม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sky-in-your-heart"
+      }
+    }
+  }
+}

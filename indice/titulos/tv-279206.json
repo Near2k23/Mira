@@ -1,0 +1,13 @@
+{
+  "tmdb": 279206,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "人生是道选择题",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "life-is-a-choice"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 256725,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "모텔 캘리포니아",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "motel-california"
+      }
+    }
+  }
+}

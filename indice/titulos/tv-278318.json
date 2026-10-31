@@ -1,0 +1,13 @@
+{
+  "tmdb": 278318,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "错爱双生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "misplacement"
+      }
+    }
+  }
+}

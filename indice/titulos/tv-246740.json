@@ -1,0 +1,13 @@
+{
+  "tmdb": 246740,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나미브",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "namib"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 237329,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ossan's Love Thailand",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ossans-love-thailand"
+      }
+    }
+  }
+}

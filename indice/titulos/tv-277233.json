@@ -1,0 +1,13 @@
+{
+  "tmdb": 277233,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "念念勿忘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dont-forget-me"
+      }
+    }
+  }
+}

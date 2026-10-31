@@ -1,0 +1,13 @@
+{
+  "tmdb": 271001,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El mañana y yo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tomorrow-and-i"
+      }
+    }
+  }
+}

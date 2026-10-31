@@ -1,0 +1,13 @@
+{
+  "tmdb": 272043,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "令总无恙",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-the-grip-of-love"
+      }
+    }
+  }
+}

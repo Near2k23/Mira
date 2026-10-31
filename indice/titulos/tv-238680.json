@@ -1,0 +1,13 @@
+{
+  "tmdb": 238680,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "白月梵星",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moonlight-mystique"
+      }
+    }
+  }
+}

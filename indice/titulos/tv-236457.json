@@ -1,0 +1,13 @@
+{
+  "tmdb": 236457,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คนละกาลเวลา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-boy-next-world"
+      }
+    }
+  }
+}

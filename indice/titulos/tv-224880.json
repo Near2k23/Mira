@@ -1,0 +1,13 @@
+{
+  "tmdb": 224880,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "FULL COUNT: COREA Y EL BÉISBOL",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "full-count"
+      }
+    }
+  }
+}

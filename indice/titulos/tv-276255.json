@@ -1,0 +1,13 @@
+{
+  "tmdb": 276255,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Alquilados en Finlandia",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rented-in-finland"
+      }
+    }
+  }
+}

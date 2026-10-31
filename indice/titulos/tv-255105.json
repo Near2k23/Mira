@@ -1,0 +1,13 @@
+{
+  "tmdb": 255105,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "非她不可",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fatal-allure"
+      }
+    }
+  }
+}

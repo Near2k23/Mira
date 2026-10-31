@@ -1,0 +1,13 @@
+{
+  "tmdb": 277939,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สร้างใหม่หัวใจรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-renovation"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 226103,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "원경",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-queen-who-crowns"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 14 episodios"
+}

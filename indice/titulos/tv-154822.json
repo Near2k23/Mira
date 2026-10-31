@@ -1,0 +1,13 @@
+{
+  "tmdb": 154822,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Si las estrellas hablaran",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-the-stars-gossip"
+      }
+    }
+  }
+}

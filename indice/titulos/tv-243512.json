@@ -1,0 +1,13 @@
+{
+  "tmdb": 243512,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "千朵桃花一世开",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-blossoming-love"
+      }
+    }
+  }
+}

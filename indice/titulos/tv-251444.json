@@ -1,0 +1,13 @@
+{
+  "tmdb": 251444,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "체크인 한양",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "check-in-hanyang"
+      }
+    }
+  }
+}
