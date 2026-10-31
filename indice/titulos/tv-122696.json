@@ -1,0 +1,13 @@
+{
+  "tmdb": 122696,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "亲爱的柠檬精先生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "plot-love"
+      }
+    }
+  }
+}

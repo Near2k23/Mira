@@ -1,0 +1,13 @@
+{
+  "tmdb": 136861,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "바이트 씨스터즈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bite-sisters"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 135676,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아이돈케어",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-dont-care"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (137153) no coincidía; se usó 135676 buscando por nombre y año. T1: el sitio tiene 6 de 10 episodios"
+}

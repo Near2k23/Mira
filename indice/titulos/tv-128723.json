@@ -1,0 +1,13 @@
+{
+  "tmdb": 128723,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "嘉南传",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rebirth-for-you"
+      }
+    }
+  }
+}

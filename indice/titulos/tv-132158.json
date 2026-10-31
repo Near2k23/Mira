@@ -1,0 +1,13 @@
+{
+  "tmdb": 132158,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Corrupción en Bangkok",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bangkok-breaking"
+      }
+    }
+  }
+}

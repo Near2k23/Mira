@@ -1,0 +1,13 @@
+{
+  "tmdb": 135329,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "时光旧巷的我们",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "time-flies"
+      }
+    }
+  }
+}

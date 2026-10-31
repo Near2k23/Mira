@@ -1,0 +1,13 @@
+{
+  "tmdb": 135307,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สั่งใจให้หยุดรักเธอ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "irresistible"
+      }
+    }
+  }
+}

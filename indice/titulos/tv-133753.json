@@ -1,0 +1,13 @@
+{
+  "tmdb": 133753,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "팽",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "peng"
+      }
+    }
+  }
+}

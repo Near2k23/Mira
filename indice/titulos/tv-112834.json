@@ -1,0 +1,13 @@
+{
+  "tmdb": 112834,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un reflejo de ti",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reflection-of-you"
+      }
+    }
+  }
+}

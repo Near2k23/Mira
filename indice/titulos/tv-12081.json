@@ -1,0 +1,13 @@
+{
+  "tmdb": 12081,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "쾌걸 춘향",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "delightful-girl-choon-hyang"
+      }
+    }
+  }
+}

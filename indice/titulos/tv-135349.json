@@ -1,0 +1,13 @@
+{
+  "tmdb": 135349,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "只是结婚的关系",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "once-we-get-married"
+      }
+    }
+  }
+}

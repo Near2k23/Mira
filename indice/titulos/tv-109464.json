@@ -1,0 +1,14 @@
+{
+  "tmdb": 109464,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "달고나",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dalgona"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 4 de 5 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 133091,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "My Sweet Dear",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-sweet-dear"
+      }
+    }
+  }
+}

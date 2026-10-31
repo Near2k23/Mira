@@ -1,0 +1,13 @@
+{
+  "tmdb": 135351,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "而你刚好发光",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shining-like-you"
+      }
+    }
+  }
+}

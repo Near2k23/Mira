@@ -1,0 +1,13 @@
+{
+  "tmdb": 135355,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "너의 재생목록",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-playlist"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 85405,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El payaso coronado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-crowned-clown"
+      }
+    }
+  }
+}
