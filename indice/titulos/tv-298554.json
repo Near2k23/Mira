@@ -1,0 +1,14 @@
+{
+  "tmdb": 298554,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "スクープのたまご",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-golden-egg"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 13 episodios"
+}

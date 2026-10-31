@@ -1,0 +1,13 @@
+{
+  "tmdb": 301694,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "后宫凌云传",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-ascent-of-ling-yun"
+      }
+    }
+  }
+}

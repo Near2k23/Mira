@@ -1,0 +1,13 @@
+{
+  "tmdb": 301449,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "콩 심은 데 콩 나서 웃음팡 행복팡 해외탐방",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gbrb-joy-pops-laugh-pops"
+      }
+    }
+  }
+}

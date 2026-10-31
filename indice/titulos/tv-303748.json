@@ -1,0 +1,13 @@
+{
+  "tmdb": 303748,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "제4차 사랑혁명",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "loveexe"
+      }
+    }
+  }
+}

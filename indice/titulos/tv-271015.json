@@ -1,0 +1,13 @@
+{
+  "tmdb": 271015,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "凤凰台上",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-and-crown"
+      }
+    }
+  }
+}

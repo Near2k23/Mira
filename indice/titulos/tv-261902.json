@@ -1,0 +1,13 @@
+{
+  "tmdb": 261902,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마지막 썸머",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "last-summer"
+      }
+    }
+  }
+}

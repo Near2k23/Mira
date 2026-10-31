@@ -1,0 +1,13 @@
+{
+  "tmdb": 285770,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Encantado de no conocerte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nice-to-not-meet-you"
+      }
+    }
+  }
+}

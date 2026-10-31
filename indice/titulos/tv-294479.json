@@ -1,0 +1,13 @@
+{
+  "tmdb": 294479,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "与君渡长欢",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "eternal-joy-with-you"
+      }
+    }
+  }
+}

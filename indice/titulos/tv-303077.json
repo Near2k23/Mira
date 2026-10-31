@@ -1,0 +1,13 @@
+{
+  "tmdb": 303077,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "SEVENTEEN: OUR CHAPTER",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "seventeen-our-chapter"
+      }
+    }
+  }
+}

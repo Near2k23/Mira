@@ -1,0 +1,13 @@
+{
+  "tmdb": 306252,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아이 엠 복서",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-am-boxer"
+      }
+    }
+  }
+}

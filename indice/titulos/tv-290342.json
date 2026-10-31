@@ -1,0 +1,13 @@
+{
+  "tmdb": 290342,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Amor Nunca Se Apaga",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-love-never-sets"
+      }
+    }
+  }
+}

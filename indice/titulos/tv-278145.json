@@ -1,0 +1,13 @@
+{
+  "tmdb": 278145,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ผมเจอเจ้าชายบนชายหาด",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "that-summer"
+      }
+    }
+  }
+}

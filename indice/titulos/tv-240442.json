@@ -1,0 +1,13 @@
+{
+  "tmdb": 240442,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Espadas y Amores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sword-and-beloved"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 280946,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Familia Typhoon",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "typhoon-family"
+      }
+    }
+  }
+}

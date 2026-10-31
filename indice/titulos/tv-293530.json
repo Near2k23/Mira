@@ -1,0 +1,13 @@
+{
+  "tmdb": 293530,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "UDT: 우리 동네 특공대",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heroes-next-door"
+      }
+    }
+  }
+}

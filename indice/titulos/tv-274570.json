@@ -1,0 +1,13 @@
+{
+  "tmdb": 274570,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Moon River",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moon-river"
+      }
+    }
+  }
+}

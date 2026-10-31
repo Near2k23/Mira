@@ -1,0 +1,13 @@
+{
+  "tmdb": 252321,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "勿扰飞升",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flying-up-without-disturb"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 275586,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Interminable",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "interminable"
+      }
+    }
+  }
+}

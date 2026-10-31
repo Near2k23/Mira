@@ -1,0 +1,13 @@
+{
+  "tmdb": 293391,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "吾岸",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-my-shore"
+      }
+    }
+  }
+}

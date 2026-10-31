@@ -1,0 +1,13 @@
+{
+  "tmdb": 223896,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스피릿 핑거스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spirit-fingers"
+      }
+    }
+  }
+}

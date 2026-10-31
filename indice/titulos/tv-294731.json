@@ -1,0 +1,13 @@
+{
+  "tmdb": 294731,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "다음생은 없으니까",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dont-call-me-maam"
+      }
+    }
+  }
+}

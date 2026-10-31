@@ -1,0 +1,13 @@
+{
+  "tmdb": 305975,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "绮梦令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gorgeous-dream"
+      }
+    }
+  }
+}

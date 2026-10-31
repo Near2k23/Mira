@@ -1,0 +1,15 @@
+{
+  "tmdb": 303693,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "타이드 오브 러브",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tide-of-love",
+        "2": "tide-of-love"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

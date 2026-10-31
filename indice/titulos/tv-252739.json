@@ -1,0 +1,13 @@
+{
+  "tmdb": 252739,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Goddess Bless You From Death",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "goddess-bless-you-from-death"
+      }
+    }
+  }
+}

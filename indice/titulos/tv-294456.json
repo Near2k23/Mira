@@ -1,0 +1,13 @@
+{
+  "tmdb": 294456,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "当星光坠入花海",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "starlit-bloom"
+      }
+    }
+  }
+}

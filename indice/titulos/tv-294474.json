@@ -1,0 +1,13 @@
+{
+  "tmdb": 294474,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "甜秘密",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-secrets"
+      }
+    }
+  }
+}

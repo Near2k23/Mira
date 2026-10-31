@@ -1,0 +1,13 @@
+{
+  "tmdb": 273125,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Luz Tras los Juncos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "light-beyond-the-reed"
+      }
+    }
+  }
+}

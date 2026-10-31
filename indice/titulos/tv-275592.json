@@ -1,0 +1,13 @@
+{
+  "tmdb": 275592,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La vida soñada del Sr. Kim",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-dream-life-of-mr-kim"
+      }
+    }
+  }
+}

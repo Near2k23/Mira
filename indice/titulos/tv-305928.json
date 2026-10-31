@@ -1,0 +1,13 @@
+{
+  "tmdb": 305928,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "남극의 셰프",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chef-of-antarctic"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 306293,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "以下犯上",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-palace-gambit"
+      }
+    }
+  }
+}

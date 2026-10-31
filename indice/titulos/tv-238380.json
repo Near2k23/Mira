@@ -1,0 +1,13 @@
+{
+  "tmdb": 238380,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ใครในกระจก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mystique-in-the-mirror"
+      }
+    }
+  }
+}

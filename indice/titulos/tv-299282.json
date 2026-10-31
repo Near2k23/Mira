@@ -1,0 +1,13 @@
+{
+  "tmdb": 299282,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "パンクス・トライアングル",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "punkstriangle"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 252414,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "水龙吟",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "whispers-of-fate"
+      }
+    }
+  }
+}

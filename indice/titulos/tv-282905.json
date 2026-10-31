@@ -1,0 +1,13 @@
+{
+  "tmdb": 282905,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "重影",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "persona-2025"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 289852,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "锦月令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moonlit-order"
+      }
+    }
+  }
+}

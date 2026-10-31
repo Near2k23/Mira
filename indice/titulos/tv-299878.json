@@ -1,0 +1,13 @@
+{
+  "tmdb": 299878,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "スキャンダルイブ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "scandal-eve"
+      }
+    }
+  }
+}
