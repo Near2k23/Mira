@@ -1,0 +1,13 @@
+{
+  "tmdb": 116293,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "上阳赋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-rebel-princess"
+      }
+    }
+  }
+}

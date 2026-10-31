@@ -1,0 +1,13 @@
+{
+  "tmdb": 94831,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "当她恋爱时",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fall-in-love"
+      }
+    }
+  }
+}

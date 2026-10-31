@@ -1,0 +1,13 @@
+{
+  "tmdb": 116045,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Hola? Soy yo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hello-me"
+      }
+    }
+  }
+}

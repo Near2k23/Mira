@@ -1,0 +1,13 @@
+{
+  "tmdb": 115538,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "컬러 러쉬",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "color-rush"
+      }
+    }
+  }
+}

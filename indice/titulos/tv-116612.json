@@ -1,0 +1,13 @@
+{
+  "tmdb": 116612,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Más Allá del Mal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beyond-evil"
+      }
+    }
+  }
+}

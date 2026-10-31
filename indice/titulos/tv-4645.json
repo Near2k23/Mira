@@ -1,0 +1,13 @@
+{
+  "tmdb": 4645,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "14才の母",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "14-year-old-mother"
+      }
+    }
+  }
+}

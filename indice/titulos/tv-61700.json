@@ -1,0 +1,13 @@
+{
+  "tmdb": 61700,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Chicos malos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bad-guys"
+      }
+    }
+  }
+}

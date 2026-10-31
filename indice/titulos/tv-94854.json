@@ -1,0 +1,13 @@
+{
+  "tmdb": 94854,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的机器人男友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-robot-boyfriend"
+      }
+    }
+  }
+}

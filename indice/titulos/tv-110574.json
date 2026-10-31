@@ -1,0 +1,13 @@
+{
+  "tmdb": 110574,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "心动的瞬间",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sparkle-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 71795,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "크리미널 마인드",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "criminal-minds"
+      }
+    }
+  }
+}

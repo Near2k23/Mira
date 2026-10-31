@@ -1,0 +1,13 @@
+{
+  "tmdb": 112152,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Castigador de Demonios",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-devil-punisher"
+      }
+    }
+  }
+}

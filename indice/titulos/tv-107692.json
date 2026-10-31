@@ -1,0 +1,13 @@
+{
+  "tmdb": 107692,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Señor Corazón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-heart"
+      }
+    }
+  }
+}

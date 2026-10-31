@@ -1,0 +1,13 @@
+{
+  "tmdb": 116673,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "타임즈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "times"
+      }
+    }
+  }
+}

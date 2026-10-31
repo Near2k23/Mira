@@ -1,0 +1,14 @@
+{
+  "tmdb": 87519,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "绅探",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "detective-l"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 26 y TMDB tiene 24; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 38854,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "9회말 2아웃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "9-end-2-outs"
+      }
+    }
+  }
+}

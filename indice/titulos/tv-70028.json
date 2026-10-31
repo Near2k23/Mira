@@ -1,0 +1,13 @@
+{
+  "tmdb": 70028,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "109 Strange Things",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "here-comes-robo-kdi-109"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 80374,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一千零一夜",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-dreams"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 48 de 49 episodios"
+}

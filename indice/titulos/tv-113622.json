@@ -1,0 +1,13 @@
+{
+  "tmdb": 113622,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El mito de Sísifo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sisyphus-the-myth"
+      }
+    }
+  }
+}

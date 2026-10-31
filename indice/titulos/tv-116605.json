@@ -1,0 +1,13 @@
+{
+  "tmdb": 116605,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "달이 뜨는 강",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "river-where-the-moon-rises"
+      }
+    }
+  }
+}

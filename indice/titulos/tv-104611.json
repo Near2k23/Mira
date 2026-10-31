@@ -1,0 +1,14 @@
+{
+  "tmdb": 104611,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "怪你过分美丽",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "we-are-all-alone"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 30 de 36 episodios"
+}

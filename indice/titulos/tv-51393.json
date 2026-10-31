@@ -1,0 +1,13 @@
+{
+  "tmdb": 51393,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "35歳の高校生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-dropping-out-back-to-school-at-35"
+      }
+    }
+  }
+}

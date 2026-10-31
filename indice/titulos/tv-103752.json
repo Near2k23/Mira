@@ -1,0 +1,13 @@
+{
+  "tmdb": 103752,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "너의 시선이 머무는 곳에",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "where-your-eyes-linger"
+      }
+    }
+  }
+}

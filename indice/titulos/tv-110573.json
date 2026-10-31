@@ -1,0 +1,13 @@
+{
+  "tmdb": 110573,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "约定期间爱上你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-time"
+      }
+    }
+  }
+}

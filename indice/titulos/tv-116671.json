@@ -1,0 +1,14 @@
+{
+  "tmdb": 116671,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "미스 몬테크리스토",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miss-montecristo"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (118202) no coincidía; se usó 116671 buscando por nombre y año"
+}
