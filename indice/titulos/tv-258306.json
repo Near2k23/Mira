@@ -1,0 +1,13 @@
+{
+  "tmdb": 258306,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Martes de terror extremo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "terror-tuesday-extreme"
+      }
+    }
+  }
+}

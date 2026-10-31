@@ -1,0 +1,13 @@
+{
+  "tmdb": 223329,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La vorágine",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-whirlwind"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 262591,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "小财迷",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "debit-queen"
+      }
+    }
+  }
+}

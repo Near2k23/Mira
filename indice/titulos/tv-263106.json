@@ -1,0 +1,13 @@
+{
+  "tmdb": 263106,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "他们的奇妙时光",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "their-wonderful-time"
+      }
+    }
+  }
+}

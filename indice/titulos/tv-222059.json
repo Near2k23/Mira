@@ -1,0 +1,13 @@
+{
+  "tmdb": 222059,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "彈一場完美戀愛",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "first-note-of-love"
+      }
+    }
+  }
+}

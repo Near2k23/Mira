@@ -1,0 +1,13 @@
+{
+  "tmdb": 246748,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Operación Tyrant",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-tyrant"
+      }
+    }
+  }
+}

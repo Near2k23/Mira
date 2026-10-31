@@ -1,0 +1,13 @@
+{
+  "tmdb": 245265,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Central de Policía de Gia-Gun",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gg-precinct"
+      }
+    }
+  }
+}

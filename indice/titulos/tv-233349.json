@@ -1,0 +1,13 @@
+{
+  "tmdb": 233349,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "새벽 2시의 신데렐라",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cinderella-at-2am"
+      }
+    }
+  }
+}

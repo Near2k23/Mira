@@ -1,0 +1,13 @@
+{
+  "tmdb": 135658,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "백설공주에게 죽음을-Black Out",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "black-out"
+      }
+    }
+  }
+}

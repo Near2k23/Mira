@@ -1,6 +1,6 @@
 {
- "pagina": 66,
- "agregados": 1766,
+ "pagina": 67,
+ "agregados": 1791,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -357,6 +357,14 @@
   {
    "id_o_slug": "the-girl-he-never-noticed",
    "motivo": "otra tarea: serie (país SG)"
+  },
+  {
+   "id_o_slug": "pop-star-academy-katseye",
+   "motivo": "otra tarea: serie (país US)"
+  },
+  {
+   "id_o_slug": "tv-263196",
+   "motivo": "validar falló: ERROR indice/titulos/tv-263196.json: sitio \"doramasflix\" slug \"Bosss-Riize\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -660,7 +668,8 @@
   "tv-258556.json",
   "tv-256220.json",
   "tv-259131.json",
-  "tv-254799.json"
+  "tv-254799.json",
+  "tv-260505.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2558,6 +2567,35 @@
   215003,
   254993,
   254799,
-  258707
+  258707,
+  247031,
+  246748,
+  237882,
+  135658,
+  236815,
+  62645,
+  222059,
+  260505,
+  245265,
+  221007,
+  241454,
+  240622,
+  258306,
+  257221,
+  261134,
+  229480,
+  233349,
+  219652,
+  243076,
+  224732,
+  223329,
+  252318,
+  241613,
+  262905,
+  262591,
+  263196,
+  263106,
+  237326,
+  216937
  ]
 }

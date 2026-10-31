@@ -1,0 +1,13 @@
+{
+  "tmdb": 243076,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "四方馆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "go-east"
+      }
+    }
+  }
+}

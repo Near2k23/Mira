@@ -1,0 +1,14 @@
+{
+  "tmdb": 260505,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "달려라석진",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "run-jin"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 36 episodios"
+}

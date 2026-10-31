@@ -1,0 +1,13 @@
+{
+  "tmdb": 62645,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cálido y Acogedor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "warm-and-cozy"
+      }
+    }
+  }
+}

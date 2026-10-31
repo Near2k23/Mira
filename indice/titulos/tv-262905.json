@@ -1,0 +1,13 @@
+{
+  "tmdb": 262905,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "流光引",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fateful-love"
+      }
+    }
+  }
+}

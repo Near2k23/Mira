@@ -1,0 +1,13 @@
+{
+  "tmdb": 216937,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Visión de amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reverse-4-you"
+      }
+    }
+  }
+}

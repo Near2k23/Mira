@@ -1,0 +1,13 @@
+{
+  "tmdb": 257221,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Prohibido enamorarse",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chastity-high"
+      }
+    }
+  }
+}

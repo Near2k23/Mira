@@ -1,0 +1,13 @@
+{
+  "tmdb": 247031,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "유어 아너",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-honor"
+      }
+    }
+  }
+}

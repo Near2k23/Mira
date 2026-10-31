@@ -1,0 +1,13 @@
+{
+  "tmdb": 240622,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "DNA러버",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dna-lover"
+      }
+    }
+  }
+}

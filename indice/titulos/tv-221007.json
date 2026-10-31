@@ -1,0 +1,13 @@
+{
+  "tmdb": 221007,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "완벽한 가족",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "perfect-family"
+      }
+    }
+  }
+}
