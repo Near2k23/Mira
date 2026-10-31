@@ -1,0 +1,14 @@
+{
+  "tmdb": 116360,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我在窗口遇见他",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meet-by-window"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 36 episodios"
+}

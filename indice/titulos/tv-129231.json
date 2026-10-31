@@ -1,0 +1,13 @@
+{
+  "tmdb": 129231,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "与君歌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dream-of-changan"
+      }
+    }
+  }
+}

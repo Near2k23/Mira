@@ -1,0 +1,13 @@
+{
+  "tmdb": 123820,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ブラックシンデレラ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "black-cinderella"
+      }
+    }
+  }
+}

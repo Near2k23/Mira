@@ -1,0 +1,13 @@
+{
+  "tmdb": 128367,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "推しの王子様",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oshi-no-oujisama"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 126994,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "라우드",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "loud"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 15 de 20 episodios"
+}

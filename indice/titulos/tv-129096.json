@@ -1,0 +1,13 @@
+{
+  "tmdb": 129096,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우수무당 가두심",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-great-shaman-ga-doo-shim"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 127016,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "더 로드: 1의 비극",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-road-the-tragedy-of-one"
+      }
+    }
+  }
+}

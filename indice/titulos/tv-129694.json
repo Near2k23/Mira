@@ -1,0 +1,13 @@
+{
+  "tmdb": 129694,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的女主别太萌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-queen"
+      }
+    }
+  }
+}

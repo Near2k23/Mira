@@ -1,0 +1,13 @@
+{
+  "tmdb": 129496,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "上游",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-river-runs-through-it"
+      }
+    }
+  }
+}

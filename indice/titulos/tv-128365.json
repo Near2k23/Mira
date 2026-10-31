@@ -1,0 +1,14 @@
+{
+  "tmdb": 128365,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "プロミス・シンデレラ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "promise-cinderella"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 1 de 10 episodios"
+}

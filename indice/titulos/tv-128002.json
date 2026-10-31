@@ -1,0 +1,13 @@
+{
+  "tmdb": 128002,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "새빛남고 학생회",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "light-on-me"
+      }
+    }
+  }
+}

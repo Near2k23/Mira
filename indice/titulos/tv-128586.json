@@ -1,0 +1,14 @@
+{
+  "tmdb": 128586,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cumpleaños azul",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blue-birthday"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 17 episodios"
+}

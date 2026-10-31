@@ -1,0 +1,13 @@
+{
+  "tmdb": 129053,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "原来我很爱你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crush"
+      }
+    }
+  }
+}

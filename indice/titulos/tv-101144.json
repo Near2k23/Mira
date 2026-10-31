@@ -1,0 +1,14 @@
+{
+  "tmdb": 101144,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "公子，我娶定你了",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "honey-dont-run-away"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Honey Don't run away  2021) no coinciden con TMDB (公子，我娶定你了 2020); se mantuvo el tmdb_id del sitio"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 117874,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "心跳源计划",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "broker"
+      }
+    }
+  }
+}

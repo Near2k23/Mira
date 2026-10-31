@@ -1,0 +1,13 @@
+{
+  "tmdb": 129244,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的同桌又上热搜了",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-deskmate"
+      }
+    }
+  }
+}

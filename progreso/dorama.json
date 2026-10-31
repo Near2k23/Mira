@@ -1,6 +1,6 @@
 {
- "pagina": 25,
- "agregados": 681,
+ "pagina": 26,
+ "agregados": 708,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -76,6 +76,14 @@
   },
   {
    "id_o_slug": "my-dear-friend",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "oh-my-dreamy-daddy",
+   "motivo": "otra tarea: serie (país )"
+  },
+  {
+   "id_o_slug": "the-great-escape-season-4-corea",
    "motivo": "no existe en TMDB"
   }
  ],
@@ -198,7 +206,14 @@
   "tv-82951.json",
   "tv-128038.json",
   "tv-49845.json",
-  "tv-63648.json"
+  "tv-63648.json",
+  "tv-79504.json",
+  "tv-128586.json",
+  "tv-128365.json",
+  "tv-129804.json",
+  "tv-126994.json",
+  "tv-116360.json",
+  "tv-101144.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -932,6 +947,34 @@
   128926,
   128999,
   127758,
-  128927
+  128927,
+  129003,
+  129244,
+  127651,
+  79504,
+  128002,
+  128325,
+  128586,
+  117874,
+  129742,
+  127493,
+  129816,
+  128365,
+  129694,
+  129096,
+  129128,
+  129804,
+  126994,
+  123820,
+  129053,
+  129782,
+  127016,
+  116360,
+  129010,
+  129496,
+  129289,
+  128367,
+  129231,
+  101144
  ]
 }

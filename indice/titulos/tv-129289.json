@@ -1,0 +1,13 @@
+{
+  "tmdb": 129289,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "걸스 플래닛 999: 소녀대전",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "girls-planet-999"
+      }
+    }
+  }
+}

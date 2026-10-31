@@ -1,0 +1,14 @@
+{
+  "tmdb": 129804,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你的名字我的姓氏",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "once-given-never-forgotten"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 24 de 40 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 129742,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "첫번째 열일곱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-first-seventeen"
+      }
+    }
+  }
+}

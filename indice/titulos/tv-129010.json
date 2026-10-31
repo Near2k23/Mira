@@ -1,0 +1,13 @@
+{
+  "tmdb": 129010,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "大唐小吃货",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gourmet-in-tang-dynasty"
+      }
+    }
+  }
+}

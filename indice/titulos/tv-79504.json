@@ -1,0 +1,14 @@
+{
+  "tmdb": 79504,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ลิขิตรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-crown-princess"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 25 y TMDB tiene 12; no verificada"
+}

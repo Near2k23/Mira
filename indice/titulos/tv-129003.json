@@ -1,0 +1,13 @@
+{
+  "tmdb": 129003,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amante o desconocido",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lover-or-stranger"
+      }
+    }
+  }
+}
