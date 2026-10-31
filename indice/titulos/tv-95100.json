@@ -1,0 +1,13 @@
+{
+  "tmdb": 95100,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "A Little Thing Called First Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-little-thing-called-first-love"
+      }
+    }
+  }
+}

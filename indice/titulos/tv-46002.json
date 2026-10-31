@@ -1,0 +1,13 @@
+{
+  "tmdb": 46002,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Te Extraño",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "missing-you"
+      }
+    }
+  }
+}

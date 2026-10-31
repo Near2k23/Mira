@@ -1,0 +1,13 @@
+{
+  "tmdb": 82102,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Deleite diabólico",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "devilish-joy"
+      }
+    }
+  }
+}

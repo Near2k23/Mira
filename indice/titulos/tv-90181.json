@@ -1,0 +1,13 @@
+{
+  "tmdb": 90181,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "미스터 기간제",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "class-of-lies"
+      }
+    }
+  }
+}

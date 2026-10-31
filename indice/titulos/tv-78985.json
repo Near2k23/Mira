@@ -1,0 +1,13 @@
+{
+  "tmdb": 78985,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "最好的我们",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "with-you"
+      }
+    }
+  }
+}

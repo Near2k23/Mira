@@ -1,0 +1,13 @@
+{
+  "tmdb": 61048,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "총리와 나",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-prime-minister-and-i"
+      }
+    }
+  }
+}

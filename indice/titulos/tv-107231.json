@@ -1,0 +1,13 @@
+{
+  "tmdb": 107231,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "且听凤鸣",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dance-of-the-phoenix"
+      }
+    }
+  }
+}

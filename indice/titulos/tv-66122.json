@@ -1,0 +1,13 @@
+{
+  "tmdb": 66122,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "딴따라",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "entertainer"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 73944,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Black",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "black"
+      }
+    }
+  }
+}

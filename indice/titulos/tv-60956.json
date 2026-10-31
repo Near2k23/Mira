@@ -1,0 +1,13 @@
+{
+  "tmdb": 60956,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Doctor Desconocido",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-stranger"
+      }
+    }
+  }
+}

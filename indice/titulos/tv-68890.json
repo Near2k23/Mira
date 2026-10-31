@@ -1,0 +1,13 @@
+{
+  "tmdb": 68890,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "피고인",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "defendant"
+      }
+    }
+  }
+}

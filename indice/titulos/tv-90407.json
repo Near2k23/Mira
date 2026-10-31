@@ -1,0 +1,13 @@
+{
+  "tmdb": 90407,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Memorias Adolescentes",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "at-eighteen"
+      }
+    }
+  }
+}

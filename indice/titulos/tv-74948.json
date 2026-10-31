@@ -1,0 +1,13 @@
+{
+  "tmdb": 74948,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "막판 로맨스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "last-minute-romance"
+      }
+    }
+  }
+}

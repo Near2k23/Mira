@@ -1,0 +1,13 @@
+{
+  "tmdb": 88548,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Recuéstate sobre mi hombro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "put-your-head-on-my-shoulder"
+      }
+    }
+  }
+}

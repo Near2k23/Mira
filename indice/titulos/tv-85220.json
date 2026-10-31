@@ -1,0 +1,13 @@
+{
+  "tmdb": 85220,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Amor Es Un Capitulo Aparte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "romance-is-a-bonus-book"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 75387,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un amor tan hermoso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-love-so-beautiful"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 24 y TMDB tiene 23; no verificada"
+}

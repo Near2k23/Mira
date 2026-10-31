@@ -1,0 +1,13 @@
+{
+  "tmdb": 79281,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "빙구",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "frozen-love"
+      }
+    }
+  }
+}

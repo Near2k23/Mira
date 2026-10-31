@@ -1,0 +1,13 @@
+{
+  "tmdb": 106227,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "穿越火线",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cross-fire"
+      }
+    }
+  }
+}

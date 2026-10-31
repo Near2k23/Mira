@@ -1,0 +1,13 @@
+{
+  "tmdb": 78295,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "부잣집 아들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-rich-son"
+      }
+    }
+  }
+}

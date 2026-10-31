@@ -1,0 +1,13 @@
+{
+  "tmdb": 113440,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "好想和你在一起",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-with-you"
+      }
+    }
+  }
+}

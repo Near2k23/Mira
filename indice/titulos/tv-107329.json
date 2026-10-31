@@ -1,0 +1,13 @@
+{
+  "tmdb": 107329,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sigue adelante",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "go-ahead"
+      }
+    }
+  }
+}

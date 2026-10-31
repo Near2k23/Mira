@@ -1,0 +1,13 @@
+{
+  "tmdb": 111762,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "谢谢让我遇见你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meeting-you"
+      }
+    }
+  }
+}

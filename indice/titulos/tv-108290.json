@@ -1,0 +1,13 @@
+{
+  "tmdb": 108290,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Revolución de amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-revolution"
+      }
+    }
+  }
+}
