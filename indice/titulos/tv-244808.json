@@ -1,0 +1,13 @@
+{
+  "tmdb": 244808,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nukitashi The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nukitashi-the-animation"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 274546,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Let's Go Karaoke!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "karaoke-iko"
+      }
+    }
+  }
+}

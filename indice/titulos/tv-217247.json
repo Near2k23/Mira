@@ -1,0 +1,13 @@
+{
+  "tmdb": 217247,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Turkey! Time to Strike",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "turkey"
+      }
+    }
+  }
+}

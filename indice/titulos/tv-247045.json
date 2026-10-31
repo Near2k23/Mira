@@ -1,0 +1,13 @@
+{
+  "tmdb": 247045,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nyaight of the Living Cat",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nyaight-of-the-living-cat"
+      }
+    }
+  }
+}

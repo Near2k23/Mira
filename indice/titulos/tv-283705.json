@@ -1,0 +1,13 @@
+{
+  "tmdb": 283705,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Shy Hero and the Assassin Princesses",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kizetsu-yuusha-to-ansatsu-hime"
+      }
+    }
+  }
+}

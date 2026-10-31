@@ -1,0 +1,13 @@
+{
+  "tmdb": 262254,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "With You and the Rain",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ame-to-kimi-to"
+      }
+    }
+  }
+}

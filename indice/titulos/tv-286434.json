@@ -1,0 +1,13 @@
+{
+  "tmdb": 286434,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Uglymug, Epicfighter",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "busamen-gachi-fighter"
+      }
+    }
+  }
+}

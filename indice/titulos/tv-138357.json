@@ -1,0 +1,13 @@
+{
+  "tmdb": 138357,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Call of the Night",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "yofukashi-no-uta-season-2"
+      }
+    }
+  }
+}

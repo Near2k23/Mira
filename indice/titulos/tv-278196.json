@@ -1,0 +1,13 @@
+{
+  "tmdb": 278196,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El verano en que Hikaru murió",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hikaru-ga-shinda-natsu"
+      }
+    }
+  }
+}

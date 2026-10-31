@@ -1,0 +1,13 @@
+{
+  "tmdb": 122587,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Una pareja de cucos",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "kakkou-no-iinazuke-season-2"
+      }
+    }
+  }
+}

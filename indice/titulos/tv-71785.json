@@ -1,0 +1,13 @@
+{
+  "tmdb": 71785,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "おそ松さん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "4": "osomatsusan-4th-season"
+      }
+    }
+  }
+}

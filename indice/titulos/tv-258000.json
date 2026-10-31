@@ -1,0 +1,13 @@
+{
+  "tmdb": 258000,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bad Girl",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bad-girl"
+      }
+    }
+  }
+}

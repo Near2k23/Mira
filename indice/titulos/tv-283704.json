@@ -1,0 +1,13 @@
+{
+  "tmdb": 283704,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "フェルマーの料理",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fermat-no-ryouri"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 277581,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dekin no Mogura: The Earthbound Mole",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dekin-no-mogura"
+      }
+    }
+  }
+}

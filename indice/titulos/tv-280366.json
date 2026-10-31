@@ -1,0 +1,13 @@
+{
+  "tmdb": 280366,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Food Court de, Mata Ashita",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "food-court-de-mata-ashita"
+      }
+    }
+  }
+}

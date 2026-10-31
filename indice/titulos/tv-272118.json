@@ -1,0 +1,13 @@
+{
+  "tmdb": 272118,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "City The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "city-the-animation"
+      }
+    }
+  }
+}

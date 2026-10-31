@@ -1,0 +1,13 @@
+{
+  "tmdb": 279220,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cultural Exchange with a Game Centre Girl",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "game-center-shoujo-to-ibunka-kouryuu"
+      }
+    }
+  }
+}

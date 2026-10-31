@@ -1,0 +1,13 @@
+{
+  "tmdb": 281044,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Solo Camping for Two",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futari-solo-camp"
+      }
+    }
+  }
+}
