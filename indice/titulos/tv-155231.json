@@ -1,0 +1,13 @@
+{
+  "tmdb": 155231,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Conexión: Comer, amar, matar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "link-eat-love-kill"
+      }
+    }
+  }
+}

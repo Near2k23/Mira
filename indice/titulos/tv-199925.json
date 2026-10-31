@@ -1,0 +1,13 @@
+{
+  "tmdb": 199925,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "请叫我总监",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "master-of-my-own"
+      }
+    }
+  }
+}

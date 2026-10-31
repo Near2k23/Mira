@@ -1,0 +1,15 @@
+{
+  "tmdb": 115663,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나의 별에게",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-my-star",
+        "2": "to-my-star"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

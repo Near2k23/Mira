@@ -1,0 +1,13 @@
+{
+  "tmdb": 69067,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "One More Time",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-more-time"
+      }
+    }
+  }
+}

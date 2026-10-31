@@ -1,0 +1,13 @@
+{
+  "tmdb": 135895,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Beso del destino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kiss-sixth-sense"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 201742,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "비 엠비셔스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-mbitious"
+      }
+    }
+  }
+}

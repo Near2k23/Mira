@@ -1,0 +1,13 @@
+{
+  "tmdb": 203804,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "回廊亭",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-murder-in-kairoutei"
+      }
+    }
+  }
+}

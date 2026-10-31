@@ -1,0 +1,13 @@
+{
+  "tmdb": 130469,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Check Out: The Series",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "check-out"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 202826,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "系统之皇后养成记",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-queen-system"
+      }
+    }
+  }
+}

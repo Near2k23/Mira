@@ -1,0 +1,13 @@
+{
+  "tmdb": 203694,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ตะลุมรัก ตะลุมบอล",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-coach"
+      }
+    }
+  }
+}

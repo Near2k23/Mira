@@ -1,0 +1,13 @@
+{
+  "tmdb": 103635,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "传闻中的陈芊芊",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-romance-of-tiger-and-rose"
+      }
+    }
+  }
+}

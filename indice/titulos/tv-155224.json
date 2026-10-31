@@ -1,0 +1,13 @@
+{
+  "tmdb": 155224,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Maldita a primera vista",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jinxed-at-first"
+      }
+    }
+  }
+}

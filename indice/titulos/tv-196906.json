@@ -1,0 +1,13 @@
+{
+  "tmdb": 196906,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Dr. Abogado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-lawyer"
+      }
+    }
+  }
+}

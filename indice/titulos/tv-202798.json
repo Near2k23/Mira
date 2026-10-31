@@ -1,0 +1,13 @@
+{
+  "tmdb": 202798,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คืนนับดาว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "astrophile"
+      }
+    }
+  }
+}

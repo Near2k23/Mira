@@ -1,0 +1,13 @@
+{
+  "tmdb": 202796,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อ้อมฟ้าโอบดิน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-romance-from-far-away"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 202978,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "二进制恋爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "binary-love"
+      }
+    }
+  }
+}

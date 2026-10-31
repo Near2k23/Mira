@@ -10,5 +10,6 @@
         "2": "alchemy-of-souls"
       }
     }
-  }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
 }

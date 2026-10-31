@@ -1,0 +1,13 @@
+{
+  "tmdb": 70029,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "더 페이스테일 시즌1 : 신대리야",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-facetale-cinderia"
+      }
+    }
+  }
+}

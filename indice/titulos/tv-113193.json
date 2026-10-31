@@ -1,0 +1,13 @@
+{
+  "tmdb": 113193,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "说英雄谁是英雄",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heroes"
+      }
+    }
+  }
+}

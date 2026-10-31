@@ -1,0 +1,13 @@
+{
+  "tmdb": 196907,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "No hay boda sin caos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "welcome-to-wedding-hell"
+      }
+    }
+  }
+}

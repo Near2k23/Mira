@@ -1,0 +1,13 @@
+{
+  "tmdb": 138251,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Víspera",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "eve"
+      }
+    }
+  }
+}

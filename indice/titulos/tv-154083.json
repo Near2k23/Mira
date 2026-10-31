@@ -1,0 +1,13 @@
+{
+  "tmdb": 154083,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "基因決定我愛你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dna-says-love-you"
+      }
+    }
+  }
+}

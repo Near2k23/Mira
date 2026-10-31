@@ -1,0 +1,13 @@
+{
+  "tmdb": 72915,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "수요일 오후 3시 30분",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wednesday-330-pm"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 200990,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "황금가면",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gold-mask"
+      }
+    }
+  }
+}

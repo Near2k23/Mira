@@ -1,0 +1,13 @@
+{
+  "tmdb": 136644,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Por qué ella?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "why-her"
+      }
+    }
+  }
+}

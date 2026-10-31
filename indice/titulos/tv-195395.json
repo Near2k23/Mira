@@ -1,0 +1,13 @@
+{
+  "tmdb": 195395,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "从零到一的爱情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fall-in-love1"
+      }
+    }
+  }
+}

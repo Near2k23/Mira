@@ -1,0 +1,13 @@
+{
+  "tmdb": 135655,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "인사이더",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "insider"
+      }
+    }
+  }
+}

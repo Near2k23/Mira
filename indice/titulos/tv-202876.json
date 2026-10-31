@@ -1,0 +1,13 @@
+{
+  "tmdb": 202876,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "梦华录",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-dream-of-splendor"
+      }
+    }
+  }
+}
