@@ -1,0 +1,13 @@
+{
+  "tmdb": 326901,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Qué hacemos escalando montañas?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "take-a-hike"
+      }
+    }
+  }
+}

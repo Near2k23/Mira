@@ -1,0 +1,13 @@
+{
+  "tmdb": 67868,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "老九门",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-mystic-nine-2016"
+      }
+    }
+  }
+}

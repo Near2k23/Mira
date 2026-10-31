@@ -1,0 +1,13 @@
+{
+  "tmdb": 311914,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "บุพเพสันนิวาส",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-destiny"
+      }
+    }
+  }
+}

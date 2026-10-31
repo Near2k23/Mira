@@ -1,0 +1,13 @@
+{
+  "tmdb": 133988,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "再见那一天",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "see-you-again-china"
+      }
+    }
+  }
+}

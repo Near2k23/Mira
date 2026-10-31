@@ -1,0 +1,13 @@
+{
+  "tmdb": 329635,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "플레이미",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "play-me"
+      }
+    }
+  }
+}

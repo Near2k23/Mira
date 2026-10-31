@@ -1,0 +1,13 @@
+{
+  "tmdb": 326853,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักษ์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-love-and-cherish"
+      }
+    }
+  }
+}

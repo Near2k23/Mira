@@ -1,0 +1,13 @@
+{
+  "tmdb": 304871,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ซอโซ่ล่ามธีร์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-my-player-two"
+      }
+    }
+  }
+}

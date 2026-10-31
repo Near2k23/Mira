@@ -1,0 +1,13 @@
+{
+  "tmdb": 330269,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "其实不是重逢",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "predestined-meeting"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 319062,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "凤池生春",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spring-over-phoenix-pond"
+      }
+    }
+  }
+}

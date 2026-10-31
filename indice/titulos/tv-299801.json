@@ -1,0 +1,13 @@
+{
+  "tmdb": 299801,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สองหัวใจ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "brothers"
+      }
+    }
+  }
+}

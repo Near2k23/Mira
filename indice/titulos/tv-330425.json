@@ -1,0 +1,13 @@
+{
+  "tmdb": 330425,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "南戏",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "whispers-of-southern-song"
+      }
+    }
+  }
+}

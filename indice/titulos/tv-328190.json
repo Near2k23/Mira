@@ -1,0 +1,13 @@
+{
+  "tmdb": 328190,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ちょっと待とうよ、春虎くん",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hold-on-harutora-kun"
+      }
+    }
+  }
+}

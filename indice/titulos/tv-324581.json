@@ -1,0 +1,13 @@
+{
+  "tmdb": 324581,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ラストノート",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "last-note"
+      }
+    }
+  }
+}

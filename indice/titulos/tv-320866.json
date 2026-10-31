@@ -1,0 +1,15 @@
+{
+  "tmdb": 320866,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เติมคำว่ารักลงในช่องว่าง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blank",
+        "2": "blank"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

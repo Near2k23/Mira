@@ -1,0 +1,13 @@
+{
+  "tmdb": 326064,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "君の好きは無敵",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-love-so-invincible"
+      }
+    }
+  }
+}

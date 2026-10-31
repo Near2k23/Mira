@@ -1,0 +1,13 @@
+{
+  "tmdb": 294487,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "金色",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "remnants-of-gold"
+      }
+    }
+  }
+}

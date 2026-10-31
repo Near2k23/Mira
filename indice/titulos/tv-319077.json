@@ -1,0 +1,13 @@
+{
+  "tmdb": 319077,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "バカンスの法則",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-vacation-principle"
+      }
+    }
+  }
+}

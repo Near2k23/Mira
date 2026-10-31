@@ -1,0 +1,14 @@
+{
+  "tmdb": 328704,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "왕자와 거지",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "all-or-nothing"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

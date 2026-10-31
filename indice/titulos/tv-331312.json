@@ -1,0 +1,13 @@
+{
+  "tmdb": 331312,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "赴海",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kiss-or-kill"
+      }
+    }
+  }
+}

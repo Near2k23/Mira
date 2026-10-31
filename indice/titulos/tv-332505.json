@@ -1,0 +1,13 @@
+{
+  "tmdb": 332505,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "满分恋人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-one"
+      }
+    }
+  }
+}

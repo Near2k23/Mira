@@ -1,0 +1,13 @@
+{
+  "tmdb": 96104,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Doctora Dulce",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dr-cutie"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 276470,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "그래, 이혼하자",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ok-lets-get-divorced"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 239830,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "整個世界，只有你連上了我",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "connecting-to-you"
+      }
+    }
+  }
+}

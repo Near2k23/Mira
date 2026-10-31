@@ -1,0 +1,13 @@
+{
+  "tmdb": 274359,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เด็กเจนแซ่บ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "taste"
+      }
+    }
+  }
+}
