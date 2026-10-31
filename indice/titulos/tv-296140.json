@@ -1,0 +1,13 @@
+{
+  "tmdb": 296140,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi ídolo, mi jefe",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-bias-my-boss"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 299952,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La primavera temprana",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-early-spring"
+      }
+    }
+  }
+}

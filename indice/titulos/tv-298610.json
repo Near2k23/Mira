@@ -1,0 +1,13 @@
+{
+  "tmdb": 298610,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Muertos de amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spooky-in-love"
+      }
+    }
+  }
+}

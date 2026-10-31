@@ -1,0 +1,15 @@
+{
+  "tmdb": 93405,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El juego del calamar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "squid-game",
+        "2": "squid-game",
+        "3": "squid-game"
+      }
+    }
+  }
+}

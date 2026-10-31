@@ -1,0 +1,13 @@
+{
+  "tmdb": 244621,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春色寄情人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "will-love-in-spring"
+      }
+    }
+  }
+}

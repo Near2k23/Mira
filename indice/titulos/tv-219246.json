@@ -1,0 +1,13 @@
+{
+  "tmdb": 219246,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Si la vida te da mandarinas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-life-gives-you-tangerines"
+      }
+    }
+  }
+}

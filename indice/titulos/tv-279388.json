@@ -1,0 +1,13 @@
+{
+  "tmdb": 279388,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "En busca de la perfección",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pursuit-of-jade"
+      }
+    }
+  }
+}

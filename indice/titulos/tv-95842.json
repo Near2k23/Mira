@@ -1,0 +1,14 @@
+{
+  "tmdb": 95842,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "庆余年",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "joy-of-life",
+        "2": "joy-of-life"
+      }
+    }
+  }
+}

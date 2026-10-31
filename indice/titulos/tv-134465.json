@@ -1,0 +1,13 @@
+{
+  "tmdb": 134465,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Crazy Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crazy-love"
+      }
+    }
+  }
+}

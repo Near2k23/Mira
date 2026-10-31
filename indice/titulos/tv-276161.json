@@ -1,0 +1,13 @@
+{
+  "tmdb": 276161,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Así aprenderás",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "teach-you-a-lesson"
+      }
+    }
+  }
+}

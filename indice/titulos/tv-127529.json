@@ -1,0 +1,14 @@
+{
+  "tmdb": 127529,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sabuesos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bloodhounds",
+        "2": "bloodhounds"
+      }
+    }
+  }
+}

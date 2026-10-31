@@ -1,0 +1,14 @@
+{
+  "tmdb": 215072,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Negocio letal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-shop-for-killers",
+        "2": "a-shop-for-killers"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 119769,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Taxista",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "taxi-driver",
+        "2": "taxi-driver",
+        "3": "taxi-driver"
+      }
+    }
+  }
+}

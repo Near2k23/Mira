@@ -1,0 +1,13 @@
+{
+  "tmdb": 296206,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Agente Kim reactivado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "agent-kim-reactivated"
+      }
+    }
+  }
+}

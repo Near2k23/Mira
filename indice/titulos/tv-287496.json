@@ -1,0 +1,13 @@
+{
+  "tmdb": 287496,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花开锦绣",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-road-to-splendor"
+      }
+    }
+  }
+}

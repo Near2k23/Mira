@@ -1,0 +1,14 @@
+{
+  "tmdb": 200709,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un héroe débil",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "weak-hero-class-1",
+        "2": "weak-hero-class-1"
+      }
+    }
+  }
+}

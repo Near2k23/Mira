@@ -1,0 +1,13 @@
+{
+  "tmdb": 284825,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักสุดใจนายแฟนบอย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-fanboy"
+      }
+    }
+  }
+}

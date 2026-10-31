@@ -1,0 +1,13 @@
+{
+  "tmdb": 314402,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Crazy Love-MooMoo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crazy-love-moo-moo"
+      }
+    }
+  }
+}

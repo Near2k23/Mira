@@ -1,0 +1,13 @@
+{
+  "tmdb": 305644,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cuatro manos, dos sonatas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "four-hands-two-sonatas"
+      }
+    }
+  }
+}

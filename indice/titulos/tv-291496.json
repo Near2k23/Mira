@@ -1,0 +1,13 @@
+{
+  "tmdb": 291496,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Acaramelados",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-sticky-love"
+      }
+    }
+  }
+}

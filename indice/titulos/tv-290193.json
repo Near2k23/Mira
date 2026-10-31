@@ -1,0 +1,13 @@
+{
+  "tmdb": 290193,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ratonera",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mousetrap"
+      }
+    }
+  }
+}

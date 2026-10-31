@@ -1,0 +1,15 @@
+{
+  "tmdb": 110316,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Alice in Borderland",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "alice-in-bonderland",
+        "2": "alice-in-bonderland",
+        "3": "alice-in-bonderland"
+      }
+    }
+  }
+}

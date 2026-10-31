@@ -1,0 +1,13 @@
+{
+  "tmdb": 306630,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เดี๋ยวจะรักซะให้บ้า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-maniac"
+      }
+    }
+  }
+}
