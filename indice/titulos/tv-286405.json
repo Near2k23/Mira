@@ -1,0 +1,13 @@
+{
+  "tmdb": 286405,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "火舞倾城",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blazing-elegance"
+      }
+    }
+  }
+}

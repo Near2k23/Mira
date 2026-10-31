@@ -1,0 +1,13 @@
+{
+  "tmdb": 288825,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "หรือ…อลวนที่พรหมลิขิต",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "suntiny"
+      }
+    }
+  }
+}

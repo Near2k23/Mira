@@ -1,0 +1,13 @@
+{
+  "tmdb": 261980,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nuestro Seúl por descubrir",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-unwritten-seoul"
+      }
+    }
+  }
+}

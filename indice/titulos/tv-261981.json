@@ -1,0 +1,13 @@
+{
+  "tmdb": 261981,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Otro brindis para el amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "second-shot-at-love"
+      }
+    }
+  }
+}

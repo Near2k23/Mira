@@ -1,0 +1,13 @@
+{
+  "tmdb": 291971,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "被写界深度",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "depth-of-field"
+      }
+    }
+  }
+}

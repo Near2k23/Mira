@@ -1,0 +1,14 @@
+{
+  "tmdb": 292144,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "볼보이 택틱스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ballboy-tactics"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (292747) no coincidía; se usó 292144 buscando por nombre y año"
+}

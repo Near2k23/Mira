@@ -1,0 +1,13 @@
+{
+  "tmdb": 251705,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "살롱 드 홈즈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "salon-de-holmes"
+      }
+    }
+  }
+}

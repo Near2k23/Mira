@@ -1,0 +1,13 @@
+{
+  "tmdb": 286222,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스윗하트서비스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweetheart-service"
+      }
+    }
+  }
+}

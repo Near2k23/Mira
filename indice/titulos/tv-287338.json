@@ -1,0 +1,13 @@
+{
+  "tmdb": 287338,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "波うららかに、めおと日和",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-calm-sea-and-beautiful-days-with-you"
+      }
+    }
+  }
+}

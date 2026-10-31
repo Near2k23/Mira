@@ -1,0 +1,13 @@
+{
+  "tmdb": 256050,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "라이딩 인생",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mother-and-mom"
+      }
+    }
+  }
+}

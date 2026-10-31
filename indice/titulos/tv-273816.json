@@ -1,0 +1,13 @@
+{
+  "tmdb": 273816,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "云赫谣",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-antidote-to-love"
+      }
+    }
+  }
+}

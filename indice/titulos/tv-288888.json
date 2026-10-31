@@ -1,0 +1,13 @@
+{
+  "tmdb": 288888,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "偏爱靠近你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "close-to-you"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 278420,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ホンノウスイッチ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "honnou-switch-2025"
+      }
+    }
+  }
+}

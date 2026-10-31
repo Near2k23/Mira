@@ -1,6 +1,6 @@
 {
- "pagina": 76,
- "agregados": 2026,
+ "pagina": 78,
+ "agregados": 2075,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -409,6 +409,22 @@
   {
    "id_o_slug": "tv-200794",
    "motivo": "validar falló: ERROR indice/titulos/tv-200794.json: sitio \"doramasflix\" slug \"La Bruja\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "private-bodyguard",
+   "motivo": "otra tarea: serie (país ID)"
+  },
+  {
+   "id_o_slug": "safe-skies-archer",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "seducing-drake-palma",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "tv-279345",
+   "motivo": "validar falló: ERROR indice/titulos/tv-279345.json: sitio \"doramasflix\" slug \"Reset\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -739,7 +755,17 @@
   "tv-283300.json",
   "tv-256355.json",
   "tv-272711.json",
-  "tv-204160.json"
+  "tv-204160.json",
+  "tv-253769.json",
+  "tv-279127.json",
+  "tv-285242.json",
+  "tv-316320.json",
+  "tv-321699.json",
+  "tv-292144.json",
+  "tv-291914.json",
+  "tv-286094.json",
+  "tv-291742.json",
+  "tv-241166.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2928,6 +2954,63 @@
   273174,
   204160,
   226270,
-  290191
+  290191,
+  286222,
+  217810,
+  280016,
+  286446,
+  220269,
+  261981,
+  256050,
+  281006,
+  240975,
+  212957,
+  224819,
+  279605,
+  252640,
+  262741,
+  290298,
+  279415,
+  253769,
+  212049,
+  279127,
+  227191,
+  288888,
+  285242,
+  316320,
+  291617,
+  286405,
+  261980,
+  283164,
+  259857,
+  292318,
+  231280,
+  287163,
+  233221,
+  246093,
+  292208,
+  278420,
+  321699,
+  252320,
+  291161,
+  279345,
+  292144,
+  214528,
+  290054,
+  287338,
+  283929,
+  273816,
+  278331,
+  291914,
+  292035,
+  251705,
+  255483,
+  286094,
+  258256,
+  232766,
+  291971,
+  288825,
+  291742,
+  241166
  ]
 }

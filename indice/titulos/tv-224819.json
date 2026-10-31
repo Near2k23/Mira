@@ -1,0 +1,13 @@
+{
+  "tmdb": 224819,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Querido Hongrang",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-hongrang"
+      }
+    }
+  }
+}

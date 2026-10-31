@@ -1,0 +1,13 @@
+{
+  "tmdb": 233221,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¡Oh, mis clientes fantasmas!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-my-ghost-clients"
+      }
+    }
+  }
+}

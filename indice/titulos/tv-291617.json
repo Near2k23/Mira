@@ -1,0 +1,13 @@
+{
+  "tmdb": 291617,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你是我目光里的星",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sparkle-in-your-eye"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 241166,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "BLドラマの主演になりました",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-became-the-main-role-of-a-bl-drama",
+        "2": "i-became-the-main-role-of-a-bl-drama"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

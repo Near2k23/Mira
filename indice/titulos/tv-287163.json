@@ -1,0 +1,13 @@
+{
+  "tmdb": 287163,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "눈 떠보니 슈퍼TV",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "woke-up-to-supertv"
+      }
+    }
+  }
+}

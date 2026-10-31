@@ -1,0 +1,13 @@
+{
+  "tmdb": 281006,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El sabor de lo nuestro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tastefully-yours"
+      }
+    }
+  }
+}

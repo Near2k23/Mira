@@ -1,0 +1,13 @@
+{
+  "tmdb": 258256,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우리영화",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-movie"
+      }
+    }
+  }
+}

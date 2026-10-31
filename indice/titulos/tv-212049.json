@@ -1,0 +1,13 @@
+{
+  "tmdb": 212049,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อยู่ดีๆ ก็คิดถึง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "suddenly-i-miss-you"
+      }
+    }
+  }
+}

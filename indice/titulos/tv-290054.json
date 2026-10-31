@@ -1,0 +1,13 @@
+{
+  "tmdb": 290054,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "七根心简",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-seven-relics-of-ill-omen"
+      }
+    }
+  }
+}

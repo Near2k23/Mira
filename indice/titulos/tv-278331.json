@@ -1,0 +1,13 @@
+{
+  "tmdb": 278331,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "남주의 첫날밤을 가져버렸다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-first-night-with-the-duke"
+      }
+    }
+  }
+}

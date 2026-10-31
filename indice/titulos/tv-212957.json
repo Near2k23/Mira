@@ -1,0 +1,13 @@
+{
+  "tmdb": 212957,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "샤크: 더 스톰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shark-the-storm"
+      }
+    }
+  }
+}

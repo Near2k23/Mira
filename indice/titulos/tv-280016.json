@@ -1,0 +1,13 @@
+{
+  "tmdb": 280016,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Primavera de juventud",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spring-of-youth"
+      }
+    }
+  }
+}

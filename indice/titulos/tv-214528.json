@@ -1,0 +1,13 @@
+{
+  "tmdb": 214528,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "정년이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jeongnyeon-the-star-is-born"
+      }
+    }
+  }
+}

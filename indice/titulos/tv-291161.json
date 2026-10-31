@@ -1,0 +1,13 @@
+{
+  "tmdb": 291161,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รินไม่มีวันรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "denied-love"
+      }
+    }
+  }
+}

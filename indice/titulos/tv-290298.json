@@ -1,0 +1,13 @@
+{
+  "tmdb": 290298,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "불공정 연애",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "never-fair"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 279605,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพียงสบตา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "eye-contact"
+      }
+    }
+  }
+}

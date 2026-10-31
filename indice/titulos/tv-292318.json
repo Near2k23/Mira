@@ -1,0 +1,13 @@
+{
+  "tmdb": 292318,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Happiness",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "happiness-thai-2025"
+      }
+    }
+  }
+}

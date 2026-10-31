@@ -1,0 +1,13 @@
+{
+  "tmdb": 279415,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "キスでふさいで、バレないで。",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "seal-my-lips-with-a-kiss"
+      }
+    }
+  }
+}

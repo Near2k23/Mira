@@ -1,0 +1,13 @@
+{
+  "tmdb": 255483,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Reborn",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reborn"
+      }
+    }
+  }
+}

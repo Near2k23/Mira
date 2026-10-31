@@ -1,0 +1,13 @@
+{
+  "tmdb": 259857,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "陷入我们的热恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-passionately-in-love"
+      }
+    }
+  }
+}

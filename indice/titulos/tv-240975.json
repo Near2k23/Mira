@@ -1,0 +1,13 @@
+{
+  "tmdb": 240975,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "หมัดน็อกล็อกหัวใจ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "knock-out"
+      }
+    }
+  }
+}

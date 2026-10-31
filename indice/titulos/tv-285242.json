@@ -1,0 +1,14 @@
+{
+  "tmdb": 285242,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "坏狗",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moon-and-dust"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 6 de 7 episodios"
+}

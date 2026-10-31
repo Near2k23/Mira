@@ -1,0 +1,14 @@
+{
+  "tmdb": 291742,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "B:MY BOYZ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bmy-boyz"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 11 episodios"
+}
