@@ -1,0 +1,13 @@
+{
+  "tmdb": 238148,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เดือนพราง THE HIDDEN MOON",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-hidden-moon"
+      }
+    }
+  }
+}

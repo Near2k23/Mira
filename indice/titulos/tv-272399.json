@@ -1,0 +1,14 @@
+{
+  "tmdb": 272399,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스테이지 파이터",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "stage-fighter-2024"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 9; no verificada"
+}

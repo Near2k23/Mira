@@ -1,0 +1,13 @@
+{
+  "tmdb": 257788,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักเล่นกล",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "affair"
+      }
+    }
+  }
+}

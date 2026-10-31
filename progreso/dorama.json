@@ -1,6 +1,6 @@
 {
- "pagina": 67,
- "agregados": 1791,
+ "pagina": 68,
+ "agregados": 1819,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -365,6 +365,14 @@
   {
    "id_o_slug": "tv-263196",
    "motivo": "validar falló: ERROR indice/titulos/tv-263196.json: sitio \"doramasflix\" slug \"Bosss-Riize\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "chasing-in-the-wild",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "tv-270825",
+   "motivo": "validar falló: ERROR indice/titulos/tv-270825.json: sitio \"doramasflix\" slug \"Fragile-2024\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -669,7 +677,13 @@
   "tv-256220.json",
   "tv-259131.json",
   "tv-254799.json",
-  "tv-260505.json"
+  "tv-260505.json",
+  "tv-240692.json",
+  "tv-253946.json",
+  "tv-239779.json",
+  "tv-272399.json",
+  "tv-246808.json",
+  "tv-236903.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2596,6 +2610,35 @@
   263196,
   263106,
   237326,
-  216937
+  216937,
+  240692,
+  257788,
+  270825,
+  238148,
+  270503,
+  239005,
+  243086,
+  271255,
+  245684,
+  253946,
+  271867,
+  228414,
+  128722,
+  270975,
+  239779,
+  271480,
+  118488,
+  259771,
+  235577,
+  272399,
+  263078,
+  263221,
+  246808,
+  231281,
+  259902,
+  236667,
+  263040,
+  236903,
+  273307
  ]
 }

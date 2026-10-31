@@ -1,0 +1,14 @@
+{
+  "tmdb": 239779,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "True Beauty",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "true-beauty-anime"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 8 de 13 episodios"
+}

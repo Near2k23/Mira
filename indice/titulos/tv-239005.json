@@ -1,0 +1,13 @@
+{
+  "tmdb": 239005,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Patrulla rebelde en Seúl",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "seoul-busters"
+      }
+    }
+  }
+}

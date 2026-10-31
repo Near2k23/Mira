@@ -1,0 +1,13 @@
+{
+  "tmdb": 259771,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "舍不得星星",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-my-lover-friend"
+      }
+    }
+  }
+}

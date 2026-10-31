@@ -1,0 +1,13 @@
+{
+  "tmdb": 263078,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "二十一天",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-limbo"
+      }
+    }
+  }
+}

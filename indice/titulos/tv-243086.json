@@ -1,0 +1,13 @@
+{
+  "tmdb": 243086,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor de Nirvana",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-of-nirvana"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 231281,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑 후에 오는 것들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "what-comes-after-love"
+      }
+    }
+  }
+}

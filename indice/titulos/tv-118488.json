@@ -1,0 +1,13 @@
+{
+  "tmdb": 118488,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的宠物少将军",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-my-cat"
+      }
+    }
+  }
+}

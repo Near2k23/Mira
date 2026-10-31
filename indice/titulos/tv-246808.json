@@ -1,0 +1,14 @@
+{
+  "tmdb": 246808,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나의 해리에게",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-hyeri"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (272303) no coincidía; se usó 246808 buscando por nombre y año"
+}

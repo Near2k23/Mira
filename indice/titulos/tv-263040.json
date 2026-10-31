@@ -1,0 +1,13 @@
+{
+  "tmdb": 263040,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "漠风吟",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-the-desert"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 273307,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sazonando nuestro amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spice-up-our-love"
+      }
+    }
+  }
+}

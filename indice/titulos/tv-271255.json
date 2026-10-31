@@ -1,0 +1,13 @@
+{
+  "tmdb": 271255,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "내 손끝에 너의 온도가 닿을 때",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-time-of-fever"
+      }
+    }
+  }
+}

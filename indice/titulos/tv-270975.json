@@ -1,0 +1,13 @@
+{
+  "tmdb": 270975,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "로드 투 킹덤: ACE OF ACE",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "road-to-kingdom-ace-of-ace"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 259902,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "燃！沙排少女",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "go-beach-volleyball-girls"
+      }
+    }
+  }
+}

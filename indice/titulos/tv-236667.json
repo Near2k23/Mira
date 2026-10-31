@@ -1,0 +1,13 @@
+{
+  "tmdb": 236667,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "烬相思",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-inextricable-destiny"
+      }
+    }
+  }
+}

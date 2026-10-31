@@ -1,0 +1,13 @@
+{
+  "tmdb": 228414,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "半熟男女",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-between"
+      }
+    }
+  }
+}

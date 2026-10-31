@@ -1,0 +1,13 @@
+{
+  "tmdb": 270503,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "他似火",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-your-knight"
+      }
+    }
+  }
+}

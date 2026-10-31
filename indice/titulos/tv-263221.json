@@ -1,0 +1,13 @@
+{
+  "tmdb": 263221,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "镇魂街之热血再燃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hero-is-back"
+      }
+    }
+  }
+}

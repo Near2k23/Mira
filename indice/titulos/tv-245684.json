@@ -1,0 +1,13 @@
+{
+  "tmdb": 245684,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Guerra de cucharas blancas contra negras",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "culinary-class-wars"
+      }
+    }
+  }
+}
