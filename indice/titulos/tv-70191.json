@@ -1,0 +1,13 @@
+{
+  "tmdb": 70191,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "그녀는 거짓말을 너무 사랑해",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-liar-and-his-lover"
+      }
+    }
+  }
+}

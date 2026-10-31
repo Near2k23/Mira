@@ -1,0 +1,13 @@
+{
+  "tmdb": 275102,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El escándalo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-scandal"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 70452,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La novia del dios del agua",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-bride-of-habaek"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 66082,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La otra señorita Oh",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "another-miss-oh"
+      }
+    }
+  }
+}

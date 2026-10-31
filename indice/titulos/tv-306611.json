@@ -1,0 +1,13 @@
+{
+  "tmdb": 306611,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "จิรภัทรจะเป็นเด็กดี",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jiraphat-will-be-a-good-boy"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 322723,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cuidado Con El Chico",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "boy-with-caution"
+      }
+    }
+  }
+}

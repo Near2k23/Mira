@@ -1,0 +1,13 @@
+{
+  "tmdb": 67084,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cenicienta y los cuatro caballeros",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cinderella-and-four-knights"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 104798,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "浪漫輸給你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lost-romance"
+      }
+    }
+  }
+}

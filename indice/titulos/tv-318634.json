@@ -1,0 +1,13 @@
+{
+  "tmdb": 318634,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "비틀린 넥타이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twisted-tie"
+      }
+    }
+  }
+}

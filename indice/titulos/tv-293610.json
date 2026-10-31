@@ -1,0 +1,13 @@
+{
+  "tmdb": 293610,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Doctora X",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-x-mafia-in-white"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 92911,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Derritiéndome suavemente",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "melting-me-softly"
+      }
+    }
+  }
+}

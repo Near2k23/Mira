@@ -1,0 +1,13 @@
+{
+  "tmdb": 305551,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Temporada de Amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "merry-berry-love"
+      }
+    }
+  }
+}

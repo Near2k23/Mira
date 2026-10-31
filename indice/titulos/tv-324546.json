@@ -1,0 +1,13 @@
+{
+  "tmdb": 324546,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "원룸 조교님",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-room-ta"
+      }
+    }
+  }
+}

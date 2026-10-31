@@ -1,6 +1,6 @@
 {
- "pagina": 3,
- "agregados": 87,
+ "pagina": 4,
+ "agregados": 110,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -13,13 +13,20 @@
   {
    "id_o_slug": "our-yesterdays-escape",
    "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "the-ogres-bride",
+   "motivo": "otra tarea: anime"
   }
  ],
  "notas": [
   "tv-332637.json",
   "tv-315142.json",
   "tv-284358.json",
-  "tv-318884.json"
+  "tv-318884.json",
+  "tv-275947.json",
+  "tv-70626.json",
+  "tv-88463.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -109,6 +116,35 @@
   289078,
   318884,
   239384,
-  308261
+  308261,
+  275102,
+  305551,
+  322723,
+  320513,
+  317326,
+  293610,
+  306611,
+  318634,
+  275947,
+  324546,
+  330370,
+  307831,
+  298008,
+  314830,
+  104798,
+  67084,
+  66082,
+  67915,
+  330932,
+  94796,
+  70191,
+  99494,
+  70626,
+  88463,
+  79434,
+  70452,
+  96462,
+  92911,
+  70528
  ]
 }

@@ -1,0 +1,13 @@
+{
+  "tmdb": 99494,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La flor del mal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flower-of-evil"
+      }
+    }
+  }
+}

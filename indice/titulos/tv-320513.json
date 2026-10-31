@@ -1,0 +1,13 @@
+{
+  "tmdb": 320513,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "kiDnap GAME",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kidnap-game"
+      }
+    }
+  }
+}

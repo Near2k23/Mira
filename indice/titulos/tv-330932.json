@@ -1,0 +1,13 @@
+{
+  "tmdb": 330932,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Deadly Tag",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "deadly-tag"
+      }
+    }
+  }
+}

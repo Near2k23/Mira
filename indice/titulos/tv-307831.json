@@ -1,0 +1,13 @@
+{
+  "tmdb": 307831,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ก่อร่างสร้างเลิฟ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "built-in-love"
+      }
+    }
+  }
+}

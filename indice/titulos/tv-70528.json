@@ -1,0 +1,13 @@
+{
+  "tmdb": 70528,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La máquina de escribir",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chicago-typewriter"
+      }
+    }
+  }
+}

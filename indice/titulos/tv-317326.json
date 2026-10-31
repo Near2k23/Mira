@@ -1,0 +1,13 @@
+{
+  "tmdb": 317326,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คนโง่รักเข(ล)า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fool-in-love"
+      }
+    }
+  }
+}

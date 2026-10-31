@@ -1,0 +1,13 @@
+{
+  "tmdb": 314830,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "深情为饵",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-as-bait"
+      }
+    }
+  }
+}
