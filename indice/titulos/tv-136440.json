@@ -1,0 +1,13 @@
+{
+  "tmdb": 136440,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "平原上的摩西",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "why-try-to-change-me-now"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 212289,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ค่อย ๆ รัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "step-by-step"
+      }
+    }
+  }
+}

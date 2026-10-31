@@ -1,0 +1,13 @@
+{
+  "tmdb": 214997,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Doctora Cha",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-cha"
+      }
+    }
+  }
+}

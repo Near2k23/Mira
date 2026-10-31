@@ -1,0 +1,13 @@
+{
+  "tmdb": 216184,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ฝนตกครั้งนั้นฉันรักเธอ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "la-pluie"
+      }
+    }
+  }
+}

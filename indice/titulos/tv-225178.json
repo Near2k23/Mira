@@ -1,0 +1,13 @@
+{
+  "tmdb": 225178,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你给我的喜欢",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-love-you-give-me"
+      }
+    }
+  }
+}

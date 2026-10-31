@@ -1,0 +1,13 @@
+{
+  "tmdb": 224232,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "해피메리엔딩",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "happy-merry-ending"
+      }
+    }
+  }
+}

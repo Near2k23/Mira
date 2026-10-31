@@ -1,0 +1,13 @@
+{
+  "tmdb": 214999,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La buena mala madre",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-good-bad-mother"
+      }
+    }
+  }
+}

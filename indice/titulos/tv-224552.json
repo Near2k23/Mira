@@ -1,0 +1,13 @@
+{
+  "tmdb": 224552,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "为你逆光而来",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-of-replica"
+      }
+    }
+  }
+}

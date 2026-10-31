@@ -1,0 +1,13 @@
+{
+  "tmdb": 204254,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱情应该有的样子",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-the-way-you-are"
+      }
+    }
+  }
+}

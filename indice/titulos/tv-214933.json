@@ -1,0 +1,14 @@
+{
+  "tmdb": 214933,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "세상에 없는 여자친구",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "existing-girlfriend"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 2 de 6 episodios"
+}

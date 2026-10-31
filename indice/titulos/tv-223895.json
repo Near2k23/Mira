@@ -1,0 +1,13 @@
+{
+  "tmdb": 223895,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "不及将军送我情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "marry-me-my-queen"
+      }
+    }
+  }
+}

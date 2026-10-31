@@ -1,0 +1,13 @@
+{
+  "tmdb": 84351,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Our Skyy The Series",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-skyy"
+      }
+    }
+  }
+}

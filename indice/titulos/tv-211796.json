@@ -1,0 +1,13 @@
+{
+  "tmdb": 211796,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스틸러: 일곱 개의 조선통보",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "stealer-the-treasure-keeper"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 209482,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "신입사원",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-new-employee"
+      }
+    }
+  }
+}

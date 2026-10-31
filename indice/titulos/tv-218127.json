@@ -1,0 +1,13 @@
+{
+  "tmdb": 218127,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ซักอบร้ายนายสะอาด",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dirty-laundry"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 221869,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Las olas del poder",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wave-makers"
+      }
+    }
+  }
+}

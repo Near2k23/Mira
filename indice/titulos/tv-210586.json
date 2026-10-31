@@ -1,0 +1,13 @@
+{
+  "tmdb": 210586,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Fiel al amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bora-deborah"
+      }
+    }
+  }
+}

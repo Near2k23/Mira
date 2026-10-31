@@ -1,0 +1,13 @@
+{
+  "tmdb": 222370,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "全ラ飯",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "naked-dining"
+      }
+    }
+  }
+}

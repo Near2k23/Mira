@@ -1,0 +1,13 @@
+{
+  "tmdb": 213751,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "무장해제 로맨스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "disarming-romance"
+      }
+    }
+  }
+}

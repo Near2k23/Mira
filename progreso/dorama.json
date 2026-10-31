@@ -1,6 +1,6 @@
 {
- "pagina": 49,
- "agregados": 1324,
+ "pagina": 50,
+ "agregados": 1350,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -241,6 +241,14 @@
   {
    "id_o_slug": "Make-a-wish",
    "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "queen-of-the-mask",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "dr-romantic-3",
+   "motivo": "no existe en TMDB"
   }
  ],
  "notas": [
@@ -478,7 +486,11 @@
   "tv-216390.json",
   "tv-221934.json",
   "tv-158258.json",
-  "tv-135422.json"
+  "tv-135422.json",
+  "tv-222366.json",
+  "tv-221965.json",
+  "tv-214933.json",
+  "tv-211261.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1893,6 +1905,34 @@
   158876,
   135422,
   201672,
-  61184
+  61184,
+  137206,
+  92731,
+  204254,
+  218127,
+  211796,
+  210586,
+  223895,
+  222366,
+  84351,
+  139280,
+  221965,
+  222100,
+  224552,
+  213751,
+  214997,
+  214933,
+  212289,
+  224966,
+  136440,
+  209482,
+  158825,
+  222370,
+  225178,
+  211261,
+  214999,
+  224232,
+  216184,
+  221869
  ]
 }

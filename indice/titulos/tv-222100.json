@@ -1,0 +1,13 @@
+{
+  "tmdb": 222100,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "하늘의 인연",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meant-to-be"
+      }
+    }
+  }
+}

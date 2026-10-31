@@ -1,0 +1,14 @@
+{
+  "tmdb": 222366,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "僕らの食卓",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-dining-table"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 11 y TMDB tiene 10; no verificada"
+}

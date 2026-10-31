@@ -1,0 +1,13 @@
+{
+  "tmdb": 139280,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Queenmaker",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queenmaker"
+      }
+    }
+  }
+}

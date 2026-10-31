@@ -1,0 +1,13 @@
+{
+  "tmdb": 158825,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "村井の恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "murai-in-love"
+      }
+    }
+  }
+}

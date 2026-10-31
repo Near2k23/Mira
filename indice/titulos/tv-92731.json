@@ -1,0 +1,13 @@
+{
+  "tmdb": 92731,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "文学処女",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "literary-virgin"
+      }
+    }
+  }
+}
