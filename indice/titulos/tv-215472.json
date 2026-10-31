@@ -1,0 +1,13 @@
+{
+  "tmdb": 215472,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "RACE",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "race"
+      }
+    }
+  }
+}

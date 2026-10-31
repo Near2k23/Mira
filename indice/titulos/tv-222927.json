@@ -1,0 +1,13 @@
+{
+  "tmdb": 222927,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春家小姐是讼师",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miss-chun-es-abogada-litigante"
+      }
+    }
+  }
+}

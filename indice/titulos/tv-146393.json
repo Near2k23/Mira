@@ -1,0 +1,13 @@
+{
+  "tmdb": 146393,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "护心",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "back-from-the-brink"
+      }
+    }
+  }
+}

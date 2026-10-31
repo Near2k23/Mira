@@ -1,0 +1,13 @@
+{
+  "tmdb": 226907,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사이렌: 불의 섬",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "siren-survive-the-island"
+      }
+    }
+  }
+}

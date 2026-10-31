@@ -1,0 +1,13 @@
+{
+  "tmdb": 210218,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "이로운 사기",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "delightfully-deceitful"
+      }
+    }
+  }
+}

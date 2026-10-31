@@ -1,0 +1,13 @@
+{
+  "tmdb": 227054,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "강심장 리그",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "strong-heart-league"
+      }
+    }
+  }
+}

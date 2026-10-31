@@ -1,0 +1,13 @@
+{
+  "tmdb": 226969,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "三分野",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "here-we-meet-again"
+      }
+    }
+  }
+}

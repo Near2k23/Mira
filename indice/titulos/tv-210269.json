@@ -1,0 +1,13 @@
+{
+  "tmdb": 210269,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "サンクチュアリ -聖域-",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sanctuary-seiiki"
+      }
+    }
+  }
+}

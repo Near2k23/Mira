@@ -1,0 +1,13 @@
+{
+  "tmdb": 99917,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "언어의 온도: 우리의 열아홉",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-temperature-of-language-our-nineteen"
+      }
+    }
+  }
+}

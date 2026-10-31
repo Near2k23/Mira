@@ -1,0 +1,13 @@
+{
+  "tmdb": 210272,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "박하경 여행기",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-day-off"
+      }
+    }
+  }
+}

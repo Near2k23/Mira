@@ -1,0 +1,13 @@
+{
+  "tmdb": 137040,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Black Knight",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "black-knight-2023"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 224371,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สถาบันปั้นดาว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "house-of-stars"
+      }
+    }
+  }
+}

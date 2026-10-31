@@ -1,0 +1,13 @@
+{
+  "tmdb": 225492,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "러브 메이트",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-mate"
+      }
+    }
+  }
+}

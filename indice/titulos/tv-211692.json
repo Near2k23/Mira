@@ -1,0 +1,13 @@
+{
+  "tmdb": 211692,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "오! 영심이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-youngsim"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 195635,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi familia en juego",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-family"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 8 de 10 episodios"
+}

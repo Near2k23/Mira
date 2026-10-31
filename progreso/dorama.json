@@ -1,6 +1,6 @@
 {
- "pagina": 50,
- "agregados": 1350,
+ "pagina": 51,
+ "agregados": 1376,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -249,6 +249,22 @@
   {
    "id_o_slug": "dr-romantic-3",
    "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "xo-kitty",
+   "motivo": "otra tarea: serie (país US)"
+  },
+  {
+   "id_o_slug": "vian",
+   "motivo": "otra tarea: serie (país VN)"
+  },
+  {
+   "id_o_slug": "heart-signal-4",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "playou-level-up-villains-world",
+   "motivo": "no existe en TMDB"
   }
  ],
  "notas": [
@@ -490,7 +506,12 @@
   "tv-222366.json",
   "tv-221965.json",
   "tv-214933.json",
-  "tv-211261.json"
+  "tv-211261.json",
+  "tv-224740.json",
+  "tv-89982.json",
+  "tv-195635.json",
+  "tv-72976.json",
+  "tv-214994.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1933,6 +1954,32 @@
   214999,
   224232,
   216184,
-  221869
+  221869,
+  225492,
+  204589,
+  210269,
+  224740,
+  206619,
+  89982,
+  195635,
+  201019,
+  146393,
+  215472,
+  137040,
+  222927,
+  211692,
+  202753,
+  224371,
+  216227,
+  99917,
+  226969,
+  82536,
+  72976,
+  210272,
+  227054,
+  210218,
+  214994,
+  227149,
+  226907
  ]
 }

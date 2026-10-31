@@ -1,0 +1,13 @@
+{
+  "tmdb": 216227,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Por qué no te lo dije un millón de veces?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "why-didnt-i-tell-you-a-million-times"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 201019,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El cuento del zorro de las nueve colas 1938",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tale-of-the-nine-tailed-1938"
+      }
+    }
+  }
+}

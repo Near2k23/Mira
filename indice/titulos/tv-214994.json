@@ -1,0 +1,15 @@
+{
+  "tmdb": 214994,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "청담국제고등학교",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bitch-x-rich",
+        "2": "bitch-x-rich"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}
