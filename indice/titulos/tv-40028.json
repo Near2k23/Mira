@@ -1,0 +1,14 @@
+{
+  "tmdb": 40028,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "여인의 향기",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "scent-of-a-woman"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 18 episodios"
+}

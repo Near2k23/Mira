@@ -1,0 +1,13 @@
+{
+  "tmdb": 197911,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แอ๊บร้ายให้นายไม่รัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "devil-sister"
+      }
+    }
+  }
+}

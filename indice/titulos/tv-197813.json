@@ -1,0 +1,13 @@
+{
+  "tmdb": 197813,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "祝卿好",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-sassy-princess"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 106840,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แปลรักฉันด้วยใจเธอ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-told-sunset-about-you",
+        "2": "i-told-sunset-about-you"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

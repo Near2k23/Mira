@@ -1,0 +1,13 @@
+{
+  "tmdb": 158150,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พินัยกรรมกามเทพ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cupids-last-wish"
+      }
+    }
+  }
+}

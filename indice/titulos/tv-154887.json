@@ -1,0 +1,13 @@
+{
+  "tmdb": 154887,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi diario de liberación",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-liberation-notes"
+      }
+    }
+  }
+}

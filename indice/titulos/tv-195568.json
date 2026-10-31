@@ -1,0 +1,13 @@
+{
+  "tmdb": 195568,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "医是医二是二",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-accidental-physicans"
+      }
+    }
+  }
+}

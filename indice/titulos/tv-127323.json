@@ -1,0 +1,13 @@
+{
+  "tmdb": 127323,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "且试天下",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "who-rules-the-world"
+      }
+    }
+  }
+}

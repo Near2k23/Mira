@@ -1,0 +1,13 @@
+{
+  "tmdb": 196532,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "현재는 아름다워",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "its-beautiful-now"
+      }
+    }
+  }
+}

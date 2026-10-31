@@ -1,0 +1,13 @@
+{
+  "tmdb": 152512,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor a toda velocidad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-all-play"
+      }
+    }
+  }
+}

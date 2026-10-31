@@ -1,0 +1,13 @@
+{
+  "tmdb": 196572,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "비밀의 집",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-secret-house"
+      }
+    }
+  }
+}

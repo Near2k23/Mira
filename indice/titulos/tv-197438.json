@@ -1,0 +1,13 @@
+{
+  "tmdb": 197438,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "明天也想见到你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "see-you-tomorrow"
+      }
+    }
+  }
+}

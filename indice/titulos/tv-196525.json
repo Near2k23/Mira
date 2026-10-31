@@ -1,0 +1,13 @@
+{
+  "tmdb": 196525,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "总裁虐我千百遍",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "female-ceo-love-me"
+      }
+    }
+  }
+}

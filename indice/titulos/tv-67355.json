@@ -1,0 +1,13 @@
+{
+  "tmdb": 67355,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "好きな人がいること",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-girl-three-sweethearts"
+      }
+    }
+  }
+}

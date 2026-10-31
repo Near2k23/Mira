@@ -1,0 +1,13 @@
+{
+  "tmdb": 93879,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "特战荣耀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "glory-of-the-special-forces"
+      }
+    }
+  }
+}

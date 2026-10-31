@@ -1,0 +1,13 @@
+{
+  "tmdb": 196006,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마이 보이프렌드 이즈 베러",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-boyfriend-is-better"
+      }
+    }
+  }
+}

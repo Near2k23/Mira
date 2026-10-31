@@ -1,0 +1,13 @@
+{
+  "tmdb": 195747,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Club de mamás",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "green-mothers-club"
+      }
+    }
+  }
+}

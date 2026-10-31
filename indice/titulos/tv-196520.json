@@ -1,0 +1,13 @@
+{
+  "tmdb": 196520,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "千金难逃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "decreed-by-fate"
+      }
+    }
+  }
+}

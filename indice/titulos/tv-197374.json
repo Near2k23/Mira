@@ -1,0 +1,13 @@
+{
+  "tmdb": 197374,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "这里禁止恋爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-is-forbidden-here"
+      }
+    }
+  }
+}

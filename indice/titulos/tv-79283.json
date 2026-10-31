@@ -1,0 +1,13 @@
+{
+  "tmdb": 79283,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "You Drive me Crazy",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-drive-me-crazy"
+      }
+    }
+  }
+}

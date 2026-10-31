@@ -1,0 +1,13 @@
+{
+  "tmdb": 42490,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "난폭한 로맨스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wild-romance"
+      }
+    }
+  }
+}

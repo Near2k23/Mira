@@ -1,0 +1,13 @@
+{
+  "tmdb": 87425,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "로스타임 라이프 : 더 라스트 찬스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "loss-time-life-2019"
+      }
+    }
+  }
+}
