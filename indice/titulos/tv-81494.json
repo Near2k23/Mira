@@ -1,0 +1,13 @@
+{
+  "tmdb": 81494,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Inadvertidamente enamorados",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "accidentally-in-love"
+      }
+    }
+  }
+}

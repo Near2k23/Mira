@@ -1,0 +1,13 @@
+{
+  "tmdb": 70669,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "반지의 여왕",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queen-of-the-ring"
+      }
+    }
+  }
+}

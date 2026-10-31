@@ -1,0 +1,13 @@
+{
+  "tmdb": 80681,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "前男友不是人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-ex-man"
+      }
+    }
+  }
+}

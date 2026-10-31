@@ -1,0 +1,13 @@
+{
+  "tmdb": 99047,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Recuerdos de juventud",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "record-of-youth"
+      }
+    }
+  }
+}

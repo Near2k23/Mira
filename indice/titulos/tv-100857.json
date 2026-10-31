@@ -1,0 +1,13 @@
+{
+  "tmdb": 100857,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "본 어게인",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "born-again"
+      }
+    }
+  }
+}

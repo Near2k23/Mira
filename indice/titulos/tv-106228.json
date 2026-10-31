@@ -1,0 +1,13 @@
+{
+  "tmdb": 106228,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "When I Was the Most Beautiful",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-i-was-the-most-beautiful"
+      }
+    }
+  }
+}

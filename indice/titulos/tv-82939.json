@@ -1,0 +1,13 @@
+{
+  "tmdb": 82939,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Love Flight รักสุดท้ายที่ปลายฟ้า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-flight-the-last-love-at-the-end-of-the-sky"
+      }
+    }
+  }
+}

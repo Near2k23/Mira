@@ -1,0 +1,13 @@
+{
+  "tmdb": 34408,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Beso travieso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "playful-kiss"
+      }
+    }
+  }
+}

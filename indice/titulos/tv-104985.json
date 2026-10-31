@@ -1,0 +1,13 @@
+{
+  "tmdb": 104985,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Count Your Lucky Stars",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "count-your-lucky-stars"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 101723,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "致我们甜甜的小美满",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-love-equations"
+      }
+    }
+  }
+}

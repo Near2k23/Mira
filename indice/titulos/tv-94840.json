@@ -1,0 +1,13 @@
+{
+  "tmdb": 94840,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "高塔公主",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "single-ladies-senior"
+      }
+    }
+  }
+}

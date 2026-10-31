@@ -1,0 +1,13 @@
+{
+  "tmdb": 6484,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "1 Litro de lágrimas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "1-litre-of-tears"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 93263,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เจ้าหญิงเม็ดทราย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sand-princess"
+      }
+    }
+  }
+}

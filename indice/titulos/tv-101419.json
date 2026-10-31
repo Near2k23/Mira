@@ -1,0 +1,14 @@
+{
+  "tmdb": 101419,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱情的开关",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "as-long-as-you-love-me"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 46 de 48 episodios"
+}

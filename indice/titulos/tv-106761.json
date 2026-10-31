@@ -1,0 +1,15 @@
+{
+  "tmdb": 106761,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Desaparecido: El otro lado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "missing-the-other-side",
+        "2": "missing-the-other-side"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

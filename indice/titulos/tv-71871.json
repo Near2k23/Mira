@@ -1,0 +1,13 @@
+{
+  "tmdb": 71871,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El mayor éxito",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-best-hit"
+      }
+    }
+  }
+}

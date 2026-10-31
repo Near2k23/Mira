@@ -1,0 +1,13 @@
+{
+  "tmdb": 78742,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "멈추고 싶은 순간: 어바웃타임",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "about-time"
+      }
+    }
+  }
+}

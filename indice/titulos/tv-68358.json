@@ -1,0 +1,13 @@
+{
+  "tmdb": 68358,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La princesa Weiyoung",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-princess-weiyoung"
+      }
+    }
+  }
+}

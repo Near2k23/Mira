@@ -1,0 +1,13 @@
+{
+  "tmdb": 82792,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Oh My Ghost: Un Fantasma en mi Cocina",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-my-ghost-tailandia"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 46519,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Reina De Las Esposas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-wife-is-a-super-woman"
+      }
+    }
+  }
+}

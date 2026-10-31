@@ -1,0 +1,14 @@
+{
+  "tmdb": 83080,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "高校英雄傳",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "campus-heroes"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Campus Heroes ) no coinciden con TMDB (高校英雄傳 2018); se mantuvo el tmdb_id del sitio. T1: el sitio tiene 15 de 25 episodios"
+}

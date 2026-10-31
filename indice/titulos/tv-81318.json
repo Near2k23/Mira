@@ -1,0 +1,15 @@
+{
+  "tmdb": 81318,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor Por Casualidad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-by-chance",
+        "2": "love-by-chance"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

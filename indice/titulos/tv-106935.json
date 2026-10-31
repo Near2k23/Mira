@@ -1,0 +1,13 @@
+{
+  "tmdb": 106935,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kiss Goblin",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kiss-goblin"
+      }
+    }
+  }
+}

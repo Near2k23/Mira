@@ -1,0 +1,13 @@
+{
+  "tmdb": 108123,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "My Unicorn Girl",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-unicorn-girl"
+      }
+    }
+  }
+}

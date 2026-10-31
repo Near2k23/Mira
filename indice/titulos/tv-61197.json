@@ -1,0 +1,13 @@
+{
+  "tmdb": 61197,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pareja de Emergencia",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "emergency-couple"
+      }
+    }
+  }
+}

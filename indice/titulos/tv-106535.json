@@ -1,0 +1,13 @@
+{
+  "tmdb": 106535,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Lies of Lies",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lie-after-lie"
+      }
+    }
+  }
+}
