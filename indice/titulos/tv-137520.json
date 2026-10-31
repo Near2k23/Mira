@@ -1,0 +1,13 @@
+{
+  "tmdb": 137520,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Bulgasal: Almas inmortales",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bulgasal-immortal-souls"
+      }
+    }
+  }
+}

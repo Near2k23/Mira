@@ -1,0 +1,13 @@
+{
+  "tmdb": 61182,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "트로트의 연인",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lovers-of-music"
+      }
+    }
+  }
+}

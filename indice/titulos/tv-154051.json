@@ -1,0 +1,13 @@
+{
+  "tmdb": 154051,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Behind Cut",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "behind-cut"
+      }
+    }
+  }
+}

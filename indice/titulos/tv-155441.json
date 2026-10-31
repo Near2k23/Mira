@@ -1,0 +1,13 @@
+{
+  "tmdb": 155441,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Reinicio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reset"
+      }
+    }
+  }
+}

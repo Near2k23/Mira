@@ -1,0 +1,13 @@
+{
+  "tmdb": 154522,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "내과 박원장",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dr-parks-clinic"
+      }
+    }
+  }
+}

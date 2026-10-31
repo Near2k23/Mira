@@ -1,0 +1,13 @@
+{
+  "tmdb": 96777,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mar de la Tranquilidad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-silent-sea"
+      }
+    }
+  }
+}

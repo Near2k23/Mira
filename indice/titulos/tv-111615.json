@@ -1,0 +1,13 @@
+{
+  "tmdb": 111615,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "如意芳霏",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-blooms-at-ruyi-pavilion"
+      }
+    }
+  }
+}

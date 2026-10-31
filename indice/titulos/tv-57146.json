@@ -1,0 +1,13 @@
+{
+  "tmdb": 57146,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "亲爱的，我爱上别人了",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secretos-del-diario"
+      }
+    }
+  }
+}

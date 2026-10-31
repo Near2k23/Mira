@@ -1,0 +1,13 @@
+{
+  "tmdb": 153560,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你是我最甜蜜的心事",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sweetest-secret"
+      }
+    }
+  }
+}

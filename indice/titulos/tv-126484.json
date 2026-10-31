@@ -1,0 +1,13 @@
+{
+  "tmdb": 126484,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Rookie Cops: Los Reclutas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rookie-cops"
+      }
+    }
+  }
+}

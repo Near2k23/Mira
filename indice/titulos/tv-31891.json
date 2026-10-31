@@ -1,0 +1,13 @@
+{
+  "tmdb": 31891,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "케세라, 세라",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "que-sera-sera"
+      }
+    }
+  }
+}

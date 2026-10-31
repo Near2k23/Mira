@@ -1,0 +1,13 @@
+{
+  "tmdb": 146102,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "A través de la oscuridad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "through-the-darkness"
+      }
+    }
+  }
+}

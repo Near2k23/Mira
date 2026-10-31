@@ -1,0 +1,13 @@
+{
+  "tmdb": 135281,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "จุดหมายคือท้องฟ้า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "youre-my-sky"
+      }
+    }
+  }
+}

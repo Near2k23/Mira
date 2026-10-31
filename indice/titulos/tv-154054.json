@@ -1,0 +1,13 @@
+{
+  "tmdb": 154054,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "러브 앤 위시",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-wish"
+      }
+    }
+  }
+}

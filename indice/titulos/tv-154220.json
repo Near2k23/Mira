@@ -1,0 +1,13 @@
+{
+  "tmdb": 154220,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "그녀의 버킷리스트",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "her-bucket-list"
+      }
+    }
+  }
+}

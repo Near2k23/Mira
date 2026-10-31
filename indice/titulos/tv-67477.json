@@ -1,0 +1,13 @@
+{
+  "tmdb": 67477,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "亲爱的公主病",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-little-princess"
+      }
+    }
+  }
+}

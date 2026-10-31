@@ -1,0 +1,13 @@
+{
+  "tmdb": 153169,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "물들여",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tinted-with-you"
+      }
+    }
+  }
+}

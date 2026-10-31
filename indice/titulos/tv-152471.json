@@ -1,0 +1,13 @@
+{
+  "tmdb": 152471,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "고스트 닥터",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ghost-doctor"
+      }
+    }
+  }
+}

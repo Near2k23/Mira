@@ -1,0 +1,14 @@
+{
+  "tmdb": 137967,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La periodista",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shinbun-kisha-the-journalist"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (155166) no coincidía; se usó 137967 buscando por nombre y año"
+}

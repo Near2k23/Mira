@@ -1,0 +1,13 @@
+{
+  "tmdb": 153205,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "谈什么恋爱啊",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-once-again"
+      }
+    }
+  }
+}

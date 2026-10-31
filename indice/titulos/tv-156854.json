@@ -1,0 +1,13 @@
+{
+  "tmdb": 156854,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Labios irresistibles",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kissable-lips"
+      }
+    }
+  }
+}

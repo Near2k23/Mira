@@ -1,0 +1,13 @@
+{
+  "tmdb": 6411,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "恶魔在身边",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "devil-beside-you"
+      }
+    }
+  }
+}

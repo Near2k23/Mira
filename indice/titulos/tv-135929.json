@@ -1,0 +1,13 @@
+{
+  "tmdb": 135929,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "消えた初恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kieta-hatsukoi"
+      }
+    }
+  }
+}

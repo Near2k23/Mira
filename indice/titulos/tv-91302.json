@@ -1,0 +1,13 @@
+{
+  "tmdb": 91302,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "필수연애교양",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dating-class"
+      }
+    }
+  }
+}

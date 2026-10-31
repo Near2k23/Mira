@@ -1,0 +1,13 @@
+{
+  "tmdb": 111149,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "百合だのかんだの",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yuri-or-another"
+      }
+    }
+  }
+}

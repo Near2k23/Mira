@@ -1,0 +1,13 @@
+{
+  "tmdb": 114521,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "핸드메이드 러브",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "handmade-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 139727,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스트릿댄스 걸스 파이터",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "street-dance-girls-fighter"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 153636,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "妻子的反攻",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wifes-revenge"
+      }
+    }
+  }
+}

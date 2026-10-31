@@ -1,0 +1,13 @@
+{
+  "tmdb": 113697,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你好，神枪手",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hello-the-sharpshooter"
+      }
+    }
+  }
+}

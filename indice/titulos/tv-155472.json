@@ -1,0 +1,13 @@
+{
+  "tmdb": 155472,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "流光之城",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "city-of-streamer"
+      }
+    }
+  }
+}

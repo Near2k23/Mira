@@ -1,0 +1,13 @@
+{
+  "tmdb": 130265,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "镜·双城",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mirror-a-tale-of-twin-cities"
+      }
+    }
+  }
+}

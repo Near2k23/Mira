@@ -1,0 +1,13 @@
+{
+  "tmdb": 156001,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "昔有琉璃瓦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "memory-of-encaustic-tile"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 106529,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "연남동 키스신",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "who-kissed-me"
+      }
+    }
+  }
+}

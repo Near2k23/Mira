@@ -1,0 +1,13 @@
+{
+  "tmdb": 153915,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เล่ห์แค้น",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-revenge"
+      }
+    }
+  }
+}

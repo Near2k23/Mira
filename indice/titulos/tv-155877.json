@@ -1,0 +1,13 @@
+{
+  "tmdb": 155877,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Por amor a ti",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "because-of-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 127008,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "한 사람만",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-one-and-only"
+      }
+    }
+  }
+}

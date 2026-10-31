@@ -1,0 +1,13 @@
+{
+  "tmdb": 154230,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "그 놈 목소리",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-mans-voice"
+      }
+    }
+  }
+}

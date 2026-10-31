@@ -1,6 +1,6 @@
 {
- "pagina": 31,
- "agregados": 843,
+ "pagina": 33,
+ "agregados": 891,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -117,6 +117,38 @@
   {
    "id_o_slug": "girl-the-palace",
    "motivo": "otra tarea: serie (país US)"
+  },
+  {
+   "id_o_slug": "the-world-of-my-17-season-2",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "gen-y-temporada-2",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "best-mistake-season-3",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "2021-kbs-drama-awards",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "falling-in-love",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "color-rush-2",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "hes-into-her",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "teluk-alaska",
+   "motivo": "otra tarea: serie (país ID)"
   }
  ],
  "notas": [
@@ -276,7 +308,12 @@
   "tv-139491.json",
   "tv-136238.json",
   "tv-135687.json",
-  "tv-135200.json"
+  "tv-135200.json",
+  "tv-139798.json",
+  "tv-137640.json",
+  "tv-87606.json",
+  "tv-137967.json",
+  "tv-155844.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1181,6 +1218,58 @@
   135200,
   135605,
   138947,
-  122015
+  122015,
+  152674,
+  153205,
+  137471,
+  132979,
+  137520,
+  108291,
+  129889,
+  135929,
+  31120,
+  139727,
+  127008,
+  96777,
+  154054,
+  153915,
+  153169,
+  154051,
+  6411,
+  106529,
+  139798,
+  152471,
+  153560,
+  154230,
+  153636,
+  137640,
+  57146,
+  114521,
+  135281,
+  111615,
+  111149,
+  155441,
+  146102,
+  154220,
+  87606,
+  137967,
+  130265,
+  155625,
+  155844,
+  155472,
+  155877,
+  113756,
+  91302,
+  154522,
+  31891,
+  67477,
+  156001,
+  61182,
+  126484,
+  99966,
+  113697,
+  155458,
+  111513,
+  156854
  ]
 }

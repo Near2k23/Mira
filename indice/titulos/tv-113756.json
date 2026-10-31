@@ -1,0 +1,13 @@
+{
+  "tmdb": 113756,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "舌尖上的心跳",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cupids-kitchen"
+      }
+    }
+  }
+}

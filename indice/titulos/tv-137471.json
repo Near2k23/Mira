@@ -1,0 +1,13 @@
+{
+  "tmdb": 137471,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "쇼윈도: 여왕의 집",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "show-window-queens-house"
+      }
+    }
+  }
+}

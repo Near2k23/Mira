@@ -1,0 +1,14 @@
+{
+  "tmdb": 155844,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱在唇齿间",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-at-first-taste"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (155518) no coincidía; se usó 155844 buscando por nombre y año"
+}

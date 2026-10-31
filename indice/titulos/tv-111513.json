@@ -1,0 +1,13 @@
+{
+  "tmdb": 111513,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "솔로 말고 멜로",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "single-ready-to-mingle"
+      }
+    }
+  }
+}

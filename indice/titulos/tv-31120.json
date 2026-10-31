@@ -1,0 +1,13 @@
+{
+  "tmdb": 31120,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sorpresas Del Destino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sorpresas-del-destino"
+      }
+    }
+  }
+}

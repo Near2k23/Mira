@@ -1,0 +1,13 @@
+{
+  "tmdb": 155625,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "潇洒佳人淡淡妆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sassy-beauty"
+      }
+    }
+  }
+}

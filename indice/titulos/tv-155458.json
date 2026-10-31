@@ -1,0 +1,13 @@
+{
+  "tmdb": 155458,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "加油呀！茉莉",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fighting-girl"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 152674,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "沉睡花园",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dream-garden"
+      }
+    }
+  }
+}
