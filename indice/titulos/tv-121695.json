@@ -1,0 +1,13 @@
+{
+  "tmdb": 121695,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Vende tu casa embrujada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sell-your-haunted-house"
+      }
+    }
+  }
+}

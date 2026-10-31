@@ -1,0 +1,13 @@
+{
+  "tmdb": 66218,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Dramaworld",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dramaworld"
+      }
+    }
+  }
+}

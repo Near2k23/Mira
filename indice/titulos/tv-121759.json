@@ -1,0 +1,13 @@
+{
+  "tmdb": 121759,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "류선비의 혼례식",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nobleman-ryus-wedding"
+      }
+    }
+  }
+}

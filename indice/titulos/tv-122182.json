@@ -1,0 +1,13 @@
+{
+  "tmdb": 122182,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Una Gran Balada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-long-ballad"
+      }
+    }
+  }
+}

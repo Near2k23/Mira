@@ -1,0 +1,13 @@
+{
+  "tmdb": 82817,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "亲爱的，热爱的",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "go-go-squid"
+      }
+    }
+  }
+}

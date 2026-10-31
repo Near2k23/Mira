@@ -1,0 +1,13 @@
+{
+  "tmdb": 122098,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "썸머가이즈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "summer-guys"
+      }
+    }
+  }
+}

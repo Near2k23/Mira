@@ -1,0 +1,13 @@
+{
+  "tmdb": 90701,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "暴风眼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "storm-eye"
+      }
+    }
+  }
+}

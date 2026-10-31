@@ -1,0 +1,13 @@
+{
+  "tmdb": 106850,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Gokushufudou",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-way-of-the-househusband"
+      }
+    }
+  }
+}

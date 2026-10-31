@@ -1,0 +1,14 @@
+{
+  "tmdb": 104735,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Memorials",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "into-the-ring"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 123707,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "全世界都不如你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "she-is-the-one"
+      }
+    }
+  }
+}

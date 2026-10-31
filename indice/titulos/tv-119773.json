@@ -1,0 +1,13 @@
+{
+  "tmdb": 119773,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Facultad de Derecho",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "law-school"
+      }
+    }
+  }
+}

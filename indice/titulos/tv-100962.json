@@ -1,0 +1,13 @@
+{
+  "tmdb": 100962,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "良辰美景好时光",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-scenery"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 112908,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Gen Y",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gen-y"
+      }
+    }
+  }
+}

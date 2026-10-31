@@ -1,0 +1,13 @@
+{
+  "tmdb": 61606,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El nacimiento de una belleza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "birth-of-a-beauty"
+      }
+    }
+  }
+}

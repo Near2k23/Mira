@@ -1,0 +1,13 @@
+{
+  "tmdb": 122017,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ปลาบนฟ้า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fish-upon-the-sky-2021"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 69467,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Milagro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-miracle"
+      }
+    }
+  }
+}

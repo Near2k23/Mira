@@ -1,0 +1,13 @@
+{
+  "tmdb": 73449,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Together With Me",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "together-with-me"
+      }
+    }
+  }
+}

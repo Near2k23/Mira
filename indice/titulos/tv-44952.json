@@ -1,0 +1,13 @@
+{
+  "tmdb": 44952,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아랑사또전",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "arang-and-the-magistrate"
+      }
+    }
+  }
+}

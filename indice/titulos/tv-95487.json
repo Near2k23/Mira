@@ -1,0 +1,14 @@
+{
+  "tmdb": 95487,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "骊歌行",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "court-lady"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (123372) no coincidía; se usó 95487 buscando por nombre y año"
+}

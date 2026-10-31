@@ -1,0 +1,13 @@
+{
+  "tmdb": 111034,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "소울플레이트",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "soul-plate-astro"
+      }
+    }
+  }
+}

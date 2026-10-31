@@ -1,0 +1,13 @@
+{
+  "tmdb": 91565,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "浅情人不知",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-is-deep"
+      }
+    }
+  }
+}

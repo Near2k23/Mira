@@ -1,0 +1,13 @@
+{
+  "tmdb": 99655,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amigos con Clase",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "graceful-friends"
+      }
+    }
+  }
+}
