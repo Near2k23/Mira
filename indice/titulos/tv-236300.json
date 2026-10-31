@@ -1,0 +1,13 @@
+{
+  "tmdb": 236300,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Love Sea",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-sea"
+      }
+    }
+  }
+}

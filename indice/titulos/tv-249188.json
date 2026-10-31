@@ -1,0 +1,13 @@
+{
+  "tmdb": 249188,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "看不见影子的少年",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lost-in-the-shadows"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 230778,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "피타는 연애",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-military-valentine"
+      }
+    }
+  }
+}

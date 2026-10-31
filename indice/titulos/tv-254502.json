@@ -1,0 +1,13 @@
+{
+  "tmdb": 254502,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "메이크메이트원",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "make-mate-1"
+      }
+    }
+  }
+}

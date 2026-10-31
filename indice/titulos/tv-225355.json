@@ -1,0 +1,14 @@
+{
+  "tmdb": 225355,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพียงชลาลัย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sunset-vibes"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 13 y TMDB tiene 12; no verificada"
+}

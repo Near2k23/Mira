@@ -1,0 +1,13 @@
+{
+  "tmdb": 82032,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "플레이어",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-player"
+      }
+    }
+  }
+}

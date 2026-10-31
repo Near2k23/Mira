@@ -1,0 +1,13 @@
+{
+  "tmdb": 255532,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en el jardín de té",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-the-tea-garden"
+      }
+    }
+  }
+}

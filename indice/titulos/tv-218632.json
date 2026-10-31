@@ -1,0 +1,13 @@
+{
+  "tmdb": 218632,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우리, 집",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bitter-sweet-hell"
+      }
+    }
+  }
+}

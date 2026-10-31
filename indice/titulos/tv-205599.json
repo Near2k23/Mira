@@ -1,0 +1,13 @@
+{
+  "tmdb": 205599,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "狐妖小红娘月红篇",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fox-spirit-matchmaker-red-moon-pact"
+      }
+    }
+  }
+}

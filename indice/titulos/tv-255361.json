@@ -1,0 +1,13 @@
+{
+  "tmdb": 255361,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "南城宴",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "general-well"
+      }
+    }
+  }
+}

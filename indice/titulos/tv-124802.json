@@ -1,0 +1,13 @@
+{
+  "tmdb": 124802,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El secreto culpable",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-guilty-secret"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 209173,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "삼식이 삼촌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "uncle-samsik"
+      }
+    }
+  }
+}

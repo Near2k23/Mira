@@ -1,6 +1,6 @@
 {
- "pagina": 63,
- "agregados": 1682,
+ "pagina": 64,
+ "agregados": 1708,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -349,6 +349,14 @@
   {
    "id_o_slug": "i-land-2-na",
    "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "virgin-the-series",
+   "motivo": "otra tarea: serie (país ID)"
+  },
+  {
+   "id_o_slug": "the-girl-he-never-noticed",
+   "motivo": "otra tarea: serie (país SG)"
   }
  ],
  "notas": [
@@ -643,7 +651,9 @@
   "tv-237952.json",
   "tv-248433.json",
   "tv-202018.json",
-  "tv-251779.json"
+  "tv-251779.json",
+  "tv-95842.json",
+  "tv-225355.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2453,6 +2463,34 @@
   246368,
   245754,
   253288,
-  226102
+  226102,
+  237508,
+  156484,
+  209173,
+  95842,
+  255008,
+  249571,
+  234061,
+  238551,
+  234590,
+  205599,
+  218632,
+  82032,
+  255209,
+  255532,
+  255361,
+  236033,
+  253219,
+  224030,
+  249188,
+  254502,
+  225355,
+  232670,
+  237339,
+  124802,
+  226527,
+  230778,
+  236300,
+  256602
  ]
 }

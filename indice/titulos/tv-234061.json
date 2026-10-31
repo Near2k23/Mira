@@ -1,0 +1,13 @@
+{
+  "tmdb": 234061,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Soñando con un maldito cuento de Hadas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dreaming-of-freaking-fairytale"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 238551,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แวมไพร์ไวน์แดง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "omg-vampire"
+      }
+    }
+  }
+}

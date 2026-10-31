@@ -1,0 +1,13 @@
+{
+  "tmdb": 234590,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "커넥션",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "connection"
+      }
+    }
+  }
+}

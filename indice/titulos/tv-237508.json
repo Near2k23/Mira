@@ -1,0 +1,13 @@
+{
+  "tmdb": 237508,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "졸업",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-midnight-romance-in-hagwon"
+      }
+    }
+  }
+}

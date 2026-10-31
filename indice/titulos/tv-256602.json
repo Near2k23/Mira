@@ -1,0 +1,13 @@
+{
+  "tmdb": 256602,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "凤落江湖",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "phoenix-lands-in-the-world"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 253219,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "柳叶摘星辰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-wifes-double-life"
+      }
+    }
+  }
+}

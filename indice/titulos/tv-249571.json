@@ -1,0 +1,13 @@
+{
+  "tmdb": 249571,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "하입보이스카웃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hype-boy-scout"
+      }
+    }
+  }
+}

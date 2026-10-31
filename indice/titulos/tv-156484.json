@@ -1,0 +1,13 @@
+{
+  "tmdb": 156484,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The 8 Show",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-8-show"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 255008,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "奔向所有时空的你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "present-is-present"
+      }
+    }
+  }
+}

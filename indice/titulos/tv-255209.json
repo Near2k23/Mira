@@ -1,0 +1,13 @@
+{
+  "tmdb": 255209,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "请和搞笑的我谈恋爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-journey-to-find-true-love"
+      }
+    }
+  }
+}
