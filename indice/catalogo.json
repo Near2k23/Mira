@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generado": "2026-10-31T19:55:58.754Z",
+  "titulos": [
+    {
+      "tmdb": 85937,
+      "tipo": "tv",
+      "categoria": "anime",
+      "titulo": "Kimetsu no Yaiba",
+      "anio": null,
+      "poster": null,
+      "backdrop": null
+    },
+    {
+      "tmdb": 635302,
+      "tipo": "movie",
+      "categoria": "anime",
+      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "anio": null,
+      "poster": null,
+      "backdrop": null
+    },
+    {
+      "tmdb": 96162,
+      "tipo": "tv",
+      "categoria": "dorama",
+      "titulo": "Vincenzo",
+      "anio": null,
+      "poster": null,
+      "backdrop": null
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "categorias": {
+    "anime": ["animeav1", "tioanime"],
+    "dorama": ["doramasflix"],
+    "tv": ["embed69", "vimeus"],
+    "movie": ["embed69", "vimeus"]
+  }
+}

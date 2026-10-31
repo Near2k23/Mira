@@ -1,0 +1,41 @@
+{
+  "tmdb": 85937,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimetsu no Yaiba",
+  "nota": "Ejemplo verificado con --red. La temporada 2 de TMDB junta el arco del Tren Infinito (7 cap.) y el Distrito Rojo: los sitios los publican aparte, por eso va en tramos.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kimetsu-no-yaiba",
+        "2": [
+          {
+            "slug": "kimetsu-no-yaiba-mugen-ressha-hen",
+            "episodios": 7
+          },
+          {
+            "slug": "kimetsu-no-yaiba-yuukaku-hen"
+          }
+        ],
+        "3": "kimetsu-no-yaiba-katanakaji-no-sato-hen",
+        "4": "kimetsu-no-yaiba-hashira-geiko-hen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kimetsu-no-yaiba",
+        "2": [
+          {
+            "slug": "kimetsu-no-yaiba-mugen-resshahen-arc-tv",
+            "episodios": 7
+          },
+          {
+            "slug": "kimetsu-no-yaiba-yuukakuhen"
+          }
+        ],
+        "3": "kimetsu-no-yaiba-katanakaji-no-satohen",
+        "4": "kimetsu-no-yaiba-hashira-geikohen"
+      }
+    }
+  }
+}

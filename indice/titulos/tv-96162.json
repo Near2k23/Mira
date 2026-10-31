@@ -1,0 +1,11 @@
+{
+  "tmdb": 96162,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Vincenzo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": { "1": "vincenzo" }
+    }
+  }
+}

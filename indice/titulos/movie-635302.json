@@ -1,0 +1,14 @@
+{
+  "tmdb": 635302,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen",
+  "fuentes": {
+    "animeav1": {
+      "slug": "kimetsu-no-yaiba-movie-mugen-ressha-hen"
+    },
+    "tioanime": {
+      "slug": "kimetsu-no-yaiba-movie-mugen-resshahen"
+    }
+  }
+}

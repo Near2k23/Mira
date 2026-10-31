@@ -1,0 +1,186 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "tmdb",
+    "tipo",
+    "categoria",
+    "titulo",
+    "fuentes"
+  ],
+  "properties": {
+    "tmdb": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "tipo": {
+      "enum": [
+        "tv",
+        "movie"
+      ]
+    },
+    "categoria": {
+      "enum": [
+        "anime",
+        "dorama",
+        "tv",
+        "movie"
+      ]
+    },
+    "titulo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "nota": {
+      "type": "string"
+    },
+    "fuentes": {
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": {
+        "pattern": "^[a-z0-9]+$"
+      },
+      "patternProperties": {
+        "^(embed69|vimeus)$": {
+          "type": "object",
+          "maxProperties": 0
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "tipo": {
+            "const": "movie"
+          }
+        },
+        "required": [
+          "tipo"
+        ]
+      },
+      "then": {
+        "properties": {
+          "fuentes": {
+            "patternProperties": {
+              "^(embed69|vimeus)$": {
+                "type": "object",
+                "maxProperties": 0
+              }
+            },
+            "additionalProperties": {
+              "$ref": "#/$defs/fuentesMovie"
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "tipo": {
+            "const": "tv"
+          }
+        },
+        "required": [
+          "tipo"
+        ]
+      },
+      "then": {
+        "properties": {
+          "fuentes": {
+            "patternProperties": {
+              "^(embed69|vimeus)$": {
+                "type": "object",
+                "maxProperties": 0
+              }
+            },
+            "additionalProperties": {
+              "$ref": "#/$defs/fuentesTv"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9_/.-]*$"
+    },
+    "fuentesMovie": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "slug"
+      ],
+      "properties": {
+        "slug": {
+          "$ref": "#/$defs/slug"
+        }
+      }
+    },
+    "fuentesTv": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "temporadas"
+      ],
+      "properties": {
+        "temporadas": {
+          "type": "object",
+          "minProperties": 1,
+          "propertyNames": {
+            "pattern": "^[1-9][0-9]*$"
+          },
+          "additionalProperties": {
+            "oneOf": [
+              {
+                "$ref": "#/$defs/slug"
+              },
+              {
+                "type": "array",
+                "minItems": 1,
+                "description": "Tramos: la temporada que el sitio publica como varios animes, en orden; el último puede omitir episodios.",
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "slug"
+                  ],
+                  "properties": {
+                    "slug": {
+                      "$ref": "#/$defs/slug"
+                    },
+                    "episodios": {
+                      "type": "integer",
+                      "minimum": 1
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "numeracion": {
+          "enum": [
+            "por-temporada",
+            "absoluta"
+          ],
+          "default": "por-temporada"
+        },
+        "desfase": {
+          "type": "object",
+          "propertyNames": {
+            "pattern": "^[1-9][0-9]*$"
+          },
+          "additionalProperties": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
+}
