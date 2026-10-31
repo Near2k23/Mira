@@ -1,0 +1,13 @@
+{
+  "tmdb": 89672,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ทฤษฎีจีบเธอ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "theory-of-love"
+      }
+    }
+  }
+}

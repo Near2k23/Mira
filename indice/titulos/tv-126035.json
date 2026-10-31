@@ -1,0 +1,13 @@
+{
+  "tmdb": 126035,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Aun así",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nevertheless"
+      }
+    }
+  }
+}

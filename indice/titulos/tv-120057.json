@@ -1,0 +1,13 @@
+{
+  "tmdb": 120057,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Monthly Magazine Home",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "monthly-magazine-home"
+      }
+    }
+  }
+}

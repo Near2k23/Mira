@@ -1,0 +1,13 @@
+{
+  "tmdb": 61150,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Astuta y Soltera",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cunning-single-lady"
+      }
+    }
+  }
+}

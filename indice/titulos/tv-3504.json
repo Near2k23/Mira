@@ -1,0 +1,13 @@
+{
+  "tmdb": 3504,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Casa Llena",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "full-house"
+      }
+    }
+  }
+}

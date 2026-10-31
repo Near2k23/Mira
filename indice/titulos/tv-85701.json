@@ -1,0 +1,13 @@
+{
+  "tmdb": 85701,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Legal High",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "legal-high"
+      }
+    }
+  }
+}

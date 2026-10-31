@@ -1,0 +1,13 @@
+{
+  "tmdb": 127824,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "恋爱生物钟",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-oclock"
+      }
+    }
+  }
+}

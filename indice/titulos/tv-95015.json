@@ -1,0 +1,13 @@
+{
+  "tmdb": 95015,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Witch Store",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-witch-store"
+      }
+    }
+  }
+}

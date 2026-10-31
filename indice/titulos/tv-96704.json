@@ -1,0 +1,14 @@
+{
+  "tmdb": 96704,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "식스틴",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sixteen"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 18 y TMDB tiene 10; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 111322,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "将军家的小娘子",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "general-lady"
+      }
+    }
+  }
+}

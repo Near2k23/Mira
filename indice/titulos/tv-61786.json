@@ -1,0 +1,13 @@
+{
+  "tmdb": 61786,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "오만과 편견",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pride-and-prejuice"
+      }
+    }
+  }
+}

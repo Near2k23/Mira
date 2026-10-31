@@ -1,0 +1,13 @@
+{
+  "tmdb": 69205,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Jefe introvertido",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "introverted-boss"
+      }
+    }
+  }
+}

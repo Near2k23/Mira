@@ -1,0 +1,13 @@
+{
+  "tmdb": 72255,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마보이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ma-boy"
+      }
+    }
+  }
+}

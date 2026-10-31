@@ -1,0 +1,13 @@
+{
+  "tmdb": 112280,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "从结婚开始恋爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "begin-again"
+      }
+    }
+  }
+}

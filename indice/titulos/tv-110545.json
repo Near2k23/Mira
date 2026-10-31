@@ -1,0 +1,13 @@
+{
+  "tmdb": 110545,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¡Tierra, Trágame!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "so-not-worth-it"
+      }
+    }
+  }
+}

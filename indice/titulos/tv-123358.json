@@ -1,0 +1,13 @@
+{
+  "tmdb": 123358,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "他在逆光中告白",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mysterious-love"
+      }
+    }
+  }
+}

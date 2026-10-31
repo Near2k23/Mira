@@ -1,0 +1,13 @@
+{
+  "tmdb": 126436,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "멀리서 보면 푸른 봄",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "at-a-distance-spring-is-green"
+      }
+    }
+  }
+}

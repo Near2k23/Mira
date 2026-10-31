@@ -1,0 +1,13 @@
+{
+  "tmdb": 127668,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "变成你的那一天",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-day-of-becoming-you"
+      }
+    }
+  }
+}

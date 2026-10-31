@@ -1,0 +1,13 @@
+{
+  "tmdb": 122206,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La vida racional",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-rational-life"
+      }
+    }
+  }
+}

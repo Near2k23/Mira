@@ -1,0 +1,14 @@
+{
+  "tmdb": 82951,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "游泳先生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-swimmer"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 46 de 47 episodios"
+}

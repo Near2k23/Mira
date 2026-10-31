@@ -1,0 +1,13 @@
+{
+  "tmdb": 119563,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "通天书院",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "celestial-authority-academy"
+      }
+    }
+  }
+}
