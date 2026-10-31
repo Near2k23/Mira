@@ -1,0 +1,13 @@
+{
+  "tmdb": 155229,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Anímate",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cheer-up-2"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 212267,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "追光者",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "light-chaser-rescue"
+      }
+    }
+  }
+}

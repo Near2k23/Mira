@@ -1,0 +1,13 @@
+{
+  "tmdb": 136699,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Anomalías",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "glitch"
+      }
+    }
+  }
+}

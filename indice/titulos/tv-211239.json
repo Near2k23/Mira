@@ -1,0 +1,13 @@
+{
+  "tmdb": 211239,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El amor en tus ojos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-love-in-your-eyes"
+      }
+    }
+  }
+}

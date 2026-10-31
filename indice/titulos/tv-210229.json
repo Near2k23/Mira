@@ -1,0 +1,13 @@
+{
+  "tmdb": 210229,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El juego de la mentira",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pink-lie"
+      }
+    }
+  }
+}

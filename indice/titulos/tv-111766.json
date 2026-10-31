@@ -1,0 +1,13 @@
+{
+  "tmdb": 111766,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "追兇500天",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kill-for-love"
+      }
+    }
+  }
+}

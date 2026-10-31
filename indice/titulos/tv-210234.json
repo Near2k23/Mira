@@ -1,0 +1,13 @@
+{
+  "tmdb": 210234,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "มังกรกินใหญ่",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "big-dragon"
+      }
+    }
+  }
+}

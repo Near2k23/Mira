@@ -1,0 +1,13 @@
+{
+  "tmdb": 208596,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor moderno: Tokio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "modern-love-tokyo"
+      }
+    }
+  }
+}

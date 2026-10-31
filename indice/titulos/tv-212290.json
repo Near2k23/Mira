@@ -1,0 +1,13 @@
+{
+  "tmdb": 212290,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "那小子不可爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cute-bodyguard"
+      }
+    }
+  }
+}

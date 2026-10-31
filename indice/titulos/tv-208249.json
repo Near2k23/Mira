@@ -1,0 +1,14 @@
+{
+  "tmdb": 208249,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Juego de brujas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-witchs-game"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 120 y TMDB tiene 119; no verificada"
+}

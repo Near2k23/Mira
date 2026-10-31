@@ -1,0 +1,13 @@
+{
+  "tmdb": 211174,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La venganza de la novia",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vengeance-of-the-bride"
+      }
+    }
+  }
+}

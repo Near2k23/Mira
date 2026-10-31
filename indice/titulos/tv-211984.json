@@ -1,0 +1,13 @@
+{
+  "tmdb": 211984,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "冰糖一夏",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rock-sugar-summer"
+      }
+    }
+  }
+}

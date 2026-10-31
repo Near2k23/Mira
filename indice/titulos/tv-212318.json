@@ -1,0 +1,13 @@
+{
+  "tmdb": 212318,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ภารกิจโหดเปลี่ยนเป็นโหมดรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hard-love-mission"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 197073,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Amor Es Para Tontos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-is-for-suckers"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 97565,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El bosque",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "forest"
+      }
+    }
+  }
+}

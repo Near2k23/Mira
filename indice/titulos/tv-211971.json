@@ -1,0 +1,13 @@
+{
+  "tmdb": 211971,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เดือนเกี้ยวเดือน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "2-moons-the-ambassador"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 211758,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เซียนสับราง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "catch-me-baby"
+      }
+    }
+  }
+}

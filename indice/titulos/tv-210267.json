@@ -1,0 +1,13 @@
+{
+  "tmdb": 210267,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Toma 1",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "take-1"
+      }
+    }
+  }
+}

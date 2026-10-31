@@ -1,0 +1,13 @@
+{
+  "tmdb": 210202,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รัก เล่า เรื่องผี",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ghost-host-ghost-house"
+      }
+    }
+  }
+}

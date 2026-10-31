@@ -1,0 +1,13 @@
+{
+  "tmdb": 156406,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Bajo el paraguas de la reina",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-queens-umbrella"
+      }
+    }
+  }
+}

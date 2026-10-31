@@ -1,0 +1,13 @@
+{
+  "tmdb": 212074,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "BTS X Cookie Run: Kingdom",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bts-x-cookie-run-kingdom"
+      }
+    }
+  }
+}

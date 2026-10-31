@@ -1,0 +1,13 @@
+{
+  "tmdb": 205454,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "청춘 블라썸",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "seasons-of-blossom"
+      }
+    }
+  }
+}

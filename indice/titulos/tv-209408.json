@@ -1,0 +1,13 @@
+{
+  "tmdb": 209408,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Bad Prosecutor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bad-prosecutor"
+      }
+    }
+  }
+}

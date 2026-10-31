@@ -1,0 +1,13 @@
+{
+  "tmdb": 210674,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "풍덕빌라 304호의 사정",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "roommates-of-poongduck-304"
+      }
+    }
+  }
+}
