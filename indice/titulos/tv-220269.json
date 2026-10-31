@@ -1,0 +1,13 @@
+{
+  "tmdb": 220269,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "折腰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-prisoner-of-beauty"
+      }
+    }
+  }
+}

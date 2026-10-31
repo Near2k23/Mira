@@ -1,0 +1,13 @@
+{
+  "tmdb": 286360,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El chico de la última fila",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "notes-from-the-last-row"
+      }
+    }
+  }
+}

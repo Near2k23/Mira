@@ -1,0 +1,13 @@
+{
+  "tmdb": 79434,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Qué le ocurre a la secretaria Kim?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "whats-wrong-with-secretary-kim"
+      }
+    }
+  }
+}

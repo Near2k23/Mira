@@ -1,0 +1,14 @@
+{
+  "tmdb": 83639,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La chica nueva",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "girl-from-nowhere",
+        "2": "girl-from-nowhere"
+      }
+    }
+  }
+}

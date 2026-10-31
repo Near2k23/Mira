@@ -1,0 +1,13 @@
+{
+  "tmdb": 303143,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi némesis con aires de realeza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-royal-nemesis"
+      }
+    }
+  }
+}

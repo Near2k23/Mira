@@ -1,0 +1,13 @@
+{
+  "tmdb": 306207,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Reencuentro: Una verdad silenciada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "silent-truth"
+      }
+    }
+  }
+}

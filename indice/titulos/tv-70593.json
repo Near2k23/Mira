@@ -1,0 +1,14 @@
+{
+  "tmdb": 70593,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kingdom",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kingdom",
+        "2": "kingdom"
+      }
+    }
+  }
+}

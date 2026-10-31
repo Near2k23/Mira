@@ -1,0 +1,13 @@
+{
+  "tmdb": 230923,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Corredora Encantadora",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lovely-runner"
+      }
+    }
+  }
+}

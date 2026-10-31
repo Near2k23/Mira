@@ -1,0 +1,13 @@
+{
+  "tmdb": 278275,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Velo de sombras",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "veil-of-shadows"
+      }
+    }
+  }
+}

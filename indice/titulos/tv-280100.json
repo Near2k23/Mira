@@ -1,0 +1,13 @@
+{
+  "tmdb": 280100,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ABO Deseo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "abo-desire"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 228689,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El genio y los deseos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "genie-make-a-wish"
+      }
+    }
+  }
+}

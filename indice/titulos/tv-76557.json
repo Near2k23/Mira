@@ -1,0 +1,14 @@
+{
+  "tmdb": 76557,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Bienvenidos a Waikiki",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "welcome-to-waikiki",
+        "2": "welcome-to-waikiki"
+      }
+    }
+  }
+}

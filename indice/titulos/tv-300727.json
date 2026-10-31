@@ -1,0 +1,13 @@
+{
+  "tmdb": 300727,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Complejo De Apartamentos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-apartment-job"
+      }
+    }
+  }
+}

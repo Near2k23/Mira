@@ -1,0 +1,13 @@
+{
+  "tmdb": 235577,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Jueza Del Infierno",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-judge-from-hell"
+      }
+    }
+  }
+}

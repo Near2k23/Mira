@@ -1,0 +1,13 @@
+{
+  "tmdb": 295599,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "御廷谣",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-empire-as-betrothal"
+      }
+    }
+  }
+}

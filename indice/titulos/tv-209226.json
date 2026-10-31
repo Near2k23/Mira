@@ -1,0 +1,13 @@
+{
+  "tmdb": 209226,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Alguien como Chu",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lets-talk-about-chu"
+      }
+    }
+  }
+}

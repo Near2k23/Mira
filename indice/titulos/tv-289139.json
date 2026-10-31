@@ -1,0 +1,13 @@
+{
+  "tmdb": 289139,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "这一秒过火",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "overdo"
+      }
+    }
+  }
+}

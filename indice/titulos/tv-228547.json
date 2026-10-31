@@ -1,0 +1,13 @@
+{
+  "tmdb": 228547,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cuando vuelo hacia ti",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-i-fly-towards-you"
+      }
+    }
+  }
+}

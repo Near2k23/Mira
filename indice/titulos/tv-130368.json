@@ -1,0 +1,13 @@
+{
+  "tmdb": 130368,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "苍兰诀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-between-fairy-and-devil"
+      }
+    }
+  }
+}

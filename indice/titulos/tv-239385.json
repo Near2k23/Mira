@@ -1,0 +1,13 @@
+{
+  "tmdb": 239385,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Manipulado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-manipulated"
+      }
+    }
+  }
+}

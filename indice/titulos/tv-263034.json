@@ -1,0 +1,13 @@
+{
+  "tmdb": 263034,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "赴山海",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-journey-of-legend"
+      }
+    }
+  }
+}

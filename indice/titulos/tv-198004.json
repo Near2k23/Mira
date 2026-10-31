@@ -1,0 +1,13 @@
+{
+  "tmdb": 198004,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "King the Land",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "king-the-land"
+      }
+    }
+  }
+}

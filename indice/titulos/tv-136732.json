@@ -1,0 +1,13 @@
+{
+  "tmdb": 136732,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Estrellas fugaces",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shting-stars"
+      }
+    }
+  }
+}

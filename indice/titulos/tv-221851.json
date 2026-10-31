@@ -1,0 +1,13 @@
+{
+  "tmdb": 221851,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cásate con mi Esposo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "marry-my-husband"
+      }
+    }
+  }
+}

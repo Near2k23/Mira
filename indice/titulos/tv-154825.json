@@ -1,0 +1,13 @@
+{
+  "tmdb": 154825,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Propuesta Laboral",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-business-proposal"
+      }
+    }
+  }
+}
