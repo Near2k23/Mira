@@ -1,0 +1,13 @@
+{
+  "tmdb": 289271,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "De las cenizas a la corona",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ashes-to-crown"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 316407,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "沦陷",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lost-to-you"
+      }
+    }
+  }
+}

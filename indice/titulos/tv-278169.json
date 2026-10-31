@@ -1,0 +1,13 @@
+{
+  "tmdb": 278169,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "WU อู",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wu-2026"
+      }
+    }
+  }
+}

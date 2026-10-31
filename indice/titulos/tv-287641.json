@@ -1,0 +1,13 @@
+{
+  "tmdb": 287641,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Brillas en mi vida",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dazzling"
+      }
+    }
+  }
+}

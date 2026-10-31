@@ -1,0 +1,13 @@
+{
+  "tmdb": 318167,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El grandioso hostal del gran Jae-seok",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jae-seoks-bandb-rules"
+      }
+    }
+  }
+}

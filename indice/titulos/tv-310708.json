@@ -1,0 +1,13 @@
+{
+  "tmdb": 310708,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "AI Girl",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ai-girl"
+      }
+    }
+  }
+}

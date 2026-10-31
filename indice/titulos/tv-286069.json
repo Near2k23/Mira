@@ -1,0 +1,13 @@
+{
+  "tmdb": 286069,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เสน่หาวาโย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-air"
+      }
+    }
+  }
+}

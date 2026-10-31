@@ -1,0 +1,13 @@
+{
+  "tmdb": 321559,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "거짓말이 사는 집",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-lie-we-lived-in"
+      }
+    }
+  }
+}

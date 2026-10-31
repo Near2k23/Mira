@@ -1,0 +1,13 @@
+{
+  "tmdb": 248404,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Your Dear Daddy",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-dear-daddy"
+      }
+    }
+  }
+}

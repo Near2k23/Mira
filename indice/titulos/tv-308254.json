@@ -1,0 +1,13 @@
+{
+  "tmdb": 308254,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor Más Allá de los Sueños",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-beyond-dreams"
+      }
+    }
+  }
+}

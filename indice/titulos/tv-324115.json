@@ -1,0 +1,13 @@
+{
+  "tmdb": 324115,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Las dos caras de la ley",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-evil-lawyer"
+      }
+    }
+  }
+}

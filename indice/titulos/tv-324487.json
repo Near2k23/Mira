@@ -1,0 +1,13 @@
+{
+  "tmdb": 324487,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "오류를 고쳐줘!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fix-the-error"
+      }
+    }
+  }
+}

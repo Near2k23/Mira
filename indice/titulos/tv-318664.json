@@ -1,0 +1,13 @@
+{
+  "tmdb": 318664,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "与君同",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "journey-with-you"
+      }
+    }
+  }
+}

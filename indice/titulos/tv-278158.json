@@ -1,0 +1,13 @@
+{
+  "tmdb": 278158,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เด็กชายไม่ไปสวรรค์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ticket-to-heaven"
+      }
+    }
+  }
+}

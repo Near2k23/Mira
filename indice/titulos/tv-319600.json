@@ -1,0 +1,13 @@
+{
+  "tmdb": 319600,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아주르 스프링",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "azure-spring"
+      }
+    }
+  }
+}

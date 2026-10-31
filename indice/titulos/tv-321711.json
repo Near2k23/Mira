@@ -1,0 +1,13 @@
+{
+  "tmdb": 321711,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "烬红妆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vow-in-ashes"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 310511,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เฉิ่มเชย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chermchey"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 254486,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "雨霖铃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "zhan-zhao-adventures"
+      }
+    }
+  }
+}

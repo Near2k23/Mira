@@ -1,0 +1,13 @@
+{
+  "tmdb": 310837,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "心间错",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-have-my-heart"
+      }
+    }
+  }
+}

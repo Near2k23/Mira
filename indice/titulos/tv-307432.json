@@ -1,0 +1,13 @@
+{
+  "tmdb": 307432,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ลัลล์ไม่ชอบไวน์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "enemies-with-benefits"
+      }
+    }
+  }
+}

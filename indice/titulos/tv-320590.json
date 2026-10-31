@@ -1,0 +1,13 @@
+{
+  "tmdb": 320590,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "白日飞升",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rise-again"
+      }
+    }
+  }
+}

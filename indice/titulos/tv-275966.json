@@ -1,0 +1,14 @@
+{
+  "tmdb": 275966,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "家业",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-heir"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 40 de 42 episodios"
+}
