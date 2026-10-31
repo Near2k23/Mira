@@ -1,0 +1,13 @@
+{
+  "tmdb": 208450,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักป่วนก๊วนออฟฟิศ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "work-from-heart"
+      }
+    }
+  }
+}

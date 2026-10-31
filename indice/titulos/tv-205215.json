@@ -1,0 +1,13 @@
+{
+  "tmdb": 205215,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักอีกครั้ง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sing-again"
+      }
+    }
+  }
+}

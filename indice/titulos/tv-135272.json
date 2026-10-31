@@ -1,0 +1,15 @@
+{
+  "tmdb": 135272,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "트레이서",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tracer",
+        "2": "tracer"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

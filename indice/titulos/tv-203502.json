@@ -1,0 +1,13 @@
+{
+  "tmdb": 203502,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "School Tales: La serie",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "school-tales-the-series"
+      }
+    }
+  }
+}

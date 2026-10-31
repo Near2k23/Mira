@@ -1,0 +1,13 @@
+{
+  "tmdb": 206050,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "남의연애",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "his-man"
+      }
+    }
+  }
+}

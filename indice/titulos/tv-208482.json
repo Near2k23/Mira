@@ -1,0 +1,13 @@
+{
+  "tmdb": 208482,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "邢少, 小助理又搞事情了",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-naughty-assistant"
+      }
+    }
+  }
+}

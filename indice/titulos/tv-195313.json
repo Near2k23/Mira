@@ -1,0 +1,13 @@
+{
+  "tmdb": 195313,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Unicornio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unicorn"
+      }
+    }
+  }
+}

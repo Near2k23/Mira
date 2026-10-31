@@ -1,0 +1,13 @@
+{
+  "tmdb": 206118,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Único 12%",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-only-12"
+      }
+    }
+  }
+}

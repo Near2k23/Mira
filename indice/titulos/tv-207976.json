@@ -1,0 +1,13 @@
+{
+  "tmdb": 207976,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "闻香榭",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "scent-of-love"
+      }
+    }
+  }
+}

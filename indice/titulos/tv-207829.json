@@ -1,0 +1,13 @@
+{
+  "tmdb": 207829,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "โดโนวาน...ที่รัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-dear-donovan"
+      }
+    }
+  }
+}

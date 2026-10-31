@@ -1,0 +1,13 @@
+{
+  "tmdb": 132171,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Una familia ejemplar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-model-family"
+      }
+    }
+  }
+}

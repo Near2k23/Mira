@@ -1,0 +1,13 @@
+{
+  "tmdb": 118895,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "킹덤: 레전더리 워",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kingdom-legendary-war"
+      }
+    }
+  }
+}

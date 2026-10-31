@@ -1,6 +1,6 @@
 {
- "pagina": 40,
- "agregados": 1076,
+ "pagina": 41,
+ "agregados": 1102,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -181,6 +181,18 @@
   {
    "id_o_slug": "flower-of-evilF",
    "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "run-bts-season-4",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "here-is-my-exclusive-indulge-2",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "hes-into-her-2",
+   "motivo": "no existe en TMDB"
   }
  ],
  "notas": [
@@ -380,7 +392,10 @@
   "tv-206602.json",
   "tv-139289.json",
   "tv-130368.json",
-  "tv-197064.json"
+  "tv-197064.json",
+  "tv-135272.json",
+  "tv-207371.json",
+  "tv-207716.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1539,6 +1554,33 @@
   207267,
   89959,
   130368,
-  197064
+  197064,
+  207728,
+  135154,
+  207658,
+  113330,
+  203502,
+  207024,
+  132171,
+  206050,
+  135272,
+  197828,
+  206118,
+  207976,
+  207371,
+  208482,
+  205988,
+  207829,
+  207716,
+  135896,
+  208452,
+  197072,
+  118895,
+  205215,
+  195313,
+  208450,
+  205071,
+  202460,
+  81315
  ]
 }

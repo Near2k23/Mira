@@ -1,0 +1,13 @@
+{
+  "tmdb": 205988,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "高良くんと天城くん",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "takara-kun-to-amagi-kun"
+      }
+    }
+  }
+}

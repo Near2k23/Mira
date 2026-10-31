@@ -1,0 +1,13 @@
+{
+  "tmdb": 135154,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Si Me Lo Pides",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "if-you-wish-upon-me"
+      }
+    }
+  }
+}

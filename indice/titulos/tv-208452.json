@@ -1,0 +1,13 @@
+{
+  "tmdb": 208452,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สมมติว่า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "what-if"
+      }
+    }
+  }
+}

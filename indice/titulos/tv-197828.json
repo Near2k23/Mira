@@ -1,0 +1,13 @@
+{
+  "tmdb": 197828,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "개미가 타고 있어요",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "stock-struck"
+      }
+    }
+  }
+}

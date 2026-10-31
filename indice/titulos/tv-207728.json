@@ -1,0 +1,13 @@
+{
+  "tmdb": 207728,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Querida Sirenita",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-little-mermaid"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 135896,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "최종병기 앨리스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ultimate-weapon-alice"
+      }
+    }
+  }
+}
