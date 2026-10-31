@@ -1,0 +1,13 @@
+{
+  "tmdb": 299989,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "제발 조용히 좀 해!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "quiet-please"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 306607,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ต้นส้มอยู่บ้านเขา แต่ผลส้มหล่นมาบ้านเราตลอดเลย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-oranges-fall"
+      }
+    }
+  }
+}

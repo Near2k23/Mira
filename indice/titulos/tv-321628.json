@@ -1,0 +1,13 @@
+{
+  "tmdb": 321628,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพลงรักพยัคฆ์ร้าย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-rhythm-of-revenge"
+      }
+    }
+  }
+}

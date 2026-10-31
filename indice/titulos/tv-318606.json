@@ -1,0 +1,13 @@
+{
+  "tmdb": 318606,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "너에게 체크인",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "check-in-to-you"
+      }
+    }
+  }
+}

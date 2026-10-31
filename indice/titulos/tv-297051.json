@@ -1,0 +1,13 @@
+{
+  "tmdb": 297051,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "进击的叶辰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-hidden-heir-ye-chen"
+      }
+    }
+  }
+}

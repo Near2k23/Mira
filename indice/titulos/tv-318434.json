@@ -1,0 +1,13 @@
+{
+  "tmdb": 318434,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Justo para encontrarte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "just-to-meet-you"
+      }
+    }
+  }
+}

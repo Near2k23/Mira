@@ -1,0 +1,13 @@
+{
+  "tmdb": 315758,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "フェイクファクトリップス",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fake-fact-lips"
+      }
+    }
+  }
+}

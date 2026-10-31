@@ -1,0 +1,13 @@
+{
+  "tmdb": 258063,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Almas gemelas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "soul-mate"
+      }
+    }
+  }
+}

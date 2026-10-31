@@ -1,0 +1,14 @@
+{
+  "tmdb": 321261,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "TXT의 육아일기",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "txts-parenting-diary"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 12 episodios"
+}

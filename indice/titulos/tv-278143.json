@@ -1,0 +1,13 @@
+{
+  "tmdb": 278143,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักครูเท่าโลกเลย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-you-teacher"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 294617,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "芳华里",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bloom-in-turmoil"
+      }
+    }
+  }
+}

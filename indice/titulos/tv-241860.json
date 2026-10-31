@@ -1,0 +1,13 @@
+{
+  "tmdb": 241860,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Climax",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "climax"
+      }
+    }
+  }
+}

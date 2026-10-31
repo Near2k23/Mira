@@ -1,0 +1,13 @@
+{
+  "tmdb": 313732,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Scandal Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "scandal-love"
+      }
+    }
+  }
+}

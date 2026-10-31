@@ -1,0 +1,13 @@
+{
+  "tmdb": 217838,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Love Upon a Time",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-upon-a-time"
+      }
+    }
+  }
+}

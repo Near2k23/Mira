@@ -1,0 +1,13 @@
+{
+  "tmdb": 287114,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "นทีร้อยเล่ห์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-water"
+      }
+    }
+  }
+}

@@ -13,5 +13,6 @@
         "5": "twinkle-love"
       }
     }
-  }
+  },
+  "nota": "T5: el sitio tiene 20 de 22 episodios. multitemporada con el mismo slug; temporadas 1,2,3,4,5 verificadas con listEpisodes de la API de doramasflix"
 }

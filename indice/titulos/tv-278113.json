@@ -1,0 +1,13 @@
+{
+  "tmdb": 278113,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tierra de oro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gold-land"
+      }
+    }
+  }
+}

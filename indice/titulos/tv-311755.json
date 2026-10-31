@@ -1,0 +1,13 @@
+{
+  "tmdb": 311755,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "嫁金枝",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "daughter-of-fortune"
+      }
+    }
+  }
+}

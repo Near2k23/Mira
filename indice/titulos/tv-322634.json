@@ -1,0 +1,13 @@
+{
+  "tmdb": 322634,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พยัคฆ์ร้ายซ่อนลาย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wicked-temptation"
+      }
+    }
+  }
+}

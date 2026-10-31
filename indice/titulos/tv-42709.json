@@ -1,0 +1,13 @@
+{
+  "tmdb": 42709,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "氷の世界",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ice-world"
+      }
+    }
+  }
+}

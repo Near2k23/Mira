@@ -1,0 +1,13 @@
+{
+  "tmdb": 292121,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El caso del Espantapájaros",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-scarecrow"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 213703,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El agente divino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "agent-from-above"
+      }
+    }
+  }
+}

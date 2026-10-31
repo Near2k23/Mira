@@ -1,0 +1,13 @@
+{
+  "tmdb": 281010,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Defensores de Fantasmas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "phantom-lawyer"
+      }
+    }
+  }
+}

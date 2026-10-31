@@ -1,0 +1,13 @@
+{
+  "tmdb": 244189,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "向流星許願的我們",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wishing-upon-the-shooting-stars"
+      }
+    }
+  }
+}
