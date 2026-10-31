@@ -1,0 +1,13 @@
+{
+  "tmdb": 229778,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คน มนตร์ เวท",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "enigma"
+      }
+    }
+  }
+}

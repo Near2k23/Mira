@@ -1,0 +1,13 @@
+{
+  "tmdb": 217804,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "วาระซ่อนเร้น",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hidden-agenda"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 231071,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我和我爸的十七岁",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "whos-your-daddy"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 218036,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พี่พระเอกกับเด็กหมาในกอง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-mine-superstar"
+      }
+    }
+  }
+}

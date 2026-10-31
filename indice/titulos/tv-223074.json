@@ -1,0 +1,13 @@
+{
+  "tmdb": 223074,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คลื่นความถี่ต่ำ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "low-frequency"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 131305,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Celebridad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "celebrity"
+      }
+    }
+  }
+}

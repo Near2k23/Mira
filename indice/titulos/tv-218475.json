@@ -1,0 +1,13 @@
+{
+  "tmdb": 218475,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "De los 19 a los 20",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nineteen-to-twenty"
+      }
+    }
+  }
+}

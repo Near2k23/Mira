@@ -1,0 +1,13 @@
+{
+  "tmdb": 98772,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Seguidores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "followers"
+      }
+    }
+  }
+}

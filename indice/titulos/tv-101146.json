@@ -1,0 +1,15 @@
+{
+  "tmdb": 101146,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Juego de las víctimas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-victims-game",
+        "2": "the-victims-game"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

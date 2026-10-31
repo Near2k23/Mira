@@ -1,0 +1,13 @@
+{
+  "tmdb": 214891,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "남남",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "not-others"
+      }
+    }
+  }
+}

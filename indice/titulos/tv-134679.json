@@ -1,0 +1,13 @@
+{
+  "tmdb": 134679,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "安乐传",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-legend-of-anle"
+      }
+    }
+  }
+}

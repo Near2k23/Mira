@@ -1,0 +1,13 @@
+{
+  "tmdb": 229555,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "麻烦请你先告白",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "confess-your-love"
+      }
+    }
+  }
+}

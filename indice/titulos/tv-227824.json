@@ -1,0 +1,13 @@
+{
+  "tmdb": 227824,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱情，开袋即食",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lets-date-professor-xie"
+      }
+    }
+  }
+}

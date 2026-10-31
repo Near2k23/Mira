@@ -1,0 +1,13 @@
+{
+  "tmdb": 229689,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "A2K",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a2k"
+      }
+    }
+  }
+}

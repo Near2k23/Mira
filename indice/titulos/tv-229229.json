@@ -1,0 +1,13 @@
+{
+  "tmdb": 229229,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "古相思曲",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "an-ancient-love-song"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 230822,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "郎君不如意",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-princess-and-the-werewolf"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 226809,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "퀸덤퍼즐",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queendom-puzzle"
+      }
+    }
+  }
+}

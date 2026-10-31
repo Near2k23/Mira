@@ -1,0 +1,13 @@
+{
+  "tmdb": 208834,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "기적의 형제",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miraculous-brothers"
+      }
+    }
+  }
+}

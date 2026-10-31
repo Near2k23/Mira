@@ -1,0 +1,13 @@
+{
+  "tmdb": 211217,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "오랫동안 당신을 기다렸습니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "longing-for-you"
+      }
+    }
+  }
+}

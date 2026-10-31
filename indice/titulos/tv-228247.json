@@ -1,0 +1,14 @@
+{
+  "tmdb": 228247,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "알 유 넥스트?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "r-u-next"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 9 de 10 episodios"
+}

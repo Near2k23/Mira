@@ -1,0 +1,14 @@
+{
+  "tmdb": 130270,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La promesa más larga",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-longest-promise"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 43 y TMDB tiene 40; no verificada"
+}

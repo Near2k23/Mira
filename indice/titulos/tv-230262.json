@@ -1,0 +1,13 @@
+{
+  "tmdb": 230262,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "初吻33次",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "first-kisses"
+      }
+    }
+  }
+}
