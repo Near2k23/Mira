@@ -1,0 +1,13 @@
+{
+  "tmdb": 48885,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "海上繁花",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tears-in-heaven"
+      }
+    }
+  }
+}

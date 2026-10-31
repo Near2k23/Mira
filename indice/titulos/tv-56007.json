@@ -1,0 +1,13 @@
+{
+  "tmdb": 56007,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คิวบิก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cubic"
+      }
+    }
+  }
+}

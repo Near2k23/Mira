@@ -1,0 +1,13 @@
+{
+  "tmdb": 128398,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "바라던 바다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sea-of-hope"
+      }
+    }
+  }
+}

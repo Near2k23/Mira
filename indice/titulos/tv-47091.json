@@ -1,0 +1,13 @@
+{
+  "tmdb": 47091,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Vientos de amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "that-winter-the-wind-blows"
+      }
+    }
+  }
+}

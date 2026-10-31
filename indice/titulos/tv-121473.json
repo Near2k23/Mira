@@ -1,0 +1,13 @@
+{
+  "tmdb": 121473,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "นิติแมนแฟนวิศวะ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nitiman"
+      }
+    }
+  }
+}

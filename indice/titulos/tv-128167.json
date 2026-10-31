@@ -1,0 +1,13 @@
+{
+  "tmdb": 128167,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "彼女はキレイだった",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kanojo-wa-kirei-datta"
+      }
+    }
+  }
+}

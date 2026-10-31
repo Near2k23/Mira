@@ -1,0 +1,13 @@
+{
+  "tmdb": 126698,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Eres mi primavera",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-my-spring"
+      }
+    }
+  }
+}

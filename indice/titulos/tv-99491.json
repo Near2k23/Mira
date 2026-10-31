@@ -1,0 +1,13 @@
+{
+  "tmdb": 99491,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El místico bar efímero",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mystic-pop-up-bar"
+      }
+    }
+  }
+}

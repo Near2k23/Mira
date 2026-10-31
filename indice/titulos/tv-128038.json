@@ -1,0 +1,14 @@
+{
+  "tmdb": 128038,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "러브 리프레쉬",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-refresh"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 3 y TMDB tiene 1; no verificada"
+}

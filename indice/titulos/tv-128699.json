@@ -1,0 +1,13 @@
+{
+  "tmdb": 128699,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你好，火焰蓝",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-flaming-heart"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 52720,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "달려라 고등어",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mackerel-run"
+      }
+    }
+  }
+}

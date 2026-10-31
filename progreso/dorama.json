@@ -1,6 +1,6 @@
 {
- "pagina": 24,
- "agregados": 655,
+ "pagina": 25,
+ "agregados": 681,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -61,6 +61,22 @@
   {
    "id_o_slug": "life-her-youth-again",
    "motivo": "otra tarea: serie (país )"
+  },
+  {
+   "id_o_slug": "you-are-so-sweet",
+   "motivo": "sin temporadas que existan en TMDB"
+  },
+  {
+   "id_o_slug": "boyfriend-no13",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "dare-to-love-hai-ruk-pipaksa-tailandia",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "my-dear-friend",
+   "motivo": "no existe en TMDB"
   }
  ],
  "notas": [
@@ -179,7 +195,10 @@
   "tv-126782.json",
   "tv-96704.json",
   "tv-139120.json",
-  "tv-82951.json"
+  "tv-82951.json",
+  "tv-128038.json",
+  "tv-49845.json",
+  "tv-63648.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -887,6 +906,32 @@
   127941,
   89672,
   112280,
-  57278
+  57278,
+  52720,
+  128038,
+  99491,
+  47091,
+  99631,
+  66349,
+  128424,
+  119772,
+  121473,
+  128398,
+  48885,
+  49845,
+  126698,
+  63648,
+  127088,
+  128167,
+  56007,
+  96049,
+  128698,
+  128747,
+  128699,
+  127976,
+  128926,
+  128999,
+  127758,
+  128927
  ]
 }

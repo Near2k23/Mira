@@ -1,0 +1,13 @@
+{
+  "tmdb": 128698,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "喵，请许愿",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "make-a-wish"
+      }
+    }
+  }
+}

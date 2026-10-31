@@ -1,0 +1,13 @@
+{
+  "tmdb": 127976,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "陪你到世界终结",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reset-in-july"
+      }
+    }
+  }
+}

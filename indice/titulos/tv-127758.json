@@ -1,0 +1,13 @@
+{
+  "tmdb": 127758,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แค้นรักสลับชะตา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "keun-ruk-salub-chata"
+      }
+    }
+  }
+}

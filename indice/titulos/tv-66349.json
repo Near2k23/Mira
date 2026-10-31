@@ -1,0 +1,13 @@
+{
+  "tmdb": 66349,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的奇妙男友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-amazing-boyfriend"
+      }
+    }
+  }
+}

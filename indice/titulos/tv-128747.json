@@ -1,0 +1,13 @@
+{
+  "tmdb": 128747,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "46วันฉันจะพังงานวิวาห์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "46-days"
+      }
+    }
+  }
+}

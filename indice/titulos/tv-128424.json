@@ -1,0 +1,13 @@
+{
+  "tmdb": 128424,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Necesito romance",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-need-romance"
+      }
+    }
+  }
+}

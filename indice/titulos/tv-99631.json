@@ -1,0 +1,13 @@
+{
+  "tmdb": 99631,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพราะเราคู่กัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "2gether-the-series"
+      }
+    }
+  }
+}

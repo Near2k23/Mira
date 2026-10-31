@@ -1,0 +1,13 @@
+{
+  "tmdb": 128999,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的邻居长不大",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-fated-boy"
+      }
+    }
+  }
+}

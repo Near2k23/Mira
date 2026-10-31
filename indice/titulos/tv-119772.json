@@ -1,0 +1,13 @@
+{
+  "tmdb": 119772,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Juez Diabólico",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-devil-judge"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 96049,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La princesa de la tríada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "triad-princess"
+      }
+    }
+  }
+}

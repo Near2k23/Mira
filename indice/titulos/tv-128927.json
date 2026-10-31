@@ -1,0 +1,13 @@
+{
+  "tmdb": 128927,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "薄荷之夏",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "summer-again"
+      }
+    }
+  }
+}
