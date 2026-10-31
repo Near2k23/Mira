@@ -1,0 +1,18 @@
+{
+  "tmdb": 296437,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ryoumin-0nin-start-no-henkyou-ryoushusama"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tmdb": 302519,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tefuda ga Oome no Victoria",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "tefuda-ga-oome-no-victoria"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "tefuda-ga-oome-no-victoria"
+      }
+    }
+  }
+}

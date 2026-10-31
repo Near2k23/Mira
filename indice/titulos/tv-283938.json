@@ -1,0 +1,18 @@
+{
+  "tmdb": 283938,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seitokai ni mo Ana wa Aru!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "seitokai-ni-mo-ana-wa-aru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "seitokai-ni-mo-ana-wa-aru"
+      }
+    }
+  }
+}

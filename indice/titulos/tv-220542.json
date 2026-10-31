@@ -1,0 +1,25 @@
+{
+  "tmdb": 220542,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kusuriya no Hitorigoto",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kusuriya-no-hitorigoto",
+            "episodios": 24
+          },
+          {
+            "slug": "kusuriya-no-hitorigoto-2nd-season",
+            "episodios": 24
+          },
+          {
+            "slug": "kusuriya-no-hitorigoto-3rd-season"
+          }
+        ]
+      }
+    }
+  }
+}

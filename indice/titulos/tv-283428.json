@@ -1,0 +1,21 @@
+{
+  "tmdb": 283428,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Koori no Jouheki",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "koori-no-jouheki",
+            "episodios": 14
+          },
+          {
+            "slug": "koori-no-jouheki-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

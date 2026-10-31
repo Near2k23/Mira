@@ -1,0 +1,34 @@
+{
+  "tmdb": 280042,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yasei no Last Boss ga Arawareta!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "yasei-no-last-boss-ga-arawareta",
+            "episodios": 12
+          },
+          {
+            "slug": "yasei-no-last-boss-ga-arawareta-2nd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "yasei-no-last-boss-ga-arawareta",
+            "episodios": 12
+          },
+          {
+            "slug": "yasei-no-last-boss-ga-arawareta-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

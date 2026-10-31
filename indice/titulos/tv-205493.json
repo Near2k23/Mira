@@ -1,0 +1,20 @@
+{
+  "tmdb": 205493,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "New Prince of Tennis II: U-17 World Cup",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shin-tennis-no-oujisama-u-17-world-cup-1",
+        "2": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-44",
+        "3": "shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "3": "shin-tennis-no-oujisama-u17-world-cup-kesshou-member-ketteisen"
+      }
+    }
+  }
+}

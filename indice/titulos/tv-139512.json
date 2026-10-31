@@ -1,0 +1,20 @@
+{
+  "tmdb": 139512,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
+        "2": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
+        "2": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2"
+      }
+    }
+  }
+}

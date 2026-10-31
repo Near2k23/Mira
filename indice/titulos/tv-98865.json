@@ -1,0 +1,18 @@
+{
+  "tmdb": 98865,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mebius Dust",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mebius-dust"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mebius-dust"
+      }
+    }
+  }
+}

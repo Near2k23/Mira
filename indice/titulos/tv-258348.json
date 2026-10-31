@@ -1,0 +1,20 @@
+{
+  "tmdb": 258348,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
+        "2": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
+        "2": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou"
+      }
+    }
+  }
+}

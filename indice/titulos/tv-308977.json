@@ -1,0 +1,18 @@
+{
+  "tmdb": 308977,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Keroro Gunsou☆",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "keroro-gunsou"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "keroro-gunsou"
+      }
+    }
+  }
+}

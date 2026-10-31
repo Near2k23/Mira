@@ -1,0 +1,18 @@
+{
+  "tmdb": 333622,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kashita Maryoku wa \\",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 314054,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sora wa Akai Kawa no Hotori",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "sora-wa-akai-kawa-no-hotori"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "sora-wa-akai-kawa-no-hotori"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "tmdb": 105009,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tokyo Revengers",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "tokyo-revengers",
+            "episodios": 24
+          },
+          {
+            "slug": "tokyo-revengers-seiya-kessen-hen",
+            "episodios": 13
+          },
+          {
+            "slug": "tokyo-revengers-tenjiku-hen",
+            "episodios": 13
+          },
+          {
+            "slug": "tokyo-revengers-santen-sensou-hen"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "tokyo-revengers",
+            "episodios": 24
+          },
+          {
+            "slug": "tokyo-revengers-seiya-kessenhen",
+            "episodios": 13
+          },
+          {
+            "slug": "tokyo-revengers-tenjikuhen",
+            "episodios": 13
+          },
+          {
+            "slug": "tokyo-revengers-santen-sensouhen"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 298103,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ibitte Konai Gibo to Gishi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ibitte-konai-gibo-to-gishi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ibitte-konai-gibo-to-gishi"
+      }
+    }
+  }
+}

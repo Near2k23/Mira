@@ -1,0 +1,18 @@
+{
+  "tmdb": 286345,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
+      }
+    }
+  }
+}

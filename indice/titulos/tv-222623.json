@@ -1,0 +1,20 @@
+{
+  "tmdb": 222623,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nige Jouzu no Wakagimi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "nige-jouzu-no-wakagimi",
+        "2": "nige-jouzu-no-wakagimi-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "nige-jouzu-no-wakagimi",
+        "2": "nige-jouzu-no-wakagimi-2nd-season"
+      }
+    }
+  }
+}

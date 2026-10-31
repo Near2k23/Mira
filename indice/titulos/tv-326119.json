@@ -1,0 +1,18 @@
+{
+  "tmdb": 326119,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Thunder 3",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "thunder-3"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "thunder-3"
+      }
+    }
+  }
+}

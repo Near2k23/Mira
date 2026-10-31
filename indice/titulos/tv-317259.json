@@ -1,0 +1,18 @@
+{
+  "tmdb": 317259,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Vertex Force",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "vertex-force"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "vertex-force"
+      }
+    }
+  }
+}

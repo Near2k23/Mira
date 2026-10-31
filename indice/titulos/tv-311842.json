@@ -1,0 +1,18 @@
+{
+  "tmdb": 311842,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "FX Senshi Kurumi-chan",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "fx-senshi-kurumi-chan"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "fx-senshi-kurumichan"
+      }
+    }
+  }
+}

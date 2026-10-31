@@ -1,0 +1,18 @@
+{
+  "tmdb": 285710,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gensou Suikoden",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "gensou-suikoden"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "gensou-suikoden"
+      }
+    }
+  }
+}

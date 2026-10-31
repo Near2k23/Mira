@@ -1,0 +1,18 @@
+{
+  "tmdb": 335194,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magical★Explorer",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "magicalexplorer"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "magicalexplorer"
+      }
+    }
+  }
+}

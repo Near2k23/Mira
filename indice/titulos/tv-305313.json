@@ -1,0 +1,18 @@
+{
+  "tmdb": 305313,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Romelia Senki",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "romelia-senki"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "romelia-senki"
+      }
+    }
+  }
+}

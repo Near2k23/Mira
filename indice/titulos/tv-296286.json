@@ -1,0 +1,18 @@
+{
+  "tmdb": 296286,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Super no Ura de Yani Suu Futari",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "super-no-ura-de-yani-suu-futari"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "super-no-ura-de-yani-suu-futari"
+      }
+    }
+  }
+}

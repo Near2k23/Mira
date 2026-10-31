@@ -1,0 +1,20 @@
+{
+  "tmdb": 260823,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Katainaka no Ossan, Kensei ni Naru",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "katainaka-no-ossan-kensei-ni-naru",
+        "2": "katainaka-no-ossan-kensei-ni-naru-ii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "katainaka-no-ossan-kensei-ni-naru",
+        "2": "katainaka-no-ossan-kensei-ni-naru-ii"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 301139,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "#Zombie Sagashitemasu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "zombie-sagashitemasu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "zombie-sagashitemasu"
+      }
+    }
+  }
+}

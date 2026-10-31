@@ -107,7 +107,38 @@
   "tv-330505": "nuevo",
   "tv-334779": "nuevo",
   "tv-335790": "nuevo",
-  "tv-337277": "nuevo"
+  "tv-337277": "nuevo",
+  "tv-98865": "nuevo",
+  "tv-105009": "nuevo",
+  "tv-139512": "nuevo",
+  "tv-205493": "nuevo",
+  "tv-220542": "nuevo",
+  "tv-222623": "nuevo",
+  "tv-237150": "nuevo",
+  "tv-253811": "nuevo",
+  "tv-258348": "nuevo",
+  "tv-259140": "nuevo",
+  "tv-260823": "nuevo",
+  "tv-280042": "nuevo",
+  "tv-283428": "nuevo",
+  "tv-283938": "nuevo",
+  "tv-285710": "nuevo",
+  "tv-285899": "nuevo",
+  "tv-286345": "nuevo",
+  "tv-296286": "nuevo",
+  "tv-296437": "nuevo",
+  "tv-298103": "nuevo",
+  "tv-301139": "nuevo",
+  "tv-302519": "nuevo",
+  "tv-305313": "nuevo",
+  "tv-308977": "nuevo",
+  "tv-311842": "nuevo",
+  "tv-312266": "nuevo",
+  "tv-314054": "nuevo",
+  "tv-317259": "nuevo",
+  "tv-326119": "nuevo",
+  "tv-333622": "nuevo",
+  "tv-335194": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -118,7 +149,14 @@
   "tv-65942": "T1 (rezero-kara-hajimeru-isekai-seikatsu, rezero-kara-hajimeru-isekai-seikatsu-2nd-season): 50 eps en el sitio vs 85 en TMDB",
   "tv-120089": "spy-x-family-part-2: empieza en T1E13, esperaba E26",
   "watashi-no-shiawase-na-kekkon-special": "Especial",
-  "cyberpunk-edgerunners-2": "no está en TMDB / no ubicado"
+  "cyberpunk-edgerunners-2": "no está en TMDB / no ubicado",
+  "tensei-shitara-ken-deshita-ii": "no está en TMDB / no ubicado",
+  "tempal-item-no-chikara": "no está en TMDB / no ubicado",
+  "kaijuu-8-gou-narumi-no-heijitsu": "no está en TMDB / no ubicado",
+  "shiguang-dailiren-iii": "no está en TMDB / no ubicado",
+  "the-ribbon-hero": "no está en TMDB / no ubicado",
+  "boku-no-hero-academia-i-am-a-hero-too": "no está en TMDB / no ubicado",
+  "dogulwang": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -128,6 +166,11 @@
  "paginas": {
   "latest_released 1-2": {
    "agregados": 38,
+   "completados": 0,
+   "saltados": 0
+  },
+  "latest_released 3-4": {
+   "agregados": 31,
    "completados": 0,
    "saltados": 0
   }

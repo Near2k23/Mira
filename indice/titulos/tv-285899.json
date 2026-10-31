@@ -1,0 +1,18 @@
+{
+  "tmdb": 285899,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tmdb": 259140,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ranma ½ (2024)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "ranma-2024",
+            "episodios": 12
+          },
+          {
+            "slug": "ranma-2024-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "ranma-2024-3rd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "ranma-12-2024",
+            "episodios": 12
+          },
+          {
+            "slug": "ranma-12-2024-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "ranma-12-2024-3rd-season"
+          }
+        ]
+      }
+    }
+  }
+}

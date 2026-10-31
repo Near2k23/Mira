@@ -1,0 +1,20 @@
+{
+  "tmdb": 253811,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tougen Anki",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tougen-anki",
+        "2": "tougen-anki-nikko-kegon-no-taki-hen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tougen-anki",
+        "2": "tougen-anki-nikko-kegon-no-takihen"
+      }
+    }
+  }
+}
