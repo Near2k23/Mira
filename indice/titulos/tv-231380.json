@@ -1,0 +1,13 @@
+{
+  "tmdb": 231380,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Seis nueve: La serie",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "6ixtynin9-the-series"
+      }
+    }
+  }
+}

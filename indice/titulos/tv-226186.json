@@ -1,0 +1,13 @@
+{
+  "tmdb": 226186,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "云之羽",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-journey-to-you"
+      }
+    }
+  }
+}

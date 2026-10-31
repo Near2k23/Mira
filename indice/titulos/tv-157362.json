@@ -1,0 +1,14 @@
+{
+  "tmdb": 157362,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Quién es la loba?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "who-is-the-wolf"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Who Is the Wolf? 2023) no coinciden con TMDB (オオカミには騙されない 2017); se mantuvo el tmdb_id del sitio. T1: el sitio llega al ep 12 y TMDB tiene 7; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 221416,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "奇蹟",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kiseki-dear-to-me"
+      }
+    }
+  }
+}

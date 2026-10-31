@@ -1,0 +1,13 @@
+{
+  "tmdb": 233087,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "不一样的萧先生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "not-the-same-mr-xiao"
+      }
+    }
+  }
+}

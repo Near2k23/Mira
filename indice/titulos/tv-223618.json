@@ -1,0 +1,14 @@
+{
+  "tmdb": 223618,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ห้ามฟ้าห่มดาว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "venus-in-the-sky"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 11 y TMDB tiene 10; no verificada"
+}

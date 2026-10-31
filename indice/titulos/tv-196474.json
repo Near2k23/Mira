@@ -1,0 +1,13 @@
+{
+  "tmdb": 196474,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tu tiempo llama",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-time-called-you"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 231069,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "NCT 127: 더 로스트 보이즈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nct-127-the-lost-boys"
+      }
+    }
+  }
+}

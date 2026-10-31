@@ -1,0 +1,13 @@
+{
+  "tmdb": 233753,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "盲心千金",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "forever-love-2023"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 233232,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Asuntos picantes: Taiwán",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "risque-business-taiwan"
+      }
+    }
+  }
+}

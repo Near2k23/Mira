@@ -1,0 +1,13 @@
+{
+  "tmdb": 219255,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "명동사랑방",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-or-friendship"
+      }
+    }
+  }
+}

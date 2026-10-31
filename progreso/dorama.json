@@ -1,6 +1,6 @@
 {
- "pagina": 54,
- "agregados": 1454,
+ "pagina": 55,
+ "agregados": 1480,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -281,6 +281,18 @@
   {
    "id_o_slug": "tv-206693",
    "motivo": "validar falló: ERROR indice/titulos/tv-206693.json: sitio \"doramasflix\" slug \"My-dearest\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "exos-ladder-season-4",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "you-are-the-cream-in-my-coffee",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "one-piece",
+   "motivo": "otra tarea: serie (país US)"
   }
  ],
  "notas": [
@@ -541,7 +553,13 @@
   "tv-206693.json",
   "tv-195219.json",
   "tv-217945.json",
-  "tv-229947.json"
+  "tv-229947.json",
+  "tv-222368.json",
+  "tv-222373.json",
+  "tv-200707.json",
+  "tv-157362.json",
+  "tv-214582.json",
+  "tv-223618.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2097,6 +2115,33 @@
   210107,
   231300,
   156888,
-  230214
+  230214,
+  130014,
+  219255,
+  222368,
+  233087,
+  221416,
+  210705,
+  210732,
+  231375,
+  215001,
+  198087,
+  223906,
+  232600,
+  227642,
+  222373,
+  200707,
+  233232,
+  157362,
+  231069,
+  224229,
+  214582,
+  136368,
+  128166,
+  223618,
+  226186,
+  233753,
+  231380,
+  196474
  ]
 }

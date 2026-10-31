@@ -1,0 +1,13 @@
+{
+  "tmdb": 130014,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "복제인간",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "genesis"
+      }
+    }
+  }
+}

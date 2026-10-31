@@ -1,0 +1,13 @@
+{
+  "tmdb": 227642,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "บ้านชายมอง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crazy-handsome-rich"
+      }
+    }
+  }
+}

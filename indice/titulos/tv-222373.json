@@ -1,0 +1,14 @@
+{
+  "tmdb": 222373,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "わたしのお嫁くん",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-bride"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 12 y TMDB tiene 11; no verificada"
+}

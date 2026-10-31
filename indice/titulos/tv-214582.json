@@ -1,0 +1,15 @@
+{
+  "tmdb": 214582,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El plan del diablo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-devils-plan",
+        "2": "the-devils-plan"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

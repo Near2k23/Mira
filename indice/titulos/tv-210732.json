@@ -1,0 +1,13 @@
+{
+  "tmdb": 210732,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mr. Bad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-bad"
+      }
+    }
+  }
+}

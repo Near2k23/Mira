@@ -1,0 +1,13 @@
+{
+  "tmdb": 232600,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "องศาสูญ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "absolute-zero"
+      }
+    }
+  }
+}

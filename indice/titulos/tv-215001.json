@@ -1,0 +1,13 @@
+{
+  "tmdb": 215001,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un amor predestinado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "destined-with-you"
+      }
+    }
+  }
+}

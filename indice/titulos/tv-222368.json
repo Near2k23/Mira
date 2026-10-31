@@ -1,0 +1,15 @@
+{
+  "tmdb": 222368,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "墜落JKと廃人教師",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "falling-high-school-girl-and-irresponsible-teacher",
+        "2": "falling-high-school-girl-and-irresponsible-teacher"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

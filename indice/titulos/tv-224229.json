@@ -1,0 +1,13 @@
+{
+  "tmdb": 224229,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Asuntos picantes: Japón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "risque-business-japan"
+      }
+    }
+  }
+}

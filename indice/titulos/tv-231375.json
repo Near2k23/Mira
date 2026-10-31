@@ -1,0 +1,13 @@
+{
+  "tmdb": 231375,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "와이 알 유?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "why-r-u"
+      }
+    }
+  }
+}

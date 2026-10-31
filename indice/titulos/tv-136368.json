@@ -1,0 +1,13 @@
+{
+  "tmdb": 136368,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La canción de los bandidos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "song-of-the-bandits"
+      }
+    }
+  }
+}
