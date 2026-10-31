@@ -1,0 +1,14 @@
+{
+  "tmdb": 130515,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สูทรักนักออกแบบ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-tuxedo"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 4 de 8 episodios"
+}

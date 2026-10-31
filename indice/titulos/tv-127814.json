@@ -1,0 +1,13 @@
+{
+  "tmdb": 127814,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱的二八定律",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "she-and-her-perfect-husband"
+      }
+    }
+  }
+}

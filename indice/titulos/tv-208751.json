@@ -1,0 +1,13 @@
+{
+  "tmdb": 208751,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Romance Yakuza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yakuza-lover"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 210444,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "silent",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "silent"
+      }
+    }
+  }
+}

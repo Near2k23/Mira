@@ -1,0 +1,13 @@
+{
+  "tmdb": 213785,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พี่จะตีนะเนย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-will-knock-you"
+      }
+    }
+  }
+}

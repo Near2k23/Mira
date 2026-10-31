@@ -1,0 +1,13 @@
+{
+  "tmdb": 214139,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "차트를 달리는 선비",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chart-running-scholar"
+      }
+    }
+  }
+}

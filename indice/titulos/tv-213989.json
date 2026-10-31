@@ -1,0 +1,13 @@
+{
+  "tmdb": 213989,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "白秘书每天都想辞职",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secretary-bai-wants-to-resign-everyday"
+      }
+    }
+  }
+}

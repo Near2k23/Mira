@@ -1,0 +1,13 @@
+{
+  "tmdb": 213239,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Casi amante",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "almost-lover"
+      }
+    }
+  }
+}

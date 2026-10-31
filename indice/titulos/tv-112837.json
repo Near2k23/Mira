@@ -1,0 +1,13 @@
+{
+  "tmdb": 112837,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Alguien",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "somebody"
+      }
+    }
+  }
+}

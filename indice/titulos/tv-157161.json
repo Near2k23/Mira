@@ -1,0 +1,15 @@
+{
+  "tmdb": 157161,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Detective de sombras",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shadow-detective",
+        "2": "shadow-detective"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

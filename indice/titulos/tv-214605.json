@@ -1,0 +1,13 @@
+{
+  "tmdb": 214605,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你是人间理想",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fairy-from-the-painting"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 111204,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "30歳まで童貞だと魔法使いになれるらしい",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cherry-magic"
+      }
+    }
+  }
+}

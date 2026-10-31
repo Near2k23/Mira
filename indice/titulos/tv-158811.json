@@ -1,0 +1,13 @@
+{
+  "tmdb": 158811,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El acuerdo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bargain"
+      }
+    }
+  }
+}

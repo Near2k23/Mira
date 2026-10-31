@@ -1,0 +1,14 @@
+{
+  "tmdb": 134331,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Lighter and Princess",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lighter-and-princess"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 22 de 36 episodios"
+}

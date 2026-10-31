@@ -1,0 +1,13 @@
+{
+  "tmdb": 153496,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Renacido Rico (Reborn Rich)",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reborn-rich"
+      }
+    }
+  }
+}

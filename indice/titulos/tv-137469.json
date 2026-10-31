@@ -1,0 +1,13 @@
+{
+  "tmdb": 137469,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마녀상점 리오픈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-witch-store-reopen"
+      }
+    }
+  }
+}

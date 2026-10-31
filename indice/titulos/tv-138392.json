@@ -1,0 +1,13 @@
+{
+  "tmdb": 138392,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Between Us",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "between-us"
+      }
+    }
+  }
+}

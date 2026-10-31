@@ -1,0 +1,13 @@
+{
+  "tmdb": 194736,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "커튼콜: 나무는 서서 죽는다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "curtain-call"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 83165,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "中学聖日記",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meet-me-after-school"
+      }
+    }
+  }
+}

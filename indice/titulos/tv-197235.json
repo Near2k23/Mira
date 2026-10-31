@@ -1,0 +1,13 @@
+{
+  "tmdb": 197235,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Fragmentos del pasado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shards-of-her"
+      }
+    }
+  }
+}

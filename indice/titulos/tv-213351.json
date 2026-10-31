@@ -1,0 +1,13 @@
+{
+  "tmdb": 213351,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "遇见你之后",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "since-i-met-u"
+      }
+    }
+  }
+}

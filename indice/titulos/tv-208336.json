@@ -1,0 +1,13 @@
+{
+  "tmdb": 208336,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Vengadora",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "revenge-of-others"
+      }
+    }
+  }
+}

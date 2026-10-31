@@ -1,0 +1,13 @@
+{
+  "tmdb": 213152,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Choco Milk Shake",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "choco-milk-shake"
+      }
+    }
+  }
+}

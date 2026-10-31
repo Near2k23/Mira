@@ -1,0 +1,13 @@
+{
+  "tmdb": 213518,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "进击的沐小姐",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lets-go-fighting"
+      }
+    }
+  }
+}

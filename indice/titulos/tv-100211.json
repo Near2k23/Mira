@@ -1,0 +1,13 @@
+{
+  "tmdb": 100211,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ねぇ先生、知らないの？",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hey-sensei-dont-you-know"
+      }
+    }
+  }
+}

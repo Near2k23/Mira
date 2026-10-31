@@ -1,0 +1,13 @@
+{
+  "tmdb": 139634,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "住在我隔壁的甲方",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "party-a-who-lives-beside-me"
+      }
+    }
+  }
+}
