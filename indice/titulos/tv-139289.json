@@ -1,0 +1,15 @@
+{
+  "tmdb": 139289,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Poong, El Psiquiatra de Joseon",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "poong-the-joseon-psychiatrist",
+        "2": "poong-the-joseon-psychiatrist"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

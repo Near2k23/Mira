@@ -1,0 +1,13 @@
+{
+  "tmdb": 114124,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "이별유예, 일주일",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "breakup-probation-a-week"
+      }
+    }
+  }
+}

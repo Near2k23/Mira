@@ -1,0 +1,13 @@
+{
+  "tmdb": 207267,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ด้วยรักและหักหลัง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ps-i-hate-you"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 205115,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักสลับโลก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vice-versa"
+      }
+    }
+  }
+}

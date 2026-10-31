@@ -1,0 +1,13 @@
+{
+  "tmdb": 64280,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "De las 5 a las 9",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "5-9-from-five-to-nine"
+      }
+    }
+  }
+}

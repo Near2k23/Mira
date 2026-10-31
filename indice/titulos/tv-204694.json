@@ -1,0 +1,13 @@
+{
+  "tmdb": 204694,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "미미쿠스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mimicus"
+      }
+    }
+  }
+}

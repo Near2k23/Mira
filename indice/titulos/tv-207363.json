@@ -1,0 +1,13 @@
+{
+  "tmdb": 207363,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รอวันเธอรักฉัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "on-cloud-nine"
+      }
+    }
+  }
+}

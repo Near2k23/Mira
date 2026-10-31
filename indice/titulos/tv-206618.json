@@ -1,0 +1,13 @@
+{
+  "tmdb": 206618,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "멧돼지 사냥",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hunted"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 104976,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Life 線上の僕ら",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "life-love-on-the-line"
+      }
+    }
+  }
+}

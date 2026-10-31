@@ -1,0 +1,14 @@
+{
+  "tmdb": 205952,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ห้วยตึงเฒ่า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rainbow-lagoon"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (null) no coincidía; se usó 205952 buscando por nombre y año"
+}

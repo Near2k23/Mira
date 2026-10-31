@@ -1,0 +1,13 @@
+{
+  "tmdb": 203014,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花间新娘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "believe-in-love"
+      }
+    }
+  }
+}

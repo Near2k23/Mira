@@ -1,0 +1,13 @@
+{
+  "tmdb": 205821,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Coffee Melody เพลงที่รัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "coffee-melody"
+      }
+    }
+  }
+}

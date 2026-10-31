@@ -1,0 +1,13 @@
+{
+  "tmdb": 133775,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Deseos VIP",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "remarriage-desires"
+      }
+    }
+  }
+}

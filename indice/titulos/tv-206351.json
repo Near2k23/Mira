@@ -1,0 +1,14 @@
+{
+  "tmdb": 206351,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的队长不对劲",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miss-captain"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (null) no coincidía; se usó 206351 buscando por nombre y año"
+}

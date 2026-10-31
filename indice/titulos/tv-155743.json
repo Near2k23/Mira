@@ -1,0 +1,13 @@
+{
+  "tmdb": 155743,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mentiroso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "liar"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 204591,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "In THE SOOP: Friendcation",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-the-soop-friendcation"
+      }
+    }
+  }
+}

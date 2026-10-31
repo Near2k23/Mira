@@ -1,0 +1,14 @@
+{
+  "tmdb": 197064,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Prohibido Rendirse",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "never-give-up"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 24 episodios"
+}

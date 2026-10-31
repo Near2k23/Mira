@@ -1,0 +1,13 @@
+{
+  "tmdb": 122591,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "致勇敢的你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-be-a-brave-one"
+      }
+    }
+  }
+}

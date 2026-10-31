@@ -1,0 +1,13 @@
+{
+  "tmdb": 94510,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "레버리지: 사기조작단",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "leverage"
+      }
+    }
+  }
+}

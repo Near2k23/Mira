@@ -1,0 +1,13 @@
+{
+  "tmdb": 205040,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Adamas: Diamante asesino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "adamas"
+      }
+    }
+  }
+}

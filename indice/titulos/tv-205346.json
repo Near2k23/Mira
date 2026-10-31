@@ -1,0 +1,13 @@
+{
+  "tmdb": 205346,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เลิฟ@นาย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-my-sunshine-night"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 206602,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "亲爱的柠檬精先生2",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "plot-love-2"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (null) no coincidía; se usó 206602 buscando por nombre y año. T1: el sitio tiene 24 de 30 episodios"
+}
