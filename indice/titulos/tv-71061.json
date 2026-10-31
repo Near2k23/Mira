@@ -1,0 +1,14 @@
+{
+  "tmdb": 71061,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夏至未至",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rush-to-the-dead-summer"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 46 de 48 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 74076,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Perro Loco",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mad-dog"
+      }
+    }
+  }
+}

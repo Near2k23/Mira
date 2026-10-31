@@ -1,0 +1,13 @@
+{
+  "tmdb": 74000,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "20세기 소년소녀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "20th-century-boy-and-girl"
+      }
+    }
+  }
+}

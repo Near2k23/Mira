@@ -1,0 +1,14 @@
+{
+  "tmdb": 74785,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "투깝스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "two-cops"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 32 y TMDB tiene 16; no verificada"
+}

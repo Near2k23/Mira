@@ -1,0 +1,14 @@
+{
+  "tmdb": 62644,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los Productores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-producers"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 13 y TMDB tiene 12; no verificada"
+}

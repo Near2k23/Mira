@@ -1,0 +1,13 @@
+{
+  "tmdb": 77444,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "流淌的美好时光",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "river-flows-to-you"
+      }
+    }
+  }
+}

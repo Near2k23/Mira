@@ -1,0 +1,13 @@
+{
+  "tmdb": 66387,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "뷰티풀 마인드",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beautiful-mind"
+      }
+    }
+  }
+}

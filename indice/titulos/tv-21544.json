@@ -1,0 +1,13 @@
+{
+  "tmdb": 21544,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Bella Dama",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-fair-lady"
+      }
+    }
+  }
+}

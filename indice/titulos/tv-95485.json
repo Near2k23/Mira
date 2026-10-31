@@ -1,0 +1,14 @@
+{
+  "tmdb": 95485,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "더 게임 : 0시를 향하여",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-game-towards-zero"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

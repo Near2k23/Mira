@@ -1,0 +1,13 @@
+{
+  "tmdb": 72547,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "맨홀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "manhole"
+      }
+    }
+  }
+}

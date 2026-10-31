@@ -1,0 +1,13 @@
+{
+  "tmdb": 62933,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "I Remember You",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hello-monster"
+      }
+    }
+  }
+}

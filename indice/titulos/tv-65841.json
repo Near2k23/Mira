@@ -1,0 +1,13 @@
+{
+  "tmdb": 65841,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "페이지 터너",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "page-turner"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 73139,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "浪花一朵朵",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-mr-mermaid"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 36 de 37 episodios"
+}

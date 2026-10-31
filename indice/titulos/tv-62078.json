@@ -1,0 +1,13 @@
+{
+  "tmdb": 62078,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sangre",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blood"
+      }
+    }
+  }
+}

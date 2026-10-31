@@ -1,0 +1,13 @@
+{
+  "tmdb": 74064,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "De regreso al amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "go-back-couple"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 89927,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "퍼퓸",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "perfume"
+      }
+    }
+  }
+}

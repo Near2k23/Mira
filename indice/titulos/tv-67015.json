@@ -1,0 +1,15 @@
+{
+  "tmdb": 67015,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "幻城",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ice-fantasy",
+        "2": "ice-fantasy"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 68891,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "미씽나인",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "missing-nine"
+      }
+    }
+  }
+}

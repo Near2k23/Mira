@@ -1,0 +1,15 @@
+{
+  "tmdb": 89641,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Love Alarm",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-alarm",
+        "2": "love-alarm"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

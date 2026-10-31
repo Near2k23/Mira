@@ -1,0 +1,13 @@
+{
+  "tmdb": 68947,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Jefe Kim",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chief-kim"
+      }
+    }
+  }
+}

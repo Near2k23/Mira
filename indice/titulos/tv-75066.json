@@ -1,0 +1,13 @@
+{
+  "tmdb": 75066,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Caballero Negro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "black-knight"
+      }
+    }
+  }
+}

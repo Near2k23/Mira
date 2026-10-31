@@ -1,0 +1,13 @@
+{
+  "tmdb": 70372,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Única Canción de Amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-only-love-song"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 61739,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아이언맨",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blade-man"
+      }
+    }
+  }
+}

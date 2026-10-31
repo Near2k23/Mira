@@ -1,0 +1,14 @@
+{
+  "tmdb": 88514,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Novio absoluto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "absolute-boyfriend"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 18 de 40 episodios"
+}

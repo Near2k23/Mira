@@ -1,0 +1,13 @@
+{
+  "tmdb": 61580,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "내일도 칸타빌레",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tomorrows-cantabile"
+      }
+    }
+  }
+}

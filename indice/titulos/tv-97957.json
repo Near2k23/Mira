@@ -1,0 +1,14 @@
+{
+  "tmdb": 97957,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "어서와",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meow-the-secret-boy"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 24 episodios"
+}

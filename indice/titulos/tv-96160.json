@@ -1,0 +1,13 @@
+{
+  "tmdb": 96160,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Holo, mi amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-holo-love"
+      }
+    }
+  }
+}
