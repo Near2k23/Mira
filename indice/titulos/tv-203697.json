@@ -1,0 +1,13 @@
+{
+  "tmdb": 203697,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Detrás de cada estrella",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "behind-every-star"
+      }
+    }
+  }
+}

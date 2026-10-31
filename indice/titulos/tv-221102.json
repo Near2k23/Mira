@@ -1,0 +1,13 @@
+{
+  "tmdb": 221102,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우리 연애 시뮬레이션",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-dating-sim"
+      }
+    }
+  }
+}

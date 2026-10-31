@@ -1,0 +1,13 @@
+{
+  "tmdb": 210998,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "꼭두의 계절",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kokdu-season-of-deity"
+      }
+    }
+  }
+}

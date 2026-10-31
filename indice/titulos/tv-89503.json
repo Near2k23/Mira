@@ -1,0 +1,13 @@
+{
+  "tmdb": 89503,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Casa compartida de adultos jodidos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kakafukaka"
+      }
+    }
+  }
+}

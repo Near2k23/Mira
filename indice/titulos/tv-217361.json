@@ -1,0 +1,13 @@
+{
+  "tmdb": 217361,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "보이즈 플래닛",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "boys-planet"
+      }
+    }
+  }
+}

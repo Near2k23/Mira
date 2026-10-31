@@ -1,0 +1,13 @@
+{
+  "tmdb": 217735,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อย่าเล่นกับอนล",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bed-friend"
+      }
+    }
+  }
+}

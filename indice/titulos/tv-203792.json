@@ -1,0 +1,13 @@
+{
+  "tmdb": 203792,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "六本木クラス",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "roppongi-class"
+      }
+    }
+  }
+}

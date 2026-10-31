@@ -1,0 +1,13 @@
+{
+  "tmdb": 197081,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "딜리버리맨",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "delivery-man"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 154889,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "청춘월담",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-blooming-youth"
+      }
+    }
+  }
+}

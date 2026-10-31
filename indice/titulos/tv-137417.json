@@ -1,0 +1,14 @@
+{
+  "tmdb": 137417,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "刺客学苑",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "assassin-academy"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 6 de 12 episodios"
+}

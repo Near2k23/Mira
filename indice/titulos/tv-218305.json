@@ -1,0 +1,13 @@
+{
+  "tmdb": 218305,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักชอบเจ็บ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hit-bite-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 217619,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ตรวนธรณี",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chains-of-heart"
+      }
+    }
+  }
+}

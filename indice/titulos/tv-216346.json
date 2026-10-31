@@ -1,0 +1,13 @@
+{
+  "tmdb": 216346,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เมียหลวง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-wife"
+      }
+    }
+  }
+}

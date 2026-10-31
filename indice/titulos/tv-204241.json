@@ -1,0 +1,13 @@
+{
+  "tmdb": 204241,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Shin, abogado de divorcios",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "divorce-attorney-shin"
+      }
+    }
+  }
+}

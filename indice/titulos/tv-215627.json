@@ -1,0 +1,13 @@
+{
+  "tmdb": 215627,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "时限三天爱上我",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-me-in-three-days"
+      }
+    }
+  }
+}

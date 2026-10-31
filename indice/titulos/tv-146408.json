@@ -1,0 +1,13 @@
+{
+  "tmdb": 146408,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พระจันทร์มันไก่",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moonlight-chicken"
+      }
+    }
+  }
+}

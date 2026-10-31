@@ -1,0 +1,13 @@
+{
+  "tmdb": 217325,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夕暮れに、手をつなぐ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hold-my-hand-at-twilight"
+      }
+    }
+  }
+}

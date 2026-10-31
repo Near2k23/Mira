@@ -1,0 +1,13 @@
+{
+  "tmdb": 220049,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "步步为陷",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "brides-revenge"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 216576,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "僕らのミクロな終末",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-end-of-the-world-with-you"
+      }
+    }
+  }
+}

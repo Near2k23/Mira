@@ -1,0 +1,13 @@
+{
+  "tmdb": 202625,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un ídolo celestial",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-heavenly-idol"
+      }
+    }
+  }
+}

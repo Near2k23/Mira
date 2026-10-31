@@ -1,0 +1,13 @@
+{
+  "tmdb": 219117,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우리의 디데이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-d-day"
+      }
+    }
+  }
+}

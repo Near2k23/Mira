@@ -1,0 +1,13 @@
+{
+  "tmdb": 64793,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Itazura na Kiss〜Amor en Tokyo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mischievous-kiss-love-in-tokyo"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 219882,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สัญญา I ไม่ลืม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-promise"
+      }
+    }
+  }
+}

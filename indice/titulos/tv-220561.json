@@ -1,0 +1,13 @@
+{
+  "tmdb": 220561,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "주류일절",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "all-the-liquors"
+      }
+    }
+  }
+}

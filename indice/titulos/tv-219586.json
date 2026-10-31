@@ -1,0 +1,13 @@
+{
+  "tmdb": 219586,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ジャックフロスト",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jack-o-frost"
+      }
+    }
+  }
+}

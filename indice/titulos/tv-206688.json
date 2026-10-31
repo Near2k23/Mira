@@ -1,0 +1,13 @@
+{
+  "tmdb": 206688,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Oasis",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oasis"
+      }
+    }
+  }
+}

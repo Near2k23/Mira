@@ -1,0 +1,13 @@
+{
+  "tmdb": 217337,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "각자의 사정",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "individual-circumstances"
+      }
+    }
+  }
+}

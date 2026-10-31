@@ -1,0 +1,13 @@
+{
+  "tmdb": 213655,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Extraños otra vez",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "strangers-again"
+      }
+    }
+  }
+}

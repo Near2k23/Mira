@@ -1,0 +1,13 @@
+{
+  "tmdb": 221674,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพื่อนพ่อแล้วไง เป็นที่รักได้ก็แล้วกัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "past-senger"
+      }
+    }
+  }
+}

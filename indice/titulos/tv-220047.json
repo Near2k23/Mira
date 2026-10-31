@@ -1,0 +1,13 @@
+{
+  "tmdb": 220047,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ยอดรัก นักทวงคืน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "return-man"
+      }
+    }
+  }
+}

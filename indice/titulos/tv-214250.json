@@ -1,0 +1,15 @@
+{
+  "tmdb": 214250,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "서진이네",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jinnys-kitchen",
+        "2": "jinnys-kitchen"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 13 y TMDB tiene 11; no verificada"
+}

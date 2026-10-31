@@ -1,0 +1,13 @@
+{
+  "tmdb": 194852,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kindaichi: El joven detective",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-files-of-young-kindaichi"
+      }
+    }
+  }
+}

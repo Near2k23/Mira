@@ -1,0 +1,14 @@
+{
+  "tmdb": 217327,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ブラザー・トラップ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "brother-trap"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Brother Trap 2022) no coinciden con TMDB (ブラザー・トラップ 2023); se mantuvo el tmdb_id del sitio"
+}

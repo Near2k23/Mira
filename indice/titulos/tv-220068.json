@@ -1,0 +1,13 @@
+{
+  "tmdb": 220068,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "听说你喜欢我",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "have-a-crush-on-you"
+      }
+    }
+  }
+}

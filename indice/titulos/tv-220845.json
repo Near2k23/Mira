@@ -1,0 +1,13 @@
+{
+  "tmdb": 220845,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "下一站你的世界",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "next-stop-your-world"
+      }
+    }
+  }
+}

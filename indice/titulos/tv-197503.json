@@ -1,0 +1,13 @@
+{
+  "tmdb": 197503,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你是我的永恒星辰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-eternal-star"
+      }
+    }
+  }
+}

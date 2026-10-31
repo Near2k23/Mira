@@ -1,0 +1,13 @@
+{
+  "tmdb": 220398,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ราชาวิหค",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "destiny-seeker"
+      }
+    }
+  }
+}

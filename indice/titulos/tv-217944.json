@@ -1,0 +1,13 @@
+{
+  "tmdb": 217944,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "公子不可求",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "catch-up-my-prince"
+      }
+    }
+  }
+}

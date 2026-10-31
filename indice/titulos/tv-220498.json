@@ -1,0 +1,13 @@
+{
+  "tmdb": 220498,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "피크타임",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "peak-time"
+      }
+    }
+  }
+}

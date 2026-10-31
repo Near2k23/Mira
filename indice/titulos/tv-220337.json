@@ -1,0 +1,13 @@
+{
+  "tmdb": 220337,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夏花",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-forbidden-flower"
+      }
+    }
+  }
+}

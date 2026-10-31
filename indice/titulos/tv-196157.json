@@ -1,0 +1,13 @@
+{
+  "tmdb": 196157,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "星落凝成糖",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-starry-love"
+      }
+    }
+  }
+}

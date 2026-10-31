@@ -1,0 +1,13 @@
+{
+  "tmdb": 219713,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的老板为何那样",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-me-like-i-do"
+      }
+    }
+  }
+}

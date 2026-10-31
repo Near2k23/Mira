@@ -1,0 +1,13 @@
+{
+  "tmdb": 219527,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "公子贵姓",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hello-there"
+      }
+    }
+  }
+}

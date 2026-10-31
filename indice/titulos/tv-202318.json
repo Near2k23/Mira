@@ -1,0 +1,13 @@
+{
+  "tmdb": 202318,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Curso Intensivo de Amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crash-course-in-romance"
+      }
+    }
+  }
+}

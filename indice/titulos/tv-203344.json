@@ -1,0 +1,13 @@
+{
+  "tmdb": 203344,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pandora: bajo el paraíso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pandora-beneath-the-paradise"
+      }
+    }
+  }
+}

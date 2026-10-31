@@ -1,0 +1,13 @@
+{
+  "tmdb": 119480,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ももいろ あんずいろ さくらいろ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "color-of-romance"
+      }
+    }
+  }
+}

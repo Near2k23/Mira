@@ -1,0 +1,13 @@
+{
+  "tmdb": 158017,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Algún día seré la novia de alguien",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tomorrow-ill-be-someones-girlfriend"
+      }
+    }
+  }
+}

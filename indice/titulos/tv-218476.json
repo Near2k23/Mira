@@ -1,0 +1,13 @@
+{
+  "tmdb": 218476,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나는 신이다: 신이 배신한 사람들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-the-name-of-god-a-holy-betrayal"
+      }
+    }
+  }
+}
