@@ -1,0 +1,13 @@
+{
+  "tmdb": 72396,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "최강 배달꾼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "strongest-deliveryman"
+      }
+    }
+  }
+}

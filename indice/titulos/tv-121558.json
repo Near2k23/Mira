@@ -1,0 +1,13 @@
+{
+  "tmdb": 121558,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La dulce sangre",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sweet-blood"
+      }
+    }
+  }
+}

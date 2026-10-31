@@ -1,0 +1,13 @@
+{
+  "tmdb": 68666,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Padre, yo cuidaré de ti",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "father-ill-take-care-of-you"
+      }
+    }
+  }
+}

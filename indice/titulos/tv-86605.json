@@ -1,0 +1,15 @@
+{
+  "tmdb": 86605,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Well-Intended Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "well-intended-love",
+        "2": "well-intended-love"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

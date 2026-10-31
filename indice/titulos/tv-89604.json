@@ -1,0 +1,14 @@
+{
+  "tmdb": 89604,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Una noche de primavera",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-spring-night"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

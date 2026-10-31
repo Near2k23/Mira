@@ -1,0 +1,14 @@
+{
+  "tmdb": 114036,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "王牌辯護人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wacko-at-law"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 15 de 30 episodios"
+}

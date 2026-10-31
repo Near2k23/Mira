@@ -1,0 +1,13 @@
+{
+  "tmdb": 119464,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Navillera",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "navillera"
+      }
+    }
+  }
+}

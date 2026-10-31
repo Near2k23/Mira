@@ -1,0 +1,13 @@
+{
+  "tmdb": 113624,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "조선구마사",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "joseon-exorcist"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 120199,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Rattan",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rattan"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 36 y TMDB tiene 30; no verificada"
+}

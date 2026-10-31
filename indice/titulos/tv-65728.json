@@ -1,0 +1,13 @@
+{
+  "tmdb": 65728,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Contrato Matrimonial",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "marriage-contract"
+      }
+    }
+  }
+}

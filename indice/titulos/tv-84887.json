@@ -1,0 +1,13 @@
+{
+  "tmdb": 84887,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "时光教会我爱你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "time-teaches-me-to-love"
+      }
+    }
+  }
+}

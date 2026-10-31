@@ -1,0 +1,13 @@
+{
+  "tmdb": 88067,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夜空中最闪亮的星",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-brightest-star-in-the-sky"
+      }
+    }
+  }
+}

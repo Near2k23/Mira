@@ -1,0 +1,13 @@
+{
+  "tmdb": 99875,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "또한번 엔딩",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ending-again"
+      }
+    }
+  }
+}

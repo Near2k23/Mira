@@ -1,0 +1,13 @@
+{
+  "tmdb": 120898,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "경로를 이탈하였습니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "drama-festa-off-the-course"
+      }
+    }
+  }
+}

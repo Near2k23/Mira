@@ -1,0 +1,15 @@
+{
+  "tmdb": 116175,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "We Best Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "we-best-love",
+        "2": "we-best-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 7 y TMDB tiene 6; no verificada"
+}

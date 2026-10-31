@@ -1,0 +1,13 @@
+{
+  "tmdb": 64529,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Polos opuestos se atraen",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "high-end-crush"
+      }
+    }
+  }
+}

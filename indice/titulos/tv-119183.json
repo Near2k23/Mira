@@ -1,0 +1,15 @@
+{
+  "tmdb": 119183,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나는 차였어",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "64ky64quioywqoyygoywta",
+        "2": "64ky64quioywqoyygoywta"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 7 de 8 episodios. T2: el sitio tiene 4 de 8 episodios. multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

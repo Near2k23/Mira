@@ -1,0 +1,13 @@
+{
+  "tmdb": 117476,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "正青春",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fighting-youth"
+      }
+    }
+  }
+}
