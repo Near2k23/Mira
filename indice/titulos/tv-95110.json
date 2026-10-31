@@ -1,0 +1,13 @@
+{
+  "tmdb": 95110,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hienas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hyena"
+      }
+    }
+  }
+}

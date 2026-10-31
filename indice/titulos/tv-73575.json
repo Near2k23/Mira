@@ -1,0 +1,13 @@
+{
+  "tmdb": 73575,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑의 온도",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "temperature-of-love"
+      }
+    }
+  }
+}

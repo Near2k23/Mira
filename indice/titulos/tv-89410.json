@@ -1,0 +1,13 @@
+{
+  "tmdb": 89410,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Buscar WWW",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "search-www"
+      }
+    }
+  }
+}

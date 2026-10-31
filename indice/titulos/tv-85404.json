@@ -1,0 +1,13 @@
+{
+  "tmdb": 85404,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un lugar en tu corazón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "touch-your-heart"
+      }
+    }
+  }
+}

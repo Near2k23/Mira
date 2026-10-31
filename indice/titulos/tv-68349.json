@@ -1,0 +1,13 @@
+{
+  "tmdb": 68349,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Hada del Levantamiento de Pesas, Kim Bok-joo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "weightlifting-fairy-kim-bok-joo"
+      }
+    }
+  }
+}

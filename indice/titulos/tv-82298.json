@@ -1,0 +1,13 @@
+{
+  "tmdb": 82298,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Donde Las Estrellas Aterrizan",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "where-stars-land"
+      }
+    }
+  }
+}

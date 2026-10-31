@@ -1,0 +1,13 @@
+{
+  "tmdb": 44550,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Eun y Sus Tres Chicos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flower-boy-ramen-shop"
+      }
+    }
+  }
+}

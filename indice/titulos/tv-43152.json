@@ -1,0 +1,13 @@
+{
+  "tmdb": 43152,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El príncipe de la azotea",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rooftop-prince"
+      }
+    }
+  }
+}

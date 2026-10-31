@@ -1,0 +1,13 @@
+{
+  "tmdb": 62863,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Alta Sociedad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "high-society"
+      }
+    }
+  }
+}

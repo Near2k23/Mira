@@ -1,0 +1,14 @@
+{
+  "tmdb": 101906,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "영혼수선공",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fix-you"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

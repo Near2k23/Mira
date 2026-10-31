@@ -1,0 +1,13 @@
+{
+  "tmdb": 63311,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Yong Pal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yong-pal"
+      }
+    }
+  }
+}

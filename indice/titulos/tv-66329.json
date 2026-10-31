@@ -1,0 +1,13 @@
+{
+  "tmdb": 66329,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Doctores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctors"
+      }
+    }
+  }
+}

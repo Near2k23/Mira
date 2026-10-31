@@ -1,0 +1,13 @@
+{
+  "tmdb": 64061,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "풍선껌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bubblegum"
+      }
+    }
+  }
+}

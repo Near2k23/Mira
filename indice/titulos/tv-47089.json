@@ -1,0 +1,13 @@
+{
+  "tmdb": 47089,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나인: 아홉번의 시간여행",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nine-nine-time-travels"
+      }
+    }
+  }
+}

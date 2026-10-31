@@ -1,0 +1,13 @@
+{
+  "tmdb": 78060,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "시를 잊은 그대에게",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-poem-a-day"
+      }
+    }
+  }
+}

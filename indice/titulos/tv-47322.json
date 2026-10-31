@@ -1,0 +1,13 @@
+{
+  "tmdb": 47322,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "장옥정, 사랑에 살다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jang-ok-jung-living-by-love"
+      }
+    }
+  }
+}

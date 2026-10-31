@@ -1,0 +1,13 @@
+{
+  "tmdb": 61678,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Vida incompleta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "incomplete-life"
+      }
+    }
+  }
+}

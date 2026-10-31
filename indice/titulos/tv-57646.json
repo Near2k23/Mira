@@ -1,0 +1,13 @@
+{
+  "tmdb": 57646,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "주군의 태양",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "masters-sun"
+      }
+    }
+  }
+}

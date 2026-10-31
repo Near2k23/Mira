@@ -1,0 +1,13 @@
+{
+  "tmdb": 83303,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "시간이 멈추는 그 때",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-time-stopped"
+      }
+    }
+  }
+}

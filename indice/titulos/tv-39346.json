@@ -1,0 +1,13 @@
+{
+  "tmdb": 39346,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "시티헌터",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "city-hunter"
+      }
+    }
+  }
+}

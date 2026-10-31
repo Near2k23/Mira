@@ -1,0 +1,13 @@
+{
+  "tmdb": 33544,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi novia es una gumiho",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-girlfriend-is-a-gumiho"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 61890,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hyde, Jekyll, yo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hyde-jekyll-me"
+      }
+    }
+  }
+}

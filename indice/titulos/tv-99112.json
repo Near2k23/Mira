@@ -1,0 +1,13 @@
+{
+  "tmdb": 99112,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "반의 반",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-piece-of-your-mind"
+      }
+    }
+  }
+}

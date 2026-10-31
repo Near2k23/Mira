@@ -1,0 +1,13 @@
+{
+  "tmdb": 61170,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "잉여공주",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "idle-mermaid"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 5279,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Educando a la Princesa",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "princess-hours"
+      }
+    }
+  }
+}

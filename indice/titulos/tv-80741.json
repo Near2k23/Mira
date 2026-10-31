@@ -1,0 +1,13 @@
+{
+  "tmdb": 80741,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La esposa que conozco",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "familiar-wife"
+      }
+    }
+  }
+}

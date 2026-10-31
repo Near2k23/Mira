@@ -1,0 +1,13 @@
+{
+  "tmdb": 66431,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi hermosa Gong Shim",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-fair-lady-kong-shim"
+      }
+    }
+  }
+}

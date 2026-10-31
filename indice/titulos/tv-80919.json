@@ -1,0 +1,13 @@
+{
+  "tmdb": 80919,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Still 17",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "thirty-but-seventeen"
+      }
+    }
+  }
+}

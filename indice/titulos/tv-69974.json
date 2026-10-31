@@ -1,0 +1,13 @@
+{
+  "tmdb": 69974,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "귓속말",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "whisper"
+      }
+    }
+  }
+}

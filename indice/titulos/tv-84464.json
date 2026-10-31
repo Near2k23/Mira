@@ -1,0 +1,13 @@
+{
+  "tmdb": 84464,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "복수가 돌아왔다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-strange-hero"
+      }
+    }
+  }
+}

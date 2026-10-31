@@ -1,0 +1,13 @@
+{
+  "tmdb": 93846,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El rey: Eterno monarca",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-king-eternal-monarch"
+      }
+    }
+  }
+}

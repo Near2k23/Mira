@@ -1,0 +1,13 @@
+{
+  "tmdb": 94615,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "유령을 잡아라",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "catch-the-ghost"
+      }
+    }
+  }
+}

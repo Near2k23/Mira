@@ -1,0 +1,13 @@
+{
+  "tmdb": 47007,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아름다운 그대에게",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-the-beautiful-you"
+      }
+    }
+  }
+}

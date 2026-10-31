@@ -1,0 +1,13 @@
+{
+  "tmdb": 39261,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Miénteme",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lie-to-me"
+      }
+    }
+  }
+}

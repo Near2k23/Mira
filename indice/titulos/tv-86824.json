@@ -1,0 +1,13 @@
+{
+  "tmdb": 86824,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Designated Survivor: 60 días",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "designated-survivor-60-days"
+      }
+    }
+  }
+}

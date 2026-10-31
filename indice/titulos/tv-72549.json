@@ -1,0 +1,13 @@
+{
+  "tmdb": 72549,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "En el mundo de nuevo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reunited-worlds"
+      }
+    }
+  }
+}

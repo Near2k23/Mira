@@ -1,0 +1,13 @@
+{
+  "tmdb": 63767,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ella Era Bonita",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "she-was-pretty"
+      }
+    }
+  }
+}

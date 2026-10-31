@@ -1,0 +1,13 @@
+{
+  "tmdb": 78797,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Wok of Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wok-of-love"
+      }
+    }
+  }
+}

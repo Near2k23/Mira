@@ -1,0 +1,14 @@
+{
+  "tmdb": 88783,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi adorable secretaria",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-secret-life-of-my-secretary"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

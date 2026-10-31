@@ -1,0 +1,13 @@
+{
+  "tmdb": 54477,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La voz de tu amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-hear-your-voice"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 81332,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Encantadoramente terrible",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lovely-horribly"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

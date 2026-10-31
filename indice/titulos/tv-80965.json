@@ -1,0 +1,13 @@
+{
+  "tmdb": 80965,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor de bruja",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "witchs-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 77319,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "그남자 오수",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "evergreen"
+      }
+    }
+  }
+}

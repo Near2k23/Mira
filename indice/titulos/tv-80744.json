@@ -1,0 +1,13 @@
+{
+  "tmdb": 80744,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "투제니",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-jenny"
+      }
+    }
+  }
+}
