@@ -1,0 +1,13 @@
+{
+  "tmdb": 270719,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "掌中雀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sadistic-love"
+      }
+    }
+  }
+}

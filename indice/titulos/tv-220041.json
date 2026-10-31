@@ -1,0 +1,13 @@
+{
+  "tmdb": 220041,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "2반 이희수",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heesu-in-class-2"
+      }
+    }
+  }
+}

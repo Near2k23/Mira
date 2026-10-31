@@ -1,0 +1,13 @@
+{
+  "tmdb": 237327,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เลือดนายลมหายใจฉัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-golden-blood"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 282792,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Dalah: Flores y muerte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dalah-death-and-the-flowers"
+      }
+    }
+  }
+}

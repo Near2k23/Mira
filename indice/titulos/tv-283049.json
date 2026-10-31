@@ -1,0 +1,13 @@
+{
+  "tmdb": 283049,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春风燃情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spring-burning"
+      }
+    }
+  }
+}

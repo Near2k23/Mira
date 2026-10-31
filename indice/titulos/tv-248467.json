@@ -1,0 +1,13 @@
+{
+  "tmdb": 248467,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อาหารมื้อสุดท้ายก่อนโลกกลายเป็นทางด่วนอวกาศ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "last-meal-universe"
+      }
+    }
+  }
+}

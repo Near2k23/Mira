@@ -1,0 +1,13 @@
+{
+  "tmdb": 233961,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "北上",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "northward"
+      }
+    }
+  }
+}

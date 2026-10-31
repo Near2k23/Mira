@@ -1,0 +1,13 @@
+{
+  "tmdb": 285872,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El comedor de Heo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heos-diner"
+      }
+    }
+  }
+}

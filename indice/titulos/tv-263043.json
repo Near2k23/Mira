@@ -1,0 +1,13 @@
+{
+  "tmdb": 263043,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "似锦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "si-jin"
+      }
+    }
+  }
+}

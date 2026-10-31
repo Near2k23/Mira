@@ -1,0 +1,13 @@
+{
+  "tmdb": 282910,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "危险替身",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-other-me"
+      }
+    }
+  }
+}

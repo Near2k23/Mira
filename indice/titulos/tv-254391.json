@@ -1,0 +1,13 @@
+{
+  "tmdb": 254391,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en el laboratorio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-potato-lab"
+      }
+    }
+  }
+}

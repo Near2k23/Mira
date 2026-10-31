@@ -1,0 +1,13 @@
+{
+  "tmdb": 274048,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "佔有姜西",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "grab-your-love"
+      }
+    }
+  }
+}

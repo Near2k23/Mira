@@ -1,0 +1,14 @@
+{
+  "tmdb": 283300,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "빌런의 나라",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "villains-everywhere"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 24 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 257782,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "雁回时",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-glory-2025"
+      }
+    }
+  }
+}

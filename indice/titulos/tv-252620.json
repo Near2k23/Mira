@@ -1,0 +1,13 @@
+{
+  "tmdb": 252620,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แฟนที่ทันตแพทย์ส่วนใหญ่แนะนำ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-tooth-good-dentist"
+      }
+    }
+  }
+}

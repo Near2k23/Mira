@@ -1,0 +1,13 @@
+{
+  "tmdb": 283020,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ฤดูหลงป่า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lost-in-the-woods"
+      }
+    }
+  }
+}

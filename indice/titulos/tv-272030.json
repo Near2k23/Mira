@@ -1,0 +1,13 @@
+{
+  "tmdb": 272030,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的差评女友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-quirky-and-the-charming"
+      }
+    }
+  }
+}

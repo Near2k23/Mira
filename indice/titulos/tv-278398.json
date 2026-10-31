@@ -1,0 +1,13 @@
+{
+  "tmdb": 278398,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "白日梦与她",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wanna-be"
+      }
+    }
+  }
+}

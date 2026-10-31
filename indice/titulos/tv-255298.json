@@ -1,0 +1,13 @@
+{
+  "tmdb": 255298,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "협상의 기술",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-art-of-negotiation"
+      }
+    }
+  }
+}

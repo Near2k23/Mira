@@ -1,0 +1,13 @@
+{
+  "tmdb": 272714,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "仿妆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-behind-the-mask"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 270722,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "铁石心肠",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heart-of-stone"
+      }
+    }
+  }
+}

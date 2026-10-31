@@ -1,0 +1,13 @@
+{
+  "tmdb": 247207,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "嘘，国王在冬眠",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ski-into-love"
+      }
+    }
+  }
+}
