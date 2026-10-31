@@ -1,6 +1,6 @@
 {
- "pagina": 19,
- "agregados": 516,
+ "pagina": 20,
+ "agregados": 543,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -32,6 +32,14 @@
   },
   {
    "id_o_slug": "100-era",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "my-fake-bride",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "alice-in-wonder-city",
    "motivo": "no existe en TMDB"
   }
  ],
@@ -129,7 +137,12 @@
   "tv-89604.json",
   "tv-86605.json",
   "tv-80538.json",
-  "tv-116175.json"
+  "tv-116175.json",
+  "tv-67014.json",
+  "tv-97948.json",
+  "tv-94814.json",
+  "tv-110316.json",
+  "tv-93975.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -694,6 +707,34 @@
   117279,
   121558,
   80538,
-  116175
+  116175,
+  116551,
+  104939,
+  119368,
+  117412,
+  61009,
+  53095,
+  120422,
+  87185,
+  117987,
+  67014,
+  97948,
+  110839,
+  119583,
+  94814,
+  121490,
+  90814,
+  62301,
+  72674,
+  110316,
+  79238,
+  63022,
+  92779,
+  91902,
+  122111,
+  99497,
+  85420,
+  93975,
+  104431
  ]
 }

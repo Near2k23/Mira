@@ -1,0 +1,13 @@
+{
+  "tmdb": 99497,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "굿캐스팅",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "good-casting"
+      }
+    }
+  }
+}

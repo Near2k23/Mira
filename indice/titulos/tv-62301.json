@@ -1,0 +1,13 @@
+{
+  "tmdb": 62301,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La chica que ve olores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sensory-couple"
+      }
+    }
+  }
+}

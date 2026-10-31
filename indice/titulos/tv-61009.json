@@ -1,0 +1,13 @@
+{
+  "tmdb": 61009,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "호텔킹",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hotel-king"
+      }
+    }
+  }
+}

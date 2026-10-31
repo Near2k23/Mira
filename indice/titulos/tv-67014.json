@@ -1,0 +1,15 @@
+{
+  "tmdb": 67014,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hello, My Twenties!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hello-my-twenties",
+        "2": "hello-my-twenties"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

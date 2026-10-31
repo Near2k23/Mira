@@ -1,0 +1,14 @@
+{
+  "tmdb": 97948,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un caso incurable de amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-will-last-forever"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Love Will Last Forever 2021) no coinciden con TMDB (恋はつづくよどこまでも 2020); se mantuvo el tmdb_id del sitio"
+}

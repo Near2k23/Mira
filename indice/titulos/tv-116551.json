@@ -1,0 +1,13 @@
+{
+  "tmdb": 116551,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "这个世界不看脸",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beauty-from-heart"
+      }
+    }
+  }
+}

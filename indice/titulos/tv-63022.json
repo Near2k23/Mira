@@ -1,0 +1,13 @@
+{
+  "tmdb": 63022,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마녀의 연애",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-witchs-romance"
+      }
+    }
+  }
+}

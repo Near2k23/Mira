@@ -1,0 +1,13 @@
+{
+  "tmdb": 120422,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "荣耀乒乓",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ping-pong-life"
+      }
+    }
+  }
+}

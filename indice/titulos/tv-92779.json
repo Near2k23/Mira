@@ -1,0 +1,13 @@
+{
+  "tmdb": 92779,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "外星女生柴小七",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-girlfriend-is-an-alien"
+      }
+    }
+  }
+}

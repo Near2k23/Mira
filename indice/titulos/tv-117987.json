@@ -1,0 +1,13 @@
+{
+  "tmdb": 117987,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你是我的城池营垒",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-my-hero"
+      }
+    }
+  }
+}

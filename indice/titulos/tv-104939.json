@@ -1,0 +1,13 @@
+{
+  "tmdb": 104939,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "奈何BOSS又如何",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "well-dominated-love"
+      }
+    }
+  }
+}

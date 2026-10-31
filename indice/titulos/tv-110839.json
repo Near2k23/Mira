@@ -1,0 +1,13 @@
+{
+  "tmdb": 110839,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "甜了青梅配竹马",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-first-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 85420,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "喜欢你时风好甜",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flipped"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 91902,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Familia elegante",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "graceful-family"
+      }
+    }
+  }
+}

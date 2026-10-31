@@ -1,0 +1,13 @@
+{
+  "tmdb": 119583,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "당신의 운명을 쓰고 있습니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "scripting-your-destiny"
+      }
+    }
+  }
+}

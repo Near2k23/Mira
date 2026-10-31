@@ -1,0 +1,13 @@
+{
+  "tmdb": 117412,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "썸타는 편의점",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "convenience-store-fling"
+      }
+    }
+  }
+}

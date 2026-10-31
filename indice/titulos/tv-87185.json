@@ -1,0 +1,13 @@
+{
+  "tmdb": 87185,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "킬잇",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kill-it"
+      }
+    }
+  }
+}

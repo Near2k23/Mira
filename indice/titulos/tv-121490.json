@@ -1,0 +1,13 @@
+{
+  "tmdb": 121490,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "恋恋小酒窝",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-love-with-your-dimples"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 53095,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "투윅스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "two-weeks"
+      }
+    }
+  }
+}

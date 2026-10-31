@@ -1,0 +1,13 @@
+{
+  "tmdb": 104431,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你是我的命中注定",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-my-destiny"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 79238,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "이리와 안아줘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "come-and-hug-me"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 93975,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "TharnType: The Series",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tharntype-the-series",
+        "2": "tharntype-the-series"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 14 y TMDB tiene 12; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 90814,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Extracurricular",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "extracurricular"
+      }
+    }
+  }
+}
