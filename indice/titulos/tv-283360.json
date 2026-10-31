@@ -1,0 +1,13 @@
+{
+  "tmdb": 283360,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Classic★Stars",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "classicstars"
+      }
+    }
+  }
+}

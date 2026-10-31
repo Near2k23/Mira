@@ -1,0 +1,13 @@
+{
+  "tmdb": 99073,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "I've Been Killing Slimes For 300 Years And Maxed Out My Level",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "slime-taoshite-300nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni"
+      }
+    }
+  }
+}

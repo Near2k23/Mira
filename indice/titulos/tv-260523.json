@@ -1,0 +1,13 @@
+{
+  "tmdb": 260523,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rock wa Lady no Tashinami Deshite",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rock-wa-lady-no-tashinami-deshite"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 279731,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "YOUR FORMA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "your-forma"
+      }
+    }
+  }
+}

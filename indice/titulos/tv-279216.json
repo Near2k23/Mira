@@ -1,0 +1,13 @@
+{
+  "tmdb": 279216,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Detective de la Mesa",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nazotoki-wa-dinner-no-ato-de"
+      }
+    }
+  }
+}

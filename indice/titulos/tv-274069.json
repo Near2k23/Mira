@@ -1,0 +1,13 @@
+{
+  "tmdb": 274069,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KOWLOON GENERIC ROMANCE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kowloon-generic-romance"
+      }
+    }
+  }
+}

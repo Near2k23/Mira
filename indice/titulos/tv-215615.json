@@ -1,0 +1,13 @@
+{
+  "tmdb": 215615,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "#COMPASS2.0 ANIMATION PROJECT",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "compass-20-sentou-setsuri-kaiseki-system"
+      }
+    }
+  }
+}

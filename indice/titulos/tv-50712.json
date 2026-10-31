@@ -1,0 +1,13 @@
+{
+  "tmdb": 50712,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Black Butler",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "5": "kuroshitsuji-midori-no-majohen"
+      }
+    }
+  }
+}

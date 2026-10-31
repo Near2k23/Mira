@@ -1,0 +1,13 @@
+{
+  "tmdb": 254853,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ZatsuTabi -That's Journey-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zatsu-tabi-thats-journey"
+      }
+    }
+  }
+}

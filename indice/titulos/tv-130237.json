@@ -1,0 +1,13 @@
+{
+  "tmdb": 130237,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aharen Is Indecipherable",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "aharensan-wa-hakarenai-season-2"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 271576,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Summer Pockets",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "summer-pockets"
+      }
+    }
+  }
+}

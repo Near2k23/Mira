@@ -1,0 +1,13 @@
+{
+  "tmdb": 254017,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "YAIBA: Samurai Legend",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shin-samuraiden-yaiba"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 282666,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "GUILTY GEAR STRIVE: DUAL RULERS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "guilty-gear-strive-dual-rulers"
+      }
+    }
+  }
+}

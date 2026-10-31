@@ -1,0 +1,13 @@
+{
+  "tmdb": 254174,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kakushite! Makina-san!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kakushite-makinasan"
+      }
+    }
+  }
+}

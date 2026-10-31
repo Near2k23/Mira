@@ -1,0 +1,13 @@
+{
+  "tmdb": 261868,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Witch Watch",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "witch-watch"
+      }
+    }
+  }
+}

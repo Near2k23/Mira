@@ -1,0 +1,13 @@
+{
+  "tmdb": 262700,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Umamusume: Cinderella Gray",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uma-musume-cinderella-gray"
+      }
+    }
+  }
+}
