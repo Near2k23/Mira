@@ -1,0 +1,13 @@
+{
+  "tmdb": 275302,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스타라이트보이즈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "starlight-boys"
+      }
+    }
+  }
+}

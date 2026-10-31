@@ -1,0 +1,13 @@
+{
+  "tmdb": 277908,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "유니버스 리그",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "universe-league"
+      }
+    }
+  }
+}

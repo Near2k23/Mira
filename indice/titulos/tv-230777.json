@@ -1,0 +1,13 @@
+{
+  "tmdb": 230777,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Una maleta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-trunk"
+      }
+    }
+  }
+}

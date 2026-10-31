@@ -1,0 +1,13 @@
+{
+  "tmdb": 258538,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "หยดฝนกลิ่นสนิม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "petrichor"
+      }
+    }
+  }
+}

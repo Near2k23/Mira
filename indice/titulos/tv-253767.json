@@ -1,0 +1,13 @@
+{
+  "tmdb": 253767,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "失笑",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "smile-code"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 276418,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "0교시는 인싸타임",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "social-savvy-class-101"
+      }
+    }
+  }
+}

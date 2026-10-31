@@ -1,0 +1,13 @@
+{
+  "tmdb": 275591,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "신데렐라 게임",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cinderella-game"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 242326,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "การุณยฆาต",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spare-me-your-mercy"
+      }
+    }
+  }
+}

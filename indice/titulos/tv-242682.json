@@ -1,0 +1,13 @@
+{
+  "tmdb": 242682,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "บอกกรงๆ...ว่ารักเธอ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "caged-again"
+      }
+    }
+  }
+}

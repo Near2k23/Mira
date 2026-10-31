@@ -1,0 +1,13 @@
+{
+  "tmdb": 276300,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "俏红娘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-fate-plays-matchmaker"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 276076,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "别动！自己人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-am-not-your-enemy"
+      }
+    }
+  }
+}

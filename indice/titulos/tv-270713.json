@@ -1,0 +1,14 @@
+{
+  "tmdb": 270713,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "探晴安",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dawn-amidst-hidden-clouds"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 22 de 23 episodios"
+}

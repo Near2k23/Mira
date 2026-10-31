@@ -1,0 +1,13 @@
+{
+  "tmdb": 218538,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "페이스 미",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "face-me"
+      }
+    }
+  }
+}

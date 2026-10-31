@@ -1,0 +1,15 @@
+{
+  "tmdb": 217746,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夜城赋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ye-cheng",
+        "2": "ye-cheng"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 17 y TMDB tiene 16; no verificada"
+}

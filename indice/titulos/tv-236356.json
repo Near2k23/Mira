@@ -1,0 +1,13 @@
+{
+  "tmdb": 236356,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "가족계획",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "family-plan"
+      }
+    }
+  }
+}

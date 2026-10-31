@@ -1,0 +1,13 @@
+{
+  "tmdb": 242378,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "RoOT/Route of OddTaxi",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "root-route-of-oddtaxi"
+      }
+    }
+  }
+}

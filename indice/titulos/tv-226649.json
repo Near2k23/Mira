@@ -1,0 +1,13 @@
+{
+  "tmdb": 226649,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El cuento de la dama Ok",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-tale-of-lady-ok"
+      }
+    }
+  }
+}

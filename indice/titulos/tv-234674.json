@@ -1,0 +1,13 @@
+{
+  "tmdb": 234674,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Más allá del adiós",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beyond-goodbye"
+      }
+    }
+  }
+}

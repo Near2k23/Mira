@@ -1,0 +1,13 @@
+{
+  "tmdb": 244377,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "【推しの子】",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oshinoko"
+      }
+    }
+  }
+}

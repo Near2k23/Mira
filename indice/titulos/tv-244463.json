@@ -1,0 +1,13 @@
+{
+  "tmdb": 244463,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑은 외나무다리에서",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-your-enemy"
+      }
+    }
+  }
+}

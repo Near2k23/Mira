@@ -1,0 +1,13 @@
+{
+  "tmdb": 270859,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "黑白森林",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "black-and-white-forest"
+      }
+    }
+  }
+}

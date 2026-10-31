@@ -1,0 +1,13 @@
+{
+  "tmdb": 276355,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "公子无双",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shameless-lover"
+      }
+    }
+  }
+}

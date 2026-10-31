@@ -1,0 +1,13 @@
+{
+  "tmdb": 236437,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "가석방 심사관 이한신",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "parole-examiner-lee"
+      }
+    }
+  }
+}

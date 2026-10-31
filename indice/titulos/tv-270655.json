@@ -1,0 +1,13 @@
+{
+  "tmdb": 270655,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "私たちが恋する理由",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-reason-we-fall-in-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 253029,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en fermentación",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "brewing-love"
+      }
+    }
+  }
+}

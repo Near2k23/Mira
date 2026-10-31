@@ -1,0 +1,13 @@
+{
+  "tmdb": 218631,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El lado oscuro de Gangnam",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gangnam-b-side"
+      }
+    }
+  }
+}

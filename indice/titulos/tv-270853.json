@@ -1,0 +1,13 @@
+{
+  "tmdb": 270853,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "不讨好的勇气",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "later-i-laughed"
+      }
+    }
+  }
+}

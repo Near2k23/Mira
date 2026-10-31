@@ -1,0 +1,13 @@
+{
+  "tmdb": 273137,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "南柯梦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fates-crossing-nan-and-ke"
+      }
+    }
+  }
+}

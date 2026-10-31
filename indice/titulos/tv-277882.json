@@ -1,0 +1,13 @@
+{
+  "tmdb": 277882,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "星辰令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "calling-from-the-galaxy"
+      }
+    }
+  }
+}

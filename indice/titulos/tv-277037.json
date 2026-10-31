@@ -1,0 +1,13 @@
+{
+  "tmdb": 277037,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一念常安",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "peace-and-love"
+      }
+    }
+  }
+}

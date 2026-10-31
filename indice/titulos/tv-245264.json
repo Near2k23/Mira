@@ -1,0 +1,13 @@
+{
+  "tmdb": 245264,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nacidas para brillar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "born-for-the-spotlight"
+      }
+    }
+  }
+}

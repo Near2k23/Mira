@@ -1,0 +1,13 @@
+{
+  "tmdb": 225243,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แสงส่องรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-luminous-solution"
+      }
+    }
+  }
+}

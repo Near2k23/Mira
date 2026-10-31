@@ -1,0 +1,13 @@
+{
+  "tmdb": 230448,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Sr. Plancton",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-plankton"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 260794,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "太陽星辰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "see-her-again"
+      }
+    }
+  }
+}

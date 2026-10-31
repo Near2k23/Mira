@@ -1,0 +1,13 @@
+{
+  "tmdb": 273139,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "坠落画境的你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "coming-for-you"
+      }
+    }
+  }
+}

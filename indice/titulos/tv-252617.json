@@ -1,0 +1,13 @@
+{
+  "tmdb": 252617,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เขาจ้างให้ผมจีบนักฆ่า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-heart-killers"
+      }
+    }
+  }
+}

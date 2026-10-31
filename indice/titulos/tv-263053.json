@@ -1,0 +1,13 @@
+{
+  "tmdb": 263053,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "双花镜",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dream-in-the-mirror"
+      }
+    }
+  }
+}
