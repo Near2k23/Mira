@@ -1,0 +1,13 @@
+{
+  "tmdb": 113252,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hush: Cállate",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hush"
+      }
+    }
+  }
+}

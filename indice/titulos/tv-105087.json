@@ -1,0 +1,13 @@
+{
+  "tmdb": 105087,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "99分女朋友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-girl-china"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 99651,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "三千鸦杀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-of-thousand-years"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 30 de 31 episodios"
+}

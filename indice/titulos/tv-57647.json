@@ -1,0 +1,13 @@
+{
+  "tmdb": 57647,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un Buen Doctor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "good-doctor"
+      }
+    }
+  }
+}

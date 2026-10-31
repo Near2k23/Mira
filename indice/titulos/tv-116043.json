@@ -1,0 +1,13 @@
+{
+  "tmdb": 116043,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "L.U.C.A.: The Beginning",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "luca-the-beginning"
+      }
+    }
+  }
+}

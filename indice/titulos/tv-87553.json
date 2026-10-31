@@ -1,0 +1,13 @@
+{
+  "tmdb": 87553,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Su vida privada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "her-private-life"
+      }
+    }
+  }
+}

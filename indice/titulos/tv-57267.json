@@ -1,0 +1,13 @@
+{
+  "tmdb": 57267,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "후아유",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "who-are-you"
+      }
+    }
+  }
+}

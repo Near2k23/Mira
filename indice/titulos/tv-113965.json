@@ -1,0 +1,13 @@
+{
+  "tmdb": 113965,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ella nunca lo sabrá",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "she-would-never-know"
+      }
+    }
+  }
+}

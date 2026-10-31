@@ -1,0 +1,13 @@
+{
+  "tmdb": 113240,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El amor es la meta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "run-on"
+      }
+    }
+  }
+}

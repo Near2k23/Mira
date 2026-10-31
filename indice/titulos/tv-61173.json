@@ -1,0 +1,13 @@
+{
+  "tmdb": 61173,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los tenemos rodeados",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-all-surrounded"
+      }
+    }
+  }
+}

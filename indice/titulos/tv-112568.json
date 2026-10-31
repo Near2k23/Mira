@@ -1,0 +1,13 @@
+{
+  "tmdb": 112568,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "제발 그 남자 만나지 마요",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "please-dont-date-him"
+      }
+    }
+  }
+}

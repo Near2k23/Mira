@@ -1,0 +1,13 @@
+{
+  "tmdb": 112706,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "바람피면 죽는다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cheat-on-me-if-you-can"
+      }
+    }
+  }
+}

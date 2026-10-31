@@ -1,0 +1,13 @@
+{
+  "tmdb": 118412,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "不可思议的爱情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-unexpected"
+      }
+    }
+  }
+}

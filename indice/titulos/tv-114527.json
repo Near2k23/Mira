@@ -1,0 +1,13 @@
+{
+  "tmdb": 114527,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "迷雾追踪",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-burning-river"
+      }
+    }
+  }
+}

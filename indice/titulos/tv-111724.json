@@ -1,0 +1,13 @@
+{
+  "tmdb": 111724,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "라이브온",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "live-on"
+      }
+    }
+  }
+}

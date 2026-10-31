@@ -1,0 +1,13 @@
+{
+  "tmdb": 114395,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un amor tan hermoso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-love-so-beautiful-corea"
+      }
+    }
+  }
+}

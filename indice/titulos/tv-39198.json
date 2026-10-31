@@ -1,0 +1,13 @@
+{
+  "tmdb": 39198,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Fibras Sensibles",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heartstrings"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 104686,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El restaurante Gaduri",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gaduri-restaurant"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 62511,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Quien Eres: Escuela 2015",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "who-are-you-school-2015"
+      }
+    }
+  }
+}

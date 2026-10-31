@@ -1,0 +1,13 @@
+{
+  "tmdb": 45579,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Luna Abraza al Sol",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-moon-embracing-the-sun"
+      }
+    }
+  }
+}

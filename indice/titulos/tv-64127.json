@@ -1,0 +1,13 @@
+{
+  "tmdb": 64127,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우리 옆집에 엑소가 산다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "exo-next-door"
+      }
+    }
+  }
+}

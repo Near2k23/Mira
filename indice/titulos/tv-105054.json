@@ -1,0 +1,14 @@
+{
+  "tmdb": 105054,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "在劫难逃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "light-on-series-sisyphus"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 11 de 12 episodios"
+}

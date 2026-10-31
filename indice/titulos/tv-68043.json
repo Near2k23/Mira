@@ -1,0 +1,14 @@
+{
+  "tmdb": 68043,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "亲爱的翻译官",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-interpreter"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 42 de 44 episodios"
+}

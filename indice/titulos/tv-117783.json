@@ -1,0 +1,14 @@
+{
+  "tmdb": 117783,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "러브씬넘버#",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-scene-number"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 4 de 8 episodios"
+}

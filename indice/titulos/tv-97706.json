@@ -1,0 +1,13 @@
+{
+  "tmdb": 97706,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "陈情令特別剪辑版",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-untamed-special-edition"
+      }
+    }
+  }
+}

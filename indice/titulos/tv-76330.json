@@ -1,0 +1,15 @@
+{
+  "tmdb": 76330,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nota de venganza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-revenge",
+        "2": "sweet-revenge"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 22 episodios. T2: el sitio tiene 16 de 32 episodios. multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}
