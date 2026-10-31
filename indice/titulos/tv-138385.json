@@ -1,0 +1,13 @@
+{
+  "tmdb": 138385,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "美しい彼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-beautiful-man"
+      }
+    }
+  }
+}

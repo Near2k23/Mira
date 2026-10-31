@@ -1,0 +1,13 @@
+{
+  "tmdb": 138055,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ใส่รักป้ายสี",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "paint-with-love"
+      }
+    }
+  }
+}

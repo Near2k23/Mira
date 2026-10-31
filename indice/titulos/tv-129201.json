@@ -1,0 +1,13 @@
+{
+  "tmdb": 129201,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "女心理师",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-psychologist"
+      }
+    }
+  }
+}

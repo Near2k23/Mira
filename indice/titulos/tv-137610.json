@@ -1,0 +1,13 @@
+{
+  "tmdb": 137610,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "心跳恋爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heartbeat-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 131552,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "谁是凶手",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "who-is-the-murderer"
+      }
+    }
+  }
+}

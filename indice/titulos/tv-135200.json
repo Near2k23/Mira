@@ -1,0 +1,14 @@
+{
+  "tmdb": 135200,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Crime Puzzle",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crime-puzzle"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 16 episodios"
+}

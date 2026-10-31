@@ -1,0 +1,13 @@
+{
+  "tmdb": 139307,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "陪你逐风飞翔",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-fly-with-you"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 134906,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nuevo Mundo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "new-world"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 135897,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Aquel año nuestro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-beloved-summer"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 130789,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "어느 날",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-ordinary-day"
+      }
+    }
+  }
+}

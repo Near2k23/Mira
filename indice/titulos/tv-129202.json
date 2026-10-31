@@ -1,0 +1,13 @@
+{
+  "tmdb": 129202,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "卿卿我心",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-heart"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 153177,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我是岁月你是星辰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-am-the-years-you-are-the-stars"
+      }
+    }
+  }
+}

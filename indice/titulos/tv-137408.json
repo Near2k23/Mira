@@ -1,0 +1,13 @@
+{
+  "tmdb": 137408,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "그림자 미녀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shadow-beauty"
+      }
+    }
+  }
+}

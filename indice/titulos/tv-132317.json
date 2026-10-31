@@ -1,0 +1,13 @@
+{
+  "tmdb": 132317,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mentir para vivir",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lie-to-love"
+      }
+    }
+  }
+}

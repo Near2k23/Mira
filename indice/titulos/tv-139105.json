@@ -1,0 +1,13 @@
+{
+  "tmdb": 139105,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Game Rak Salap Miti - Switch on",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "switch-on"
+      }
+    }
+  }
+}

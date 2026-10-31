@@ -1,0 +1,14 @@
+{
+  "tmdb": 136238,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "방과후 설렘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-teenage-girl"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (null) no coincidía; se usó 136238 buscando por nombre y año"
+}

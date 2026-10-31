@@ -1,6 +1,6 @@
 {
- "pagina": 30,
- "agregados": 816,
+ "pagina": 31,
+ "agregados": 843,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -109,6 +109,14 @@
   {
    "id_o_slug": "tv-130652",
    "motivo": "validar falló: ERROR indice/titulos/tv-130652.json: sitio \"doramasflix\" slug \"Me-fall-in-love\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "part-time-mello",
+   "motivo": "otra tarea: serie (país )"
+  },
+  {
+   "id_o_slug": "girl-the-palace",
+   "motivo": "otra tarea: serie (país US)"
   }
  ],
  "notas": [
@@ -262,7 +270,13 @@
   "tv-238915.json",
   "tv-138221.json",
   "tv-138512.json",
-  "tv-137620.json"
+  "tv-137620.json",
+  "tv-106651.json",
+  "tv-16698.json",
+  "tv-139491.json",
+  "tv-136238.json",
+  "tv-135687.json",
+  "tv-135200.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1139,6 +1153,34 @@
   137620,
   135685,
   138746,
-  137467
+  137467,
+  106651,
+  90344,
+  137408,
+  139105,
+  139307,
+  134906,
+  97765,
+  16698,
+  129201,
+  137610,
+  139491,
+  132317,
+  138385,
+  130789,
+  136238,
+  131552,
+  138055,
+  102938,
+  129127,
+  153177,
+  135687,
+  135897,
+  129202,
+  153378,
+  135200,
+  135605,
+  138947,
+  122015
  ]
 }

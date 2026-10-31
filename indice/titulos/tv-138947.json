@@ -1,0 +1,13 @@
+{
+  "tmdb": 138947,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ciudad artificial",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "artificial-city"
+      }
+    }
+  }
+}

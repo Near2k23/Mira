@@ -1,0 +1,13 @@
+{
+  "tmdb": 90344,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "U-PRINCE Series",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "u-prince-the-series-the-handsome-cowboy"
+      }
+    }
+  }
+}

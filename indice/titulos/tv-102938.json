@@ -1,0 +1,13 @@
+{
+  "tmdb": 102938,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "소녀의 세계",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-world-of-my-17"
+      }
+    }
+  }
+}

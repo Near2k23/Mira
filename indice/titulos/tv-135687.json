@@ -1,0 +1,14 @@
+{
+  "tmdb": 135687,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Usuario no encontrado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "user-not-found"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 23 y TMDB tiene 22; no verificada"
+}

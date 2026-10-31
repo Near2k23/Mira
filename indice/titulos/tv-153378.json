@@ -1,0 +1,13 @@
+{
+  "tmdb": 153378,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "F4 Thailand: Boys Over Flowers",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "f4-thailand-boys-over-flowers"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 97765,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "School 2021",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "school-2021"
+      }
+    }
+  }
+}
