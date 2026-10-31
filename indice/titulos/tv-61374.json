@@ -1,0 +1,23 @@
+{
+  "tmdb": 61374,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tokyo Ghoul",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tokyo-ghoul",
+        "2": "tokyo-ghoul-a",
+        "3": "tokyo-ghoulre",
+        "4": "tokyo-ghoulre-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tokyo-ghoul",
+        "3": "tokyo-ghoulre",
+        "4": "tokyo-ghoulre-2nd-season"
+      }
+    }
+  }
+}

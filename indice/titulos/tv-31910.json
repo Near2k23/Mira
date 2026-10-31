@@ -1,0 +1,20 @@
+{
+  "tmdb": 31910,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Naruto Shippuden",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "naruto-shippuuden"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "naruto-shippuden-hd"
+      }
+    }
+  }
+}

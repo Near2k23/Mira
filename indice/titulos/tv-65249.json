@@ -1,0 +1,18 @@
+{
+  "tmdb": 65249,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boku dake ga Inai Machi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "boku-dake-ga-inai-machi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "boku-dake-ga-inai-machi"
+      }
+    }
+  }
+}

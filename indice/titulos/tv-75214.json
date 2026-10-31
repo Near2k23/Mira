@@ -1,0 +1,13 @@
+{
+  "tmdb": 75214,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Violet Evergarden",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "violet-evergarden"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tmdb": 83121,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kaguya-sama-season-1",
+        "2": "kaguya-sama-season-2",
+        "3": "kaguya-sama-season-3"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kaguyasama-wa-kokurasetai-tensaitachi-no-renai-zunousen",
+        "3": "kaguyasama-wa-kokurasetai-ultra-romantic"
+      }
+    }
+  }
+}

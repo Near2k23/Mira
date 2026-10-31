@@ -1,0 +1,26 @@
+{
+  "tmdb": 38464,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ao no Exorcist",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ao-no-exorcist",
+        "2": "ao-no-exorcist-kyoto-fujouou-hen",
+        "3": "ao-no-exorcist-shimane-illuminati-hen",
+        "4": "ao-no-exorcist-yuki-no-hate-hen",
+        "5": "ao-no-exorcist-yosuga-hen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ao-no-exorcist",
+        "2": "ao-no-exorcist-kyoto-fujouou-hen",
+        "3": "ao-no-exorcist-shimane-illuminatihen",
+        "4": "ao-no-exorcist-yuki-no-hatehen",
+        "5": "ao-no-exorcist-yosugahen"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "tmdb": 45782,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sword Art Online",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "sword-art-online",
+        "2": "sword-art-online-ii",
+        "3": "sword-art-online-alicization",
+        "4": "sword-art-online-alicization-war-of-underworld"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "sword-art-online",
+        "2": "sword-art-online-2",
+        "3": "sword-art-online-alicization",
+        "4": "sword-art-online-alicization-war-of-underworld"
+      }
+    }
+  }
+}

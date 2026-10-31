@@ -1,0 +1,30 @@
+{
+  "tmdb": 45790,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "JoJo's Bizarre Adventure The Animation",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "jojo-no-kimyou-na-bouken-tv",
+        "2": [
+          {
+            "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders",
+            "episodios": 24
+          },
+          {
+            "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-egypt-hen"
+          }
+        ],
+        "3": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
+        "4": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "3": "jojo-no-kimyou-na-bouken-diamond-wa-kudakenai",
+        "4": "jojo-no-kimyou-na-bouken-ougon-no-kaze"
+      }
+    }
+  }
+}

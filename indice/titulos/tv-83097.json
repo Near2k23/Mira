@@ -1,0 +1,20 @@
+{
+  "tmdb": 83097,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yakusoku no Neverland",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yakusoku-no-neverland",
+        "2": "yakusoku-no-neverland-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yakusoku-no-neverland",
+        "2": "yakusoku-no-neverland-2nd-season"
+      }
+    }
+  }
+}

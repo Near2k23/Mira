@@ -1,0 +1,23 @@
+{
+  "tmdb": 62104,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nanatsu no Taizai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "nanatsu-no-taizai",
+        "2": "nanatsu-no-taizai-imashime-no-fukkatsu",
+        "3": "nanatsu-no-taizai-kamigami-no-gekirin",
+        "4": "nanatsu-no-taizai-funnu-no-shinpan"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "nanatsu-no-taizai-imashime-no-fukkatsu",
+        "3": "nanatsu-no-taizai-kamigami-no-gekirin",
+        "4": "nanatsu-no-taizai-fundo-no-shinpan"
+      }
+    }
+  }
+}

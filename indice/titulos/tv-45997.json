@@ -1,0 +1,20 @@
+{
+  "tmdb": 45997,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hataraku Maou-sama!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hataraku-maou-sama",
+        "2": "hataraku-maou-sama-2nd"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hataraku-maou-sama",
+        "2": "hataraku-maousama"
+      }
+    }
+  }
+}

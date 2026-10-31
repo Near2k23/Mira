@@ -1,0 +1,18 @@
+{
+  "tmdb": 42671,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Elfen Lied",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "elfen-lied"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "elfen-lied"
+      }
+    }
+  }
+}

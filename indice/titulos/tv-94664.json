@@ -1,0 +1,19 @@
+{
+  "tmdb": 94664,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mushoku-tensei-isekai-ittara-honki-dasu",
+        "2": "mushoku-tensei-ii-isekai-ittara-honki-dasu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "mushoku-tensei-ii-isekai-ittara-honki-dasu"
+      }
+    }
+  }
+}

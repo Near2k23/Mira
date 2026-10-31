@@ -1,0 +1,18 @@
+{
+  "tmdb": 56998,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Highschool of the Dead",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "highschool-of-the-dead"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "highschool-of-the-dead"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 890,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shinseiki Evangelion",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shinseiki-evangelion"
+      }
+    }
+  }
+}

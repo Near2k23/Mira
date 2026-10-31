@@ -1,0 +1,20 @@
+{
+  "tmdb": 88803,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Vinland Saga",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "vinland-saga",
+        "2": "vinland-saga-season-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "vinland-saga",
+        "2": "vinland-saga-season-2"
+      }
+    }
+  }
+}

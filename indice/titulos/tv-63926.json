@@ -1,0 +1,22 @@
+{
+  "tmdb": 63926,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "One Punch Man",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "one-punch-man",
+        "2": "one-punch-man-2nd-season",
+        "3": "one-punch-man-3"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "one-punch-man",
+        "2": "one-punch-man-2nd-season",
+        "3": "one-punch-man-3"
+      }
+    }
+  }
+}

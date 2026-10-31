@@ -1,0 +1,18 @@
+{
+  "tmdb": 13916,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Death Note",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "death-note"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "death-note"
+      }
+    }
+  }
+}

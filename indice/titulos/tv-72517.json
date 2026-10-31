@@ -1,0 +1,24 @@
+{
+  "tmdb": 72517,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e",
+        "2": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season",
+        "3": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
+        "4": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv",
+        "2": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season",
+        "3": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
+        "4": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season"
+      }
+    }
+  }
+}

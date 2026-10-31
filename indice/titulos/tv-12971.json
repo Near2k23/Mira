@@ -1,0 +1,20 @@
+{
+  "tmdb": 12971,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragon Ball Z",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "dragon-ball-z"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "dragon-ball-z"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 46671,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mirai Nikki (TV)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mirai-nikki-tv"
+      }
+    }
+  }
+}

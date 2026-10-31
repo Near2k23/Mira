@@ -1,0 +1,18 @@
+{
+  "tmdb": 61223,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akame ga Kill!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "akame-ga-kill"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "akame-ga-kill"
+      }
+    }
+  }
+}

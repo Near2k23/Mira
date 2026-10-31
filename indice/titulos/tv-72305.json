@@ -1,0 +1,19 @@
+{
+  "tmdb": 72305,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kakegurui",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kakegurui-s1",
+        "2": "kakegurui-s2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kakegurui"
+      }
+    }
+  }
+}

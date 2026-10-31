@@ -1,0 +1,18 @@
+{
+  "tmdb": 31911,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fullmetal Alchemist: Brotherhood",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "fullmetal-alchemist-brotherhood"
+      }
+    }
+  }
+}

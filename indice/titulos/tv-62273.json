@@ -1,0 +1,19 @@
+{
+  "tmdb": 62273,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shokugeki no Souma",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shokugeki-no-souma",
+        "2": "shokugeki-no-souma-ni-no-sara"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "shokugeki-no-souma-ni-no-sara"
+      }
+    }
+  }
+}

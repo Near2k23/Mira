@@ -1,0 +1,18 @@
+{
+  "tmdb": 61901,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Death Parade",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "death-parade"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "death-parade"
+      }
+    }
+  }
+}

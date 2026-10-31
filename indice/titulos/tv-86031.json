@@ -1,0 +1,21 @@
+{
+  "tmdb": 86031,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dr. Stone",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dr-stone",
+        "2": "dr-stone-stone-wars",
+        "3": "dr-stone-new-world"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dr-stone",
+        "3": "dr-stone-new-world"
+      }
+    }
+  }
+}

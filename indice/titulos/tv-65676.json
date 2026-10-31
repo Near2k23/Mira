@@ -1,0 +1,22 @@
+{
+  "tmdb": 65676,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru",
+        "2": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku",
+        "3": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yahari-ore-no-seishun-love-come-wa-machigatteiru",
+        "2": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku",
+        "3": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan"
+      }
+    }
+  }
+}

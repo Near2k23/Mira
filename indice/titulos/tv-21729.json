@@ -1,0 +1,18 @@
+{
+  "tmdb": 21729,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tengen Toppa Gurren Lagann",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tengen-toppa-gurren-lagann"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tengen-toppa"
+      }
+    }
+  }
+}

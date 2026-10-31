@@ -1,0 +1,18 @@
+{
+  "tmdb": 39434,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ano-hana"
+      }
+    }
+  }
+}

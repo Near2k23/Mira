@@ -1,0 +1,14 @@
+{
+  "tmdb": 82684,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tensei shitara Slime Datta Ken",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tensei-shitara-slime-datta-ken",
+        "2": "tensei-shitara-slime-datta-ken-2nd-season"
+      }
+    }
+  }
+}

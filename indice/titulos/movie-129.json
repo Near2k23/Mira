@@ -1,0 +1,14 @@
+{
+  "tmdb": 129,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Sen to Chihiro no Kamikakushi",
+  "fuentes": {
+    "animeav1": {
+      "slug": "sen-to-chihiro-no-kamikakushi"
+    },
+    "tioanime": {
+      "slug": "sen-to-chihiro-no-kamikakushi"
+    }
+  }
+}

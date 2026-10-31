@@ -1,0 +1,18 @@
+{
+  "tmdb": 30991,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cowboy Bebop",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "cowboy-bebop"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "cowboy-bebop"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 31724,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Code Geass: Hangyaku no Lelouch",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "code-geass-hangyaku-no-lelouch",
+        "2": "code-geass-hangyaku-no-lelouch-r2"
+      }
+    }
+  }
+}

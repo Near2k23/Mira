@@ -1,0 +1,18 @@
+{
+  "tmdb": 37305,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Soul Eater",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "soul-eater"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "soul-eater"
+      }
+    }
+  }
+}

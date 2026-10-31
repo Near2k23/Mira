@@ -1,0 +1,13 @@
+{
+  "tmdb": 42942,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Angel Beats!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "angel-beats"
+      }
+    }
+  }
+}

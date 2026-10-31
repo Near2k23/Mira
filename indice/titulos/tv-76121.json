@@ -1,0 +1,18 @@
+{
+  "tmdb": 76121,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Darling in the FranXX",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "darling-in-the-franxx"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "darling-in-the-franxx"
+      }
+    }
+  }
+}

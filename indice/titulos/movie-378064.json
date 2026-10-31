@@ -1,0 +1,14 @@
+{
+  "tmdb": 378064,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Koe no Katachi (Una Voz Silenciosa)",
+  "fuentes": {
+    "animeav1": {
+      "slug": "koe-no-katachi"
+    },
+    "tioanime": {
+      "slug": "koe-no-katachi"
+    }
+  }
+}

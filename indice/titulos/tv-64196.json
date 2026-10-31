@@ -1,0 +1,24 @@
+{
+  "tmdb": 64196,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Overlord",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "overlord",
+        "2": "overlord-ii",
+        "3": "overlord-iii",
+        "4": "overlord-iv"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "overlord",
+        "2": "overlord-ii",
+        "3": "overlord-iii",
+        "4": "overlord-iv"
+      }
+    }
+  }
+}

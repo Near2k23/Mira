@@ -1,0 +1,18 @@
+{
+  "tmdb": 37863,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fullmetal Alchemist",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "fullmetal-alchemist"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "fullmetal-alchemist"
+      }
+    }
+  }
+}

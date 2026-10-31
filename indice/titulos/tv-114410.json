@@ -1,0 +1,18 @@
+{
+  "tmdb": 114410,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chainsaw Man",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "chainsaw-man"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "chainsaw-man"
+      }
+    }
+  }
+}

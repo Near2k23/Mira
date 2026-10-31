@@ -1,0 +1,19 @@
+{
+  "tmdb": 45845,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fate/Zero",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "fate-zero",
+        "2": "fate-zero-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "fate-zero"
+      }
+    }
+  }
+}

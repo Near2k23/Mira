@@ -1,0 +1,19 @@
+{
+  "tmdb": 73223,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Black Clover",
+  "nota": "Temporadas omitidas por no cuadrar episodios: T1 (black-clover): 171 eps en el sitio vs 170 en TMDB",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "2": "black-clover-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "black-clover-2nd-season"
+      }
+    }
+  }
+}

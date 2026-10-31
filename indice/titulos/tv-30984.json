@@ -1,0 +1,30 @@
+{
+  "tmdb": 30984,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bleach",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "bleach",
+        "2": [
+          {
+            "slug": "bleach-sennen-kessen-hen",
+            "episodios": 13
+          },
+          {
+            "slug": "bleach-sennen-kessen-hen-ketsubetsu-tan",
+            "episodios": 13
+          },
+          {
+            "slug": "bleach-sennen-kessen-hen-soukoku-tan",
+            "episodios": 14
+          },
+          {
+            "slug": "bleach-sennen-kessen-hen-kashin-tan"
+          }
+        ]
+      }
+    }
+  }
+}

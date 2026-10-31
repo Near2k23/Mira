@@ -1,0 +1,28 @@
+{
+  "tmdb": 65930,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boku no Hero Academia",
+  "nota": "Temporadas omitidas por no cuadrar episodios: T2 (boku-no-hero-academia-2nd-season): 26 eps en el sitio vs 25 en TMDB",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "boku-no-hero-academia",
+        "3": "boku-no-hero-academia-3rd-season",
+        "4": "boku-no-hero-academia-4th-season",
+        "5": "boku-no-hero-academia-5th-season",
+        "6": "boku-no-hero-academia-6th-season",
+        "7": "boku-no-hero-academia-7th-season",
+        "8": "boku-no-hero-academia-final-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "3": "boku-no-hero-academia-3rd-season",
+        "4": "boku-no-hero-academia-4th-season",
+        "6": "boku-no-hero-academia-6th-season",
+        "7": "boku-no-hero-academia-7th-season"
+      }
+    }
+  }
+}

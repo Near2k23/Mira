@@ -1,0 +1,18 @@
+{
+  "tmdb": 110070,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Horimiya",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "horimiya"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "horimiya"
+      }
+    }
+  }
+}

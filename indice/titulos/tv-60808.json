@@ -1,0 +1,18 @@
+{
+  "tmdb": 60808,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "No Game No Life",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "no-game-no-life"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "no-game-no-life"
+      }
+    }
+  }
+}

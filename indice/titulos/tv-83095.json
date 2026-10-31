@@ -1,0 +1,24 @@
+{
+  "tmdb": 83095,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tate no Yuusha no Nariagari",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tate-no-yuusha-no-nariagari",
+        "2": "tate-no-yuusha-no-nariagari-season-2",
+        "3": "tate-no-yuusha-no-nariagari-season-3",
+        "4": "tate-no-yuusha-no-nariagari-season-4"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tate-no-yuusha-no-nariagari",
+        "2": "tate-no-yuusha-no-nariagari-season-2",
+        "3": "tate-no-yuusha-no-nariagari-season-3",
+        "4": "tate-no-yuusha-no-nariagari-season-4"
+      }
+    }
+  }
+}

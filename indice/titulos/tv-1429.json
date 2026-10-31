@@ -1,0 +1,56 @@
+{
+  "tmdb": 1429,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shingeki no Kyojin",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shingeki-no-kyojin",
+        "2": "shingeki-no-kyojin-season-2",
+        "3": [
+          {
+            "slug": "shingeki-no-kyojin-season-3",
+            "episodios": 12
+          },
+          {
+            "slug": "shingeki-no-kyojin-season-3-part-2"
+          }
+        ],
+        "4": [
+          {
+            "slug": "shingeki-no-kyojin-the-final-season",
+            "episodios": 16
+          },
+          {
+            "slug": "shingeki-no-kyojin-the-final-season-part-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shingeki-no-kyojin",
+        "2": "shingeki-no-kyojin-season-2",
+        "3": [
+          {
+            "slug": "shingeki-no-kyojin-season-3",
+            "episodios": 12
+          },
+          {
+            "slug": "shingeki-no-kyojin-season-3-part-2"
+          }
+        ],
+        "4": [
+          {
+            "slug": "shingeki-no-kyojin-the-final-season",
+            "episodios": 16
+          },
+          {
+            "slug": "shingeki-no-kyojin-the-final-season-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

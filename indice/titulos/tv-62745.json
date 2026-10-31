@@ -1,0 +1,24 @@
+{
+  "tmdb": 62745,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "danmachi",
+        "2": "danmachi-ii",
+        "3": "danmachi-iii",
+        "4": "danmachi-iv"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
+        "2": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii",
+        "3": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii",
+        "4": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv"
+      }
+    }
+  }
+}

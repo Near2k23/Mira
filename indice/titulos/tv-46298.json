@@ -1,0 +1,20 @@
+{
+  "tmdb": 46298,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hunter x Hunter (2011)",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "hunter-x-hunter-2011"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "hunter-x-hunter-2011"
+      }
+    }
+  }
+}

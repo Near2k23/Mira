@@ -1,0 +1,14 @@
+{
+  "tmdb": 372058,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Kimi no Na wa.",
+  "fuentes": {
+    "animeav1": {
+      "slug": "kimi-no-na-wa"
+    },
+    "tioanime": {
+      "slug": "kimi-no-na-wa"
+    }
+  }
+}

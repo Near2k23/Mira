@@ -1,0 +1,18 @@
+{
+  "tmdb": 42916,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Toradora!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "toradora"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "toradora"
+      }
+    }
+  }
+}

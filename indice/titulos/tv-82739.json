@@ -1,0 +1,20 @@
+{
+  "tmdb": 82739,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
+        "2": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
+        "2": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai"
+      }
+    }
+  }
+}

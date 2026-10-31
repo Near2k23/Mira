@@ -1,0 +1,20 @@
+{
+  "tmdb": 37854,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "One Piece",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "one-piece"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "one-piece-tv"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 61459,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kiseijuu: Sei no Kakuritsu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kiseijuu-sei-no-kakuritsu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kiseijuu-sei-no-kakuritsu"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 4935,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Howl no Ugoku Shiro",
+  "fuentes": {
+    "animeav1": {
+      "slug": "howl-no-ugoku-shiro"
+    },
+    "tioanime": {
+      "slug": "howl-no-ugoku-shiro"
+    }
+  }
+}

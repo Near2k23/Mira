@@ -1,0 +1,34 @@
+{
+  "tmdb": 209867,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sousou no Frieren",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "sousou-no-frieren",
+            "episodios": 28
+          },
+          {
+            "slug": "sousou-no-frieren-2nd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "sousou-no-frieren",
+            "episodios": 28
+          },
+          {
+            "slug": "sousou-no-frieren-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

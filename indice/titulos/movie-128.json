@@ -1,0 +1,14 @@
+{
+  "tmdb": 128,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Mononoke Hime",
+  "fuentes": {
+    "animeav1": {
+      "slug": "mononoke-hime"
+    },
+    "tioanime": {
+      "slug": "mononoke-hime"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "tmdb": 46261,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fairy Tail",
+  "nota": "Temporadas omitidas por no cuadrar episodios: T1 (fairy-tail): 175 eps en el sitio vs 48 en TMDB ; T5 (fairy-tail-2014): 102 eps en el sitio vs 51 en TMDB",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "8": "fairy-tail-final-series"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "8": "fairy-tail-final-series"
+      }
+    }
+  }
+}

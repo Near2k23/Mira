@@ -1,0 +1,14 @@
+{
+  "tmdb": 46260,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Naruto",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "naruto"
+      }
+    }
+  }
+}

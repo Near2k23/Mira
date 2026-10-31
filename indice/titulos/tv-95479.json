@@ -1,0 +1,42 @@
+{
+  "tmdb": 95479,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Jujutsu Kaisen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "jujutsu-kaisen",
+            "episodios": 24
+          },
+          {
+            "slug": "jujutsu-kaisen-2nd-season",
+            "episodios": 23
+          },
+          {
+            "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "jujutsu-kaisen-tv",
+            "episodios": 24
+          },
+          {
+            "slug": "jujutsu-kaisen-2nd-season",
+            "episodios": 23
+          },
+          {
+            "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen"
+          }
+        ]
+      }
+    }
+  }
+}

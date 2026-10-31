@@ -1,0 +1,23 @@
+{
+  "tmdb": 60863,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Haikyuu!!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "haikyuu",
+        "2": "haikyuu-second-season",
+        "3": "haikyuu-third-season",
+        "4": "haikyuu-to-the-top"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "haikyuu-second-season",
+        "3": "haikyuu-third-season",
+        "4": "haikyuu-to-the-top"
+      }
+    }
+  }
+}
