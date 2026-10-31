@@ -1,0 +1,13 @@
+{
+  "tmdb": 255074,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你的谎言也动听",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-beautiful-lie"
+      }
+    }
+  }
+}

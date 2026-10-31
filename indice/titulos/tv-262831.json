@@ -1,0 +1,13 @@
+{
+  "tmdb": 262831,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "결혼하자 맹꽁아!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-merry-marriage"
+      }
+    }
+  }
+}

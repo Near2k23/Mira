@@ -1,0 +1,13 @@
+{
+  "tmdb": 274603,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "프로젝트7",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "project-7"
+      }
+    }
+  }
+}

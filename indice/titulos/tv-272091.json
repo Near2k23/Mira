@@ -1,0 +1,13 @@
+{
+  "tmdb": 272091,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마이 댐 비즈니스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-damn-business"
+      }
+    }
+  }
+}

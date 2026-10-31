@@ -1,0 +1,14 @@
+{
+  "tmdb": 253357,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "看見愛",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "see-your-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 14 y TMDB tiene 13; no verificada"
+}

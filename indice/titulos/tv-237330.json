@@ -1,0 +1,13 @@
+{
+  "tmdb": 237330,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pluto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pluto"
+      }
+    }
+  }
+}

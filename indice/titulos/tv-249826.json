@@ -1,0 +1,13 @@
+{
+  "tmdb": 249826,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "晴晚之林",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "this-world-is-not-real"
+      }
+    }
+  }
+}

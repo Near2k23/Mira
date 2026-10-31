@@ -1,0 +1,13 @@
+{
+  "tmdb": 154105,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "三生有幸遇上你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lucky-with-you"
+      }
+    }
+  }
+}

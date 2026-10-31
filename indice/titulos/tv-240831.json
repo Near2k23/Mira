@@ -1,0 +1,13 @@
+{
+  "tmdb": 240831,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "태권도의 저주를 풀어줘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "let-free-the-curse-of-taekwondo"
+      }
+    }
+  }
+}

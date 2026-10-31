@@ -1,0 +1,13 @@
+{
+  "tmdb": 241551,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สเกาท์รักที่พักใจ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-on-lo"
+      }
+    }
+  }
+}

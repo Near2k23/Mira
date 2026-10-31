@@ -1,0 +1,13 @@
+{
+  "tmdb": 261257,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "叔不知",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "uncle-unknown"
+      }
+    }
+  }
+}

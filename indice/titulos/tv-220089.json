@@ -1,0 +1,13 @@
+{
+  "tmdb": 220089,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Dongjae, The Good or The Bastard",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dongjae-the-good-or-the-bastard"
+      }
+    }
+  }
+}

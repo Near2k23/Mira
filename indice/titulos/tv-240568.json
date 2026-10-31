@@ -1,0 +1,13 @@
+{
+  "tmdb": 240568,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ทำนองรักจากปลายพู่กัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "colorful-melody"
+      }
+    }
+  }
+}

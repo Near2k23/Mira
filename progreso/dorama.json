@@ -1,6 +1,6 @@
 {
- "pagina": 68,
- "agregados": 1819,
+ "pagina": 69,
+ "agregados": 1846,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -373,6 +373,10 @@
   {
    "id_o_slug": "tv-270825",
    "motivo": "validar falló: ERROR indice/titulos/tv-270825.json: sitio \"doramasflix\" slug \"Fragile-2024\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "mr-cinderella",
+   "motivo": "otra tarea: serie (país VN)"
   }
  ],
  "notas": [
@@ -683,7 +687,8 @@
   "tv-239779.json",
   "tv-272399.json",
   "tv-246808.json",
-  "tv-236903.json"
+  "tv-236903.json",
+  "tv-253357.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2639,6 +2644,35 @@
   236667,
   263040,
   236903,
-  273307
+  273307,
+  263051,
+  241551,
+  240568,
+  229217,
+  239715,
+  272091,
+  271290,
+  240054,
+  229036,
+  237530,
+  263037,
+  250385,
+  237565,
+  240942,
+  262831,
+  261257,
+  255086,
+  154105,
+  243073,
+  258447,
+  249826,
+  253357,
+  240831,
+  274603,
+  237338,
+  236956,
+  255074,
+  237330,
+  220089
  ]
 }

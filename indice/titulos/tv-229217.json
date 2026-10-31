@@ -1,0 +1,13 @@
+{
+  "tmdb": 229217,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱的勘探法",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "exploration-method-of-love"
+      }
+    }
+  }
+}

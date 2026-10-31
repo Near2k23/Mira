@@ -1,0 +1,13 @@
+{
+  "tmdb": 236956,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en la gran ciudad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-the-big-city"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 271290,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "再见，怦然心动",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "go-back-lover"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 258447,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Apple ถึงเธอ...ที่รัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "apple-my-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 263037,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "七夜雪",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "snowy-night-timeless-love"
+      }
+    }
+  }
+}

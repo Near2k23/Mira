@@ -1,0 +1,13 @@
+{
+  "tmdb": 237338,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "มิตรภาพคราบศัตรู",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "high-school-frenemy"
+      }
+    }
+  }
+}

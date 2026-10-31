@@ -1,0 +1,13 @@
+{
+  "tmdb": 240054,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "기이한 로맨스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "eccentric-romance"
+      }
+    }
+  }
+}

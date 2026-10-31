@@ -1,0 +1,13 @@
+{
+  "tmdb": 263051,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "三生无殇",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beloved-of-a-lifetime"
+      }
+    }
+  }
+}

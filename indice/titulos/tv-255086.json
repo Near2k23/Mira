@@ -1,0 +1,13 @@
+{
+  "tmdb": 255086,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un negocio virtuoso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-virtuous-business"
+      }
+    }
+  }
+}

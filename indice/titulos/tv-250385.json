@@ -1,0 +1,13 @@
+{
+  "tmdb": 250385,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "다리미 패밀리",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "iron-family"
+      }
+    }
+  }
+}

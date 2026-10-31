@@ -1,0 +1,13 @@
+{
+  "tmdb": 243073,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春花焰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kill-me-love-me"
+      }
+    }
+  }
+}

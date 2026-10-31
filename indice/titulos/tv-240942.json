@@ -1,0 +1,13 @@
+{
+  "tmdb": 240942,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Traición cercana",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doubt"
+      }
+    }
+  }
+}

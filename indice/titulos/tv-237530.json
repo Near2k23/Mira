@@ -1,0 +1,13 @@
+{
+  "tmdb": 237530,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พิชิตใจ นายสายหวาน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bake-me-please"
+      }
+    }
+  }
+}
