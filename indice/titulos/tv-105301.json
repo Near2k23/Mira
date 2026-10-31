@@ -1,0 +1,13 @@
+{
+  "tmdb": 105301,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "I LAND",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-land"
+      }
+    }
+  }
+}

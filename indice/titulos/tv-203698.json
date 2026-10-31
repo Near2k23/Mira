@@ -1,0 +1,13 @@
+{
+  "tmdb": 203698,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Agencia de Publicidad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "agency"
+      }
+    }
+  }
+}

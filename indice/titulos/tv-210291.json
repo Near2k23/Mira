@@ -1,0 +1,13 @@
+{
+  "tmdb": 210291,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "浮图缘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unchained-love"
+      }
+    }
+  }
+}

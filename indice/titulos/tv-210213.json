@@ -1,0 +1,15 @@
+{
+  "tmdb": 210213,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Caníbal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gannibal",
+        "2": "gannibal"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

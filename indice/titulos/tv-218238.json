@@ -1,0 +1,13 @@
+{
+  "tmdb": 218238,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "对我而言危险的他",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-lethal-man"
+      }
+    }
+  }
+}

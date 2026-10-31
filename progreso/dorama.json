@@ -1,6 +1,6 @@
 {
- "pagina": 45,
- "agregados": 1212,
+ "pagina": 46,
+ "agregados": 1238,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -221,6 +221,14 @@
   {
    "id_o_slug": "rm-all-day",
    "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "cutie-pie-2-you",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "love-at-the-end-of-the-world",
+   "motivo": "otra tarea: serie (país PH)"
   }
  ],
  "notas": [
@@ -440,7 +448,14 @@
   "tv-130103.json",
   "tv-215789.json",
   "tv-95201.json",
-  "tv-135886.json"
+  "tv-135886.json",
+  "tv-214163.json",
+  "tv-131199.json",
+  "tv-112486.json",
+  "tv-136283.json",
+  "tv-210213.json",
+  "tv-212448.json",
+  "tv-72328.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1739,6 +1754,34 @@
   215356,
   135886,
   103642,
-  216304
+  216304,
+  214483,
+  214163,
+  131199,
+  216405,
+  112486,
+  211746,
+  196526,
+  208832,
+  135155,
+  105301,
+  217141,
+  210291,
+  206674,
+  136283,
+  211747,
+  136444,
+  210213,
+  212448,
+  214873,
+  218017,
+  87063,
+  217763,
+  209751,
+  72328,
+  194917,
+  203698,
+  95109,
+  218238
  ]
 }

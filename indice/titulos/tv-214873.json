@@ -1,0 +1,13 @@
+{
+  "tmdb": 214873,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แฟนผมเป็นประธานนักเรียน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-school-president"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 194917,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เมนูลับฉบับแก้มยุ้ย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "la-cuisine"
+      }
+    }
+  }
+}

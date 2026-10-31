@@ -1,0 +1,13 @@
+{
+  "tmdb": 216405,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我可能遇到了救星",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hi-venus"
+      }
+    }
+  }
+}

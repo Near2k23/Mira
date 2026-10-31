@@ -1,0 +1,14 @@
+{
+  "tmdb": 212448,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "소녀 리버스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "girls-reverse"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (GIRL'S RE:VERSE 2022) no coinciden con TMDB (소녀 리버스 2023); se mantuvo el tmdb_id del sitio. T1: el sitio tiene 11 de 12 episodios"
+}

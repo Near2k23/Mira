@@ -1,0 +1,13 @@
+{
+  "tmdb": 217763,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "保护我方城主大人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-uncanny-destiny"
+      }
+    }
+  }
+}

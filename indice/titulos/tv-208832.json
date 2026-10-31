@@ -1,0 +1,13 @@
+{
+  "tmdb": 208832,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "빨간풍선",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "red-balloon"
+      }
+    }
+  }
+}

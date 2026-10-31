@@ -1,0 +1,13 @@
+{
+  "tmdb": 217141,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "에스파의 싱크로드",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "aespas-synk-road"
+      }
+    }
+  }
+}

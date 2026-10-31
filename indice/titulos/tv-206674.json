@@ -1,0 +1,13 @@
+{
+  "tmdb": 206674,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Brain Works",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "brain-works"
+      }
+    }
+  }
+}

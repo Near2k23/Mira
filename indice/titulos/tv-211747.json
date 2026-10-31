@@ -1,0 +1,13 @@
+{
+  "tmdb": 211747,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Isla",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "island"
+      }
+    }
+  }
+}

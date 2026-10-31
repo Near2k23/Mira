@@ -1,0 +1,13 @@
+{
+  "tmdb": 209751,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "법쩐",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "payback-money-and-power"
+      }
+    }
+  }
+}

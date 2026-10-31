@@ -1,0 +1,13 @@
+{
+  "tmdb": 218017,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "盲少爷的小女仆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "romance-with-blind-master"
+      }
+    }
+  }
+}

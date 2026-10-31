@@ -1,0 +1,13 @@
+{
+  "tmdb": 196526,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El tranvía",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "trolley"
+      }
+    }
+  }
+}

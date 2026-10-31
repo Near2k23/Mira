@@ -1,0 +1,13 @@
+{
+  "tmdb": 95109,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "간택 - 여인들의 전쟁",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queen-love-and-war"
+      }
+    }
+  }
+}

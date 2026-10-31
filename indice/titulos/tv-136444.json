@@ -1,0 +1,13 @@
+{
+  "tmdb": 136444,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "回来的女儿",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "homesick"
+      }
+    }
+  }
+}

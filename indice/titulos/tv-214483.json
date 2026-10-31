@@ -1,0 +1,13 @@
+{
+  "tmdb": 214483,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "飴色パラドックス",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "candy-color-paradox"
+      }
+    }
+  }
+}
