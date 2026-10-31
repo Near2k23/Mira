@@ -1,0 +1,18 @@
+{
+  "tmdb": 283692,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 329096,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kanata kara",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kanata-kara"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kanata-kara"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 295420,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shuiro no Kamen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shuiro-no-kamen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shuiro-no-kamen"
+      }
+    }
+  }
+}

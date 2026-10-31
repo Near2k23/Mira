@@ -1,0 +1,20 @@
+{
+  "tmdb": 230050,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kikansha no Mahou wa Tokubetsu desu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kikansha-no-mahou-wa-tokubetsu-desu",
+        "2": "kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kikansha-no-mahou-wa-tokubetsu-desu",
+        "2": "kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
+      }
+    }
+  }
+}

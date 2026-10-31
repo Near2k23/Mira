@@ -1,0 +1,18 @@
+{
+  "tmdb": 307903,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kyoufu Collector",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kyoufu-collector"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kyoufu-collector"
+      }
+    }
+  }
+}

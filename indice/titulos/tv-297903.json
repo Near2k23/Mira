@@ -1,0 +1,18 @@
+{
+  "tmdb": 297903,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Psyren",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "psyren"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "psyren"
+      }
+    }
+  }
+}

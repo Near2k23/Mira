@@ -1,0 +1,20 @@
+{
+  "tmdb": 206630,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sasaki to Pii-chan",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "sasaki-to-pii-chan",
+        "2": "sasaki-to-pii-chan-season-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "sasaki-to-piichan",
+        "2": "sasaki-to-piichan-season-2"
+      }
+    }
+  }
+}

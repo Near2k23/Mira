@@ -1,0 +1,18 @@
+{
+  "tmdb": 316551,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Battle Spirits [Re]: Zekkai no Kuu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "battle-spirits-re-zekkai-no-kuu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "battle-spirits-re-zekkai-no-kuu"
+      }
+    }
+  }
+}

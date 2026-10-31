@@ -1,0 +1,21 @@
+{
+  "tmdb": 261343,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chitose-kun wa Ramune Bin no Naka",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "chitose-kun-wa-ramune-bin-no-naka",
+            "episodios": 13
+          },
+          {
+            "slug": "chitose-kun-wa-ramune-bin-no-naka-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

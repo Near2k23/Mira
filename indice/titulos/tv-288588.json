@@ -1,0 +1,18 @@
+{
+  "tmdb": 288588,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shinja-zero-no-megamisama-to-hajimeru-isekai-kouryaku"
+      }
+    }
+  }
+}

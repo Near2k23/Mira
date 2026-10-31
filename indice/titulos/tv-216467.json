@@ -1,0 +1,27 @@
+{
+  "tmdb": 216467,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yozakura-san Chi no Daisakusen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yozakura-san-chi-no-daisakusen",
+        "2": [
+          {
+            "slug": "yozakura-san-chi-no-daisakusen-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "yozakura-san-chi-no-daisakusen-2nd-season-part-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yozakurasan-chi-no-daisakusen"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 323937,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Juuou Mujin Dandivine",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "juuou-mujin-dandivine"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "juuou-mujin-dandivine"
+      }
+    }
+  }
+}

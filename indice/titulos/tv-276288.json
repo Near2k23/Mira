@@ -1,0 +1,20 @@
+{
+  "tmdb": 276288,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hotel Inhumans",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hotel-inhumans",
+        "2": "hotel-inhumans-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hotel-inhumans",
+        "2": "hotel-inhumans-2nd-season"
+      }
+    }
+  }
+}

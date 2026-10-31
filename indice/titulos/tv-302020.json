@@ -1,0 +1,18 @@
+{
+  "tmdb": 302020,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tetsuryou! Meet with Tetsudou Musume",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tetsuryou-meet-with-tetsudou-musume"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tetsuryou-meet-with-tetsudou-musume"
+      }
+    }
+  }
+}

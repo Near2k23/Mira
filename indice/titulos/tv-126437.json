@@ -1,0 +1,20 @@
+{
+  "tmdb": 126437,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ao Ashi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ao-ashi",
+        "2": "ao-ashi-season-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ao-ashi",
+        "2": "ao-ashi-season-2"
+      }
+    }
+  }
+}

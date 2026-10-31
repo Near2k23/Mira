@@ -1,0 +1,18 @@
+{
+  "tmdb": 303060,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yowaki-max-reijou-nanoni-ratsuwan-konyakushasama-no-kake-ni-notte-shimatta"
+      }
+    }
+  }
+}

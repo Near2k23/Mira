@@ -1,0 +1,18 @@
+{
+  "tmdb": 324326,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Marronnier Oukoku no Shichinin no Kishi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "marronnier-oukoku-no-shichinin-no-kishi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "marronnier-oukoku-no-shichinin-no-kishi"
+      }
+    }
+  }
+}

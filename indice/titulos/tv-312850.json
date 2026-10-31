@@ -1,0 +1,18 @@
+{
+  "tmdb": 312850,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kyouran-reijou-nia-liston"
+      }
+    }
+  }
+}

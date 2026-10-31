@@ -1,0 +1,18 @@
+{
+  "tmdb": 313068,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 320377,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tank Chair",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tank-chair"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tank-chair"
+      }
+    }
+  }
+}

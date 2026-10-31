@@ -1,0 +1,18 @@
+{
+  "tmdb": 320909,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hotaru no Yomeiri",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hotaru-no-yomeiri"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hotaru-no-yomeiri"
+      }
+    }
+  }
+}

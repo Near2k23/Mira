@@ -1,0 +1,18 @@
+{
+  "tmdb": 330505,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ojisan wa Kawaii Mono ga Osuki.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ojisan-wa-kawaii-mono-ga-osuki"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ojisan-wa-kawaii-mono-ga-osuki"
+      }
+    }
+  }
+}

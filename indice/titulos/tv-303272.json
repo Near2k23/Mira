@@ -1,0 +1,18 @@
+{
+  "tmdb": 303272,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magic Knight Rayearth (2026)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "magic-knight-rayearth-2026"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "magic-knight-rayearth-2026"
+      }
+    }
+  }
+}

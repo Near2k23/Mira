@@ -1,0 +1,34 @@
+{
+  "tmdb": 207347,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ao no Hako",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "ao-no-hako",
+            "episodios": 25
+          },
+          {
+            "slug": "ao-no-hako-season-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "ao-no-hako",
+            "episodios": 25
+          },
+          {
+            "slug": "ao-no-hako-season-2"
+          }
+        ]
+      }
+    }
+  }
+}

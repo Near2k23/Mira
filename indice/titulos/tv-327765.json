@@ -1,0 +1,18 @@
+{
+  "tmdb": 327765,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Choujun! Choujou-senpai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "choujun-choujou-senpai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "choujun-choujousenpai"
+      }
+    }
+  }
+}

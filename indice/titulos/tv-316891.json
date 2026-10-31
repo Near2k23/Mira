@@ -1,0 +1,18 @@
+{
+  "tmdb": 316891,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shiotaiou-no-satou-san-ga-ore-ni-dake-amai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shiotaiou-no-satousan-ga-ore-ni-dake-amai"
+      }
+    }
+  }
+}

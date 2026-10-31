@@ -1,0 +1,18 @@
+{
+  "tmdb": 306565,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dark Machine: The Animation",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dark-machine-the-animation"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dark-machine-the-animation"
+      }
+    }
+  }
+}

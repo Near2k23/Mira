@@ -1,0 +1,18 @@
+{
+  "tmdb": 284580,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Toaru Anbu no Item",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "toaru-anbu-no-item"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "toaru-anbu-no-item"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 316694,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tensei Goblin dakedo Shitsumon Aru?",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tensei-goblin-dakedo-shitsumon-aru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tensei-goblin-dakedo-shitsumon-aru"
+      }
+    }
+  }
+}

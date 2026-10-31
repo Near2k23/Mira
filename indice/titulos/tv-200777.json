@@ -1,0 +1,20 @@
+{
+  "tmdb": 200777,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hyouken no Majutsushi ga Sekai wo Suberu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hyouken-no-majutsushi-ga-sekai-wo-suberu",
+        "2": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hyouken-no-majutsushi-ga-sekai-wo-suberu",
+        "2": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
+      }
+    }
+  }
+}

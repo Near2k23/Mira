@@ -1,0 +1,18 @@
+{
+  "tmdb": 313346,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chii Fuyo",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "chii-fuyo"
+      }
+    }
+  }
+}

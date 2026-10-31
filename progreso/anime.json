@@ -69,7 +69,45 @@
   "movie-129": "nuevo",
   "movie-635302": "ya existía",
   "movie-4935": "nuevo",
-  "movie-128": "nuevo"
+  "movie-128": "nuevo",
+  "tv-60761": "nuevo",
+  "tv-117061": "nuevo",
+  "tv-126437": "nuevo",
+  "tv-200777": "nuevo",
+  "tv-206630": "nuevo",
+  "tv-207347": "nuevo",
+  "tv-216467": "nuevo",
+  "tv-230050": "nuevo",
+  "tv-261343": "nuevo",
+  "tv-276288": "nuevo",
+  "tv-283692": "nuevo",
+  "tv-284580": "nuevo",
+  "tv-288588": "nuevo",
+  "tv-295420": "nuevo",
+  "tv-297903": "nuevo",
+  "tv-302020": "nuevo",
+  "tv-303060": "nuevo",
+  "tv-303272": "nuevo",
+  "tv-306565": "nuevo",
+  "tv-307903": "nuevo",
+  "tv-312359": "nuevo",
+  "tv-312850": "nuevo",
+  "tv-313068": "nuevo",
+  "tv-313346": "nuevo",
+  "tv-316551": "nuevo",
+  "tv-316694": "nuevo",
+  "tv-316891": "nuevo",
+  "tv-320377": "nuevo",
+  "tv-320909": "nuevo",
+  "tv-321518": "nuevo",
+  "tv-323937": "nuevo",
+  "tv-324326": "nuevo",
+  "tv-327765": "nuevo",
+  "tv-329096": "nuevo",
+  "tv-330505": "nuevo",
+  "tv-334779": "nuevo",
+  "tv-335790": "nuevo",
+  "tv-337277": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -89,9 +127,9 @@
  ],
  "paginas": {
   "latest_released 1-2": {
-   "agregados": 68,
-   "completados": 1,
-   "saltados": 7
+   "agregados": 38,
+   "completados": 0,
+   "saltados": 0
   }
  }
 }

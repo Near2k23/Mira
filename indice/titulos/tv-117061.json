@@ -1,0 +1,20 @@
+{
+  "tmdb": 117061,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tantei wa Mou, Shindeiru.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tantei-wa-mou-shindeiru",
+        "2": "tantei-wa-mou-shindeiru-season-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tantei-wa-mou-shindeiru",
+        "2": "tantei-wa-mou-shindeiru-season-2"
+      }
+    }
+  }
+}

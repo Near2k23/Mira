@@ -1,0 +1,18 @@
+{
+  "tmdb": 335790,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dark Summoner to Dekiteiru",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dark-summoner-to-dekiteiru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dark-summoner-to-dekiteiru"
+      }
+    }
+  }
+}
