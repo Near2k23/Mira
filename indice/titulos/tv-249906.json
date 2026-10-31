@@ -1,0 +1,13 @@
+{
+  "tmdb": 249906,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Estafadores de Tokio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tokyo-swindlers"
+      }
+    }
+  }
+}

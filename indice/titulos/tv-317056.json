@@ -1,0 +1,13 @@
+{
+  "tmdb": 317056,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "双程",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "double-helix"
+      }
+    }
+  }
+}

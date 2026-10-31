@@ -1,0 +1,13 @@
+{
+  "tmdb": 252640,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "藏海传",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "legend-of-zang-hai"
+      }
+    }
+  }
+}

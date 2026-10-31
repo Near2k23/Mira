@@ -1,0 +1,14 @@
+{
+  "tmdb": 106651,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Rumbo al infierno",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hellbound",
+        "2": "hellbound"
+      }
+    }
+  }
+}

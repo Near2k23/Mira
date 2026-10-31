@@ -1,0 +1,14 @@
+{
+  "tmdb": 254483,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "กี่หมื่นฟ้า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-sky",
+        "2": "your-sky"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 67391,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Guardaespaldas K2",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-k2"
+      }
+    }
+  }
+}

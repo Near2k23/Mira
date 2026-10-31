@@ -1,0 +1,13 @@
+{
+  "tmdb": 307433,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เงาใต้พระจันทร์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moonshadow"
+      }
+    }
+  }
+}

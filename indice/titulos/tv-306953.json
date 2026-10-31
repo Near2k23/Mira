@@ -1,0 +1,13 @@
+{
+  "tmdb": 306953,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "มังงะสั่งตาย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mrkill"
+      }
+    }
+  }
+}

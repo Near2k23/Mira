@@ -1,0 +1,13 @@
+{
+  "tmdb": 79070,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "검법남녀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "partners-for-justice"
+      }
+    }
+  }
+}

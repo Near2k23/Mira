@@ -1,0 +1,13 @@
+{
+  "tmdb": 233912,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "大奉打更人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "guardians-of-the-dafeng"
+      }
+    }
+  }
+}

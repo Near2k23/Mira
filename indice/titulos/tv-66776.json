@@ -1,0 +1,13 @@
+{
+  "tmdb": 66776,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor O2O",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-o2o"
+      }
+    }
+  }
+}

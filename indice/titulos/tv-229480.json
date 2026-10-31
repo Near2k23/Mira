@@ -1,0 +1,13 @@
+{
+  "tmdb": 229480,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El que no gana no ama",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-gain-no-love"
+      }
+    }
+  }
+}

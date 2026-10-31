@@ -1,0 +1,13 @@
+{
+  "tmdb": 129888,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Veinticinco, veintiuno",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twenty-five-twenty-one"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 243084,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Galaxia de la noche eterna",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-game-in-eastern-fantasy"
+      }
+    }
+  }
+}

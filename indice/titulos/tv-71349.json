@@ -1,0 +1,13 @@
+{
+  "tmdb": 71349,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en conflicto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "suspicious-partner"
+      }
+    }
+  }
+}

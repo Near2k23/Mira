@@ -1,0 +1,13 @@
+{
+  "tmdb": 72690,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sálvame",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "save-me"
+      }
+    }
+  }
+}

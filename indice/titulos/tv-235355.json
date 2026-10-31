@@ -1,0 +1,13 @@
+{
+  "tmdb": 235355,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Manual para residentes",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "resident-playbook"
+      }
+    }
+  }
+}

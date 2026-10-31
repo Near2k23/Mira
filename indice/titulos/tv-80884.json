@@ -1,0 +1,13 @@
+{
+  "tmdb": 80884,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cenizas de Amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ashes-of-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 256226,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Querido x",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-x"
+      }
+    }
+  }
+}

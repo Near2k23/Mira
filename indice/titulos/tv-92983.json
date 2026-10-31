@@ -1,0 +1,13 @@
+{
+  "tmdb": 92983,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Vagabond",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vagabond"
+      }
+    }
+  }
+}

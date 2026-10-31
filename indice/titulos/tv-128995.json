@@ -1,0 +1,15 @@
+{
+  "tmdb": 128995,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Las células de Yumi",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yumis-cells",
+        "2": "yumis-cells",
+        "3": "yumis-cells"
+      }
+    }
+  }
+}

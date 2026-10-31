@@ -1,0 +1,13 @@
+{
+  "tmdb": 297640,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor Bajo Auditoría",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "filing-for-love"
+      }
+    }
+  }
+}

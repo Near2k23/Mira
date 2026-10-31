@@ -1,0 +1,13 @@
+{
+  "tmdb": 310800,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Beso de sirena",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sirens-kiss"
+      }
+    }
+  }
+}
