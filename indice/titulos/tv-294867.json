@@ -1,0 +1,14 @@
+{
+  "tmdb": 294867,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dusk Beyond the End of the World",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "towa-no-yuugure"
+      }
+    }
+  },
+  "nota": "tioanime towa-no-yuugure: 13 cap. vs 12 en TMDB T1; revisar."
+}

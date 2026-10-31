@@ -1,6 +1,6 @@
 {
-  "pagina": 13,
-  "agregados": 203,
+  "pagina": 15,
+  "agregados": 228,
   "saltados": [
     {
       "id_o_slug": "cyberpunk-edgerunners-2",
@@ -133,6 +133,26 @@
     {
       "id_o_slug": "tondemo-skill-de-isekai-hourou-meshi-2",
       "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ranma-12-2024-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kekkon-yubiwa-monogatari-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "aru-hi-ohimesama-ni-natte-shimatta-ken-ni-tsuite",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yasei-no-last-boss-ga-arawareta",
+      "motivo": "tv-280042 T1 ya ocupada por [{\"slug\":\"yasei-no-last-boss-ga-arawareta\",\"episodios\":12},{\"slug\":\"yasei-no-last-boss-ga-arawareta-2nd-season\"}] (posible tramo)"
+    },
+    {
+      "id_o_slug": "catseye",
+      "motivo": "OVA/especial"
     }
   ],
   "notas": [
@@ -192,7 +212,9 @@
     "tv-283428.json",
     "tv-286404.json",
     "tv-261343.json",
-    "tv-46437.json"
+    "tv-46437.json",
+    "tv-65930.json",
+    "tv-294867.json"
   ],
-  "idx": 257
+  "idx": 287
 }

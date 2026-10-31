@@ -1,0 +1,13 @@
+{
+  "tmdb": 293010,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Let's Play",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lets-play-questdarake-no-my-life"
+      }
+    }
+  }
+}

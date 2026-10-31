@@ -1,0 +1,13 @@
+{
+  "tmdb": 284433,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "My Awkward Senpai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bukiyou-na-senpai"
+      }
+    }
+  }
+}

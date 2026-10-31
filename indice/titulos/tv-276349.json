@@ -1,0 +1,13 @@
+{
+  "tmdb": 276349,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yano-kun no Futsuu no Hibi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yanokun-no-futsuu-no-hibi"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 283935,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Touring After the Apocalypse",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shuumatsu-touring"
+      }
+    }
+  }
+}

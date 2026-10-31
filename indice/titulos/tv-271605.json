@@ -1,0 +1,13 @@
+{
+  "tmdb": 271605,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "May I Ask for One Final Thing?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka"
+      }
+    }
+  }
+}

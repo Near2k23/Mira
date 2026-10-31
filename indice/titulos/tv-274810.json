@@ -1,0 +1,13 @@
+{
+  "tmdb": 274810,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "This Monster Wants to Eat Me",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "watashi-wo-tabetai-hitodenashi"
+      }
+    }
+  }
+}

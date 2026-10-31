@@ -1,0 +1,13 @@
+{
+  "tmdb": 258901,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SANDA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sanda"
+      }
+    }
+  }
+}

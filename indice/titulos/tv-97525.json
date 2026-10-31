@@ -1,0 +1,13 @@
+{
+  "tmdb": 97525,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "To Your Eternity",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "3": "fumetsu-no-anata-e-season-3"
+      }
+    }
+  }
+}

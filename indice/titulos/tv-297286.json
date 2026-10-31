@@ -1,0 +1,13 @@
+{
+  "tmdb": 297286,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ポーション、わが身を助ける",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "potion-wagami-wo-tasukeru"
+      }
+    }
+  }
+}

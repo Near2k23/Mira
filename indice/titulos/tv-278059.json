@@ -1,0 +1,13 @@
+{
+  "tmdb": 278059,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "しゃばけ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shabake"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 283818,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Una estrella más brillante que el sol",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "taiyou-yori-mo-mabushii-hoshi"
+      }
+    }
+  }
+}

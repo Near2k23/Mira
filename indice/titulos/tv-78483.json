@@ -1,0 +1,13 @@
+{
+  "tmdb": 78483,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "かくりよの宿飯",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "kakuriyo-no-yadomeshi-ni"
+      }
+    }
+  }
+}

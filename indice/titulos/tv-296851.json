@@ -1,0 +1,13 @@
+{
+  "tmdb": 296851,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SI-VIS: The Sound of Heroes",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sivis-the-sound-of-heroes"
+      }
+    }
+  }
+}
