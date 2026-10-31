@@ -1,0 +1,13 @@
+{
+  "tmdb": 243763,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "타로: 일곱 장의 이야기",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tarot"
+      }
+    }
+  }
+}

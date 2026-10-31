@@ -1,0 +1,13 @@
+{
+  "tmdb": 244071,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los Auditores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-auditors"
+      }
+    }
+  }
+}

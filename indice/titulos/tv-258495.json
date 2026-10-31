@@ -1,0 +1,13 @@
+{
+  "tmdb": 258495,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Find Love in Her Mind",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "find-love-in-her-mind"
+      }
+    }
+  }
+}

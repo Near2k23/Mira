@@ -1,0 +1,14 @@
+{
+  "tmdb": 219915,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你比星光美丽",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "as-beautiful-as-you"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 41 y TMDB tiene 40; no verificada"
+}

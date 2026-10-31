@@ -1,0 +1,13 @@
+{
+  "tmdb": 256384,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "AYAKA is in LOVE with HIROKO",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ayaka-is-in-love-with-hiroko"
+      }
+    }
+  }
+}

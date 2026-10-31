@@ -1,0 +1,15 @@
+{
+  "tmdb": 240114,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Agentes del misterio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "agents-of-mystery",
+        "2": "agents-of-mystery"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

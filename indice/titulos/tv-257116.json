@@ -1,0 +1,14 @@
+{
+  "tmdb": 257116,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "신들린 연애",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "possessed-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 6; no verificada"
+}

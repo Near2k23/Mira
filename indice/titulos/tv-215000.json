@@ -1,0 +1,13 @@
+{
+  "tmdb": 215000,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "놀아주는 여자",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-sweet-mobster"
+      }
+    }
+  }
+}

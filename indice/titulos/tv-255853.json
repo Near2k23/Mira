@@ -1,0 +1,13 @@
+{
+  "tmdb": 255853,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "I Hear the Sunspot",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-hear-the-sunspot"
+      }
+    }
+  }
+}

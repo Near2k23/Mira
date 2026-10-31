@@ -1,0 +1,13 @@
+{
+  "tmdb": 252140,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "美人攻略",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beauty-strategy"
+      }
+    }
+  }
+}

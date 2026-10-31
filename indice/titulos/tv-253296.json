@@ -1,0 +1,13 @@
+{
+  "tmdb": 253296,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ปาฏิหาริย์รักร้อยปี",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "century-of-love"
+      }
+    }
+  }
+}

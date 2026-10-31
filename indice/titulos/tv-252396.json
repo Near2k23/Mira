@@ -1,0 +1,13 @@
+{
+  "tmdb": 252396,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "颜心记",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "follow-your-heart"
+      }
+    }
+  }
+}

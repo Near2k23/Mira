@@ -1,0 +1,13 @@
+{
+  "tmdb": 257066,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ビジネス婚―好きになったら離婚します―",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "business-marriage"
+      }
+    }
+  }
+}

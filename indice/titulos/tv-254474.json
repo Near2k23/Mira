@@ -1,0 +1,13 @@
+{
+  "tmdb": 254474,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "度华年",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-princess-royal"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 251309,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Doctor Clímax",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-climax"
+      }
+    }
+  }
+}

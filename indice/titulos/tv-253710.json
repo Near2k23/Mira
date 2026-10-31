@@ -1,0 +1,13 @@
+{
+  "tmdb": 253710,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Jai Son Rak - The Secret of Us",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-secret-of-us"
+      }
+    }
+  }
+}

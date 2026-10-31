@@ -1,0 +1,13 @@
+{
+  "tmdb": 249104,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักนี้ไม่มีถั่วฝักยาว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "this-love-doesnt-have-long-beans"
+      }
+    }
+  }
+}

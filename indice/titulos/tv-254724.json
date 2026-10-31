@@ -1,0 +1,13 @@
+{
+  "tmdb": 254724,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "タカラのびいどろ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "takaras-treasure"
+      }
+    }
+  }
+}

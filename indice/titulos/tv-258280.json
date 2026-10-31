@@ -1,0 +1,13 @@
+{
+  "tmdb": 258280,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "少年白马醉春风",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dashing-youth"
+      }
+    }
+  }
+}

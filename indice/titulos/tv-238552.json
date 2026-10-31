@@ -1,0 +1,13 @@
+{
+  "tmdb": 238552,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พี่ว้ากคะ รักหนูได้มั้ย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-senior"
+      }
+    }
+  }
+}

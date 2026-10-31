@@ -1,0 +1,13 @@
+{
+  "tmdb": 257699,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的盲盒恋人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "limited-72-hours-of-love"
+      }
+    }
+  }
+}

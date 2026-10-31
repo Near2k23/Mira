@@ -1,0 +1,13 @@
+{
+  "tmdb": 231749,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ella de día, otra de noche",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miss-night-and-day"
+      }
+    }
+  }
+}

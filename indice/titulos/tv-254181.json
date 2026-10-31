@@ -1,0 +1,13 @@
+{
+  "tmdb": 254181,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "晓朝夕",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jades-fateful-love"
+      }
+    }
+  }
+}

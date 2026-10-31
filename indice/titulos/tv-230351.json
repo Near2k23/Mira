@@ -1,0 +1,13 @@
+{
+  "tmdb": 230351,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "노 웨이 아웃: 더 룰렛",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-way-out-the-roulette"
+      }
+    }
+  }
+}

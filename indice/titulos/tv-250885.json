@@ -1,0 +1,13 @@
+{
+  "tmdb": 250885,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Solliev0",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "solliev0"
+      }
+    }
+  }
+}

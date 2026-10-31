@@ -1,0 +1,13 @@
+{
+  "tmdb": 243975,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Land of Tanabata",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "land-of-tanabata"
+      }
+    }
+  }
+}
