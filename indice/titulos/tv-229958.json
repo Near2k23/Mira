@@ -1,0 +1,13 @@
+{
+  "tmdb": 229958,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "애마",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "aema"
+      }
+    }
+  }
+}

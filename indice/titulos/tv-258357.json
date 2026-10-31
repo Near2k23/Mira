@@ -1,0 +1,13 @@
+{
+  "tmdb": 258357,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "내 여자친구는 상남자",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-girlfriend-is-the-man"
+      }
+    }
+  }
+}

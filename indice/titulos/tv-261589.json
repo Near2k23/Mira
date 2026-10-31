@@ -1,0 +1,13 @@
+{
+  "tmdb": 261589,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "明月入卿怀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-forbidden-marriage"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 278658,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor, toma dos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-take-two"
+      }
+    }
+  }
+}

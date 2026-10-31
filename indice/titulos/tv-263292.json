@@ -1,0 +1,13 @@
+{
+  "tmdb": 263292,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "十二封信",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twelve-letters"
+      }
+    }
+  }
+}

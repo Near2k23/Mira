@@ -1,0 +1,13 @@
+{
+  "tmdb": 247670,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "グラスハート",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "glass-heart"
+      }
+    }
+  }
+}

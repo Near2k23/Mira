@@ -1,0 +1,13 @@
+{
+  "tmdb": 276114,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Rearrange",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rearrange"
+      }
+    }
+  }
+}

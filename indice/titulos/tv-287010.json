@@ -1,0 +1,13 @@
+{
+  "tmdb": 287010,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "화려한 날들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-golden-days"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 281004,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El sinuoso camino del derecho",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beyond-the-bar"
+      }
+    }
+  }
+}

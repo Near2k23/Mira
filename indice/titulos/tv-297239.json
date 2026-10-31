@@ -1,0 +1,13 @@
+{
+  "tmdb": 297239,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "双刃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "higher"
+      }
+    }
+  }
+}

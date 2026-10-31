@@ -1,0 +1,13 @@
+{
+  "tmdb": 282891,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱上海军蓝",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rose-and-gun"
+      }
+    }
+  }
+}

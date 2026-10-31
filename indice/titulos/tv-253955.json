@@ -1,0 +1,13 @@
+{
+  "tmdb": 253955,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "定风波",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-wanted-detective"
+      }
+    }
+  }
+}

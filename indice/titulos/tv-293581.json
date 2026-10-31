@@ -1,0 +1,15 @@
+{
+  "tmdb": 293581,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "恋愛ルビの正しいふりかた",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-proper-way-to-write-love",
+        "2": "the-proper-way-to-write-love"
+      }
+    }
+  },
+  "nota": "T2: el sitio llega al ep 6 y TMDB tiene 1; no verificada"
+}

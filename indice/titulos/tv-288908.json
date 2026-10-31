@@ -1,0 +1,13 @@
+{
+  "tmdb": 288908,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Final Draft",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "final-draft"
+      }
+    }
+  }
+}

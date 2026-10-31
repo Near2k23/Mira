@@ -1,0 +1,13 @@
+{
+  "tmdb": 223487,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "여행을 대신해 드립니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-lovely-journey"
+      }
+    }
+  }
+}

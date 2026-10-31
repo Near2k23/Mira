@@ -1,0 +1,13 @@
+{
+  "tmdb": 296772,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kill To Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kill-to-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 297230,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "君非良人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-not-meant-to-be"
+      }
+    }
+  }
+}

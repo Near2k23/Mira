@@ -1,0 +1,13 @@
+{
+  "tmdb": 245159,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Con brillo propio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shine"
+      }
+    }
+  }
+}

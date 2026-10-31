@@ -1,0 +1,13 @@
+{
+  "tmdb": 293431,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "シンデレラ クロゼット",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cinderella-closet"
+      }
+    }
+  }
+}

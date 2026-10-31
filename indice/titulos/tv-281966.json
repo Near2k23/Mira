@@ -1,0 +1,13 @@
+{
+  "tmdb": 281966,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "My Troublesome Star",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-troublesome-star"
+      }
+    }
+  }
+}

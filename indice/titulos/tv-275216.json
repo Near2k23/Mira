@@ -1,0 +1,14 @@
+{
+  "tmdb": 275216,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Somewhere Somehow",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "somewhere-somehow"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 13 episodios"
+}

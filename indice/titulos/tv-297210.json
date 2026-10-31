@@ -1,0 +1,13 @@
+{
+  "tmdb": 297210,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "步步笙欢",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dangerous-love"
+      }
+    }
+  }
+}

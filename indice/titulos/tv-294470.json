@@ -1,0 +1,13 @@
+{
+  "tmdb": 294470,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "迎凤归",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "she-is-the-phoenix"
+      }
+    }
+  }
+}

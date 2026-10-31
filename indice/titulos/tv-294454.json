@@ -1,0 +1,13 @@
+{
+  "tmdb": 294454,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "她的盛宴",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "her-feast"
+      }
+    }
+  }
+}

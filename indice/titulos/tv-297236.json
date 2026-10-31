@@ -1,0 +1,13 @@
+{
+  "tmdb": 297236,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "锦绣宅心",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "threads-of-destiny"
+      }
+    }
+  }
+}

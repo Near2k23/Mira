@@ -1,0 +1,13 @@
+{
+  "tmdb": 288599,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "满庭芳",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "luminosity-behind-the-palace"
+      }
+    }
+  }
+}

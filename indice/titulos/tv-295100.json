@@ -1,0 +1,14 @@
+{
+  "tmdb": 295100,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Love Sea ～愛の居場所～",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-sea-the-home-for-lovers"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 12 episodios"
+}

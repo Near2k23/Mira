@@ -1,0 +1,13 @@
+{
+  "tmdb": 270432,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我在顶峰等你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "summit-of-our-youth"
+      }
+    }
+  }
+}

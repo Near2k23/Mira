@@ -1,0 +1,13 @@
+{
+  "tmdb": 296238,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Enigma Black Stage",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "enigma-black-stage"
+      }
+    }
+  }
+}

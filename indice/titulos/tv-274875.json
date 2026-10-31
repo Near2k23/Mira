@@ -1,0 +1,13 @@
+{
+  "tmdb": 274875,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Twelve",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twelve"
+      }
+    }
+  }
+}

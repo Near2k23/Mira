@@ -1,0 +1,13 @@
+{
+  "tmdb": 279580,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "秘密關係",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secret-lover"
+      }
+    }
+  }
+}

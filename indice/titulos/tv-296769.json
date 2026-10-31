@@ -1,0 +1,13 @@
+{
+  "tmdb": 296769,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Nameless Season",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-nameless-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 295795,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "顾盼生香",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blend-feelings"
+      }
+    }
+  }
+}

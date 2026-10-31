@@ -1,0 +1,14 @@
+{
+  "tmdb": 293432,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "19番目のカルテ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-19th-medical-chart"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 250463,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La jugada ganadora",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-winning-try"
+      }
+    }
+  }
+}

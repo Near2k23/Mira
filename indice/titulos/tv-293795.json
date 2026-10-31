@@ -1,0 +1,13 @@
+{
+  "tmdb": 293795,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你的太阳",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-sunshine"
+      }
+    }
+  }
+}
