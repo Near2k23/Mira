@@ -1,0 +1,13 @@
+{
+  "tmdb": 130819,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "双镜",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "couple-of-mirrors"
+      }
+    }
+  }
+}

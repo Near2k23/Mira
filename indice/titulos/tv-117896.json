@@ -1,0 +1,13 @@
+{
+  "tmdb": 117896,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cielo rojo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lovers-of-the-red-sky"
+      }
+    }
+  }
+}

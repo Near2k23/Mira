@@ -1,0 +1,13 @@
+{
+  "tmdb": 129349,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "机智的上半场",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-yourself"
+      }
+    }
+  }
+}

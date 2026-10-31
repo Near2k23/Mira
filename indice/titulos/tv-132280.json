@@ -1,0 +1,14 @@
+{
+  "tmdb": 132280,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "7 Project",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "7-project"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 14 y TMDB tiene 7; no verificada"
+}

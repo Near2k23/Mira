@@ -1,0 +1,13 @@
+{
+  "tmdb": 131782,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "닉네임 솔잎",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nickname-pine-leaf"
+      }
+    }
+  }
+}

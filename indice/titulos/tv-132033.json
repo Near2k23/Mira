@@ -1,0 +1,13 @@
+{
+  "tmdb": 132033,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春来枕星河",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cry-me-a-river-of-stars"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 132145,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักวุ่นวาย ยัยตัวป่วน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "me-always-you"
+      }
+    }
+  }
+}

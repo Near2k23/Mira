@@ -1,0 +1,16 @@
+{
+  "tmdb": 130347,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스트릿 우먼 파이터",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "street-woman-fighter",
+        "2": "street-woman-fighter",
+        "3": "street-woman-fighter"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2,3 verificadas con listEpisodes de la API de doramasflix"
+}

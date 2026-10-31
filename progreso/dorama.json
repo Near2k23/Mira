@@ -1,6 +1,6 @@
 {
- "pagina": 26,
- "agregados": 708,
+ "pagina": 27,
+ "agregados": 733,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -84,6 +84,18 @@
   },
   {
    "id_o_slug": "the-great-escape-season-4-corea",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "antares-tailandia",
+   "motivo": "otra tarea: serie (país ID)"
+  },
+  {
+   "id_o_slug": "the-ferryman-legends-of-nanyang",
+   "motivo": "otra tarea: serie (país SG/MY)"
+  },
+  {
+   "id_o_slug": "blackpink-the-show",
    "motivo": "no existe en TMDB"
   }
  ],
@@ -213,7 +225,13 @@
   "tv-129804.json",
   "tv-126994.json",
   "tv-116360.json",
-  "tv-101144.json"
+  "tv-101144.json",
+  "tv-130808.json",
+  "tv-131233.json",
+  "tv-130347.json",
+  "tv-109590.json",
+  "tv-110534.json",
+  "tv-132280.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -975,6 +993,33 @@
   129289,
   128367,
   129231,
-  101144
+  101144,
+  130659,
+  130808,
+  127356,
+  128715,
+  129000,
+  131233,
+  130817,
+  129349,
+  129117,
+  128567,
+  118659,
+  131782,
+  130347,
+  109590,
+  129129,
+  110534,
+  132145,
+  128883,
+  117896,
+  129673,
+  130819,
+  132280,
+  132033,
+  131932,
+  131673,
+  129318,
+  132688
  ]
 }

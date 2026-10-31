@@ -1,0 +1,13 @@
+{
+  "tmdb": 131673,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "유 레이즈 미 업",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-raise-me-up"
+      }
+    }
+  }
+}

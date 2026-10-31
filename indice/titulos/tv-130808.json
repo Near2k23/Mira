@@ -1,0 +1,14 @@
+{
+  "tmdb": 130808,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El segundo marido",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-second-husband"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (null) no coincidía; se usó 130808 buscando por nombre y año. T1: el sitio tiene 150 de 151 episodios"
+}

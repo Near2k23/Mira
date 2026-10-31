@@ -1,0 +1,13 @@
+{
+  "tmdb": 127356,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "경찰수업",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "police-university"
+      }
+    }
+  }
+}

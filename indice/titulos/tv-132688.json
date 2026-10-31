@@ -1,0 +1,13 @@
+{
+  "tmdb": 132688,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的砍价女王",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-bargain-queen"
+      }
+    }
+  }
+}

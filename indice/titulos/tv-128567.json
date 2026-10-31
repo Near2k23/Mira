@@ -1,0 +1,13 @@
+{
+  "tmdb": 128567,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Don't Say No",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dont-say-no"
+      }
+    }
+  }
+}

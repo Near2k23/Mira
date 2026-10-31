@@ -1,0 +1,13 @@
+{
+  "tmdb": 129000,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "이벤트를 확인하세요",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "check-out-the-event"
+      }
+    }
+  }
+}

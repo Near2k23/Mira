@@ -1,0 +1,16 @@
+{
+  "tmdb": 131233,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "심야카페",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cafe-midnight",
+        "2": "cafe-midnight",
+        "3": "cafe-midnight"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 2 y TMDB tiene 1; no verificada. T2: el sitio llega al ep 2 y TMDB tiene 1; no verificada. T3: el sitio llega al ep 2 y TMDB tiene 1; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 131932,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "云南虫谷",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "candle-in-the-tomb-6-the-worm-valley"
+      }
+    }
+  }
+}

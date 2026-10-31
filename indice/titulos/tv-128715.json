@@ -1,0 +1,13 @@
+{
+  "tmdb": 128715,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "世界微尘里",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-teeth"
+      }
+    }
+  }
+}

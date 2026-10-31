@@ -1,0 +1,13 @@
+{
+  "tmdb": 130659,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "偶然闯入的世界",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "serendipity"
+      }
+    }
+  }
+}

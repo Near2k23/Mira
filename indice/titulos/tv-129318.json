@@ -1,0 +1,13 @@
+{
+  "tmdb": 129318,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "인간실격",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lost"
+      }
+    }
+  }
+}
