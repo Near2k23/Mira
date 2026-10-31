@@ -1,0 +1,13 @@
+{
+  "tmdb": 290788,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "初恋DOGs",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-is-for-the-dogs"
+      }
+    }
+  }
+}

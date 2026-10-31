@@ -1,0 +1,13 @@
+{
+  "tmdb": 292544,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "40までにしたい10のこと",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "10-things-i-want-to-do-before-i-turn-40"
+      }
+    }
+  }
+}

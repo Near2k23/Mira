@@ -1,0 +1,13 @@
+{
+  "tmdb": 258025,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Perdidamente enamorada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "head-over-heels"
+      }
+    }
+  }
+}

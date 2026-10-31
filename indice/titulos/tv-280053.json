@@ -1,0 +1,13 @@
+{
+  "tmdb": 280053,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "トーキョーカモフラージュアワー",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tokyo-camouflage-hour"
+      }
+    }
+  }
+}

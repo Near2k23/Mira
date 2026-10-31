@@ -1,0 +1,13 @@
+{
+  "tmdb": 284430,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "深情眼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "deep-affection-eyes"
+      }
+    }
+  }
+}

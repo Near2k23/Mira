@@ -1,0 +1,13 @@
+{
+  "tmdb": 231462,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "파인: 촌뜨기들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "low-life"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 292327,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "雨上がりの僕らについて",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "stay-by-my-side-after-the-rain"
+      }
+    }
+  }
+}

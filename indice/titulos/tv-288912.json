@@ -1,0 +1,15 @@
+{
+  "tmdb": 288912,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Más vale tarde que solteros",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "better-late-than-single",
+        "2": "better-late-than-single"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

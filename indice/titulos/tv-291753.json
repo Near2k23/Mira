@@ -1,0 +1,13 @@
+{
+  "tmdb": 291753,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "보이즈 2 플래닛",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "boys-ii-planet"
+      }
+    }
+  }
+}

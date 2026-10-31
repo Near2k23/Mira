@@ -1,0 +1,13 @@
+{
+  "tmdb": 232402,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "S Line",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "s-line"
+      }
+    }
+  }
+}

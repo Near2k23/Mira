@@ -1,0 +1,13 @@
+{
+  "tmdb": 236791,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักผ่านไลฟ์ เดอะซีรีส์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "live-in-love"
+      }
+    }
+  }
+}

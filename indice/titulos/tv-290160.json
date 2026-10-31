@@ -1,0 +1,13 @@
+{
+  "tmdb": 290160,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cásate con mi Esposo: Japón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "marry-my-husband-japan"
+      }
+    }
+  }
+}

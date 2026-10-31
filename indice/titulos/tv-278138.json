@@ -1,0 +1,13 @@
+{
+  "tmdb": 278138,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คุณวาฬร้านชำ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "whale-store-xoxo"
+      }
+    }
+  }
+}

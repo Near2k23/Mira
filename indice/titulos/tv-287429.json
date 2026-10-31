@@ -1,0 +1,13 @@
+{
+  "tmdb": 287429,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "三人夫婦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "two-husbands-one-wife"
+      }
+    }
+  }
+}

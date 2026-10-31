@@ -1,6 +1,6 @@
 {
- "pagina": 78,
- "agregados": 2075,
+ "pagina": 79,
+ "agregados": 2100,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -425,6 +425,10 @@
   {
    "id_o_slug": "tv-279345",
    "motivo": "validar falló: ERROR indice/titulos/tv-279345.json: sitio \"doramasflix\" slug \"Reset\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "bad-genius-the-series",
+   "motivo": "otra tarea: serie (país PH)"
   }
  ],
  "notas": [
@@ -765,7 +769,9 @@
   "tv-291914.json",
   "tv-286094.json",
   "tv-291742.json",
-  "tv-241166.json"
+  "tv-241166.json",
+  "tv-240150.json",
+  "tv-288912.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -3011,6 +3017,35 @@
   291971,
   288825,
   291742,
-  241166
+  241166,
+  258025,
+  253193,
+  290160,
+  257010,
+  252653,
+  287429,
+  292810,
+  292327,
+  236791,
+  292544,
+  240150,
+  279082,
+  290788,
+  280053,
+  273418,
+  288912,
+  240445,
+  280100,
+  278138,
+  261128,
+  231462,
+  295994,
+  232402,
+  238673,
+  211224,
+  284430,
+  291753,
+  262493,
+  292806
  ]
 }

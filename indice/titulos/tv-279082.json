@@ -1,0 +1,13 @@
+{
+  "tmdb": 279082,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "靈魂約定",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-promise-of-the-soul"
+      }
+    }
+  }
+}

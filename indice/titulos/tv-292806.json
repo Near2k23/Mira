@@ -1,0 +1,13 @@
+{
+  "tmdb": 292806,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "恋爱潜伏",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-lurking"
+      }
+    }
+  }
+}

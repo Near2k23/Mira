@@ -1,0 +1,13 @@
+{
+  "tmdb": 252653,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "วันแก้ตาย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "leap-day"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 238673,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아이쇼핑",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-defects"
+      }
+    }
+  }
+}

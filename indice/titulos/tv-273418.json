@@ -1,0 +1,13 @@
+{
+  "tmdb": 273418,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ley en la ciudad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "law-and-the-city"
+      }
+    }
+  }
+}

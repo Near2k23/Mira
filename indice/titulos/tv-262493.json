@@ -1,0 +1,13 @@
+{
+  "tmdb": 262493,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "หมอน่ารักคนนี้เป็นของผม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctors-mine"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 292810,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "十年倾城",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ten-years-of-unrequited-love"
+      }
+    }
+  }
+}

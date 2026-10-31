@@ -1,0 +1,13 @@
+{
+  "tmdb": 261128,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nuestra generación",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-generation"
+      }
+    }
+  }
+}

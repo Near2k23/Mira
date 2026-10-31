@@ -1,0 +1,13 @@
+{
+  "tmdb": 257010,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El gambito de la princesa",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-princesss-gambit"
+      }
+    }
+  }
+}
