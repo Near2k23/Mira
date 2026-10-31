@@ -1,6 +1,6 @@
 {
-  "pagina": 6,
-  "agregados": 103,
+  "pagina": 8,
+  "agregados": 128,
   "saltados": [
     {
       "id_o_slug": "cyberpunk-edgerunners-2",
@@ -48,6 +48,22 @@
     },
     {
       "id_o_slug": "seihantai-na-kimi-to-boku-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dandelion",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ichijouma-mankitsugurashi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kanojo-okarishimasu-5th-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
       "motivo": "no encontrado en TMDB (ja+animación+año)"
     }
   ],
@@ -102,7 +118,8 @@
     "tv-255358.json",
     "tv-314054.json",
     "tv-307585.json",
-    "tv-270603.json"
+    "tv-270603.json",
+    "tv-216467.json"
   ],
-  "idx": 116
+  "idx": 146
 }
