@@ -1,0 +1,13 @@
+{
+  "tmdb": 240437,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你也有今天",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-boss"
+      }
+    }
+  }
+}

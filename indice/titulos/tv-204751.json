@@ -1,0 +1,13 @@
+{
+  "tmdb": 204751,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "アニマルズ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "animals"
+      }
+    }
+  }
+}

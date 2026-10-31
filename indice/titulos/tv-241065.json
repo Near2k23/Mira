@@ -1,0 +1,13 @@
+{
+  "tmdb": 241065,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "恋恋红尘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "got-a-crush-on-you"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 218290,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "고려 거란 전쟁",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "goryeo-khitan-war"
+      }
+    }
+  }
+}

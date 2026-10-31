@@ -1,0 +1,13 @@
+{
+  "tmdb": 231699,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อาหารเป็นยังไงครับหมอ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cooking-crush"
+      }
+    }
+  }
+}

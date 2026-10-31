@@ -1,0 +1,13 @@
+{
+  "tmdb": 239577,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "黑白密码",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chase-the-truth"
+      }
+    }
+  }
+}

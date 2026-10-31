@@ -1,0 +1,13 @@
+{
+  "tmdb": 224900,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Como flores en la arena",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "like-flowers-in-sand"
+      }
+    }
+  }
+}

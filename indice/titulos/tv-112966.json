@@ -1,0 +1,13 @@
+{
+  "tmdb": 112966,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Aventura del Anillo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "adventure-of-the-ring"
+      }
+    }
+  }
+}

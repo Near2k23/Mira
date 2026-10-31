@@ -1,0 +1,13 @@
+{
+  "tmdb": 237422,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "7 วันก่อนวาเลนไทน์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "7-days-before-valentine"
+      }
+    }
+  }
+}

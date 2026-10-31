@@ -1,0 +1,13 @@
+{
+  "tmdb": 242483,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "漂洋过海再爱你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "youll-never-walk-alone"
+      }
+    }
+  }
+}

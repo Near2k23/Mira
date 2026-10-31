@@ -1,0 +1,13 @@
+{
+  "tmdb": 121659,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Yu Yu Hakusho",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yu-yu-hakusho"
+      }
+    }
+  }
+}

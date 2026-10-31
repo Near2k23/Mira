@@ -1,0 +1,13 @@
+{
+  "tmdb": 116406,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "3Bの恋人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-3bs-you-shouldnt-date"
+      }
+    }
+  }
+}

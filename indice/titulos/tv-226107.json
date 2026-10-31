@@ -1,0 +1,13 @@
+{
+  "tmdb": 226107,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "환상연가",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-song-for-illusion"
+      }
+    }
+  }
+}

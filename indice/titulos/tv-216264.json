@@ -1,0 +1,13 @@
+{
+  "tmdb": 216264,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "神隐",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-last-immortal"
+      }
+    }
+  }
+}

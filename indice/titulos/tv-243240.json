@@ -1,0 +1,13 @@
+{
+  "tmdb": 243240,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "向她逆光而来",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "all-of-her"
+      }
+    }
+  }
+}

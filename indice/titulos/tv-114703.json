@@ -1,0 +1,13 @@
+{
+  "tmdb": 114703,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "นิทานพันดาว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-tale-of-thousand-stars"
+      }
+    }
+  }
+}

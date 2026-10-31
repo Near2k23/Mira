@@ -1,0 +1,13 @@
+{
+  "tmdb": 231260,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เล่นจนเป็นเรื่อง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "playboyy"
+      }
+    }
+  }
+}

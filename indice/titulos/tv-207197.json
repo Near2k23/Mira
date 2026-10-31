@@ -1,0 +1,13 @@
+{
+  "tmdb": 207197,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "宁安如梦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "story-of-kunning-palace"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 155040,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Hombre es un Cupido",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-man-is-cupid"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 129637,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "古見さんは、コミュ症です。",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "komi-cant-communicate"
+      }
+    }
+  }
+}

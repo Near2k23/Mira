@@ -1,0 +1,14 @@
+{
+  "tmdb": 237411,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Sign",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sign"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 13 y TMDB tiene 12; no verificada"
+}

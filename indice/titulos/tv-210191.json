@@ -1,0 +1,13 @@
+{
+  "tmdb": 210191,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一念关山",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-journey-to-love"
+      }
+    }
+  }
+}

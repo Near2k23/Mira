@@ -1,0 +1,13 @@
+{
+  "tmdb": 238300,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Coin Digger",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "coin-digger"
+      }
+    }
+  }
+}

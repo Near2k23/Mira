@@ -1,0 +1,13 @@
+{
+  "tmdb": 238557,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La banda analógica",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "analog-squad"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 238549,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพื่อน ตาย DFF",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dead-friend-forever"
+      }
+    }
+  }
+}

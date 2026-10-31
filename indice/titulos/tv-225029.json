@@ -1,0 +1,13 @@
+{
+  "tmdb": 225029,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ไทม์ ผ่าน เวลา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "time-the-series"
+      }
+    }
+  }
+}

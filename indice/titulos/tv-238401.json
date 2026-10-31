@@ -1,0 +1,13 @@
+{
+  "tmdb": 238401,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คืนฝันของฉันและเธอ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "night-dream"
+      }
+    }
+  }
+}

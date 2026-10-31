@@ -1,0 +1,13 @@
+{
+  "tmdb": 240715,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "손가락만 까딱하면",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "snap-and-spark"
+      }
+    }
+  }
+}

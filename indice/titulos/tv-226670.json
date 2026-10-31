@@ -1,0 +1,13 @@
+{
+  "tmdb": 226670,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cherry Magic",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cherry-magic-the-series"
+      }
+    }
+  }
+}

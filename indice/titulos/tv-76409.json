@@ -1,0 +1,15 @@
+{
+  "tmdb": 76409,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kakegurui",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kakegurui",
+        "2": "kakegurui"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

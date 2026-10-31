@@ -1,0 +1,13 @@
+{
+  "tmdb": 233277,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Final Feliz",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-happy-ending"
+      }
+    }
+  }
+}

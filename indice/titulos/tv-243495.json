@@ -1,0 +1,13 @@
+{
+  "tmdb": 243495,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花青歌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "different-princess"
+      }
+    }
+  }
+}

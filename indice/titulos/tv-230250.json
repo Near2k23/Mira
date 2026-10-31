@@ -1,0 +1,13 @@
+{
+  "tmdb": 230250,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "很想很想你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-me-love-my-voice"
+      }
+    }
+  }
+}

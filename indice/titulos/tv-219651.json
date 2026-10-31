@@ -1,0 +1,13 @@
+{
+  "tmdb": 219651,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "De vuelta en Samdal-ri",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "welcome-to-samdal-ri"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 232433,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Romance a lo k-drama",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-like-a-k-drama"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 230550,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Universe Ticket",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "universe-ticket"
+      }
+    }
+  }
+}

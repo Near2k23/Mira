@@ -1,6 +1,6 @@
 {
- "pagina": 57,
- "agregados": 1530,
+ "pagina": 59,
+ "agregados": 1578,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -301,6 +301,30 @@
   {
    "id_o_slug": "sleep-with-me",
    "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "squid-game-the-challenge",
+   "motivo": "otra tarea: serie (país GB)"
+  },
+  {
+   "id_o_slug": "the-beginning-story-of-gi-eun",
+   "motivo": "otra tarea: serie (país ES)"
+  },
+  {
+   "id_o_slug": "dragons-of-wonderhatch",
+   "motivo": "otra tarea: anime"
+  },
+  {
+   "id_o_slug": "replacing-chef-chico",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "cigarette-girl",
+   "motivo": "otra tarea: serie (país ID)"
+  },
+  {
+   "id_o_slug": "tv-243435",
+   "motivo": "validar falló: ERROR indice/titulos/tv-243435.json: sitio \"doramasflix\" slug \"Have-a-crush-on-you\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -578,7 +602,11 @@
   "tv-102846.json",
   "tv-225929.json",
   "tv-233194.json",
-  "tv-232615.json"
+  "tv-232615.json",
+  "tv-235199.json",
+  "tv-76409.json",
+  "tv-237411.json",
+  "tv-135238.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2219,6 +2247,61 @@
   211260,
   232615,
   238566,
-  218177
+  218177,
+  218539,
+  207197,
+  235199,
+  220076,
+  76409,
+  218290,
+  232433,
+  230250,
+  213320,
+  239577,
+  231260,
+  230550,
+  237422,
+  240231,
+  238582,
+  238300,
+  231699,
+  210191,
+  238557,
+  215474,
+  121659,
+  155040,
+  215421,
+  219651,
+  229915,
+  237411,
+  218230,
+  135238,
+  226670,
+  241065,
+  216264,
+  230779,
+  240715,
+  224900,
+  237918,
+  242483,
+  209407,
+  233277,
+  112966,
+  226107,
+  221851,
+  240437,
+  116406,
+  114703,
+  240439,
+  238549,
+  243240,
+  204751,
+  238401,
+  243435,
+  243495,
+  225029,
+  129637,
+  222767,
+  220836
  ]
 }

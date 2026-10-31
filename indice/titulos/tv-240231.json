@@ -1,0 +1,13 @@
+{
+  "tmdb": 240231,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "对你不止是喜欢",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-may-love-you"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 213320,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "거래",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-perfect-deal"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 215421,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "BTS Monuments: Beyond The Star",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bts-monuments-beyond-the-star"
+      }
+    }
+  }
+}

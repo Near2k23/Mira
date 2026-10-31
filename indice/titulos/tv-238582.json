@@ -1,0 +1,13 @@
+{
+  "tmdb": 238582,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "极速悖论",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "we-go-fast-on-trust"
+      }
+    }
+  }
+}
