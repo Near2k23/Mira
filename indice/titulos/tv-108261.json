@@ -1,0 +1,13 @@
+{
+  "tmdb": 108261,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Señor Reina",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-queen"
+      }
+    }
+  }
+}

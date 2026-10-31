@@ -1,0 +1,14 @@
+{
+  "tmdb": 88463,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Arthdal Chronicles",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "arthdal-chronicles",
+        "2": "arthdal-chronicles"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 79818,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Jardín de meteoros",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meteor-garden"
+      }
+    }
+  }
+}

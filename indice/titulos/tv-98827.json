@@ -1,0 +1,13 @@
+{
+  "tmdb": 98827,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Callejero Novato",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "backstreet-rookie"
+      }
+    }
+  }
+}

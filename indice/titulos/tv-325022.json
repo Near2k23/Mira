@@ -1,0 +1,13 @@
+{
+  "tmdb": 325022,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "GTO",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gto-2026"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 37722,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sueña Sin Limites",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dream-high",
+        "2": "dream-high"
+      }
+    }
+  }
+}

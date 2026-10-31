@@ -1,0 +1,13 @@
+{
+  "tmdb": 240440,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "珠帘玉幕",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-story-of-pearl-girl"
+      }
+    }
+  }
+}

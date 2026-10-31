@@ -1,0 +1,13 @@
+{
+  "tmdb": 278605,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "南部档案",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "archives-the-nanyang-mystery"
+      }
+    }
+  }
+}

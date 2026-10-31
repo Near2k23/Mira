@@ -1,0 +1,13 @@
+{
+  "tmdb": 243761,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "굿파트너",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "good-partner"
+      }
+    }
+  }
+}

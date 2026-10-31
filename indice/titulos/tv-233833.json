@@ -1,0 +1,13 @@
+{
+  "tmdb": 233833,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "En tu mejor momento",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-your-radiant-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 99490,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Una vez más",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "once-again2020"
+      }
+    }
+  }
+}

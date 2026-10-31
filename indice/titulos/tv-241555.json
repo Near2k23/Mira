@@ -1,0 +1,13 @@
+{
+  "tmdb": 241555,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "创造营亚洲",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chuang-asia-thailand"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 252318,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "长乐曲",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "melody-of-golden-age"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 194797,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Doona!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doona"
+      }
+    }
+  }
+}

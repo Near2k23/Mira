@@ -1,0 +1,13 @@
+{
+  "tmdb": 89959,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Extraños del infierno",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "strangers-from-hell"
+      }
+    }
+  }
+}

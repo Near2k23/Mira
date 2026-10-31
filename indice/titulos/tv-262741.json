@@ -1,0 +1,13 @@
+{
+  "tmdb": 262741,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Gloria Juvenil",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "youthful-glory"
+      }
+    }
+  }
+}

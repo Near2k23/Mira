@@ -1,0 +1,13 @@
+{
+  "tmdb": 247453,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Everyone Loves Me",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "everyone-loves-me"
+      }
+    }
+  }
+}

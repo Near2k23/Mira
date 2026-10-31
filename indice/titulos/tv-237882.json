@@ -1,0 +1,13 @@
+{
+  "tmdb": 237882,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "柳舟记",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "are-you-the-one"
+      }
+    }
+  }
+}

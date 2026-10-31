@@ -1,0 +1,14 @@
+{
+  "tmdb": 278887,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "外道の歌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-dogs-of-karma",
+        "2": "the-dogs-of-karma"
+      }
+    }
+  }
+}

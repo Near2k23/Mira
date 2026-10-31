@@ -1,0 +1,13 @@
+{
+  "tmdb": 287760,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "纯真年代的爱情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-story-in-the-1970s"
+      }
+    }
+  }
+}

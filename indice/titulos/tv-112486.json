@@ -1,0 +1,14 @@
+{
+  "tmdb": 112486,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Próxima Apuesta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "big-bet",
+        "2": "big-bet"
+      }
+    }
+  }
+}

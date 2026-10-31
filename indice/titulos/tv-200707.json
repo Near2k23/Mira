@@ -1,0 +1,14 @@
+{
+  "tmdb": 200707,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Fuga de los Siete",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "7-escape-war-for-survival",
+        "2": "7-escape-war-for-survival"
+      }
+    }
+  }
+}

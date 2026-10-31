@@ -1,0 +1,13 @@
+{
+  "tmdb": 245079,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Traición y redención",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hyper-knife"
+      }
+    }
+  }
+}

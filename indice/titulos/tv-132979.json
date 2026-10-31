@@ -1,0 +1,13 @@
+{
+  "tmdb": 132979,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El malo y el loco",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bad-and-crazy"
+      }
+    }
+  }
+}

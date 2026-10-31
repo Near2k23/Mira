@@ -1,0 +1,13 @@
+{
+  "tmdb": 233686,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Karma",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "karma"
+      }
+    }
+  }
+}
