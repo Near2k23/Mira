@@ -1,0 +1,13 @@
+{
+  "tmdb": 298994,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Villager of Level 999",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lv999-no-murabito"
+      }
+    }
+  }
+}

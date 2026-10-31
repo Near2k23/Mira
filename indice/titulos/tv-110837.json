@@ -1,0 +1,13 @@
+{
+  "tmdb": 110837,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bungo Stray Dogs Wan!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "bungou-stray-dogs-wan-2"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 324502,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Overgeared",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tempal-item-no-chikara"
+      }
+    }
+  },
+  "nota": "tioanime 2026: 5 cap. publicados de 12 en TMDB (en emisión)."
+}

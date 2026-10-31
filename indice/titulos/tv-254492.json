@@ -1,0 +1,13 @@
+{
+  "tmdb": 254492,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hana-Kimi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "hanazakari-no-kimitachi-e-2nd-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 300112,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BanG Dream! Yume Mita",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bang-dream-yumemita"
+      }
+    }
+  }
+}

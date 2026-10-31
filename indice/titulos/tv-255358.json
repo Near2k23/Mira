@@ -8,6 +8,15 @@
       "temporadas": {
         "1": "koukaku-kidoutai-tv"
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "koukaku-kidoutai-tv"
+      },
+      "desfase": {
+        "1": 1
+      }
     }
-  }
+  },
+  "nota": "tioanime koukaku-kidoutai-tv: 9 cap. vs 10 en TMDB T1; revisar."
 }

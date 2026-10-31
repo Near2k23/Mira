@@ -1,0 +1,13 @@
+{
+  "tmdb": 312507,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dara-san of the Reiwa Era",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "reiwa-no-darasan"
+      }
+    }
+  }
+}
