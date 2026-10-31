@@ -1,0 +1,13 @@
+{
+  "tmdb": 331549,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "寒衣入心",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hanyi-enters-the-heart"
+      }
+    }
+  }
+}

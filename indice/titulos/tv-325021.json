@@ -1,0 +1,14 @@
+{
+  "tmdb": 325021,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "名探偵のままでいて",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-grandfather-the-master-detective"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

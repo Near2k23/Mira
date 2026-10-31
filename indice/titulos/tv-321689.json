@@ -1,0 +1,13 @@
+{
+  "tmdb": 321689,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ALIUS -特定事象捜査ファイル-",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "alius"
+      }
+    }
+  }
+}

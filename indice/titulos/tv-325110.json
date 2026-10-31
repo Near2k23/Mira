@@ -1,0 +1,13 @@
+{
+  "tmdb": 325110,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Your Sky ハレのち恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-sky-hare-nochi-koi"
+      }
+    }
+  }
+}

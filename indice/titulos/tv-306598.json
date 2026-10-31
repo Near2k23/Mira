@@ -1,0 +1,13 @@
+{
+  "tmdb": 306598,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "จุดจีบสายมู",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unlucky-bae"
+      }
+    }
+  }
+}

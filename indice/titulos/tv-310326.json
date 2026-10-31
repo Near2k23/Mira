@@ -1,0 +1,13 @@
+{
+  "tmdb": 310326,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑이 온다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-on-the-menu"
+      }
+    }
+  }
+}

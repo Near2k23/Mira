@@ -1,0 +1,13 @@
+{
+  "tmdb": 306629,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักนี้ต้องเสิร์ฟ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "match-point"
+      }
+    }
+  }
+}

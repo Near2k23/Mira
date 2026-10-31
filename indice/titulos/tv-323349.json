@@ -1,0 +1,13 @@
+{
+  "tmdb": 323349,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "危情逆恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fatal-desire"
+      }
+    }
+  }
+}

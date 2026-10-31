@@ -1,0 +1,13 @@
+{
+  "tmdb": 330741,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나의 AI 파트너 - 기이안 연애",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-ai-partner-strange-love"
+      }
+    }
+  }
+}

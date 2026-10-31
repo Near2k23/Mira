@@ -1,0 +1,13 @@
+{
+  "tmdb": 137352,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Love With Benefits",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-with-benefits"
+      }
+    }
+  }
+}

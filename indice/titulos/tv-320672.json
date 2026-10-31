@@ -1,0 +1,13 @@
+{
+  "tmdb": 320672,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สกุณาซ่อนรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "whisper-of-desire"
+      }
+    }
+  }
+}

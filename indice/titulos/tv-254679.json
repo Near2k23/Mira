@@ -1,0 +1,13 @@
+{
+  "tmdb": 254679,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักได้ไหม ยัยตัวร้าย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unlock-your-love"
+      }
+    }
+  }
+}

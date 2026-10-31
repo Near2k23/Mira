@@ -1,0 +1,13 @@
+{
+  "tmdb": 122130,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "หรือนี่คือพรหมลิขิต",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "y-destiny"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 313642,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "昭阳公主",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-shadow-sovereign"
+      }
+    }
+  }
+}

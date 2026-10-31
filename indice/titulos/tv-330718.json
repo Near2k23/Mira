@@ -1,0 +1,13 @@
+{
+  "tmdb": 330718,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "罪爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dearest"
+      }
+    }
+  }
+}

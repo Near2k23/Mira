@@ -1,0 +1,14 @@
+{
+  "tmdb": 332179,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스트릿 월드 파이터: 디렉터스 워",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "street-world-fighter-directors-war"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (330058) no coincidía; se usó 332179 buscando por nombre y año"
+}

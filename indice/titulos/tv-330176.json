@@ -1,0 +1,13 @@
+{
+  "tmdb": 330176,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "모태솔로 애프터서비스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "better-late-than-single-after-service"
+      }
+    }
+  }
+}

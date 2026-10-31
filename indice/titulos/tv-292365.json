@@ -1,0 +1,13 @@
+{
+  "tmdb": 292365,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "少侠逆袭攻略",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "young-swordsman"
+      }
+    }
+  }
+}

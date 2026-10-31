@@ -1,0 +1,13 @@
+{
+  "tmdb": 247402,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "吾凰在上之凤御四方",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-great-queen"
+      }
+    }
+  }
+}

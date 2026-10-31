@@ -1,0 +1,14 @@
+{
+  "tmdb": 323579,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "GATE24: Protección fronteriza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gate24-the-border"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 9; no verificada"
+}

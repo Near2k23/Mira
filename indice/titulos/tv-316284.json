@@ -1,0 +1,13 @@
+{
+  "tmdb": 316284,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "너의 몸에 접속 중...",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "logged-into-your-body"
+      }
+    }
+  }
+}
