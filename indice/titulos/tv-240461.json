@@ -1,0 +1,13 @@
+{
+  "tmdb": 240461,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Lover Merman",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lover-merman"
+      }
+    }
+  }
+}

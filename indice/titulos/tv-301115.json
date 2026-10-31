@@ -1,0 +1,13 @@
+{
+  "tmdb": 301115,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "锦绣令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beyond-the-loop"
+      }
+    }
+  }
+}

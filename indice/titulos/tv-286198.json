@@ -1,0 +1,13 @@
+{
+  "tmdb": 286198,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "신사장 프로젝트",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shins-project"
+      }
+    }
+  }
+}

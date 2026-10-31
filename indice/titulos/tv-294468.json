@@ -1,0 +1,13 @@
+{
+  "tmdb": 294468,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "繁欢",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lust-and-lies"
+      }
+    }
+  }
+}

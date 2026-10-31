@@ -1,0 +1,13 @@
+{
+  "tmdb": 223326,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tempest",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tempest"
+      }
+    }
+  }
+}

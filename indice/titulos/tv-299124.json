@@ -1,0 +1,13 @@
+{
+  "tmdb": 299124,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "퍼스트레이디",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "first-lady"
+      }
+    }
+  }
+}

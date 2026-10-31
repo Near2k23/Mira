@@ -1,0 +1,13 @@
+{
+  "tmdb": 292760,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "婢女",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-maid"
+      }
+    }
+  }
+}

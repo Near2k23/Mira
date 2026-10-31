@@ -1,0 +1,15 @@
+{
+  "tmdb": 294572,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "海昏行",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "voyage-to-haihun",
+        "2": "voyage-to-haihun"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

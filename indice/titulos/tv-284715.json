@@ -1,0 +1,13 @@
+{
+  "tmdb": 284715,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "照镜辞",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "echoes-of-the-self"
+      }
+    }
+  }
+}

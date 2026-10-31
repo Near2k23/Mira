@@ -1,0 +1,13 @@
+{
+  "tmdb": 252648,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เกมทอยทะลุมิติ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-dark-dice"
+      }
+    }
+  }
+}

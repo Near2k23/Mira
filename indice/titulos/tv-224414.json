@@ -1,0 +1,13 @@
+{
+  "tmdb": 224414,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tú y todo lo demás",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-and-everything-else"
+      }
+    }
+  }
+}

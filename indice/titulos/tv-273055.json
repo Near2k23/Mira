@@ -1,0 +1,14 @@
+{
+  "tmdb": 273055,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "โอกาส อากาศ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "air-moment"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 7 de 10 episodios"
+}

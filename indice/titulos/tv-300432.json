@@ -1,0 +1,13 @@
+{
+  "tmdb": 300432,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Historia de Bihyun: Maestro Encantado de los Duendes",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-story-of-bihyung-enchanted-master-of-the-goblin"
+      }
+    }
+  }
+}

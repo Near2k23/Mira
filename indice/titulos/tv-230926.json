@@ -1,0 +1,13 @@
+{
+  "tmdb": 230926,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "탁류",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-murky-stream"
+      }
+    }
+  }
+}

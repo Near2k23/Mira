@@ -1,0 +1,13 @@
+{
+  "tmdb": 299056,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "タクミくんシリーズ －Drama－",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "takumi-kun-series-drama"
+      }
+    }
+  }
+}

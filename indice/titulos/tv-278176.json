@@ -1,0 +1,13 @@
+{
+  "tmdb": 278176,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "MuTeLuv",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "muteluv"
+      }
+    }
+  }
+}

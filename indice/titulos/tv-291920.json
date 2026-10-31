@@ -1,0 +1,13 @@
+{
+  "tmdb": 291920,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คนโปรดของควีน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dangerous-queen"
+      }
+    }
+  }
+}

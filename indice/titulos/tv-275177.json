@@ -1,0 +1,13 @@
+{
+  "tmdb": 275177,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "달까지 가자",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-the-moon"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 273817,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "暗渡春华",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spring-fever"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 294625,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "茧成蝶",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "long-planned-love"
+      }
+    }
+  }
+}

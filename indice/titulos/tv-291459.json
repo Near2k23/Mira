@@ -1,0 +1,13 @@
+{
+  "tmdb": 291459,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Player ไม่อาจห้ามรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "player"
+      }
+    }
+  }
+}

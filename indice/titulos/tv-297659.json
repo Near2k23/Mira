@@ -1,0 +1,14 @@
+{
+  "tmdb": 297659,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "친밀한 리플리",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-graceful-liar"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 100 de 101 episodios"
+}

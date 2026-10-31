@@ -1,0 +1,13 @@
+{
+  "tmdb": 300364,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "白夜宸缘起三生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sun-in-the-dark"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 279322,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mobius: Día de insomnio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mobius"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 241315,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mouse",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mouse-thai-2025"
+      }
+    }
+  }
+}

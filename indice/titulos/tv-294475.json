@@ -1,0 +1,13 @@
+{
+  "tmdb": 294475,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "双生契",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twin-fates"
+      }
+    }
+  }
+}

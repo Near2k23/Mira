@@ -1,0 +1,13 @@
+{
+  "tmdb": 297519,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "以她之名",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "return-of-the-queen"
+      }
+    }
+  }
+}

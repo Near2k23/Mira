@@ -1,0 +1,13 @@
+{
+  "tmdb": 274621,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "蓄意宠爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-conspiracy"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 274243,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "进阶的王妃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-queen-of-attack"
+      }
+    }
+  }
+}

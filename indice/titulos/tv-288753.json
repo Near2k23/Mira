@@ -1,0 +1,14 @@
+{
+  "tmdb": 288753,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักสลับลาย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-twin-gambit"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 14 de 24 episodios"
+}

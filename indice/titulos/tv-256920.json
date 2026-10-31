@@ -1,0 +1,13 @@
+{
+  "tmdb": 256920,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "许我耀眼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "loves-ambition"
+      }
+    }
+  }
+}

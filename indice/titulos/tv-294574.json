@@ -1,0 +1,13 @@
+{
+  "tmdb": 294574,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "错心",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-fleeting-dream"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 275593,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ms Incognita",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ms-incognito"
+      }
+    }
+  }
+}

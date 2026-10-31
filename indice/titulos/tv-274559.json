@@ -1,0 +1,13 @@
+{
+  "tmdb": 274559,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เกม รัก ลวง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-wicked-game"
+      }
+    }
+  }
+}

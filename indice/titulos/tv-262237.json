@@ -1,0 +1,13 @@
+{
+  "tmdb": 262237,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마이 유스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-youth"
+      }
+    }
+  }
+}

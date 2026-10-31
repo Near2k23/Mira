@@ -1,0 +1,13 @@
+{
+  "tmdb": 273274,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "宴遇永安",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yummy-yummy-yummy"
+      }
+    }
+  }
+}

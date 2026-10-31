@@ -1,0 +1,13 @@
+{
+  "tmdb": 290453,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春色撩人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-crush"
+      }
+    }
+  }
+}
