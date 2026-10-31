@@ -1,0 +1,13 @@
+{
+  "tmdb": 276903,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ホットスポット",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-hot-spot"
+      }
+    }
+  }
+}

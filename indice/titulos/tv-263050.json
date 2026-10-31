@@ -1,0 +1,13 @@
+{
+  "tmdb": 263050,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夺娶",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "stolen-love"
+      }
+    }
+  }
+}

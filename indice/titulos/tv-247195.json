@@ -1,0 +1,13 @@
+{
+  "tmdb": 247195,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "印象·青春",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "impression-of-youth"
+      }
+    }
+  }
+}

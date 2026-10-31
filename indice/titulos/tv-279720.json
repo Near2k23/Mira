@@ -1,0 +1,13 @@
+{
+  "tmdb": 279720,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "コールミー・バイ・ノーネーム",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "call-me-by-no-name"
+      }
+    }
+  }
+}

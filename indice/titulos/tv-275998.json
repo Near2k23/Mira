@@ -1,0 +1,13 @@
+{
+  "tmdb": 275998,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿El pavo real bailaba?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "who-saw-the-peacock-dance-in-the-jungle"
+      }
+    }
+  }
+}

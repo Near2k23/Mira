@@ -1,0 +1,13 @@
+{
+  "tmdb": 241509,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักรสนม(จืด)",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flirt-milk"
+      }
+    }
+  }
+}

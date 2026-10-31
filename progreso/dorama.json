@@ -1,6 +1,6 @@
 {
- "pagina": 72,
- "agregados": 1923,
+ "pagina": 73,
+ "agregados": 1948,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -389,6 +389,14 @@
   {
    "id_o_slug": "how-to-spot-a-red-flag",
    "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "always-my-general",
+   "motivo": "no está en el sitio (sin episodios)"
+  },
+  {
+   "id_o_slug": "tv-278132",
+   "motivo": "validar falló: ERROR indice/titulos/tv-278132.json: sitio \"doramasflix\" slug \"LoveIsTooHardforanHeir-2025\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -708,7 +716,9 @@
   "tv-323725.json",
   "tv-233912.json",
   "tv-226103.json",
-  "tv-243083.json"
+  "tv-243083.json",
+  "tv-216261.json",
+  "tv-271890.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2780,6 +2790,35 @@
   237329,
   279206,
   256725,
-  236457
+  236457,
+  277942,
+  278132,
+  252649,
+  278247,
+  239006,
+  279720,
+  279412,
+  220073,
+  263050,
+  229213,
+  247195,
+  217553,
+  254821,
+  281050,
+  233347,
+  282578,
+  278969,
+  241509,
+  270723,
+  216261,
+  260807,
+  255697,
+  276903,
+  252774,
+  271890,
+  232610,
+  276525,
+  12539,
+  275998
  ]
 }

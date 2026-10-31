@@ -1,0 +1,13 @@
+{
+  "tmdb": 282578,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "FC Soldout",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fc-soldout"
+      }
+    }
+  }
+}

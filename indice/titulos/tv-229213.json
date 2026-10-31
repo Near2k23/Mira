@@ -1,0 +1,13 @@
+{
+  "tmdb": 229213,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "相思令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "everlasting-longing"
+      }
+    }
+  }
+}

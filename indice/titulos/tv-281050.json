@@ -1,0 +1,13 @@
+{
+  "tmdb": 281050,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "私は整形美人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "watashi-wa-seikei-bijin"
+      }
+    }
+  }
+}

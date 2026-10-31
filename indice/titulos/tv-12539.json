@@ -1,0 +1,13 @@
+{
+  "tmdb": 12539,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sonata de Invierno",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "winter-sonata"
+      }
+    }
+  }
+}

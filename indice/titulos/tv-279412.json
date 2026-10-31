@@ -1,0 +1,13 @@
+{
+  "tmdb": 279412,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ふったらどしゃぶり",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-it-rains-it-pours"
+      }
+    }
+  }
+}

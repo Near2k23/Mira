@@ -1,0 +1,13 @@
+{
+  "tmdb": 252649,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เธมโป้ Heart That Skips a Beat",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "thamepo-heart-that-skips-a-beat"
+      }
+    }
+  }
+}

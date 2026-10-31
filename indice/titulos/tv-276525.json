@@ -1,0 +1,13 @@
+{
+  "tmdb": 276525,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "涅槃千金",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ms-nirvana"
+      }
+    }
+  }
+}

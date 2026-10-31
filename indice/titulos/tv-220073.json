@@ -1,0 +1,13 @@
+{
+  "tmdb": 220073,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Maldito día de suerte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-bloody-lucky-day"
+      }
+    }
+  }
+}

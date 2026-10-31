@@ -1,0 +1,13 @@
+{
+  "tmdb": 260807,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mate เพื่อนรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mate"
+      }
+    }
+  }
+}

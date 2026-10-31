@@ -1,0 +1,13 @@
+{
+  "tmdb": 255697,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "킥킥킥킥",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kick-kick-kick-kick"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 277942,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "这次换我先回头",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ill-turn-back-this-time"
+      }
+    }
+  }
+}

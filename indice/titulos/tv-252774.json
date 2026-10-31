@@ -1,0 +1,13 @@
+{
+  "tmdb": 252774,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "白色橄榄树",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-white-olive-tree"
+      }
+    }
+  }
+}

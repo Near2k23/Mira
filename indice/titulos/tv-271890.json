@@ -1,0 +1,14 @@
+{
+  "tmdb": 271890,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "독수리 5형제를 부탁해!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "for-eagle-brothers"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 50 de 54 episodios"
+}

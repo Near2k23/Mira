@@ -1,0 +1,13 @@
+{
+  "tmdb": 232610,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "漫影寻踪",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "back-for-you"
+      }
+    }
+  }
+}
