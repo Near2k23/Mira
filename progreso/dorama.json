@@ -1,6 +1,6 @@
 {
- "pagina": 21,
- "agregados": 571,
+ "pagina": 22,
+ "agregados": 599,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -45,6 +45,10 @@
   {
    "id_o_slug": "geri-story",
    "motivo": "otra tarea: serie (país ID)"
+  },
+  {
+   "id_o_slug": "fantasy-westward-journey",
+   "motivo": "no está en el sitio (sin episodios)"
   }
  ],
  "notas": [
@@ -150,7 +154,12 @@
   "tv-119769.json",
   "tv-116041.json",
   "tv-95487.json",
-  "tv-104735.json"
+  "tv-104735.json",
+  "tv-83639.json",
+  "tv-93972.json",
+  "tv-73268.json",
+  "tv-62693.json",
+  "tv-125061.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -772,6 +781,35 @@
   66218,
   90701,
   106850,
-  123707
+  123707,
+  83639,
+  121051,
+  124079,
+  124268,
+  120318,
+  124102,
+  122978,
+  95279,
+  93972,
+  96130,
+  120314,
+  121913,
+  46551,
+  89381,
+  113623,
+  119466,
+  89854,
+  123128,
+  124775,
+  73268,
+  113760,
+  124426,
+  116708,
+  75953,
+  110632,
+  116386,
+  62693,
+  125061,
+  125305
  ]
 }

@@ -1,0 +1,13 @@
+{
+  "tmdb": 124426,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Es mío",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mine"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 75953,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sí, Mi General",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-my-general"
+      }
+    }
+  }
+}

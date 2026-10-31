@@ -1,0 +1,13 @@
+{
+  "tmdb": 125305,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "完美的他",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-crossed"
+      }
+    }
+  }
+}

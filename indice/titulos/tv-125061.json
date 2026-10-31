@@ -1,0 +1,14 @@
+{
+  "tmdb": 125061,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "遇龙",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miss-the-dragon"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 37 y TMDB tiene 36; no verificada"
+}

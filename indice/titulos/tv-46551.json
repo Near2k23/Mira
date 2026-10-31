@@ -1,0 +1,13 @@
+{
+  "tmdb": 46551,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amo a Lee Tae Ri",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-love-lee-tae-ri"
+      }
+    }
+  }
+}

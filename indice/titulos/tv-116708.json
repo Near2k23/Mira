@@ -1,0 +1,13 @@
+{
+  "tmdb": 116708,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "이미테이션",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "imitation"
+      }
+    }
+  }
+}

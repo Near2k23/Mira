@@ -1,0 +1,13 @@
+{
+  "tmdb": 124079,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "拜托了班长",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "please-classmate"
+      }
+    }
+  }
+}

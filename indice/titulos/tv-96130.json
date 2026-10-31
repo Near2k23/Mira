@@ -1,0 +1,13 @@
+{
+  "tmdb": 96130,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Prince of Tennis ~ Match! Tennis Juniors ~",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-prince-of-tennis-match-tennis-juniors"
+      }
+    }
+  }
+}

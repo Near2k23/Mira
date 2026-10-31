@@ -1,0 +1,13 @@
+{
+  "tmdb": 124775,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "奇妙的命运呀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wonderful-fate"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 113760,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "焕脸",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "new-face"
+      }
+    }
+  }
+}

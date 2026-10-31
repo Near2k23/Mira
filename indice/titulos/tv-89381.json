@@ -1,0 +1,13 @@
+{
+  "tmdb": 89381,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ผู้ชายให้เช่า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "boy-for-rent"
+      }
+    }
+  }
+}

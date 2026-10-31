@@ -1,0 +1,13 @@
+{
+  "tmdb": 124268,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "乌鸦小姐与蜥蜴先生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miss-crow-with-mr-lizard"
+      }
+    }
+  }
+}

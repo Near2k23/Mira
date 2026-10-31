@@ -1,0 +1,13 @@
+{
+  "tmdb": 113623,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "보쌈 - 운명을 훔치다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bossam-steal-the-fate"
+      }
+    }
+  }
+}

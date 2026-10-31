@@ -1,0 +1,13 @@
+{
+  "tmdb": 123128,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "白玉思无瑕",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-like-white-jade"
+      }
+    }
+  }
+}

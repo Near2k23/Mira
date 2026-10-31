@@ -1,0 +1,13 @@
+{
+  "tmdb": 119466,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Juventud de mayo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "youth-of-may"
+      }
+    }
+  }
+}
