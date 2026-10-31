@@ -1,0 +1,13 @@
+{
+  "tmdb": 306979,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "LOVE (X)",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-x"
+      }
+    }
+  }
+}

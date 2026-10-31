@@ -1,0 +1,14 @@
+{
+  "tmdb": 318884,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "长生契",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "live-forever"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 24 y TMDB tiene 20; no verificada"
+}

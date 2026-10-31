@@ -1,0 +1,13 @@
+{
+  "tmdb": 289078,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我不是大师",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-prophet"
+      }
+    }
+  }
+}

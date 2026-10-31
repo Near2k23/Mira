@@ -1,0 +1,13 @@
+{
+  "tmdb": 331979,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Delirio Mortal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "delusion"
+      }
+    }
+  }
+}

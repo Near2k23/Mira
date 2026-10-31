@@ -1,0 +1,13 @@
+{
+  "tmdb": 294990,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Primavera de la Espada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spring-of-the-blade"
+      }
+    }
+  }
+}

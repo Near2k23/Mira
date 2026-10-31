@@ -1,0 +1,13 @@
+{
+  "tmdb": 65552,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "프로듀스 101",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "produce-101"
+      }
+    }
+  }
+}

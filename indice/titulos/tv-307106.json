@@ -1,0 +1,13 @@
+{
+  "tmdb": 307106,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Entre pasos: En busca de un sueño",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "between-steps"
+      }
+    }
+  }
+}

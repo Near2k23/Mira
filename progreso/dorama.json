@@ -1,15 +1,25 @@
 {
- "pagina": 2,
- "agregados": 59,
+ "pagina": 3,
+ "agregados": 87,
  "saltados": [
   {
    "id_o_slug": "patawid",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "project-loki",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "our-yesterdays-escape",
    "motivo": "otra tarea: serie (país PH)"
   }
  ],
  "notas": [
   "tv-332637.json",
-  "tv-315142.json"
+  "tv-315142.json",
+  "tv-284358.json",
+  "tv-318884.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -71,6 +81,34 @@
   335131,
   333038,
   324799,
-  336183
+  336183,
+  319728,
+  237328,
+  307106,
+  325742,
+  339629,
+  306979,
+  334321,
+  322852,
+  318239,
+  284358,
+  316702,
+  322051,
+  295263,
+  297982,
+  335870,
+  65552,
+  306614,
+  306627,
+  313263,
+  315327,
+  294636,
+  301489,
+  331979,
+  294990,
+  289078,
+  318884,
+  239384,
+  308261
  ]
 }

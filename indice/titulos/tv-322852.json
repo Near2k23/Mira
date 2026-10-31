@@ -1,0 +1,13 @@
+{
+  "tmdb": 322852,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Black Trick: El abogado que mueve los hilos de la justicia",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "black-trick-the-lawyer-who-controls-justice"
+      }
+    }
+  }
+}

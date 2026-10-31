@@ -1,0 +1,13 @@
+{
+  "tmdb": 239384,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สัมผัสกันต์ธีร์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "teach-me-touch-me"
+      }
+    }
+  }
+}

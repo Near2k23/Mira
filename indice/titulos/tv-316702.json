@@ -1,0 +1,13 @@
+{
+  "tmdb": 316702,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La mesa final",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "final-table"
+      }
+    }
+  }
+}

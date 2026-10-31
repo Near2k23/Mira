@@ -1,0 +1,13 @@
+{
+  "tmdb": 319728,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ver Doble (2026)",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "seeing-double"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 306614,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "หงเสนคลุกฝุ่น",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lovers-and-gangsters"
+      }
+    }
+  }
+}

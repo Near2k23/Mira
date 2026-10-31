@@ -1,0 +1,13 @@
+{
+  "tmdb": 339629,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "仿生迷踪",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bionic-trace"
+      }
+    }
+  }
+}

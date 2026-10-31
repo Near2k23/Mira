@@ -1,0 +1,13 @@
+{
+  "tmdb": 325742,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "游戏BUG修复中",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "debug-my-heart"
+      }
+    }
+  }
+}

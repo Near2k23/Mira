@@ -1,0 +1,13 @@
+{
+  "tmdb": 308261,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ข่มขลัง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "khom-khlang"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 318239,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Oops! Mysterious Sounds",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oops-mysterious-sounds"
+      }
+    }
+  }
+}

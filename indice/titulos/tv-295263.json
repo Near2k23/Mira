@@ -1,0 +1,13 @@
+{
+  "tmdb": 295263,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ที่รักสารวัตรเธียร์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "police-in-love"
+      }
+    }
+  }
+}

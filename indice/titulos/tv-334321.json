@@ -1,0 +1,13 @@
+{
+  "tmdb": 334321,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "SQUALL",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "squall"
+      }
+    }
+  }
+}

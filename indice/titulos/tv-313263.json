@@ -1,0 +1,13 @@
+{
+  "tmdb": 313263,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อยากจะดังหรือยังนะ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lost-to-light"
+      }
+    }
+  }
+}

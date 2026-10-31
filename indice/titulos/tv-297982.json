@@ -1,0 +1,13 @@
+{
+  "tmdb": 297982,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "无可替代",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "irreplaceable"
+      }
+    }
+  }
+}

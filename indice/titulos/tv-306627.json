@@ -1,0 +1,13 @@
+{
+  "tmdb": 306627,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "WEIRDO-101 แรงโน้มถ่วงระหว่างเรา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "weirdo-101"
+      }
+    }
+  }
+}

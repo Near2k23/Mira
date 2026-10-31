@@ -1,0 +1,13 @@
+{
+  "tmdb": 237328,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "บ้านหลอน On Sale",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "peaceful-property"
+      }
+    }
+  }
+}

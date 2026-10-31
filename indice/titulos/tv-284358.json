@@ -1,0 +1,15 @@
+{
+  "tmdb": 284358,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "식스센스: 시티투어",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sixth-sense-city-tour",
+        "2": "sixth-sense-city-tour"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}
