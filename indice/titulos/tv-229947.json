@@ -1,0 +1,14 @@
+{
+  "tmdb": 229947,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우아한 제국",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "elegant-empire"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 100 de 105 episodios"
+}

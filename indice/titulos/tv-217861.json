@@ -1,0 +1,13 @@
+{
+  "tmdb": 217861,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "หัวใจในสายลม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dangerous-romance"
+      }
+    }
+  }
+}

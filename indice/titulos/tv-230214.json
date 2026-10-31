@@ -1,0 +1,13 @@
+{
+  "tmdb": 230214,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "結婚予定日",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-date-of-marriage"
+      }
+    }
+  }
+}

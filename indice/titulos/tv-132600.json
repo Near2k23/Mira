@@ -1,0 +1,13 @@
+{
+  "tmdb": 132600,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Yonder",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yonder"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 231300,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Rak Mai Ru Phasa - Love In Translation",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-translation"
+      }
+    }
+  }
+}

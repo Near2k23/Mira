@@ -1,0 +1,13 @@
+{
+  "tmdb": 231484,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "偏偏宠爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "just-spoil-you"
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
- "pagina": 53,
- "agregados": 1428,
+ "pagina": 54,
+ "agregados": 1454,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -273,6 +273,14 @@
   {
    "id_o_slug": "my-magic-closet",
    "motivo": "otra tarea: serie (país BR)"
+  },
+  {
+   "id_o_slug": "tokyo-vice",
+   "motivo": "otra tarea: serie (país US)"
+  },
+  {
+   "id_o_slug": "tv-206693",
+   "motivo": "validar falló: ERROR indice/titulos/tv-206693.json: sitio \"doramasflix\" slug \"My-dearest\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -527,7 +535,13 @@
   "tv-101146.json",
   "tv-130270.json",
   "tv-229242.json",
-  "tv-210524.json"
+  "tv-210524.json",
+  "tv-231398.json",
+  "tv-227119.json",
+  "tv-206693.json",
+  "tv-195219.json",
+  "tv-217945.json",
+  "tv-229947.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2054,6 +2068,35 @@
   229689,
   231071,
   211217,
-  223074
+  223074,
+  222241,
+  231306,
+  220464,
+  231398,
+  210781,
+  231030,
+  211309,
+  227119,
+  206693,
+  225941,
+  124578,
+  96997,
+  231484,
+  132600,
+  195219,
+  217945,
+  229947,
+  131892,
+  126485,
+  217807,
+  217088,
+  230735,
+  232361,
+  217861,
+  212292,
+  210107,
+  231300,
+  156888,
+  230214
  ]
 }

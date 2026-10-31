@@ -1,0 +1,13 @@
+{
+  "tmdb": 124578,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Más Allá de la Tristeza: La serie",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "more-than-blue-the-series"
+      }
+    }
+  }
+}

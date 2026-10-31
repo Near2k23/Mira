@@ -1,0 +1,13 @@
+{
+  "tmdb": 222241,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kot Haeng Rak Dueng Dut - Laws of Attraction",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "laws-of-attraction"
+      }
+    }
+  }
+}

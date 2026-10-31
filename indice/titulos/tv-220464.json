@@ -1,0 +1,13 @@
+{
+  "tmdb": 220464,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "브로 앤 마블",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bromarble-in-dubai"
+      }
+    }
+  }
+}

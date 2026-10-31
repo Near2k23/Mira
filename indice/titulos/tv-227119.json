@@ -1,0 +1,14 @@
+{
+  "tmdb": 227119,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "真夏のシンデレラ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cinderellas-of-midsummer"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 11 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 217088,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El voto mortal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-killing-vote"
+      }
+    }
+  }
+}

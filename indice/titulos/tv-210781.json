@@ -1,0 +1,13 @@
+{
+  "tmdb": 210781,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Mentiroso Adorable",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-lovely-liar"
+      }
+    }
+  }
+}

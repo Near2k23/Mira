@@ -1,0 +1,13 @@
+{
+  "tmdb": 131892,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Quien Está a tu Lado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "whos-by-your-side"
+      }
+    }
+  }
+}

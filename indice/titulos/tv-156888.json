@@ -1,0 +1,13 @@
+{
+  "tmdb": 156888,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La chica enmascarada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mask-girl"
+      }
+    }
+  }
+}

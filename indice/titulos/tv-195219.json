@@ -1,0 +1,14 @@
+{
+  "tmdb": 195219,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "モトカレ←リトライ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "motokare-retry"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

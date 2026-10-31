@@ -1,0 +1,13 @@
+{
+  "tmdb": 230735,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "体感予報",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "taikan-yoho"
+      }
+    }
+  }
+}

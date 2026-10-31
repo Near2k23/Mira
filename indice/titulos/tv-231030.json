@@ -1,0 +1,13 @@
+{
+  "tmdb": 231030,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "따라 바람",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sing-my-crush"
+      }
+    }
+  }
+}

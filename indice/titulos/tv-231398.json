@@ -1,0 +1,14 @@
+{
+  "tmdb": 231398,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "NCT Universe: LASTART",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nct-universe-lastart"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 8 de 10 episodios"
+}

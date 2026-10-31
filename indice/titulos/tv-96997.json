@@ -1,0 +1,13 @@
+{
+  "tmdb": 96997,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Palacio Yanxi: Las Aventuras de la Princesa",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yanxi-palace-princess-adventures"
+      }
+    }
+  }
+}

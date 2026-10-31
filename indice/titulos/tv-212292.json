@@ -1,0 +1,13 @@
+{
+  "tmdb": 212292,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "หอมกลิ่นความรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-feel-you-linger-in-the-air"
+      }
+    }
+  }
+}
