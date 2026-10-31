@@ -8,17 +8,17 @@ import { validarTitulos } from '../scripts/indice/validar.mjs';
 // test/ queda un nivel bajo la raíz, aquí y cuando se copie a Mira.
 const RAIZ = path.resolve(import.meta.dirname, '..');
 
-test('los tres ejemplos de la plantilla son válidos', async () => {
+test('todo el índice es válido y conserva los tres ejemplos', async () => {
   const { errores, titulos } = await validarTitulos({ raiz: RAIZ });
-  assert.equal(errores.length, 0);
-  assert.deepEqual(
-    titulos.map((titulo) => titulo.archivo).sort(),
-    [
-      'indice/titulos/movie-635302.json',
-      'indice/titulos/tv-117376.json',
-      'indice/titulos/tv-85937.json',
-    ],
-  );
+  assert.deepEqual(errores, []);
+  const archivos = new Set(titulos.map((titulo) => titulo.archivo));
+  for (const ejemplo of [
+    'indice/titulos/movie-635302.json',
+    'indice/titulos/tv-117376.json',
+    'indice/titulos/tv-85937.json',
+  ]) {
+    assert.ok(archivos.has(ejemplo), ejemplo);
+  }
 });
 
 test('rechaza sitio desconocido, slug en mayúsculas y nombre de archivo', async () => {

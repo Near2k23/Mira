@@ -28,6 +28,15 @@ function anioDe(fecha) {
   return Number.isInteger(anio) ? anio : null;
 }
 
+// El catálogo lo baja cada app: con decenas de miles de títulos, la sinopsis entera lo haría
+// pesar decenas de MB. El inicio solo muestra unas líneas; la ficha pide la completa a TMDB.
+const MAX_RESUMEN = 220;
+function recortar(texto) {
+  if (texto.length <= MAX_RESUMEN) return texto;
+  const corte = texto.lastIndexOf(' ', MAX_RESUMEN);
+  return `${texto.slice(0, corte > 0 ? corte : MAX_RESUMEN)}…`;
+}
+
 function entrada(datos, campos) {
   return {
     tmdb: datos.tmdb,
@@ -96,7 +105,7 @@ async function pedirTmdb(datos, cred) {
     anio: anioDe(fecha),
     poster: typeof cuerpo.poster_path === 'string' ? cuerpo.poster_path : null,
     backdrop: typeof cuerpo.backdrop_path === 'string' ? cuerpo.backdrop_path : null,
-    resumen: typeof cuerpo.overview === 'string' ? cuerpo.overview : '',
+    resumen: typeof cuerpo.overview === 'string' ? recortar(cuerpo.overview) : '',
     puntaje: typeof cuerpo.vote_average === 'number' && cuerpo.vote_count > 0 ? Math.round(cuerpo.vote_average * 10) / 10 : null,
     generos: Array.isArray(cuerpo.genres) ? cuerpo.genres.map((g) => g.id) : [],
     idioma: typeof cuerpo.original_language === 'string' ? cuerpo.original_language : null,
@@ -144,16 +153,36 @@ if (errores.length > 0) {
   process.exit(1);
 }
 
+const destino = path.join(RAIZ, 'indice', 'catalogo.json');
+let previo = null;
+try {
+  previo = JSON.parse(fs.readFileSync(destino, 'utf8'));
+} catch {
+  previo = null;
+}
+
+// Lo que ya se pidió a TMDB (trae `resumen`) se reutiliza: con miles de títulos, pedirlos todos
+// en cada push tardaría minutos. Solo se piden los nuevos y los que salieron sin ficha.
+const yaPedidos = new Map(
+  (previo?.titulos ?? []).filter((t) => typeof t.resumen === 'string' && t.poster).map((t) => [`${t.tipo}-${t.tmdb}`, t]),
+);
+const reutilizada = (datos) => {
+  const t = yaPedidos.get(`${datos.tipo}-${datos.tmdb}`);
+  return t ? { ...t, categoria: datos.categoria, resumen: recortar(t.resumen) } : null;
+};
+
 const cred = credencial();
 let entradas;
 let conDatos = 0;
 
 if (!cred) {
   console.log('AVISO: sin TMDB_TOKEN ni TMDB_API_KEY: catálogo sin años ni carteles');
-  entradas = titulos.map(({ datos }) => entradaSinFicha(datos));
+  entradas = titulos.map(({ datos }) => reutilizada(datos) ?? entradaSinFicha(datos));
 } else {
   const fallos = [];
   entradas = await enPool(titulos, async ({ archivo, datos }) => {
+    const antes = reutilizada(datos);
+    if (antes) return antes;
     try {
       return await pedirTmdb(datos, cred);
     } catch (error) {
@@ -180,17 +209,14 @@ const nuevo = {
   titulos: entradas,
 };
 
-const destino = path.join(RAIZ, 'indice', 'catalogo.json');
-let previo = null;
-try {
-  previo = JSON.parse(fs.readFileSync(destino, 'utf8'));
-} catch {
-  previo = null;
-}
-
 if (igualSinGenerado(previo, nuevo)) {
   console.log('Catálogo sin cambios');
 } else {
-  fs.writeFileSync(destino, `${JSON.stringify(nuevo, null, 2)}\n`);
+  // Un título por línea: pesa la mitad que con sangría y el diff sigue siendo legible.
+  const lineas = nuevo.titulos.map((t) => `    ${JSON.stringify(t)}`).join(',\n');
+  fs.writeFileSync(
+    destino,
+    `{\n  "version": ${nuevo.version},\n  "generado": ${JSON.stringify(nuevo.generado)},\n  "titulos": [\n${lineas}\n  ]\n}\n`,
+  );
   console.log(`Catálogo: ${entradas.length} títulos (${conDatos} con datos de TMDB) -> indice/catalogo.json`);
 }
