@@ -1,0 +1,14 @@
+{
+  "tmdb": 286686,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "生逢其时",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-my-prime"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 30 y TMDB tiene 26; no verificada"
+}

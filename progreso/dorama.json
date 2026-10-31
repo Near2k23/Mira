@@ -1,6 +1,6 @@
 {
  "pagina": 101,
- "agregados": 2600,
+ "agregados": 2601,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -973,7 +973,8 @@
   "tv-328704.json",
   "tv-320866.json",
   "tv-331331.json",
-  "tv-312523.json"
+  "tv-312523.json",
+  "tv-286686.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -3850,6 +3851,9 @@
   321984,
   326991,
   133988,
-  332505
+  332505,
+  284825,
+  286988,
+  286686
  ]
 }
