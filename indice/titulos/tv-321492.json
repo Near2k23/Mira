@@ -1,0 +1,13 @@
+{
+  "tmdb": 321492,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Destino inesperado: edición limitada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unplanned-trip-limited-edition"
+      }
+    }
+  }
+}

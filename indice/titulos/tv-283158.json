@@ -1,0 +1,13 @@
+{
+  "tmdb": 283158,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "人间惊鸿客",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-lover-in-the-mortal-world"
+      }
+    }
+  }
+}

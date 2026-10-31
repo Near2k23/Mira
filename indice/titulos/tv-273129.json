@@ -1,0 +1,13 @@
+{
+  "tmdb": 273129,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱情没有神话",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lady-liberty"
+      }
+    }
+  }
+}

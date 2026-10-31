@@ -1,0 +1,13 @@
+{
+  "tmdb": 314441,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "コンビニ兄弟 テンダネス門司港こがね村店",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "convenience-store-kyodai"
+      }
+    }
+  }
+}

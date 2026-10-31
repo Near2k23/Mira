@@ -1,0 +1,13 @@
+{
+  "tmdb": 63106,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "밤을 걷는 선비",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-scholar-who-walks-the-night"
+      }
+    }
+  }
+}

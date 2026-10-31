@@ -1,0 +1,13 @@
+{
+  "tmdb": 321302,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Rak Rak: Sense of Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rak-rak-sense-of-love"
+      }
+    }
+  }
+}

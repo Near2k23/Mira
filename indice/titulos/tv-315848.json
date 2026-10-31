@@ -1,0 +1,13 @@
+{
+  "tmdb": 315848,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "10回切って倒れない木はない",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ten-strokes-to-you"
+      }
+    }
+  }
+}

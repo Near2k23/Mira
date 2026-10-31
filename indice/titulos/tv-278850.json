@@ -1,0 +1,13 @@
+{
+  "tmdb": 278850,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักแห่งสีลม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-of-silom"
+      }
+    }
+  }
+}

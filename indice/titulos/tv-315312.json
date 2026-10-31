@@ -1,0 +1,13 @@
+{
+  "tmdb": 315312,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "やたらやらしい深見くん",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unexpectedly-naughty-fukami"
+      }
+    }
+  }
+}

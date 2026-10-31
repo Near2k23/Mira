@@ -1,0 +1,13 @@
+{
+  "tmdb": 316461,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Life in Smokey Blue",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "life-in-smokey-blue"
+      }
+    }
+  }
+}

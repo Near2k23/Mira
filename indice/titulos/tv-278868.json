@@ -1,0 +1,13 @@
+{
+  "tmdb": 278868,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "方圆八百米",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "eight-hundred"
+      }
+    }
+  }
+}

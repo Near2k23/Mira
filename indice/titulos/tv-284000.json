@@ -1,0 +1,13 @@
+{
+  "tmdb": 284000,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "리버스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reverse"
+      }
+    }
+  }
+}

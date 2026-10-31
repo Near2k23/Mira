@@ -1,0 +1,13 @@
+{
+  "tmdb": 272715,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "佳偶天成",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fate-chooses-you"
+      }
+    }
+  }
+}

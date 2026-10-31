@@ -1,0 +1,14 @@
+{
+  "tmdb": 315438,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ラブドワン",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "loved-one"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 11 episodios"
+}

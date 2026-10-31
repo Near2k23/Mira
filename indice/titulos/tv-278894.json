@@ -1,0 +1,13 @@
+{
+  "tmdb": 278894,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "冰湖重生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rebirth"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 254498,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El rastro perdido",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "light-to-the-night"
+      }
+    }
+  }
+}

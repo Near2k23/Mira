@@ -1,0 +1,13 @@
+{
+  "tmdb": 315044,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Flower Boy",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flower-boy"
+      }
+    }
+  }
+}

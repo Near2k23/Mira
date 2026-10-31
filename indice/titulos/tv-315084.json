@@ -1,0 +1,13 @@
+{
+  "tmdb": 315084,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "君が死刑になる前に",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "before-the-day"
+      }
+    }
+  }
+}

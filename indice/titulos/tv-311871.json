@@ -1,0 +1,13 @@
+{
+  "tmdb": 311871,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "田鎖ブラザーズ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tagusari-bros"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 319339,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "구기동 프렌즈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "six-singles-under-one-roof"
+      }
+    }
+  }
+}

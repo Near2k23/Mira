@@ -1,0 +1,13 @@
+{
+  "tmdb": 320411,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "掌中刃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "within-the-grip"
+      }
+    }
+  }
+}

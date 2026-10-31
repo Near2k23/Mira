@@ -1,0 +1,13 @@
+{
+  "tmdb": 318840,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "有港回信",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "echoes-of-gang-city"
+      }
+    }
+  }
+}

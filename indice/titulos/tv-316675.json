@@ -1,0 +1,13 @@
+{
+  "tmdb": 316675,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "颜不由心",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-double-game"
+      }
+    }
+  }
+}

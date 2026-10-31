@@ -1,0 +1,13 @@
+{
+  "tmdb": 315509,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "今夜、秘密のキッチンで",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-secret-kitchen"
+      }
+    }
+  }
+}

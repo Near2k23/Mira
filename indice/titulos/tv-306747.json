@@ -1,0 +1,13 @@
+{
+  "tmdb": 306747,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ぜんぶ、あなたのためだから",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "because-its-all-for-you"
+      }
+    }
+  }
+}

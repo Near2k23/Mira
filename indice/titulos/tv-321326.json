@@ -1,0 +1,14 @@
+{
+  "tmdb": 321326,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "워너원고 : 백투베이스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wanna-one-go-back-to-base"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 6 de 12 episodios"
+}
