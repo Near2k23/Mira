@@ -1,0 +1,13 @@
+{
+  "tmdb": 316241,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pls Love รักได้ไหม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pls-love"
+      }
+    }
+  }
+}

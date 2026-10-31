@@ -1,0 +1,13 @@
+{
+  "tmdb": 312585,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Club del Cuervo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-crow-club"
+      }
+    }
+  }
+}

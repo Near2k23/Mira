@@ -1,0 +1,13 @@
+{
+  "tmdb": 336183,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "假面良人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-masked-lover"
+      }
+    }
+  }
+}

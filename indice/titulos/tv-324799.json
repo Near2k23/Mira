@@ -1,0 +1,13 @@
+{
+  "tmdb": 324799,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "No es tuyo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "not-yours"
+      }
+    }
+  }
+}

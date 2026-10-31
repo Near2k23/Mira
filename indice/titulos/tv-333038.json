@@ -1,0 +1,13 @@
+{
+  "tmdb": 333038,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "구르미 다시 그린 달빛",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-the-moonlight-redrawn"
+      }
+    }
+  }
+}

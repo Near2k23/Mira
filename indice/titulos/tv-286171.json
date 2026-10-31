@@ -1,0 +1,13 @@
+{
+  "tmdb": 286171,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "尚公主",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tigers-sniff-the-rose"
+      }
+    }
+  }
+}

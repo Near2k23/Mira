@@ -1,0 +1,13 @@
+{
+  "tmdb": 317308,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "请记住我的名字",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-missing-piece"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 303290,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "九品猎妖官",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-9-hunter"
+      }
+    }
+  }
+}

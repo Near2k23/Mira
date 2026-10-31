@@ -1,0 +1,13 @@
+{
+  "tmdb": 324874,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "如期",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "as-promised"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 315142,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Juliet & Juliet",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "juliet-and-juliet"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

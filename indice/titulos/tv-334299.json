@@ -1,0 +1,13 @@
+{
+  "tmdb": 334299,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "独剑九天",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sword-god-2026"
+      }
+    }
+  }
+}

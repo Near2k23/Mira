@@ -1,0 +1,13 @@
+{
+  "tmdb": 323447,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nour",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nour"
+      }
+    }
+  }
+}

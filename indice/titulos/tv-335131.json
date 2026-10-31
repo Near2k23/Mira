@@ -1,0 +1,13 @@
+{
+  "tmdb": 335131,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "为爱正名",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "stand-up-for-love"
+      }
+    }
+  }
+}

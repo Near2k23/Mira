@@ -1,0 +1,13 @@
+{
+  "tmdb": 338118,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "驯养守则",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tamed"
+      }
+    }
+  }
+}

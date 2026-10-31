@@ -1,0 +1,13 @@
+{
+  "tmdb": 307826,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รับจ้างเลิกรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-on-hire"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 289423,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La chispa del amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "take-charge-of-my-heart"
+      }
+    }
+  }
+}

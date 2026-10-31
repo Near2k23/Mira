@@ -1,0 +1,13 @@
+{
+  "tmdb": 293607,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "100 días de engaño",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "100-days-of-deception"
+      }
+    }
+  }
+}

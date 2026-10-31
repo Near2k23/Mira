@@ -1,0 +1,13 @@
+{
+  "tmdb": 333555,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "浮生之白蛇前缘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "prelude-of-the-white-snake"
+      }
+    }
+  }
+}

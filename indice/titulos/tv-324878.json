@@ -1,0 +1,13 @@
+{
+  "tmdb": 324878,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "话事人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-underworld"
+      }
+    }
+  }
+}

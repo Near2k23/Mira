@@ -1,0 +1,13 @@
+{
+  "tmdb": 314939,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un amor distinto al tuyo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-love-other-than-yours"
+      }
+    }
+  }
+}

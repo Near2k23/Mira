@@ -1,0 +1,13 @@
+{
+  "tmdb": 300074,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "When Light Fades",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-light-fades"
+      }
+    }
+  }
+}
