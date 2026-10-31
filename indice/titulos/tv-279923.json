@@ -1,0 +1,13 @@
+{
+  "tmdb": 279923,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "醉梦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dream"
+      }
+    }
+  }
+}

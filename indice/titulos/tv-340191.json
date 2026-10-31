@@ -1,0 +1,13 @@
+{
+  "tmdb": 340191,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "舟寒知婳意",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-alone-know-me"
+      }
+    }
+  }
+}

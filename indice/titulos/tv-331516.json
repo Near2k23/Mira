@@ -1,0 +1,13 @@
+{
+  "tmdb": 331516,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "침향",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chimhyang-scent-of-the-needle"
+      }
+    }
+  }
+}

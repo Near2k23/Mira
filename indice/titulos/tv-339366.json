@@ -1,0 +1,13 @@
+{
+  "tmdb": 339366,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "予苍龙",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-loong"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 289517,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un trabajo maldito",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dead-end-job"
+      }
+    }
+  }
+}

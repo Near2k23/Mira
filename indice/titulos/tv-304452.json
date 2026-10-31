@@ -1,0 +1,13 @@
+{
+  "tmdb": 304452,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "玉簟秋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-lament-of-autumn"
+      }
+    }
+  }
+}

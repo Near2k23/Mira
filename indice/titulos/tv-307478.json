@@ -1,0 +1,13 @@
+{
+  "tmdb": 307478,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "라이어",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-perfect-lie"
+      }
+    }
+  }
+}

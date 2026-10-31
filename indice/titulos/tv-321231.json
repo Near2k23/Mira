@@ -1,0 +1,13 @@
+{
+  "tmdb": 321231,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "对家和我",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-rival-and-me"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 296018,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "楚离",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reunion-across-time"
+      }
+    }
+  }
+}

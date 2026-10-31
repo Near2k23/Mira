@@ -1,0 +1,13 @@
+{
+  "tmdb": 311648,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hazme vibrar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "make-me-tingle"
+      }
+    }
+  }
+}

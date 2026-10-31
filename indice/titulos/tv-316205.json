@@ -1,0 +1,13 @@
+{
+  "tmdb": 316205,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El rostro de la venganza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "deep-revenge"
+      }
+    }
+  }
+}

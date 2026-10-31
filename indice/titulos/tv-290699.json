@@ -1,0 +1,13 @@
+{
+  "tmdb": 290699,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "魅影神捕",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shadow-punisher"
+      }
+    }
+  }
+}

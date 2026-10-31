@@ -1,0 +1,13 @@
+{
+  "tmdb": 303566,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "华灯起",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-the-lights-rise"
+      }
+    }
+  }
+}

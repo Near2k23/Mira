@@ -1,0 +1,13 @@
+{
+  "tmdb": 317312,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "回信",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "echo-of-a-letter"
+      }
+    }
+  }
+}

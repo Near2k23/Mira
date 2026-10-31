@@ -1,0 +1,13 @@
+{
+  "tmdb": 332528,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "룰 101",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rule-101"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 338103,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "好一个乖乖女",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "quite-the-girl"
+      }
+    }
+  }
+}

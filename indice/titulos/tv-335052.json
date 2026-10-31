@@ -1,0 +1,13 @@
+{
+  "tmdb": 335052,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "โคตรรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "decoding-you"
+      }
+    }
+  }
+}

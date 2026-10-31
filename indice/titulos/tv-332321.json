@@ -1,0 +1,13 @@
+{
+  "tmdb": 332321,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "PROJECT XY",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "project-xy"
+      }
+    }
+  }
+}

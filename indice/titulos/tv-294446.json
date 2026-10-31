@@ -1,0 +1,13 @@
+{
+  "tmdb": 294446,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "美人余",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-vanishing-beauty"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 338848,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "她的局",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-song"
+      }
+    }
+  }
+}

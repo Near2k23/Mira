@@ -1,0 +1,13 @@
+{
+  "tmdb": 283012,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "第二次初恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "first-love-again-2026"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 300146,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "嫁金钗",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "where-the-mask-ends"
+      }
+    }
+  }
+}

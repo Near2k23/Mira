@@ -1,0 +1,13 @@
+{
+  "tmdb": 288328,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "把黑夜点燃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "light-the-dark"
+      }
+    }
+  }
+}

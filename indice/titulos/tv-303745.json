@@ -1,0 +1,13 @@
+{
+  "tmdb": 303745,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor disfrazado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-disguise"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 316197,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Volveré Por Ti",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dive-into-you"
+      }
+    }
+  }
+}

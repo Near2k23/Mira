@@ -1,0 +1,13 @@
+{
+  "tmdb": 336950,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "不可靠近的他",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fatal-proximity-to-him"
+      }
+    }
+  }
+}
