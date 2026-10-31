@@ -1,0 +1,13 @@
+{
+  "tmdb": 96571,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mudanzas al Cielo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "move-to-heaven"
+      }
+    }
+  }
+}

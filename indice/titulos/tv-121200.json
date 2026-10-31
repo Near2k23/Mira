@@ -1,0 +1,13 @@
+{
+  "tmdb": 121200,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "戀愛是科學",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-is-science"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 125581,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的漂亮朋友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "young-and-beautiful"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 44 y TMDB tiene 42; no verificada"
+}

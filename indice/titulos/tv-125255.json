@@ -1,0 +1,13 @@
+{
+  "tmdb": 125255,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pasión por la limpieza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "use-for-my-talent"
+      }
+    }
+  }
+}

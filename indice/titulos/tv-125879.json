@@ -1,0 +1,13 @@
+{
+  "tmdb": 125879,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "清落",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "qing-luo"
+      }
+    }
+  }
+}

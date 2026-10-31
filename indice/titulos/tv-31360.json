@@ -1,0 +1,14 @@
+{
+  "tmdb": 31360,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Autumn's Concerto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "autumns-concerto"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 34 y TMDB tiene 21; no verificada"
+}

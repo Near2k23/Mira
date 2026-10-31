@@ -1,0 +1,13 @@
+{
+  "tmdb": 70532,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "손의 흔적",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "traces-of-the-hand"
+      }
+    }
+  }
+}

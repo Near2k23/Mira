@@ -1,0 +1,14 @@
+{
+  "tmdb": 98830,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Find Yourself",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "find-yourself"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 41 de 42 episodios"
+}

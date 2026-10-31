@@ -1,0 +1,13 @@
+{
+  "tmdb": 89891,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "彼岸花",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beautiful-reborn-flower"
+      }
+    }
+  }
+}

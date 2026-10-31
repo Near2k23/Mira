@@ -1,0 +1,13 @@
+{
+  "tmdb": 90504,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "陪你到世界之巅",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gank-your-heart"
+      }
+    }
+  }
+}

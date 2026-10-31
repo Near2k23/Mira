@@ -1,0 +1,13 @@
+{
+  "tmdb": 126723,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱上特种兵",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-dear-guardian"
+      }
+    }
+  }
+}

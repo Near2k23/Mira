@@ -1,0 +1,13 @@
+{
+  "tmdb": 112403,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "社内マリッジハニー",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shanai-marriage-honey"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 117549,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一不小心捡到爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "please-feel-at-ease-mr-ling"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 94642,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "VIP",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vip"
+      }
+    }
+  }
+}

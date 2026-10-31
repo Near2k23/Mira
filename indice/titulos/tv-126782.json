@@ -1,0 +1,14 @@
+{
+  "tmdb": 126782,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "옆집 마녀 제이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "next-door-witch-j"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Next Door Witch J 04-0) no coinciden con TMDB (옆집 마녀 제이 2021); se mantuvo el tmdb_id del sitio"
+}

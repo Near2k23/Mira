@@ -1,0 +1,13 @@
+{
+  "tmdb": 99645,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我在北京等你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wait-in-beijing"
+      }
+    }
+  }
+}

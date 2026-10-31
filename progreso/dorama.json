@@ -1,6 +1,6 @@
 {
- "pagina": 22,
- "agregados": 599,
+ "pagina": 23,
+ "agregados": 627,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -49,6 +49,14 @@
   {
    "id_o_slug": "fantasy-westward-journey",
    "motivo": "no está en el sitio (sin episodios)"
+  },
+  {
+   "id_o_slug": "the-unidentical-twins-song-sanaeha",
+   "motivo": "otra tarea: serie (país )"
+  },
+  {
+   "id_o_slug": "the-eternal-love-3",
+   "motivo": "no existe en TMDB"
   }
  ],
  "notas": [
@@ -159,7 +167,12 @@
   "tv-93972.json",
   "tv-73268.json",
   "tv-62693.json",
-  "tv-125061.json"
+  "tv-125061.json",
+  "tv-123545.json",
+  "tv-31360.json",
+  "tv-125581.json",
+  "tv-98830.json",
+  "tv-126782.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -810,6 +823,34 @@
   116386,
   62693,
   125061,
-  125305
+  125305,
+  96571,
+  123545,
+  125255,
+  31360,
+  90504,
+  125306,
+  125581,
+  89891,
+  94642,
+  70532,
+  112403,
+  125449,
+  125879,
+  126021,
+  117549,
+  125984,
+  121200,
+  125350,
+  98830,
+  125694,
+  114118,
+  125381,
+  99645,
+  125437,
+  126572,
+  90022,
+  126723,
+  126782
  ]
 }

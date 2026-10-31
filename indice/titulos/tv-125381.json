@@ -1,0 +1,13 @@
+{
+  "tmdb": 125381,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พราวมุก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "praomook"
+      }
+    }
+  }
+}

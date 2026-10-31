@@ -1,0 +1,13 @@
+{
+  "tmdb": 125984,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "月光变奏曲",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moonlight"
+      }
+    }
+  }
+}

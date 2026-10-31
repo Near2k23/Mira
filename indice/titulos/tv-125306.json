@@ -1,0 +1,13 @@
+{
+  "tmdb": 125306,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "皮囊之下",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ugly-beauty"
+      }
+    }
+  }
+}

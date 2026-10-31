@@ -1,0 +1,13 @@
+{
+  "tmdb": 126572,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我和我的时光少年",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flourish-in-time"
+      }
+    }
+  }
+}

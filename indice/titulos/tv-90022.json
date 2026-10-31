@@ -1,0 +1,13 @@
+{
+  "tmdb": 90022,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我們不能是朋友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "before-we-get-married"
+      }
+    }
+  }
+}

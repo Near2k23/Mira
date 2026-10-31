@@ -1,0 +1,13 @@
+{
+  "tmdb": 114118,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Compañero de Cuarto es un Gumiho",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-roommate-is-a-gumiho"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 123545,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ラブファントム",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-phantom"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 12 episodios"
+}
