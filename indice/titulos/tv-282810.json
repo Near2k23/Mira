@@ -1,0 +1,13 @@
+{
+  "tmdb": 282810,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El regreso del juez",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-judge-returns"
+      }
+    }
+  }
+}

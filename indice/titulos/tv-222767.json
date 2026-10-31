@@ -1,0 +1,13 @@
+{
+  "tmdb": 222767,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Long Time No Sex",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ltns"
+      }
+    }
+  }
+}

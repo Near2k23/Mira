@@ -1,0 +1,13 @@
+{
+  "tmdb": 117067,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "KinnPorsche: El Amor del Gángster por Mi",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kinnporsche-the-series"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 322055,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "검사실의 제안",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-prosecutors-proposal"
+      }
+    }
+  }
+}

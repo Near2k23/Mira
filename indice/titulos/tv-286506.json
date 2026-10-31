@@ -1,0 +1,13 @@
+{
+  "tmdb": 286506,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "百花杀",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blossoms-of-power"
+      }
+    }
+  }
+}

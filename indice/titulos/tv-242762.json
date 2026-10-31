@@ -1,0 +1,13 @@
+{
+  "tmdb": 242762,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "子夜归",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moonlit-reunion"
+      }
+    }
+  }
+}

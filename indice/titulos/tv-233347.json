@@ -1,0 +1,13 @@
+{
+  "tmdb": 233347,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Grupo de estudio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "study-group"
+      }
+    }
+  }
+}

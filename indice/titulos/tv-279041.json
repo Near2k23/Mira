@@ -1,0 +1,13 @@
+{
+  "tmdb": 279041,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "双轨",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "speed-and-love"
+      }
+    }
+  }
+}

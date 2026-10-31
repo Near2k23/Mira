@@ -1,0 +1,13 @@
+{
+  "tmdb": 66256,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor bajo la luz de la luna",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-the-moonlight"
+      }
+    }
+  }
+}

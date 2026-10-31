@@ -1,0 +1,17 @@
+{
+  "tmdb": 139798,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cielo Para Dos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "singles-inferno",
+        "2": "singles-inferno",
+        "3": "singles-inferno",
+        "4": "singles-inferno",
+        "5": "singles-inferno"
+      }
+    }
+  }
+}

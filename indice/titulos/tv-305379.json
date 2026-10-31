@@ -1,0 +1,14 @@
+{
+  "tmdb": 305379,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Corazones rebeldes",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "badly-in-love",
+        "2": "badly-in-love"
+      }
+    }
+  }
+}

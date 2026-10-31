@@ -1,0 +1,13 @@
+{
+  "tmdb": 253093,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "与晋长安",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "shadow-love"
+      }
+    }
+  }
+}

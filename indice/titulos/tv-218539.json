@@ -1,0 +1,13 @@
+{
+  "tmdb": 218539,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Adorable Demonio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-demon"
+      }
+    }
+  }
+}

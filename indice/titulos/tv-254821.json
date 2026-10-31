@@ -1,0 +1,13 @@
+{
+  "tmdb": 254821,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "五福临门",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "perfect-match"
+      }
+    }
+  }
+}

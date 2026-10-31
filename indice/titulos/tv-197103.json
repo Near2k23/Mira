@@ -1,0 +1,13 @@
+{
+  "tmdb": 197103,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แล้วแต่ดาว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "star-and-sky-star-in-my-mind"
+      }
+    }
+  }
+}

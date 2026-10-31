@@ -1,0 +1,14 @@
+{
+  "tmdb": 240150,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพราะรักนำทาง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fourever-you",
+        "2": "fourever-you"
+      }
+    }
+  }
+}

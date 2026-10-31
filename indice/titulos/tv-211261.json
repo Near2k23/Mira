@@ -1,0 +1,14 @@
+{
+  "tmdb": 211261,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Equipo de emergencia",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-first-responders",
+        "2": "the-first-responders"
+      }
+    }
+  }
+}

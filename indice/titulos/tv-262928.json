@@ -1,0 +1,13 @@
+{
+  "tmdb": 262928,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en las Nubes",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-the-clouds"
+      }
+    }
+  }
+}

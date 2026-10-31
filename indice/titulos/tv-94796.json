@@ -1,0 +1,13 @@
+{
+  "tmdb": 94796,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Aterrizaje de emergencia en tu corazón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crash-landing-on-you"
+      }
+    }
+  }
+}

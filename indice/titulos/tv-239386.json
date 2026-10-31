@@ -1,0 +1,13 @@
+{
+  "tmdb": 239386,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kiseki 奇跡 ฤดูปาฏิหาริย์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kiseki-miracle-season"
+      }
+    }
+  }
+}

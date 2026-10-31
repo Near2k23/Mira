@@ -1,0 +1,17 @@
+{
+  "tmdb": 206122,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "怦然心动20岁",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twinkle-love",
+        "2": "twinkle-love",
+        "3": "twinkle-love",
+        "4": "twinkle-love",
+        "5": "twinkle-love"
+      }
+    }
+  }
+}

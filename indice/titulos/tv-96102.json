@@ -1,0 +1,14 @@
+{
+  "tmdb": 96102,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pasillos de Hospital",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hospital-playlist",
+        "2": "hospital-playlist"
+      }
+    }
+  }
+}
