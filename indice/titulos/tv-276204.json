@@ -1,0 +1,13 @@
+{
+  "tmdb": 276204,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hazure Skill \\",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kinomi-master"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 259786,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sayounara Ryuusei, Konnichiwa Jinsei",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "sayounara-ryuusei-konnichiwa-jinsei"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "sayounara-ryuusei-konnichiwa-jinsei"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tmdb": 216272,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Unnamed Memory",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "unnamed-memory",
+            "episodios": 12
+          },
+          {
+            "slug": "unnamed-memory-act2"
+          }
+        ]
+      }
+    }
+  }
+}

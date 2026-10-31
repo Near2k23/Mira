@@ -1,0 +1,14 @@
+{
+  "tmdb": 220286,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ishura",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ishura",
+        "2": "ishura-2nd-season"
+      }
+    }
+  }
+}

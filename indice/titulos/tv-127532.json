@@ -1,0 +1,34 @@
+{
+  "tmdb": 127532,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ore dake Level Up na Ken",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "ore-dake-level-up-na-ken",
+            "episodios": 12
+          },
+          {
+            "slug": "ore-dake-level-up-na-ken-season-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "ore-dake-level-up-na-ken",
+            "episodios": 12
+          },
+          {
+            "slug": "ore-dake-level-up-na-ken-season-2-arise-from-the-shadow"
+          }
+        ]
+      }
+    }
+  }
+}

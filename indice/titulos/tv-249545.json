@@ -1,0 +1,13 @@
+{
+  "tmdb": 249545,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "S-Rank Monster no \\",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "beheneko"
+      }
+    }
+  }
+}

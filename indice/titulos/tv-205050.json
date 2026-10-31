@@ -1,0 +1,21 @@
+{
+  "tmdb": 205050,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+            "episodios": 25
+          },
+          {
+            "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

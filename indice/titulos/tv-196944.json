@@ -1,0 +1,21 @@
+{
+  "tmdb": 196944,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Watashi no Shiawase na Kekkon",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "watashi-no-shiawase-na-kekkon",
+            "episodios": 12
+          },
+          {
+            "slug": "watashi-no-shiawase-na-kekkon-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

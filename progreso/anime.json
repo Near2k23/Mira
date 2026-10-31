@@ -451,7 +451,34 @@
   "movie-1322218": "nuevo",
   "movie-1362429": "nuevo",
   "movie-1021679": "nuevo",
-  "movie-1322752": "nuevo"
+  "movie-1322752": "nuevo",
+  "tv-86034": "completado",
+  "tv-127532": "nuevo",
+  "tv-196944": "nuevo",
+  "tv-205050": "nuevo",
+  "tv-216272": "nuevo",
+  "tv-220286": "nuevo",
+  "tv-234538": "completado",
+  "tv-236994": "completado",
+  "tv-245561": "completado",
+  "tv-245876": "completado",
+  "tv-249545": "nuevo",
+  "tv-249882": "completado",
+  "tv-250994": "completado",
+  "tv-256744": "completado",
+  "tv-257790": "completado",
+  "tv-258578": "completado",
+  "tv-258994": "completado",
+  "tv-259559": "completado",
+  "tv-259786": "nuevo",
+  "tv-261301": "completado",
+  "tv-261311": "completado",
+  "tv-262141": "completado",
+  "tv-274580": "completado",
+  "tv-276204": "nuevo",
+  "tv-280906": "completado",
+  "movie-1310672": "nuevo",
+  "movie-1333100": "completado"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -521,7 +548,15 @@
   "kaijuu-8-gou-hoshina-no-kyuujitsu": "no está en TMDB / no ubicado",
   "chao-neng-lifang-chaofan-pian": "no está en TMDB / no ubicado",
   "babanbabanban-vampire": "no está en TMDB / no ubicado",
-  "dr-stone-science-future": "no está en TMDB / no ubicado"
+  "dr-stone-science-future": "no está en TMDB / no ubicado",
+  "tv-258228": "T1 (momentary-lily): 14 eps en el sitio vs 13 en TMDB",
+  "tv-273048": "T1 (neet-kunoichi-to-nazeka-dousei-hajimemashita): 13 eps en el sitio vs 24 en TMDB",
+  "shiguang-dailiren-yingdu-pian": "no está en TMDB / no ubicado",
+  "zuoshou-shanglan-2nd-season": "no está en TMDB / no ubicado",
+  "high-card-the-flowers-bloom": "no está en TMDB / no ubicado",
+  "one-piece-gyojin-tou-hen": "no está en TMDB / no ubicado",
+  "one-piece-fan-letter": "Especial",
+  "kidou-senshi-gundam-fukushuu-no-requiem": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -587,6 +622,11 @@
   "latest_released 23-24": {
    "agregados": 6,
    "completados": 21,
+   "saltados": 6
+  },
+  "latest_released 25-26": {
+   "agregados": 9,
+   "completados": 18,
    "saltados": 6
   }
  }
