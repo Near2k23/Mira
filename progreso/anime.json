@@ -424,7 +424,34 @@
   "tv-279216": "completado",
   "tv-281042": "completado",
   "tv-282666": "completado",
-  "tv-283360": "completado"
+  "tv-283360": "completado",
+  "tv-102774": "nuevo",
+  "tv-133154": "completado",
+  "tv-247367": "completado",
+  "tv-247859": "completado",
+  "tv-249031": "completado",
+  "tv-249964": "completado",
+  "tv-257609": "completado",
+  "tv-258055": "completado",
+  "tv-258229": "completado",
+  "tv-258912": "completado",
+  "tv-260523": "completado",
+  "tv-260822": "completado",
+  "tv-261148": "completado",
+  "tv-261298": "completado",
+  "tv-261745": "completado",
+  "tv-270474": "completado",
+  "tv-270487": "completado",
+  "tv-276253": "completado",
+  "tv-276880": "completado",
+  "tv-277222": "completado",
+  "tv-279731": "completado",
+  "tv-281545": "completado",
+  "movie-1326106": "nuevo",
+  "movie-1322218": "nuevo",
+  "movie-1362429": "nuevo",
+  "movie-1021679": "nuevo",
+  "movie-1322752": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -487,7 +514,14 @@
   "kono-subarashii-sekai-ni-shukufuku-wo-3-bonus-stage": "OVA",
   "lycoris-recoil-friends-are-thieves-of-time": "no está en TMDB / no ubicado",
   "to-be-hero-x": "no está en TMDB / no ubicado",
-  "lazarus": "no está en TMDB / no ubicado"
+  "lazarus": "no está en TMDB / no ubicado",
+  "tv-210899": "T1 (uniteup): 15 eps en el sitio vs 12 en TMDB ; T2 (uniteup-unibirth): 11 eps en el sitio vs 12 en TMDB",
+  "devil-may-cry-2025": "no está en TMDB / no ubicado",
+  "cocoon-aru-natsu-no-shoujo-tachi-yori": "Especial",
+  "kaijuu-8-gou-hoshina-no-kyuujitsu": "no está en TMDB / no ubicado",
+  "chao-neng-lifang-chaofan-pian": "no está en TMDB / no ubicado",
+  "babanbabanban-vampire": "no está en TMDB / no ubicado",
+  "dr-stone-science-future": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -549,6 +583,11 @@
    "agregados": 4,
    "completados": 29,
    "saltados": 4
+  },
+  "latest_released 23-24": {
+   "agregados": 6,
+   "completados": 21,
+   "saltados": 6
   }
  }
 }

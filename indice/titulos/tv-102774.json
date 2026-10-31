@@ -1,0 +1,14 @@
+{
+  "tmdb": 102774,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mahoutsukai Precure!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mahoutsukai-precure",
+        "2": "mahoutsukai-precure-mirai-days"
+      }
+    }
+  }
+}
