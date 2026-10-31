@@ -1,0 +1,13 @@
+{
+  "tmdb": 76757,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Golden Kamuy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "5": "golden-kamuy-saishuushou"
+      }
+    }
+  }
+}

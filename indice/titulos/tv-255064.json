@@ -1,0 +1,13 @@
+{
+  "tmdb": 255064,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El INCIDENTE DARWIN",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "darwin-jihen"
+      }
+    }
+  }
+}

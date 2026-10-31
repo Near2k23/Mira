@@ -1,0 +1,13 @@
+{
+  "tmdb": 276110,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アルネの事件簿",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "arne-no-jikenbo"
+      }
+    }
+  }
+}

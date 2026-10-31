@@ -1,0 +1,13 @@
+{
+  "tmdb": 285933,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tune In to the Midnight Heart",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mayonaka-heart-tune"
+      }
+    }
+  }
+}

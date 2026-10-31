@@ -1,0 +1,13 @@
+{
+  "tmdb": 293144,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wash It All Away",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kirei-ni-shitemoraemasu-ka"
+      }
+    }
+  }
+}
