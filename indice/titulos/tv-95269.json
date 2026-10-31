@@ -8,6 +8,20 @@
       "temporadas": {
         "2": "jibaku-shounen-hanakokun-2"
       }
+    },
+    "animeav1": {
+      "temporadas": {
+        "1": "jibaku-shounen-hanako-kun",
+        "2": [
+          {
+            "slug": "jibaku-shounen-hanako-kun-2",
+            "episodios": 12
+          },
+          {
+            "slug": "jibaku-shounen-hanako-kun-2-part-2"
+          }
+        ]
+      }
     }
   }
 }

@@ -1,0 +1,21 @@
+{
+  "tmdb": 241811,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Puniru wa Kawaii Slime",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "puniru-wa-kawaii-slime",
+            "episodios": 12
+          },
+          {
+            "slug": "puniru-wa-kawaii-slime-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

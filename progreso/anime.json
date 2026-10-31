@@ -361,7 +361,37 @@
   "movie-1295026": "nuevo",
   "movie-1218925": "completado",
   "movie-1467486": "nuevo",
-  "movie-1311031": "completado"
+  "movie-1311031": "completado",
+  "tv-95269": "completado",
+  "tv-123249": "nuevo",
+  "tv-137065": "completado",
+  "tv-138357": "completado",
+  "tv-212766": "completado",
+  "tv-217409": "completado",
+  "tv-240411": "nuevo",
+  "tv-241811": "nuevo",
+  "tv-256721": "completado",
+  "tv-258000": "completado",
+  "tv-262254": "completado",
+  "tv-262377": "completado",
+  "tv-271607": "nuevo",
+  "tv-271649": "completado",
+  "tv-278196": "completado",
+  "tv-279220": "completado",
+  "tv-279989": "completado",
+  "tv-279993": "completado",
+  "tv-280038": "completado",
+  "tv-281058": "completado",
+  "tv-281615": "completado",
+  "tv-283704": "completado",
+  "tv-284445": "nuevo",
+  "tv-285356": "completado",
+  "tv-285828": "completado",
+  "tv-286434": "completado",
+  "tv-286723": "completado",
+  "movie-1360829": "nuevo",
+  "movie-1359607": "completado",
+  "movie-1438229": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -417,7 +447,11 @@
   "mofa-gongzhu-de-xiao-fannao": "no está en TMDB / no ubicado",
   "long-zu-ii-daowangzhe-zhi-tong": "no está en TMDB / no ubicado",
   "dr-stone-science-future-part-2": "no está en TMDB / no ubicado",
-  "shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu": "no está en TMDB / no ubicado"
+  "shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu": "no está en TMDB / no ubicado",
+  "guimi-zhi-zhu-xiaochou-pian": "no está en TMDB / no ubicado",
+  "lupin-the-iiird-zenigata-to-futari-no-lupin": "no está en TMDB / no ubicado",
+  "i-byeol-e-pil-yohan": "no está en TMDB / no ubicado",
+  "kono-subarashii-sekai-ni-shukufuku-wo-3-bonus-stage": "OVA"
  },
  "notas": [
   "tv-46261",
@@ -469,6 +503,11 @@
    "agregados": 7,
    "completados": 22,
    "saltados": 5
+  },
+  "latest_released 19-20": {
+   "agregados": 7,
+   "completados": 23,
+   "saltados": 4
   }
  }
 }

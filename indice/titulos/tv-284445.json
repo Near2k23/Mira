@@ -1,0 +1,13 @@
+{
+  "tmdb": 284445,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Takopii no Genzai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "takopii-no-genzai"
+      }
+    }
+  }
+}

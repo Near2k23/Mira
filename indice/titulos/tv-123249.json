@@ -1,0 +1,21 @@
+{
+  "tmdb": 123249,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sono Bisque Doll wa Koi wo Suru",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "sono-bisque-doll-wa-koi-wo-suru",
+            "episodios": 12
+          },
+          {
+            "slug": "sono-bisque-doll-wa-koi-wo-suru-season-2"
+          }
+        ]
+      }
+    }
+  }
+}

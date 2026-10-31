@@ -1,0 +1,34 @@
+{
+  "tmdb": 240411,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dandadan",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "dandadan",
+            "episodios": 12
+          },
+          {
+            "slug": "dandadan-2nd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "dandadan",
+            "episodios": 12
+          },
+          {
+            "slug": "60543"
+          }
+        ]
+      }
+    }
+  }
+}
