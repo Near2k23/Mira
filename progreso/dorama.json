@@ -1,6 +1,6 @@
 {
- "pagina": 100,
- "agregados": 2234,
+ "pagina": 101,
+ "agregados": 2235,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -2120,6 +2120,22 @@
   },
   {
    "id_o_slug": "see-you-again-china",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "yarichin-bitch-club",
+   "motivo": "otra tarea: anime"
+  },
+  {
+   "id_o_slug": "mr-fanboy",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "blossom-through-the-cloud",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "in-my-prime",
    "motivo": "no está en el sitio (sin ficha)"
   }
  ],
@@ -4961,6 +4977,8 @@
   299952,
   122130,
   137352,
-  290193
+  290193,
+  306630,
+  332507
  ]
 }

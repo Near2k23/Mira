@@ -1,0 +1,13 @@
+{
+  "tmdb": 332507,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Último Juramento",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-last-oath"
+      }
+    }
+  }
+}
