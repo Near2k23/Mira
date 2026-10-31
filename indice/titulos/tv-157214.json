@@ -1,0 +1,13 @@
+{
+  "tmdb": 157214,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Flores de cerezo tras el invierno",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cherry-blossoms-after-winter"
+      }
+    }
+  }
+}

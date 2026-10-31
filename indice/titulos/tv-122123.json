@@ -1,0 +1,13 @@
+{
+  "tmdb": 122123,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "玉昭令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-boundary"
+      }
+    }
+  }
+}

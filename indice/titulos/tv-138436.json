@@ -1,0 +1,13 @@
+{
+  "tmdb": 138436,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Amor es Ciego: Japón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-is-blind-japan"
+      }
+    }
+  }
+}

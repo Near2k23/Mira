@@ -1,0 +1,13 @@
+{
+  "tmdb": 105646,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Underclass",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-underclass"
+      }
+    }
+  }
+}

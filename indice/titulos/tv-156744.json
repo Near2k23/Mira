@@ -1,0 +1,13 @@
+{
+  "tmdb": 156744,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "嫣语赋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-autumn-ballad"
+      }
+    }
+  }
+}

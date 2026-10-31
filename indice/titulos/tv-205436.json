@@ -1,0 +1,14 @@
+{
+  "tmdb": 205436,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "너와의 여름밤",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bed-on-the-beach"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (null) no coincidía; se usó 205436 buscando por nombre y año"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 157046,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un tiempo para recordar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "time-of-memory-a-time-to-remember"
+      }
+    }
+  }
+}

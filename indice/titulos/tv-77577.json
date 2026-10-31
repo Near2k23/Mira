@@ -1,0 +1,13 @@
+{
+  "tmdb": 77577,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "偶像练习生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "idol-producer"
+      }
+    }
+  }
+}

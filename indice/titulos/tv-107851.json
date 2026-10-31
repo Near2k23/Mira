@@ -1,0 +1,13 @@
+{
+  "tmdb": 107851,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Goedam: Cortos de terror",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "goedam-cortos-de-terror"
+      }
+    }
+  }
+}

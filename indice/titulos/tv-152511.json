@@ -1,0 +1,13 @@
+{
+  "tmdb": 152511,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Las inclemencias del amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "forecasting-love-and-weather"
+      }
+    }
+  }
+}

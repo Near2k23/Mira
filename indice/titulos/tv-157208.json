@@ -1,0 +1,13 @@
+{
+  "tmdb": 157208,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "시맨틱 에러",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "semantic-error"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 139353,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "นิ่งเฮียก็หาว่าซื่อ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cutie-pie"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 90706,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Dr. Yo-ha",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-john"
+      }
+    }
+  }
+}

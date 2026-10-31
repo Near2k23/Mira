@@ -1,0 +1,13 @@
+{
+  "tmdb": 157638,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "天王助理",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "assistant-of-superstar"
+      }
+    }
+  }
+}

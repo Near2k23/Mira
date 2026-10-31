@@ -1,0 +1,13 @@
+{
+  "tmdb": 157255,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Por qué aman las mujeres",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "why-women-love"
+      }
+    }
+  }
+}

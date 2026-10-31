@@ -1,0 +1,13 @@
+{
+  "tmdb": 154861,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Como peces dorados",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fishbowl-wives"
+      }
+    }
+  }
+}

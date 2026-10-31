@@ -1,0 +1,13 @@
+{
+  "tmdb": 157628,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "惹不起的千岁大人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-my-lord"
+      }
+    }
+  }
+}

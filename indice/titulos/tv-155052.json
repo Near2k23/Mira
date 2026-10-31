@@ -1,0 +1,13 @@
+{
+  "tmdb": 155052,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "拜托了！别宠我",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "please-dont-spoil-me"
+      }
+    }
+  }
+}

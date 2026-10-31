@@ -1,0 +1,13 @@
+{
+  "tmdb": 158149,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "하숙집 오!번지",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-boarding-house"
+      }
+    }
+  }
+}

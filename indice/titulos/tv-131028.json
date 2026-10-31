@@ -1,0 +1,13 @@
+{
+  "tmdb": 131028,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Treinta y nueve",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "thirty-nine"
+      }
+    }
+  }
+}

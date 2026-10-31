@@ -1,0 +1,13 @@
+{
+  "tmdb": 135894,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Grid: El Escudo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "grid"
+      }
+    }
+  }
+}

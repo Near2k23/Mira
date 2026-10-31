@@ -1,0 +1,13 @@
+{
+  "tmdb": 157128,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "假日暖洋洋2",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vacation-of-love-2"
+      }
+    }
+  }
+}

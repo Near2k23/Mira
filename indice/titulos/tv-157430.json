@@ -1,0 +1,13 @@
+{
+  "tmdb": 157430,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แอบหลงรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secret-crush-on-you"
+      }
+    }
+  }
+}
