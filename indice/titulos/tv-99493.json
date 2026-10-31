@@ -1,0 +1,13 @@
+{
+  "tmdb": 99493,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sweet Munchies",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-munchies"
+      }
+    }
+  }
+}

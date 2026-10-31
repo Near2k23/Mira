@@ -1,0 +1,13 @@
+{
+  "tmdb": 62267,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "순정에 반하다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fall-in-love-with-soon-jung"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 96164,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "부부의 세계",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-world-of-the-married"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 18 y TMDB tiene 16; no verificada"
+}

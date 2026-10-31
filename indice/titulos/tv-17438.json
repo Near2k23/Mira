@@ -1,0 +1,15 @@
+{
+  "tmdb": 17438,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花より男子",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hana-yori-dango",
+        "2": "hana-yori-dango"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

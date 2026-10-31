@@ -1,0 +1,15 @@
+{
+  "tmdb": 74940,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "无法拥抱的你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-cannot-hug-you",
+        "2": "i-cannot-hug-you"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 28 y TMDB tiene 16; no verificada"
+}

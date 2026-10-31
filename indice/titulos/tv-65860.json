@@ -1,0 +1,13 @@
+{
+  "tmdb": 65860,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Apuesta final",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jackpot"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 68815,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "솔로몬의 위증",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "solomons-perjury"
+      }
+    }
+  }
+}

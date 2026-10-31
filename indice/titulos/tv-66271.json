@@ -1,0 +1,13 @@
+{
+  "tmdb": 66271,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Romance de la Suerte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lucky-romance"
+      }
+    }
+  }
+}

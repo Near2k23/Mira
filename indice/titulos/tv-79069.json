@@ -1,0 +1,13 @@
+{
+  "tmdb": 79069,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "내일도 맑음",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sunny-again-tomorrow"
+      }
+    }
+  }
+}

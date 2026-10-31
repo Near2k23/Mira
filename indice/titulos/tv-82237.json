@@ -1,0 +1,13 @@
+{
+  "tmdb": 82237,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Belleza Interior",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-beauty-inside"
+      }
+    }
+  }
+}

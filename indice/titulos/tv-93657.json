@@ -1,0 +1,14 @@
+{
+  "tmdb": 93657,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Eres extraordinaria",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "extraordinary-you"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

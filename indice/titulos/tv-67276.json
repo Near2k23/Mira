@@ -1,0 +1,13 @@
+{
+  "tmdb": 67276,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "공항 가는 길",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "on-the-way-to-the-airport"
+      }
+    }
+  }
+}

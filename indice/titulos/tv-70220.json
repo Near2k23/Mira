@@ -1,0 +1,13 @@
+{
+  "tmdb": 70220,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "더 패키지",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-package"
+      }
+    }
+  }
+}

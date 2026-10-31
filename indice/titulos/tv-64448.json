@@ -1,0 +1,13 @@
+{
+  "tmdb": 64448,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마담 앙트완",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "madame-antoine-the-love-therapist"
+      }
+    }
+  }
+}

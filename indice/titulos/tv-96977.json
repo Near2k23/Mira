@@ -1,0 +1,13 @@
+{
+  "tmdb": 96977,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tiempo de amar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-the-weather-is-fine"
+      }
+    }
+  }
+}

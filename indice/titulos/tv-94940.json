@@ -1,0 +1,14 @@
+{
+  "tmdb": 94940,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nunca dos veces",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "never-twice"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 36 de 72 episodios"
+}

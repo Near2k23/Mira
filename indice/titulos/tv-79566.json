@@ -1,0 +1,13 @@
+{
+  "tmdb": 79566,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "스케치",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sketch"
+      }
+    }
+  }
+}

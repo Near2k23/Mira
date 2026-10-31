@@ -1,0 +1,13 @@
+{
+  "tmdb": 71497,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Lady in Dignity",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "woman-of-dignity"
+      }
+    }
+  }
+}

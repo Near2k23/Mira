@@ -1,0 +1,13 @@
+{
+  "tmdb": 74021,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "안단테",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "andante"
+      }
+    }
+  }
+}

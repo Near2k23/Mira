@@ -1,0 +1,13 @@
+{
+  "tmdb": 87177,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "1ページの恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-page-love"
+      }
+    }
+  }
+}

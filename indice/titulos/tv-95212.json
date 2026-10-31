@@ -1,0 +1,14 @@
+{
+  "tmdb": 95212,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor imperfecto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-with-flaws"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

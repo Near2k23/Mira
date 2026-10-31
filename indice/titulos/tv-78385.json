@@ -1,0 +1,13 @@
+{
+  "tmdb": 78385,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Bajo la lluvia",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "something-in-the-rain"
+      }
+    }
+  }
+}

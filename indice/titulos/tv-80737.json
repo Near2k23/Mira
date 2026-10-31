@@ -1,0 +1,13 @@
+{
+  "tmdb": 80737,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Belleza de Gangnam",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-id-is-gangnam-beauty"
+      }
+    }
+  }
+}
