@@ -1,0 +1,13 @@
+{
+  "tmdb": 233452,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Barreras del corazón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kimi-ni-wa-todokanai"
+      }
+    }
+  }
+}

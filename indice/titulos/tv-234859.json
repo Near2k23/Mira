@@ -1,0 +1,13 @@
+{
+  "tmdb": 234859,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "金牌客服董董恩",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hello-im-at-your-service"
+      }
+    }
+  }
+}

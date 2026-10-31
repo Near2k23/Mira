@@ -1,0 +1,13 @@
+{
+  "tmdb": 229955,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "악인전기",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "evilive"
+      }
+    }
+  }
+}

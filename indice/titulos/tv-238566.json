@@ -1,0 +1,13 @@
+{
+  "tmdb": 238566,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "일기예보적 연애",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-breeze-of-love"
+      }
+    }
+  }
+}

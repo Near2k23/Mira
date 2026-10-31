@@ -1,0 +1,13 @@
+{
+  "tmdb": 234957,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花溪记",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-is-an-accident"
+      }
+    }
+  }
+}

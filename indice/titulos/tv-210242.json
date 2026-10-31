@@ -1,0 +1,13 @@
+{
+  "tmdb": 210242,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사장돌 마트",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ceo-dol-mart"
+      }
+    }
+  }
+}

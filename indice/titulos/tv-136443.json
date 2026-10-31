@@ -1,0 +1,13 @@
+{
+  "tmdb": 136443,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "仿生人间",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-bionic-life"
+      }
+    }
+  }
+}

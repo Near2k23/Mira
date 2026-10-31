@@ -1,0 +1,13 @@
+{
+  "tmdb": 230524,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La venganza matrimonial perfecta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "perfect-marriage-revenge"
+      }
+    }
+  }
+}

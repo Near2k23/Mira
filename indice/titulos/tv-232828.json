@@ -1,0 +1,13 @@
+{
+  "tmdb": 232828,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "装腔启示录",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fake-it-till-you-make-it"
+      }
+    }
+  }
+}

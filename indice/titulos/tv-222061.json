@@ -1,0 +1,13 @@
+{
+  "tmdb": 222061,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "男生男生配",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "boys-like-boys"
+      }
+    }
+  }
+}

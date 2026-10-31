@@ -1,0 +1,13 @@
+{
+  "tmdb": 210677,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ความรักเขียนด้วยความรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "remember-me"
+      }
+    }
+  }
+}

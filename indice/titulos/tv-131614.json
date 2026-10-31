@@ -1,0 +1,14 @@
+{
+  "tmdb": 131614,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "南风知我意",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "south-wind-knows"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 40 y TMDB tiene 39; no verificada"
+}

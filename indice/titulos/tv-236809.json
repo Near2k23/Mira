@@ -1,0 +1,13 @@
+{
+  "tmdb": 236809,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "为有暗香来",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "scent-of-time"
+      }
+    }
+  }
+}

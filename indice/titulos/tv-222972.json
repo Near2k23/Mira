@@ -1,0 +1,13 @@
+{
+  "tmdb": 222972,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tren del Apocalipsis",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pending-train-823"
+      }
+    }
+  }
+}

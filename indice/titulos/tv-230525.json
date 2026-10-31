@@ -1,0 +1,14 @@
+{
+  "tmdb": 230525,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우당탕탕 패밀리",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unpredictable-family"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 120 de 131 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 211260,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "판타G스팟",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hit-the-spot"
+      }
+    }
+  }
+}

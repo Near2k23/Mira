@@ -1,0 +1,13 @@
+{
+  "tmdb": 61655,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Promesa rota",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "valid-love"
+      }
+    }
+  }
+}

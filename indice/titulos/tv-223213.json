@@ -1,0 +1,13 @@
+{
+  "tmdb": 223213,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "효심이네 각자도생",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "live-your-own-life"
+      }
+    }
+  }
+}

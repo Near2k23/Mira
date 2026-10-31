@@ -1,0 +1,13 @@
+{
+  "tmdb": 234610,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "踮起脚尖靠近你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "just-dance"
+      }
+    }
+  }
+}

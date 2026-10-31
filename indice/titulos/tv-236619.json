@@ -1,0 +1,13 @@
+{
+  "tmdb": 236619,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สลับรักนักลูกยาง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twins"
+      }
+    }
+  }
+}

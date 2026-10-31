@@ -1,0 +1,13 @@
+{
+  "tmdb": 209502,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un buen día para ser un perro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-good-day-to-be-a-dog"
+      }
+    }
+  }
+}

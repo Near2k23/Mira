@@ -1,0 +1,13 @@
+{
+  "tmdb": 234919,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "他从火光中走来",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bright-eyes-in-the-dark"
+      }
+    }
+  }
+}

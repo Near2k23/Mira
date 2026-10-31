@@ -1,0 +1,13 @@
+{
+  "tmdb": 233090,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "세 번째 결혼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-third-marriage"
+      }
+    }
+  }
+}

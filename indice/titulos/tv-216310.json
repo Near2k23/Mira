@@ -1,0 +1,13 @@
+{
+  "tmdb": 216310,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El naufragio de una diva",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "castaway-diva"
+      }
+    }
+  }
+}

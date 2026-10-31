@@ -1,0 +1,13 @@
+{
+  "tmdb": 236801,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ฉันยังจำความรู้สึกนั้นได้",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-still-remember-the-feeling"
+      }
+    }
+  }
+}

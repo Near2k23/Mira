@@ -1,0 +1,13 @@
+{
+  "tmdb": 237179,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Y Journey: Stay Like a Local",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "y-journey-stay-like-a-local"
+      }
+    }
+  }
+}

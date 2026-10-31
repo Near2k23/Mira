@@ -1,0 +1,13 @@
+{
+  "tmdb": 237894,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "最遥远的距离",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-furthest-distance"
+      }
+    }
+  }
+}

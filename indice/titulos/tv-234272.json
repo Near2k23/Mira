@@ -1,0 +1,14 @@
+{
+  "tmdb": 234272,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "홀리데이 스탭: iKON의 더 드림핑",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "holiday-staff-ikons-the-dreamping"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 4 de 6 episodios"
+}

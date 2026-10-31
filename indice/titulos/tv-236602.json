@@ -1,0 +1,13 @@
+{
+  "tmdb": 236602,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Miss Mystery",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miss-mystery"
+      }
+    }
+  }
+}

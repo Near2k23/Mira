@@ -1,0 +1,13 @@
+{
+  "tmdb": 230241,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "絕對佔領",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-mine"
+      }
+    }
+  }
+}

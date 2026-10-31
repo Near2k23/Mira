@@ -1,0 +1,13 @@
+{
+  "tmdb": 217773,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พี่เจตคนกลาง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "middlemans-love"
+      }
+    }
+  }
+}

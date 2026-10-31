@@ -1,0 +1,13 @@
+{
+  "tmdb": 236838,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "VIP - Hidden Love",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vip-2023"
+      }
+    }
+  }
+}

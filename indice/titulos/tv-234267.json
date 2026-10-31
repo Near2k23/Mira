@@ -1,0 +1,13 @@
+{
+  "tmdb": 234267,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "본아페티",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bon-appetit"
+      }
+    }
+  }
+}

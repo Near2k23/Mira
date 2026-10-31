@@ -1,0 +1,14 @@
+{
+  "tmdb": 219580,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "四时好",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yes-her-majesty"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 20 episodios"
+}

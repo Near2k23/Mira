@@ -1,0 +1,13 @@
+{
+  "tmdb": 230024,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "혼례대첩",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-matchmakers"
+      }
+    }
+  }
+}

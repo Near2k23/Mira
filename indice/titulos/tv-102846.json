@@ -1,0 +1,14 @@
+{
+  "tmdb": 102846,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Bosque Sangriento: La Serie",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-forest-of-love"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (238453) no coincidía; se usó 102846 buscando por nombre y año"
+}

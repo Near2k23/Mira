@@ -1,0 +1,15 @@
+{
+  "tmdb": 228156,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "アオハライド",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ao-haru-ride",
+        "2": "ao-haru-ride"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

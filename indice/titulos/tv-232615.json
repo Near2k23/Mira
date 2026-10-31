@@ -1,0 +1,14 @@
+{
+  "tmdb": 232615,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักไม่รู้หน้า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "faceless-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 14 episodios"
+}

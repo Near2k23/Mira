@@ -1,0 +1,13 @@
+{
+  "tmdb": 230924,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Luna en el día",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moon-in-the-day"
+      }
+    }
+  }
+}

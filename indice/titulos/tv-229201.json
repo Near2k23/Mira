@@ -1,0 +1,13 @@
+{
+  "tmdb": 229201,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Parallel World",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "parallel-world"
+      }
+    }
+  }
+}
