@@ -1,33 +1,58 @@
 {
   "version": 1,
-  "generado": "2026-10-31T19:55:58.754Z",
+  "generado": "2026-10-31T20:16:59.240Z",
   "titulos": [
     {
       "tmdb": 85937,
       "tipo": "tv",
       "categoria": "anime",
-      "titulo": "Kimetsu no Yaiba",
-      "anio": null,
-      "poster": null,
-      "backdrop": null
+      "titulo": "Demon Slayer: Kimetsu no Yaiba",
+      "anio": 2019,
+      "poster": "/inXU5hvbDbitrYOgLrq2QjYqiJD.jpg",
+      "backdrop": "/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+      "resumen": "En la era Taisho de Japón, Tanjiro, un joven vendedor de carbón, descubre que su familia ha sido asesinada por un demonio. Su hermana Nezuko, la única superviviente, se ha convertido en demonio. Tanjiro decide convertirse en cazador de demonios para devolver a su hermana a la normalidad y vengar a su familia",
+      "puntaje": 8.6,
+      "generos": [
+        16,
+        10759,
+        10765
+      ],
+      "idioma": "ja"
     },
     {
       "tmdb": 635302,
       "tipo": "movie",
       "categoria": "anime",
-      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen",
-      "anio": null,
-      "poster": null,
-      "backdrop": null
+      "titulo": "Demon Slayer: Mugen Train La película",
+      "anio": 2020,
+      "poster": "/zKtaELmdGWrRY2WoaFE9SBMdRue.jpg",
+      "backdrop": "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
+      "resumen": "Tanjiro Kamado y sus amigos de la Compañía de Cazadores de Demonios (Kimetsu no Yaiba Corps), se unen con uno de los mejores espadachines de la compañía, Kyojuro Rengoku, para investigar una misteriosa serie de desapariciones que han ocurrido dentro del “Tren Infinito”. Poco saben que Enmu, uno de los miembros de las Doce Lunas Demoníacas, también está a bordo y les ha preparado una trampa.",
+      "puntaje": 8.2,
+      "generos": [
+        16,
+        28,
+        14
+      ],
+      "idioma": "ja"
     },
     {
-      "tmdb": 96162,
+      "tmdb": 117376,
       "tipo": "tv",
       "categoria": "dorama",
       "titulo": "Vincenzo",
-      "anio": null,
-      "poster": null,
-      "backdrop": null
+      "anio": 2021,
+      "poster": "/mWYW3xNeV2IM06aUl2xMUdLicpa.jpg",
+      "backdrop": "/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+      "resumen": "A la edad de 8 años, Park Joo Hyung fue a Italia después de ser adoptado. Ahora es adulto y se llama Vincenzo Cassano, es abogado y trabaja para la mafia como consejero. Debido a una guerra entre grupos de la mafia, huye a Corea del Sur. Cuando llega a Corea del Sur, se involucra con la abogada Hong Cha Young. Ella es el tipo de abogada que hará cualquier cosa para ganar un caso. Vincenzo Cassano se enamora de ella y también logra la justicia social a su manera.",
+      "puntaje": 8.5,
+      "generos": [
+        10759,
+        35,
+        18,
+        80
+      ],
+      "idioma": "ko"
     }
   ]
 }

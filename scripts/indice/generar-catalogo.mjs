@@ -37,6 +37,10 @@ function entrada(datos, campos) {
     anio: campos.anio,
     poster: campos.poster,
     backdrop: campos.backdrop,
+    resumen: campos.resumen,
+    puntaje: campos.puntaje,
+    generos: campos.generos,
+    idioma: campos.idioma,
   };
 }
 
@@ -46,6 +50,10 @@ function entradaSinFicha(datos) {
     anio: null,
     poster: null,
     backdrop: null,
+    resumen: '',
+    puntaje: null,
+    generos: [],
+    idioma: null,
   });
 }
 
@@ -88,6 +96,10 @@ async function pedirTmdb(datos, cred) {
     anio: anioDe(fecha),
     poster: typeof cuerpo.poster_path === 'string' ? cuerpo.poster_path : null,
     backdrop: typeof cuerpo.backdrop_path === 'string' ? cuerpo.backdrop_path : null,
+    resumen: typeof cuerpo.overview === 'string' ? cuerpo.overview : '',
+    puntaje: typeof cuerpo.vote_average === 'number' && cuerpo.vote_count > 0 ? Math.round(cuerpo.vote_average * 10) / 10 : null,
+    generos: Array.isArray(cuerpo.genres) ? cuerpo.genres.map((g) => g.id) : [],
+    idioma: typeof cuerpo.original_language === 'string' ? cuerpo.original_language : null,
   });
 }
 

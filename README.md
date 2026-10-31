@@ -4,7 +4,7 @@
 
 ## Agregar un título
 
-Copia un ejemplo de `indice/titulos/` y nómbralo `${tipo}-${tmdb}.json` (por ejemplo `tv-96162.json`). Ajusta `tmdb`, `tipo`, `categoria` y `titulo`, y pon los sitios.
+Copia un ejemplo de `indice/titulos/` y nómbralo `${tipo}-${tmdb}.json` (por ejemplo `tv-117376.json`). Ajusta `tmdb`, `tipo`, `categoria` y `titulo`, y pon los sitios.
 
 Una película lleva el slug del sitio:
 

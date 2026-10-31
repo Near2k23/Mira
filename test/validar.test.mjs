@@ -15,8 +15,8 @@ test('los tres ejemplos de la plantilla son válidos', async () => {
     titulos.map((titulo) => titulo.archivo).sort(),
     [
       'indice/titulos/movie-635302.json',
+      'indice/titulos/tv-117376.json',
       'indice/titulos/tv-85937.json',
-      'indice/titulos/tv-96162.json',
     ],
   );
 });
