@@ -72,6 +72,21 @@ node scripts/indice/validar.mjs --red
 node --test test/validar.test.mjs
 ```
 
-## Catálogo
+## Catálogo y subida
 
-`indice/catalogo.json` lo genera el workflow al hacer push a `main`. El repositorio necesita el secret `TMDB_API_KEY`. No lo edites a mano.
+`indice/catalogo.json` es lo que lee el inicio de la app y **lo regenera quien sube**: GitHub Actions no se usa. El generador reutiliza lo que ya pidió a TMDB, así que tarda menos de un segundo. No lo edites a mano.
+
+```bash
+git add indice/titulos
+git commit -m "Índice: <qué agregaste>"
+git pull --rebase -X ours
+node scripts/indice/validar.mjs --red
+TMDB_API_KEY=<tu clave> node scripts/indice/generar-catalogo.mjs
+git add indice/catalogo.json
+git commit --amend --no-edit
+git push
+```
+
+Si el push se rechaza, repite desde `git pull --rebase -X ours`: con `-X ours` los choques en `catalogo.json` se resuelven solos y el generador lo rehace justo después.
+
+El workflow `.github/workflows/indice.yml` queda solo para correrlo a mano (secret `TMDB_API_KEY`), por si algún día Actions vuelve a funcionar.

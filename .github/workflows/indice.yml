@@ -1,11 +1,9 @@
 name: Índice verificado
 
+# Solo a mano: el catálogo lo regenera quien sube (ver README). En automático fallaba en cada
+# push mientras Actions no corre en esta cuenta.
 on:
-  push:
-    branches: [main]
-    paths:
-      - "indice/titulos/**"
-      - "indice/fuentes.json"
+  workflow_dispatch:
 
 permissions:
   contents: write
