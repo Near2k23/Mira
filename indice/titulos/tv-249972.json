@@ -1,0 +1,13 @@
+{
+  "tmdb": 249972,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "九重紫",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blossom"
+      }
+    }
+  }
+}

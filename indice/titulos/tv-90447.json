@@ -1,0 +1,13 @@
+{
+  "tmdb": 90447,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hotel del Luna",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hotel-del-luna"
+      }
+    }
+  }
+}

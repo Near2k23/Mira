@@ -1,0 +1,13 @@
+{
+  "tmdb": 61148,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Emperatriz Ki",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "empress-ki"
+      }
+    }
+  }
+}

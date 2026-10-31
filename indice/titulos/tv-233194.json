@@ -1,0 +1,13 @@
+{
+  "tmdb": 233194,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "以爱为营",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "only-for-love"
+      }
+    }
+  }
+}

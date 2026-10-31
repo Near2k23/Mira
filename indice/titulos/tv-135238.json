@@ -1,0 +1,14 @@
+{
+  "tmdb": 135238,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El monstruo de la vieja Seúl",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gyeongseong-creature",
+        "2": "gyeongseong-creature"
+      }
+    }
+  }
+}

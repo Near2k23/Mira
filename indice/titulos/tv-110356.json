@@ -1,0 +1,13 @@
+{
+  "tmdb": 110356,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi nombre",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-name"
+      }
+    }
+  }
+}

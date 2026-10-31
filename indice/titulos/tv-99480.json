@@ -1,0 +1,14 @@
+{
+  "tmdb": 99480,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Buen Detective",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-good-detective",
+        "2": "the-good-detective"
+      }
+    }
+  }
+}

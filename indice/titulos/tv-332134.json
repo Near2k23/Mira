@@ -1,0 +1,13 @@
+{
+  "tmdb": 332134,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "她的涅槃",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "born-again-2026"
+      }
+    }
+  }
+}

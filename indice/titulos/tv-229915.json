@@ -1,0 +1,13 @@
+{
+  "tmdb": 229915,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "밤이 되었습니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "night-has-come"
+      }
+    }
+  }
+}

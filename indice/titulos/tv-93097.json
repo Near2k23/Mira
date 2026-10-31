@@ -1,0 +1,13 @@
+{
+  "tmdb": 93097,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cuando la camelia florece",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-the-camellia-blooms"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 279136,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "轧戏",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-between-lines"
+      }
+    }
+  }
+}

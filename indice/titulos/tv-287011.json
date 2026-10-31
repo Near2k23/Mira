@@ -1,0 +1,13 @@
+{
+  "tmdb": 287011,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un amor que no se agota",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sold-out-on-you"
+      }
+    }
+  }
+}

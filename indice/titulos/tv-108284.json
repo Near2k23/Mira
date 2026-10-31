@@ -1,0 +1,13 @@
+{
+  "tmdb": 108284,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El zorro de nueve colas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tale-of-the-nine-tailed"
+      }
+    }
+  }
+}

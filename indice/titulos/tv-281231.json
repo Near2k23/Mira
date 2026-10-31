@@ -1,0 +1,13 @@
+{
+  "tmdb": 281231,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "蜜语纪",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-epoch-of-miyu"
+      }
+    }
+  }
+}

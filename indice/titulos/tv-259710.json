@@ -1,0 +1,13 @@
+{
+  "tmdb": 259710,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La reina de la confianza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "confidence-queen"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 284110,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "主角",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-lead"
+      }
+    }
+  }
+}

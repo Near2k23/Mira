@@ -1,0 +1,13 @@
+{
+  "tmdb": 158258,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Deber después de clases",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "duty-after-school"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 230915,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Khemjira",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "khemjira",
+        "2": "khemjira"
+      }
+    }
+  }
+}

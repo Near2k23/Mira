@@ -1,0 +1,14 @@
+{
+  "tmdb": 70626,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Stranger",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "stranger",
+        "2": "stranger"
+      }
+    }
+  }
+}

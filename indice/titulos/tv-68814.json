@@ -1,0 +1,13 @@
+{
+  "tmdb": 68814,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Poderosa Mujer, Do Bong Soon",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "strong-woman-do-bong-soon"
+      }
+    }
+  }
+}

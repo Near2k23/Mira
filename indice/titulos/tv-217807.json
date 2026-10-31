@@ -1,0 +1,13 @@
+{
+  "tmdb": 217807,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพื่อนต้องห้าม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "only-friends"
+      }
+    }
+  }
+}

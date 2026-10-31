@@ -1,0 +1,13 @@
+{
+  "tmdb": 231280,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Buen chico",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "good-boy"
+      }
+    }
+  }
+}

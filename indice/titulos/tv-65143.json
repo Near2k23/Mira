@@ -1,0 +1,13 @@
+{
+  "tmdb": 65143,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Descendientes Del Sol",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "descendants-of-the-sun"
+      }
+    }
+  }
+}

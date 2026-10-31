@@ -1,0 +1,13 @@
+{
+  "tmdb": 261663,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "暗河传",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blood-river"
+      }
+    }
+  }
+}

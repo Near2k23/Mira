@@ -1,0 +1,13 @@
+{
+  "tmdb": 67018,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Leyenda del Mar Azul",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-legend-of-the-blue-sea"
+      }
+    }
+  }
+}
