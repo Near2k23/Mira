@@ -1,0 +1,13 @@
+{
+  "tmdb": 228707,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "武神主宰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dominator-of-martial-gods"
+      }
+    }
+  }
+}

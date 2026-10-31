@@ -1,0 +1,13 @@
+{
+  "tmdb": 216228,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los días",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-days"
+      }
+    }
+  }
+}

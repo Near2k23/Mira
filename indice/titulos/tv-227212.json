@@ -1,0 +1,13 @@
+{
+  "tmdb": 227212,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "４月の東京は…",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tokyo-in-april-is"
+      }
+    }
+  }
+}

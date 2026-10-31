@@ -1,0 +1,13 @@
+{
+  "tmdb": 209459,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Yo seré tu flor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-will-be-your-bloom"
+      }
+    }
+  }
+}

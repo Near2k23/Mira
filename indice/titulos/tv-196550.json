@@ -1,0 +1,13 @@
+{
+  "tmdb": 196550,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "照亮你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-date-with-the-future"
+      }
+    }
+  }
+}

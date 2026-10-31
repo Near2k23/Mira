@@ -1,0 +1,13 @@
+{
+  "tmdb": 218099,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El latido de mi corazón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heartbeat"
+      }
+    }
+  }
+}

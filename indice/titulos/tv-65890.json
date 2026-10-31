@@ -1,0 +1,13 @@
+{
+  "tmdb": 65890,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "上瘾",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "addicted-heroin"
+      }
+    }
+  }
+}

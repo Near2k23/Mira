@@ -1,0 +1,13 @@
+{
+  "tmdb": 215320,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "넘버스: 빌딩숲의 감시자들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "numbers"
+      }
+    }
+  }
+}

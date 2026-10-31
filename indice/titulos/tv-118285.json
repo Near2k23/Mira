@@ -1,0 +1,13 @@
+{
+  "tmdb": 118285,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "นับสิบจะจูบ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lovely-writer"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 223824,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "นักเรียนต้องขัง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "home-school"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 227443,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "트랙터는 사랑을 싣고",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-tractor"
+      }
+    }
+  }
+}

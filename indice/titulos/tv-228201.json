@@ -1,0 +1,13 @@
+{
+  "tmdb": 228201,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "로맨스 바이 로맨스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "romance-by-romance"
+      }
+    }
+  }
+}

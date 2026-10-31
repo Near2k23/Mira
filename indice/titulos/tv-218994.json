@@ -1,0 +1,13 @@
+{
+  "tmdb": 218994,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Eliminar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "delete"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 228965,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Durian's Affair",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "durians-affair"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 197579,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "暮色心约",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twilight"
+      }
+    }
+  }
+}

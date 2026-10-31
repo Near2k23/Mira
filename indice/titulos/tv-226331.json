@@ -1,0 +1,13 @@
+{
+  "tmdb": 226331,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "로맨스 빌런",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-villain-of-romance"
+      }
+    }
+  }
+}

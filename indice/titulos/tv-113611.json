@@ -1,0 +1,13 @@
+{
+  "tmdb": 113611,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我是你的咩咩phone",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-am-your-bleating-phone"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 210702,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Revenant",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "revenant"
+      }
+    }
+  }
+}

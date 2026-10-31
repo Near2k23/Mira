@@ -1,0 +1,13 @@
+{
+  "tmdb": 227405,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ไดโนซอร์รัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dinosaur-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 152549,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "雪鹰领主",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "snow-eagle-lord"
+      }
+    }
+  }
+}

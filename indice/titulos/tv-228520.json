@@ -1,0 +1,13 @@
+{
+  "tmdb": 228520,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夏日奇妙书",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-marvellous-fable"
+      }
+    }
+  }
+}
