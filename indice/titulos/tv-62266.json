@@ -1,0 +1,13 @@
+{
+  "tmdb": 62266,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mátame, Sáname",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kill-me-heal-me"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 62669,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mermelada de Naranja",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "orange-marmalade"
+      }
+    }
+  }
+}

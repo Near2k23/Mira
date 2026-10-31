@@ -1,0 +1,13 @@
+{
+  "tmdb": 76114,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "라디오 로맨스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "radio-romance"
+      }
+    }
+  }
+}

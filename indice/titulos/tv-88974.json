@@ -1,0 +1,14 @@
+{
+  "tmdb": 88974,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La ultima misión del ángel: El amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "angels-last-mission-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

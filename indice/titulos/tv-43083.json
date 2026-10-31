@@ -1,0 +1,13 @@
+{
+  "tmdb": 43083,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Big, Creciendo sin querer",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "big"
+      }
+    }
+  }
+}

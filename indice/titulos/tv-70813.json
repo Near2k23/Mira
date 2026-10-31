@@ -1,0 +1,13 @@
+{
+  "tmdb": 70813,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Luchando Por Mi Vida",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fight-for-my-way"
+      }
+    }
+  }
+}

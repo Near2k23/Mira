@@ -1,0 +1,14 @@
+{
+  "tmdb": 81211,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Terrius, mi secreto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-secret-terrius"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

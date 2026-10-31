@@ -1,0 +1,13 @@
+{
+  "tmdb": 47179,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El libro secreto de la familia Gu",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kang-chi-the-beginning"
+      }
+    }
+  }
+}

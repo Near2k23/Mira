@@ -1,0 +1,13 @@
+{
+  "tmdb": 64812,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "무림학교",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "moorim-school"
+      }
+    }
+  }
+}

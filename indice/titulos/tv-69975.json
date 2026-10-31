@@ -1,0 +1,13 @@
+{
+  "tmdb": 69975,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "군주 - 가면의 주인",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-emperor-owner-of-the-mask"
+      }
+    }
+  }
+}

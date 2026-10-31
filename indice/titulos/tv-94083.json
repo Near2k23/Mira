@@ -1,0 +1,14 @@
+{
+  "tmdb": 94083,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor hermoso, vida maravillosa",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beautiful-love-wonderful-life"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 50 de 100 episodios"
+}

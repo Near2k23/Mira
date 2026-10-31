@@ -1,0 +1,13 @@
+{
+  "tmdb": 63990,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "발칙하게 고고",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cheer-up"
+      }
+    }
+  }
+}

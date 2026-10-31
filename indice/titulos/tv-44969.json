@@ -1,0 +1,13 @@
+{
+  "tmdb": 44969,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El hombre inocente",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-innocent-man"
+      }
+    }
+  }
+}

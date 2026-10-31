@@ -1,0 +1,13 @@
+{
+  "tmdb": 42039,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑비",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-rain"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 61738,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "하이스쿨: 러브온",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hi-school-love-on"
+      }
+    }
+  }
+}

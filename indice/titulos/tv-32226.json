@@ -1,0 +1,13 @@
+{
+  "tmdb": 32226,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sabor Personal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "personal-taste"
+      }
+    }
+  }
+}

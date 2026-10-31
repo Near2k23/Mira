@@ -1,0 +1,14 @@
+{
+  "tmdb": 93541,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La historia de Nokdu",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-tale-of-nokdu"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 32 episodios"
+}

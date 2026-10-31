@@ -1,0 +1,13 @@
+{
+  "tmdb": 71748,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Reina por siete días",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queen-for-seven-days"
+      }
+    }
+  }
+}

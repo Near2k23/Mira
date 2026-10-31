@@ -1,0 +1,13 @@
+{
+  "tmdb": 64320,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Peso del Amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-my-venus"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 70194,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Papá está extraño",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-father-is-strange"
+      }
+    }
+  }
+}

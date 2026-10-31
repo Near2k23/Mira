@@ -1,0 +1,13 @@
+{
+  "tmdb": 72374,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Escuela 2017",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "school-2017"
+      }
+    }
+  }
+}

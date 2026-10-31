@@ -1,0 +1,13 @@
+{
+  "tmdb": 66496,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hwarang, La Juventud del Guerrero Poeta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hwarang-the-poet-warrior-youth"
+      }
+    }
+  }
+}

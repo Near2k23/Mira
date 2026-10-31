@@ -1,0 +1,13 @@
+{
+  "tmdb": 77284,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El gran seductor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tempted"
+      }
+    }
+  }
+}
