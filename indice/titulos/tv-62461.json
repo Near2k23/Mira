@@ -1,0 +1,13 @@
+{
+  "tmdb": 62461,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "구여친클럽",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ex-girlfriend-club"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 88328,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Abyss",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "abyss"
+      }
+    }
+  }
+}

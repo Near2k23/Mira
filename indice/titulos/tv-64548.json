@@ -1,0 +1,13 @@
+{
+  "tmdb": 64548,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cheese In The Trap",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cheese-in-the-trap"
+      }
+    }
+  }
+}

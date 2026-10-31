@@ -1,0 +1,13 @@
+{
+  "tmdb": 94680,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "싸이코패스 다이어리",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "psychopath-diary"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 76662,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Señor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-mister"
+      }
+    }
+  }
+}

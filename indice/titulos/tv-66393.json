@@ -1,0 +1,13 @@
+{
+  "tmdb": 66393,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Vamos, fantasma",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bring-it-on-ghost"
+      }
+    }
+  }
+}

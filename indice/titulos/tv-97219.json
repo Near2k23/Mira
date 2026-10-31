@@ -1,0 +1,13 @@
+{
+  "tmdb": 97219,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¡Hola y adiós, mamá!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hi-bye-mama"
+      }
+    }
+  }
+}

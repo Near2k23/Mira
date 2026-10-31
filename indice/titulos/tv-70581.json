@@ -1,0 +1,13 @@
+{
+  "tmdb": 70581,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "써클: 이어진 두 세계",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "circle"
+      }
+    }
+  }
+}

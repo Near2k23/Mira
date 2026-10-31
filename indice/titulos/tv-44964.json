@@ -1,0 +1,13 @@
+{
+  "tmdb": 44964,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "300 Años de Amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queen-in-hyuns-man"
+      }
+    }
+  }
+}

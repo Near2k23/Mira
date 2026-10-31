@@ -1,0 +1,13 @@
+{
+  "tmdb": 75123,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Una Odisea Coreana",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-korean-odyssey"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 63529,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Capricho del Destino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "twenty-again"
+      }
+    }
+  }
+}

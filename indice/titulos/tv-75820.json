@@ -1,0 +1,13 @@
+{
+  "tmdb": 75820,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mr. Sunshine",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-sunshine"
+      }
+    }
+  }
+}

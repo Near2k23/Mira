@@ -1,0 +1,13 @@
+{
+  "tmdb": 63119,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ay mis fantasmas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-my-ghost"
+      }
+    }
+  }
+}

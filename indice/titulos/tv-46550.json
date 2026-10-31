@@ -1,0 +1,13 @@
+{
+  "tmdb": 46550,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Bella Solitaria",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flower-boy-next-door"
+      }
+    }
+  }
+}

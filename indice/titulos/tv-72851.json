@@ -1,0 +1,13 @@
+{
+  "tmdb": 72851,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pon tu nombre en alto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "live-up-to-your-name"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 46553,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "응답하라 1997",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reply-1997"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 83634,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Recuerdos de la Alhambra",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "memories-of-the-alhambra"
+      }
+    }
+  }
+}

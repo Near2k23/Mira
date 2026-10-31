@@ -1,0 +1,13 @@
+{
+  "tmdb": 74075,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor revolucionario",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "revolutionary-love"
+      }
+    }
+  }
+}

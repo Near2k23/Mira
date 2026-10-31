@@ -1,0 +1,13 @@
+{
+  "tmdb": 82501,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La sonrisa se a ido de tus ojos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-smile-has-left-your-eyes"
+      }
+    }
+  }
+}

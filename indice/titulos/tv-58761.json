@@ -1,0 +1,13 @@
+{
+  "tmdb": 58761,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "응답하라 1994",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reply-1994"
+      }
+    }
+  }
+}
