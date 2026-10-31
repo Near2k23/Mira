@@ -1,0 +1,13 @@
+{
+  "tmdb": 227191,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los Enigmas de un Asesino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nine-puzzles"
+      }
+    }
+  }
+}

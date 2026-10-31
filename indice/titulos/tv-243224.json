@@ -1,0 +1,13 @@
+{
+  "tmdb": 243224,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "凡人修仙传",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-immortal-ascension"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 258764,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Seguro contra divorcio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-divorce-insurance"
+      }
+    }
+  }
+}

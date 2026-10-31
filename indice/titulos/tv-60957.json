@@ -1,0 +1,13 @@
+{
+  "tmdb": 60957,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi amor de las estrellas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-love-from-another-star"
+      }
+    }
+  }
+}

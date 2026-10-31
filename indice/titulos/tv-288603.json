@@ -1,0 +1,13 @@
+{
+  "tmdb": 288603,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "炽夏",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "never-ending-summer"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 305105,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Peach Lover",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "peach-lover"
+      }
+    }
+  }
+}

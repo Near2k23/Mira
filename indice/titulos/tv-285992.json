@@ -1,0 +1,13 @@
+{
+  "tmdb": 285992,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "โซ่รักอัคนี",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-fire"
+      }
+    }
+  }
+}

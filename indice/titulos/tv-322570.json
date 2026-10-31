@@ -1,0 +1,13 @@
+{
+  "tmdb": 322570,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hasta que la camiseta se seque",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "until-the-t-shirt-dries"
+      }
+    }
+  }
+}

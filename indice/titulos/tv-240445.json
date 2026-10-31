@@ -1,0 +1,13 @@
+{
+  "tmdb": 240445,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La forense imperial",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "coroners-diary"
+      }
+    }
+  }
+}

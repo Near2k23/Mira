@@ -1,0 +1,13 @@
+{
+  "tmdb": 295558,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "雀骨",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "key-to-the-phoenix-heart"
+      }
+    }
+  }
+}

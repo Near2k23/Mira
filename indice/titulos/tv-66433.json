@@ -1,0 +1,13 @@
+{
+  "tmdb": 66433,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amantes de la luna: Corazón escarlata Ryeo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "scarlet-heart-ryeo"
+      }
+    }
+  }
+}

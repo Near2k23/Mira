@@ -1,0 +1,13 @@
+{
+  "tmdb": 129478,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El afecto del rey",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-kings-affection"
+      }
+    }
+  }
+}

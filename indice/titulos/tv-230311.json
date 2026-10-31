@@ -1,0 +1,13 @@
+{
+  "tmdb": 230311,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El amor tiene fuegos artificiales",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-has-fireworks"
+      }
+    }
+  }
+}

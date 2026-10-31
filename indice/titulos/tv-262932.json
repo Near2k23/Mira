@@ -1,0 +1,13 @@
+{
+  "tmdb": 262932,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "江湖夜雨十年灯",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "generation-to-generation"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 66330,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "W: Dos Mundos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "w-two-worlds"
+      }
+    }
+  }
+}

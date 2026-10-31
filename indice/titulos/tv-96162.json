@@ -1,0 +1,13 @@
+{
+  "tmdb": 96162,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Itaewon Class",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "itaewon-class"
+      }
+    }
+  }
+}

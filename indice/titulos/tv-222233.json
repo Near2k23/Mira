@@ -1,0 +1,13 @@
+{
+  "tmdb": 222233,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Urgencias Existenciales",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-slump"
+      }
+    }
+  }
+}

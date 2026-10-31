@@ -1,0 +1,13 @@
+{
+  "tmdb": 256128,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-best-thing"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "tmdb": 69087,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Voz",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "voice",
+        "2": "voice",
+        "3": "voice",
+        "4": "voice"
+      }
+    }
+  }
+}

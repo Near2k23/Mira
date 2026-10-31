@@ -1,0 +1,13 @@
+{
+  "tmdb": 239006,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Verdades al descubierto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unmasked"
+      }
+    }
+  }
+}

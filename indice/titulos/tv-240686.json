@@ -1,0 +1,13 @@
+{
+  "tmdb": 240686,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "锦月如歌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "legend-of-the-female-general"
+      }
+    }
+  }
+}

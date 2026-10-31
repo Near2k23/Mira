@@ -1,0 +1,13 @@
+{
+  "tmdb": 224030,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "조폭인 내가 고등학생이 되었습니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "high-school-return-of-a-gangster"
+      }
+    }
+  }
+}

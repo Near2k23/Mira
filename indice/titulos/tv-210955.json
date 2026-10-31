@@ -1,0 +1,13 @@
+{
+  "tmdb": 210955,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El primer amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "first-love-hatsukoi"
+      }
+    }
+  }
+}

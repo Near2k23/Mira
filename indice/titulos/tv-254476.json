@@ -1,0 +1,13 @@
+{
+  "tmdb": 254476,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "献鱼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-destiny-brings-the-demon"
+      }
+    }
+  }
+}

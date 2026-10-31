@@ -1,0 +1,13 @@
+{
+  "tmdb": 96462,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Está bien no estar bien",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "its-okay-to-not-be-okay"
+      }
+    }
+  }
+}

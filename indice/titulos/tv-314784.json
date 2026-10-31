@@ -1,0 +1,13 @@
+{
+  "tmdb": 314784,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor sin variables",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "absolute-value-of-romance"
+      }
+    }
+  }
+}
