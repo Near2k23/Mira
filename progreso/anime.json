@@ -78,11 +78,20 @@
   "tv-63145": "T1 (charlotte): 14 eps en el sitio vs 13 en TMDB",
   "tv-64710": "T1 (noragami): 14 eps en el sitio vs 12 en TMDB ; T2 (noragami-aragoto): 15 eps en el sitio vs 13 en TMDB",
   "tv-65942": "T1 (rezero-kara-hajimeru-isekai-seikatsu, rezero-kara-hajimeru-isekai-seikatsu-2nd-season): 50 eps en el sitio vs 85 en TMDB",
-  "tv-120089": "spy-x-family-part-2: empieza en T1E13, esperaba E26"
+  "tv-120089": "spy-x-family-part-2: empieza en T1E13, esperaba E26",
+  "watashi-no-shiawase-na-kekkon-special": "Especial",
+  "cyberpunk-edgerunners-2": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
   "tv-65930",
   "tv-73223"
- ]
+ ],
+ "paginas": {
+  "latest_released 1-2": {
+   "agregados": 68,
+   "completados": 1,
+   "saltados": 7
+  }
+ }
 }
