@@ -1,0 +1,13 @@
+{
+  "tmdb": 278164,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เปย์รักด้วยแมวเลี้ยง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cat-for-cash"
+      }
+    }
+  }
+}

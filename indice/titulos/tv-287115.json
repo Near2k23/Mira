@@ -1,0 +1,13 @@
+{
+  "tmdb": 287115,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "วิวาห์ปฐพี",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-earth"
+      }
+    }
+  }
+}

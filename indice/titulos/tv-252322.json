@@ -1,0 +1,13 @@
+{
+  "tmdb": 252322,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "天书黎明",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "treasure-at-dawn"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 281013,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Beso dinamita",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dynamite-kiss"
+      }
+    }
+  }
+}

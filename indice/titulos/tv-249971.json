@@ -1,0 +1,13 @@
+{
+  "tmdb": 249971,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en la tierra turquesa",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-on-the-turquoise-land"
+      }
+    }
+  }
+}

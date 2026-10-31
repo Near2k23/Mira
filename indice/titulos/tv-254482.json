@@ -1,0 +1,13 @@
+{
+  "tmdb": 254482,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Las 24 estratagemas de Chang'an",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-vendetta-of-an"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 313293,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "런드리 로맨스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "laundry-romance"
+      }
+    }
+  }
+}

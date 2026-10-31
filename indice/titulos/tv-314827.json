@@ -1,0 +1,13 @@
+{
+  "tmdb": 314827,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "枕红妆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "echoes-of-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 292256,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ฉันหลงรักเทวดาของฉัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-my-angel"
+      }
+    }
+  }
+}

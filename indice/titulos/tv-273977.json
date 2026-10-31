@@ -1,0 +1,13 @@
+{
+  "tmdb": 273977,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El arte de Sarah",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-art-of-sarah"
+      }
+    }
+  }
+}

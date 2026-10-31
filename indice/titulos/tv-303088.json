@@ -1,0 +1,13 @@
+{
+  "tmdb": 303088,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春宵",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "spring-night"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 309104,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "วันหนึ่งจะเป็นซุปตาร์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-wanna-be-suptar"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 270856,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "哑舍",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-company"
+      }
+    }
+  }
+}

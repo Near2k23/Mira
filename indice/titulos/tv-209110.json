@@ -1,0 +1,13 @@
+{
+  "tmdb": 209110,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El precio de una confesión",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-price-of-confession"
+      }
+    }
+  }
+}

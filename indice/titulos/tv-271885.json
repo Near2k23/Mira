@@ -1,0 +1,13 @@
+{
+  "tmdb": 271885,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tú siempre estuviste ahí",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "as-you-stood-by"
+      }
+    }
+  }
+}

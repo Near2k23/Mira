@@ -1,0 +1,13 @@
+{
+  "tmdb": 262698,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "龙王令之妃卿莫属",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dragon-kings-decree"
+      }
+    }
+  }
+}

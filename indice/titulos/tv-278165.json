@@ -1,0 +1,13 @@
+{
+  "tmdb": 278165,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "มีสติหน่อยคุณธีร์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "me-and-thee"
+      }
+    }
+  }
+}

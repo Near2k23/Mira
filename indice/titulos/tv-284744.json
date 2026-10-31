@@ -1,0 +1,13 @@
+{
+  "tmdb": 284744,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pro Bono",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pro-bono"
+      }
+    }
+  }
+}

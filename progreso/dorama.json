@@ -1,6 +1,6 @@
 {
- "pagina": 84,
- "agregados": 2129,
+ "pagina": 89,
+ "agregados": 2154,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -865,6 +865,446 @@
   {
    "id_o_slug": "tv-271341",
    "motivo": "validar falló: ERROR indice/titulos/tv-271341.json: sitio \"doramasflix\" slug \"Only-you\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "the-golden-egg",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "peach-trap",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "moon-river",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "that-summer",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "seventeen-our-chapter",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "interminable",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "love-and-crown",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "dont-call-me-maam",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "pyramid-game-amime",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "to-my-shore",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "flying-up-without-disturb",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "tide-of-love",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "love-begins-in-the-world-of-if",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "heroes-next-door",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "why-is-he-still-single",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "chef-of-antarctic",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "scandal-eve",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "gbrb-joy-pops-laugh-pops",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "i-am-boxer",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "gorgeous-dream",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "loveexe",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-palace-gambit",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-sparrows-gambit",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "marry-him-in-her-place",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "shadow-detective-C2025",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "thundercloud-rainstorm",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "clairebell",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "match-play",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "the-princess-decree",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "surely-tomorrow",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "reborn-from-the-ashes",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "will-you-be-my-manager",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "sniper-butterfly",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "perfect-glow",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "just-makeup",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "beauty-reborn",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "reloved",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "my-happy-marriage",
+   "motivo": "otra tarea: anime"
+  },
+  {
+   "id_o_slug": "dare-you-to-death",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "love-track",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "phoenixs-homecoming",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-glory-of-queen",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "villains",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "the-ultimate-vow-unknown-to-you",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "idol-i",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-unclouded-soul",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "cashero",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "love-alert",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "glory-2025",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-truth-within",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "positively-yours",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "a-vow-in-the-dark",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "manbo-destiny",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "Spring-Fever",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "dear-secretary",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "to-my-beloved-thief",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "fan-service",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-imperial-coroner",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "glory-in-shadows",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "my-korean-boyfriend",
+   "motivo": "otra tarea: serie (país BR)"
+  },
+  {
+   "id_o_slug": "mr-kurosakis-pure-love-never-stops",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "strobe-edge",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "gimbap-and-onigiri",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "countdown-to-yes",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "love-in-protocol",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "no-tail-to-tell",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "undercover-miss-hong",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "secret-by-my-name",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "half-awake",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "blue-box",
+   "motivo": "otra tarea: anime"
+  },
+  {
+   "id_o_slug": "my-page-in-the-90s",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "affinity",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "how-to-train-your-killer",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "how-dare-you-anime-2024",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-guilty",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter",
+   "motivo": "otra tarea: anime"
+  },
+  {
+   "id_o_slug": "recipe-for-love",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "ancient-bracelet",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "honour",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-truth",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "the-boy-next-world-my-destiny",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "candy",
+   "motivo": "otra tarea: serie (país SG)"
+  },
+  {
+   "id_o_slug": "the-secret-friends-club",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "my-romance-scammer",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "our-universe",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "infinite-cycle-of-love",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "water-polo-yankees",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "love-after-addiction",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "hell-university",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "shall-we-dance",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "yesterday",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "a-predator-in-a-skirt",
+   "motivo": "otra tarea: anime"
+  },
+  {
+   "id_o_slug": "semantic-error-special",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "bloody-flower",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "crazy-over-his-fingers-just-the-two-of-us-in-a-salon-after-closing",
+   "motivo": "otra tarea: anime"
+  },
+  {
+   "id_o_slug": "frozen-valentine",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "battle-of-fates",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "love-unseen-beneath-the-clear-night-sky",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "matori-and-kyoken-men-in-the-back-alleys",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "singles-inferno-reunion",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "dark-moon-the-blood-altar",
+   "motivo": "otra tarea: anime"
+  },
+  {
+   "id_o_slug": "a-summer-meant-for-us",
+   "motivo": "otra tarea: serie (país SA)"
+  },
+  {
+   "id_o_slug": "love-phobia",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "in-your-radiant-season",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "our-dazzling-days",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "sugar-and-lies",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "million-follower-detective",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "until-i-destroyed-my-husbands-other-family",
+   "motivo": "no está en el sitio (sin ficha)"
+  },
+  {
+   "id_o_slug": "predestined-love-2026",
+   "motivo": "ERROR temporal: gql [{\"message\":\"ThrottlerException: Too Many Requests\",\"locations\":[{\"line\":1,\"column\":2}],\"path\":[\"listEpisodes\"],\"extensions\":{\"code\":\"INTERNAL_SERVER_ERROR\"}}]"
+  },
+  {
+   "id_o_slug": "about-love",
+   "motivo": "no está en el sitio (sin ficha)"
   }
  ],
  "notas": [
@@ -1209,7 +1649,8 @@
   "tv-240150.json",
   "tv-288912.json",
   "tv-252741.json",
-  "tv-298931.json"
+  "tv-298931.json",
+  "tv-246473.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -3526,6 +3967,46 @@
   263044,
   217837,
   299689,
-  256226
+  256226,
+  239385,
+  271885,
+  281013,
+  278165,
+  252193,
+  262698,
+  249971,
+  241576,
+  278142,
+  252322,
+  284744,
+  254482,
+  279041,
+  209110,
+  275989,
+  278577,
+  246473,
+  303088,
+  282810,
+  270856,
+  279136,
+  263219,
+  306207,
+  229891,
+  305105,
+  278164,
+  284828,
+  312114,
+  273977,
+  287115,
+  278127,
+  280632,
+  292256,
+  313293,
+  309104,
+  303724,
+  290446,
+  287760,
+  262932,
+  314827
  ]
 }

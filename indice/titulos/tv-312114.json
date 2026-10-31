@@ -1,0 +1,13 @@
+{
+  "tmdb": 312114,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "少年歌行之天下无双",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-blood-of-youth-quest-of-heroic-hearts"
+      }
+    }
+  }
+}

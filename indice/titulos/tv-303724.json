@@ -1,0 +1,13 @@
+{
+  "tmdb": 303724,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "สืบลับจับใจ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heart-code"
+      }
+    }
+  }
+}

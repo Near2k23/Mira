@@ -1,0 +1,13 @@
+{
+  "tmdb": 278142,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ภาวะรักคนหมดไฟ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "burnout-syndrome"
+      }
+    }
+  }
+}
