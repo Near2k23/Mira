@@ -1,0 +1,21 @@
+{
+  "tmdb": 214587,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bye Bye, Earth",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "bye-bye-earth",
+            "episodios": 10
+          },
+          {
+            "slug": "bye-bye-earth-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

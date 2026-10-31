@@ -391,7 +391,40 @@
   "tv-286723": "completado",
   "movie-1360829": "nuevo",
   "movie-1359607": "completado",
-  "movie-1438229": "nuevo"
+  "movie-1438229": "nuevo",
+  "tv-50712": "completado",
+  "tv-99073": "completado",
+  "tv-130237": "completado",
+  "tv-214587": "nuevo",
+  "tv-215615": "completado",
+  "tv-215799": "nuevo",
+  "tv-217407": "completado",
+  "tv-223500": "nuevo",
+  "tv-243501": "nuevo",
+  "tv-249854": "completado",
+  "tv-254017": "completado",
+  "tv-254174": "completado",
+  "tv-254853": "completado",
+  "tv-256109": "completado",
+  "tv-261091": "completado",
+  "tv-261868": "completado",
+  "tv-262929": "completado",
+  "tv-270602": "completado",
+  "tv-271003": "completado",
+  "tv-271576": "completado",
+  "tv-274069": "completado",
+  "tv-274737": "completado",
+  "tv-274741": "completado",
+  "tv-277665": "completado",
+  "tv-277881": "completado",
+  "tv-278050": "completado",
+  "tv-278367": "completado",
+  "tv-278704": "completado",
+  "tv-278816": "completado",
+  "tv-279216": "completado",
+  "tv-281042": "completado",
+  "tv-282666": "completado",
+  "tv-283360": "completado"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -451,7 +484,10 @@
   "guimi-zhi-zhu-xiaochou-pian": "no está en TMDB / no ubicado",
   "lupin-the-iiird-zenigata-to-futari-no-lupin": "no está en TMDB / no ubicado",
   "i-byeol-e-pil-yohan": "no está en TMDB / no ubicado",
-  "kono-subarashii-sekai-ni-shukufuku-wo-3-bonus-stage": "OVA"
+  "kono-subarashii-sekai-ni-shukufuku-wo-3-bonus-stage": "OVA",
+  "lycoris-recoil-friends-are-thieves-of-time": "no está en TMDB / no ubicado",
+  "to-be-hero-x": "no está en TMDB / no ubicado",
+  "lazarus": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -507,6 +543,11 @@
   "latest_released 19-20": {
    "agregados": 7,
    "completados": 23,
+   "saltados": 4
+  },
+  "latest_released 21-22": {
+   "agregados": 4,
+   "completados": 29,
    "saltados": 4
   }
  }

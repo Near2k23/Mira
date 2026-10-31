@@ -1,0 +1,21 @@
+{
+  "tmdb": 223500,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wind Breaker",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "wind-breaker",
+            "episodios": 13
+          },
+          {
+            "slug": "wind-breaker-season-2"
+          }
+        ]
+      }
+    }
+  }
+}

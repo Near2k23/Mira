@@ -1,0 +1,21 @@
+{
+  "tmdb": 243501,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shoushimin Series",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "shoushimin-series",
+            "episodios": 10
+          },
+          {
+            "slug": "shoushimin-series-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

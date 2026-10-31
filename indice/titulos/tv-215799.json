@@ -1,0 +1,21 @@
+{
+  "tmdb": 215799,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sentai Daishikkaku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "sentai-daishikkaku",
+            "episodios": 12
+          },
+          {
+            "slug": "sentai-daishikkaku-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}
