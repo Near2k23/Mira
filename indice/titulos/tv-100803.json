@@ -1,0 +1,13 @@
+{
+  "tmdb": 100803,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Patina hacia el amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "skate-into-love"
+      }
+    }
+  }
+}

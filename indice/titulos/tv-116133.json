@@ -1,0 +1,13 @@
+{
+  "tmdb": 116133,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "go-go-squid-2-dtappledogs-time"
+      }
+    }
+  }
+}

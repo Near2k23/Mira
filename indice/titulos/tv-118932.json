@@ -1,0 +1,13 @@
+{
+  "tmdb": 118932,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sé mi novio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-my-boyfriend"
+      }
+    }
+  }
+}

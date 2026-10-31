@@ -1,0 +1,13 @@
+{
+  "tmdb": 85011,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "大约是爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "about-is-love"
+      }
+    }
+  }
+}

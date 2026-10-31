@@ -1,0 +1,13 @@
+{
+  "tmdb": 43135,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Como Aman los Hombres",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-gentlemans-dignity"
+      }
+    }
+  }
+}

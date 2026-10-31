@@ -1,0 +1,13 @@
+{
+  "tmdb": 84327,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "SKY Castle",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sky-castle"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 76722,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "블핑하우스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blackpink-house"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 59 episodios"
+}

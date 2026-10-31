@@ -1,0 +1,13 @@
+{
+  "tmdb": 119362,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Palabra de Honor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "word-of-honor"
+      }
+    }
+  }
+}

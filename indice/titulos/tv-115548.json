@@ -1,0 +1,13 @@
+{
+  "tmdb": 115548,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我就是这般女子",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-girl-like-me"
+      }
+    }
+  }
+}

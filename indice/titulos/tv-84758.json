@@ -1,0 +1,15 @@
+{
+  "tmdb": 84758,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "医妃难囚",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "princess-at-large",
+        "2": "princess-at-large"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 27 y TMDB tiene 12; no verificada"
+}

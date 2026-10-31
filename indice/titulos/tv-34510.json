@@ -1,0 +1,13 @@
+{
+  "tmdb": 34510,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "성균관 스캔들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sungkyunkwan-scandal"
+      }
+    }
+  }
+}

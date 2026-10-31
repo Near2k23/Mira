@@ -1,0 +1,13 @@
+{
+  "tmdb": 100595,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cuando mi amor florece",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-my-love-blooms"
+      }
+    }
+  }
+}

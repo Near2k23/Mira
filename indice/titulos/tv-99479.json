@@ -1,0 +1,14 @@
+{
+  "tmdb": 99479,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "365 : 운명을 거스르는 1년",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "365-repeat-the-year"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 24 episodios"
+}

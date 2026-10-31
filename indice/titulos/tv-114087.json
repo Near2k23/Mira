@@ -1,0 +1,13 @@
+{
+  "tmdb": 114087,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "小风暴之时间的玫瑰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-complete-me"
+      }
+    }
+  }
+}

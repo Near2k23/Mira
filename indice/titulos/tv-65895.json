@@ -1,0 +1,13 @@
+{
+  "tmdb": 65895,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "동네변호사 조들호",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-lawyer-mr-jo"
+      }
+    }
+  }
+}

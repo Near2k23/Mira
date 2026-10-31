@@ -1,0 +1,13 @@
+{
+  "tmdb": 78209,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Encuéntrame a las 10 con 6",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meet-me-1006"
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
- "pagina": 17,
- "agregados": 463,
+ "pagina": 18,
+ "agregados": 488,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -21,6 +21,14 @@
   {
    "id_o_slug": "vincenzo",
    "motivo": "ya existía completo"
+  },
+  {
+   "id_o_slug": "mr-queen-the-story-2021",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "unexpected-business",
+   "motivo": "no está en el sitio (sin episodios)"
   }
  ],
  "notas": [
@@ -103,7 +111,13 @@
   "tv-86352.json",
   "tv-71673.json",
   "tv-81105.json",
-  "tv-117378.json"
+  "tv-117378.json",
+  "tv-99479.json",
+  "tv-69087.json",
+  "tv-84758.json",
+  "tv-100998.json",
+  "tv-70593.json",
+  "tv-76722.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -611,6 +625,34 @@
   117378,
   38861,
   65355,
-  64232
+  64232,
+  119362,
+  43135,
+  2619,
+  41926,
+  34510,
+  64487,
+  65806,
+  65895,
+  79070,
+  99479,
+  69087,
+  84327,
+  61208,
+  115548,
+  85011,
+  78209,
+  116133,
+  104982,
+  64174,
+  114087,
+  70664,
+  84758,
+  100803,
+  118932,
+  100998,
+  70593,
+  76722,
+  100595
  ]
 }

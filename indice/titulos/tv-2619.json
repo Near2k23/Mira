@@ -1,0 +1,13 @@
+{
+  "tmdb": 2619,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "A Love To Kill",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-love-to-kill"
+      }
+    }
+  }
+}

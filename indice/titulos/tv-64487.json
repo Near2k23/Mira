@@ -1,0 +1,13 @@
+{
+  "tmdb": 64487,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "리멤버 - 아들의 전쟁",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "remember"
+      }
+    }
+  }
+}

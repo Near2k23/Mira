@@ -1,0 +1,13 @@
+{
+  "tmdb": 64174,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "他来了，请闭眼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-me-if-you-dare"
+      }
+    }
+  }
+}

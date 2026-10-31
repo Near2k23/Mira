@@ -1,0 +1,13 @@
+{
+  "tmdb": 41926,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mil Días De Promesas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-thousand-days-promise"
+      }
+    }
+  }
+}

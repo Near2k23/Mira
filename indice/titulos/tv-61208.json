@@ -1,0 +1,13 @@
+{
+  "tmdb": 61208,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "미스코리아",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miss-korea"
+      }
+    }
+  }
+}

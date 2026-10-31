@@ -1,0 +1,13 @@
+{
+  "tmdb": 65806,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "몬스터",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "monster"
+      }
+    }
+  }
+}
