@@ -1,0 +1,13 @@
+{
+  "tmdb": 239017,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Casada, ¿pero a qué precio?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-am-marriedbut"
+      }
+    }
+  }
+}

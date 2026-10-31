@@ -1,0 +1,13 @@
+{
+  "tmdb": 259015,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi querido enemigo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-dearest-nemesis"
+      }
+    }
+  }
+}

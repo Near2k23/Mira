@@ -1,0 +1,13 @@
+{
+  "tmdb": 276257,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "비밀 사이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secret-relationships"
+      }
+    }
+  }
+}

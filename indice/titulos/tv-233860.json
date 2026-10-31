@@ -1,0 +1,13 @@
+{
+  "tmdb": 233860,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "只此江湖梦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-and-sword"
+      }
+    }
+  }
+}

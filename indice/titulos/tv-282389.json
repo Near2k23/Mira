@@ -1,0 +1,13 @@
+{
+  "tmdb": 282389,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "하트 스테인",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heart-stain"
+      }
+    }
+  }
+}

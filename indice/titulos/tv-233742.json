@@ -1,0 +1,13 @@
+{
+  "tmdb": 233742,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Newtopia",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "newtopia"
+      }
+    }
+  }
+}

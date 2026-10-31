@@ -1,0 +1,13 @@
+{
+  "tmdb": 243964,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Luces, cámara, ¡amor!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "melo-movie"
+      }
+    }
+  }
+}

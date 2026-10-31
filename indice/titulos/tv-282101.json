@@ -1,0 +1,13 @@
+{
+  "tmdb": 282101,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "원경: 단오의 인연",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-queen-who-crowns-before-sunrise"
+      }
+    }
+  }
+}

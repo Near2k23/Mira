@@ -1,0 +1,13 @@
+{
+  "tmdb": 282651,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor analógico",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "offline-love"
+      }
+    }
+  }
+}

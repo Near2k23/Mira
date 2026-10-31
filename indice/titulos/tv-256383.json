@@ -1,0 +1,13 @@
+{
+  "tmdb": 256383,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "顔に泥を塗る",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "make-up-with-mud"
+      }
+    }
+  }
+}

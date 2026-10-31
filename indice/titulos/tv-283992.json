@@ -1,0 +1,13 @@
+{
+  "tmdb": 283992,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우리들의 초콜릿 순간",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-chocolate-moments"
+      }
+    }
+  }
+}

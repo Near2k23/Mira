@@ -1,6 +1,6 @@
 {
- "pagina": 73,
- "agregados": 1948,
+ "pagina": 74,
+ "agregados": 1973,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -397,6 +397,18 @@
   {
    "id_o_slug": "tv-278132",
    "motivo": "validar falló: ERROR indice/titulos/tv-278132.json: sitio \"doramasflix\" slug \"LoveIsTooHardforanHeir-2025\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "the-last-time",
+   "motivo": "no está en el sitio (sin episodios)"
+  },
+  {
+   "id_o_slug": "ang-mutya-ng-section-e",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "tv-200794",
+   "motivo": "validar falló: ERROR indice/titulos/tv-200794.json: sitio \"doramasflix\" slug \"La Bruja\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -718,7 +730,11 @@
   "tv-226103.json",
   "tv-243083.json",
   "tv-216261.json",
-  "tv-271890.json"
+  "tv-271890.json",
+  "tv-224733.json",
+  "tv-276051.json",
+  "tv-279413.json",
+  "tv-283973.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2819,6 +2835,34 @@
   232610,
   276525,
   12539,
-  275998
+  275998,
+  282389,
+  254477,
+  262707,
+  224733,
+  276051,
+  259288,
+  238618,
+  233742,
+  239017,
+  282101,
+  283992,
+  275179,
+  262664,
+  243964,
+  256383,
+  200794,
+  282620,
+  259015,
+  279413,
+  250060,
+  282651,
+  248244,
+  256128,
+  271309,
+  243081,
+  283973,
+  233860,
+  276257
  ]
 }

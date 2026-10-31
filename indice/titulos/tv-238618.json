@@ -1,0 +1,13 @@
+{
+  "tmdb": 238618,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "仙台有树",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-of-the-divine-tree"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 254477,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "掌心",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kill-my-sins"
+      }
+    }
+  }
+}

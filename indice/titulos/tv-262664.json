@@ -1,0 +1,13 @@
+{
+  "tmdb": 262664,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "獨佔接班人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "exclusive-love"
+      }
+    }
+  }
+}

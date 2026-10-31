@@ -1,0 +1,13 @@
+{
+  "tmdb": 271309,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Corazones enterrados",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "buried-hearts"
+      }
+    }
+  }
+}

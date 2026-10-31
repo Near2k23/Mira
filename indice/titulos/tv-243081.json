@@ -1,0 +1,13 @@
+{
+  "tmdb": 243081,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "滤镜",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "filter"
+      }
+    }
+  }
+}

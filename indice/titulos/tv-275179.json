@@ -1,0 +1,13 @@
+{
+  "tmdb": 275179,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "怎敌她千娇百媚",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "les-belles"
+      }
+    }
+  }
+}

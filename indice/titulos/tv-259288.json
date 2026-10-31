@@ -1,0 +1,13 @@
+{
+  "tmdb": 259288,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Rivalidad Amistosa",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "friendly-rivalry"
+      }
+    }
+  }
+}

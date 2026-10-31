@@ -1,0 +1,14 @@
+{
+  "tmdb": 283973,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아는 외고",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "knowing-foreign-language-high-school"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (284602) no coincidía; se usó 283973 buscando por nombre y año. T1: el sitio llega al ep 10 y TMDB tiene 4; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 282620,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "雨爱千金",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rainkissed-fate"
+      }
+    }
+  }
+}
