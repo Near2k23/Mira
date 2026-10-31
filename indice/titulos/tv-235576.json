@@ -1,0 +1,13 @@
+{
+  "tmdb": 235576,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "세자가 사라졌다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "missing-crown-prince"
+      }
+    }
+  }
+}

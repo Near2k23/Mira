@@ -1,0 +1,13 @@
+{
+  "tmdb": 239629,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "회색기류",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gray-shelter"
+      }
+    }
+  }
+}

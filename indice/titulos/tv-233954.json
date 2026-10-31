@@ -1,0 +1,13 @@
+{
+  "tmdb": 233954,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "House of the Owl",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "house-of-the-owl"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 237337,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "วันดีวิทยา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wandee-goodday"
+      }
+    }
+  }
+}

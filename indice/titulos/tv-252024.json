@@ -1,0 +1,13 @@
+{
+  "tmdb": 252024,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Girls on Fire",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "girls-on-fire"
+      }
+    }
+  }
+}

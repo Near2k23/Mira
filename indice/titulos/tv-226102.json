@@ -1,0 +1,13 @@
+{
+  "tmdb": 226102,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "크래시",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "crash"
+      }
+    }
+  }
+}

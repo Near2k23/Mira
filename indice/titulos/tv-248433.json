@@ -1,0 +1,15 @@
+{
+  "tmdb": 248433,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "25時、赤坂で",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "at-2500-in-akasaka",
+        "2": "at-2500-in-akasaka"
+      }
+    }
+  },
+  "nota": "T2: el sitio llega al ep 11 y TMDB tiene 10; no verificada"
+}

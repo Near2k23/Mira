@@ -1,0 +1,13 @@
+{
+  "tmdb": 246368,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "블러썸 캠퍼스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blossom-campus"
+      }
+    }
+  }
+}

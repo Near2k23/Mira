@@ -1,0 +1,13 @@
+{
+  "tmdb": 253288,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "另一种蓝",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reblooming-blue"
+      }
+    }
+  }
+}

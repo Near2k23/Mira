@@ -1,0 +1,14 @@
+{
+  "tmdb": 202018,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pequeño y Maravilloso",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "small-mighty"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 26 episodios"
+}

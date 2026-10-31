@@ -1,0 +1,13 @@
+{
+  "tmdb": 211705,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hablando con franqueza",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "frankly-speaking"
+      }
+    }
+  }
+}

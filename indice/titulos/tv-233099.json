@@ -1,0 +1,13 @@
+{
+  "tmdb": 233099,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Atrévete a amarme",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dare-to-love-me"
+      }
+    }
+  }
+}

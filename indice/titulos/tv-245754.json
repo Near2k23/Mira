@@ -1,0 +1,13 @@
+{
+  "tmdb": 245754,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Millonarios del mundo en Corea",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "super-rich-in-korea"
+      }
+    }
+  }
+}

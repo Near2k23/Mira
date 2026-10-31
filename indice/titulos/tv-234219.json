@@ -1,0 +1,13 @@
+{
+  "tmdb": 234219,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "이사장님은 9등급",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-chairman-of-class-9"
+      }
+    }
+  }
+}

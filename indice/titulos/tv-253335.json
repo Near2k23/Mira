@@ -1,0 +1,13 @@
+{
+  "tmdb": 253335,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "请和这样的我恋爱吧",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "men-in-love"
+      }
+    }
+  }
+}

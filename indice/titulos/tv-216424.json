@@ -1,0 +1,13 @@
+{
+  "tmdb": 216424,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Encuéntrate",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meet-yourself"
+      }
+    }
+  }
+}

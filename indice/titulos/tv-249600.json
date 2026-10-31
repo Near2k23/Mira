@@ -1,0 +1,13 @@
+{
+  "tmdb": 249600,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Secret Ingredient",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secret-ingredient"
+      }
+    }
+  }
+}

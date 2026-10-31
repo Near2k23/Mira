@@ -1,0 +1,13 @@
+{
+  "tmdb": 236617,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "新生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "regeneration"
+      }
+    }
+  }
+}

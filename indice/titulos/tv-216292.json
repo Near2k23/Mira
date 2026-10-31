@@ -1,0 +1,13 @@
+{
+  "tmdb": 216292,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "수사반장 1958",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chief-detective-1958"
+      }
+    }
+  }
+}

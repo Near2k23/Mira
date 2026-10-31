@@ -1,0 +1,14 @@
+{
+  "tmdb": 251779,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "BEGINS ≠ YOUTH",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "begins-youth"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 4 de 12 episodios. temporada 2 del sitio no existe en TMDB; omitida. temporada 3 del sitio no existe en TMDB; omitida"
+}

@@ -1,6 +1,6 @@
 {
- "pagina": 62,
- "agregados": 1655,
+ "pagina": 63,
+ "agregados": 1682,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -341,6 +341,14 @@
   {
    "id_o_slug": "fit-check",
    "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "the-rain-in-espana",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "i-land-2-na",
+   "motivo": "no existe en TMDB"
   }
  ],
  "notas": [
@@ -631,7 +639,11 @@
   "tv-215720.json",
   "tv-246482.json",
   "tv-234901.json",
-  "tv-238786.json"
+  "tv-238786.json",
+  "tv-237952.json",
+  "tv-248433.json",
+  "tv-202018.json",
+  "tv-251779.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2413,6 +2425,34 @@
   237333,
   244571,
   230923,
-  232948
+  232948,
+  239053,
+  216424,
+  249838,
+  237952,
+  235576,
+  216292,
+  251722,
+  244621,
+  248433,
+  233954,
+  139547,
+  239629,
+  252136,
+  202018,
+  249600,
+  251779,
+  211705,
+  252024,
+  232616,
+  237337,
+  253335,
+  236617,
+  234219,
+  233099,
+  246368,
+  245754,
+  253288,
+  226102
  ]
 }
