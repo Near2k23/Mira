@@ -1,0 +1,13 @@
+{
+  "tmdb": 308834,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "วาดฝันวันวิวาห์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-love-forever"
+      }
+    }
+  }
+}

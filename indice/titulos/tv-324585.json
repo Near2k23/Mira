@@ -1,0 +1,14 @@
+{
+  "tmdb": 324585,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "幸せになりたいマサムネ君",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "all-masamune-wants-is-happiness"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 322420,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一次元の挿し木",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "labyrinth-of-hortensia-and-the-minotaur"
+      }
+    }
+  }
+}

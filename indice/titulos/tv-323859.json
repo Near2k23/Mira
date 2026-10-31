@@ -1,0 +1,13 @@
+{
+  "tmdb": 323859,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "さよならノワール",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "goodbye-noir"
+      }
+    }
+  }
+}

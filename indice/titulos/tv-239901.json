@@ -1,0 +1,13 @@
+{
+  "tmdb": 239901,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "云秀行",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-legend-of-rosy-clouds"
+      }
+    }
+  }
+}

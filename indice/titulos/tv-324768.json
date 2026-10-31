@@ -1,0 +1,13 @@
+{
+  "tmdb": 324768,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ลูกผู้ชายหัวใจเพชร",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "strong-will"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 322072,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "君は夏のなか",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-summer-of-you"
+      }
+    }
+  }
+}

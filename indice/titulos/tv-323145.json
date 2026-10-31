@@ -1,0 +1,13 @@
+{
+  "tmdb": 323145,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "不如见一面",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "endless-love"
+      }
+    }
+  }
+}

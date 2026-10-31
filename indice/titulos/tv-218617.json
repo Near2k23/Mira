@@ -1,0 +1,13 @@
+{
+  "tmdb": 218617,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우주 빵집",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wooju-bakery"
+      }
+    }
+  }
+}

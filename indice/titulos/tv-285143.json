@@ -1,0 +1,13 @@
+{
+  "tmdb": 285143,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Camino al éxito",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "road-to-success"
+      }
+    }
+  }
+}

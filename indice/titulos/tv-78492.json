@@ -1,0 +1,13 @@
+{
+  "tmdb": 78492,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "热血街舞团",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hot-blood-dance-crew"
+      }
+    }
+  }
+}

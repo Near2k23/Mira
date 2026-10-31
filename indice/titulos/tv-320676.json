@@ -1,0 +1,13 @@
+{
+  "tmdb": 320676,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "蓝嘴唇",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blue-lips"
+      }
+    }
+  }
+}

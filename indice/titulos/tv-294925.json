@@ -1,0 +1,13 @@
+{
+  "tmdb": 294925,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "남주서치",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "namju-search"
+      }
+    }
+  }
+}

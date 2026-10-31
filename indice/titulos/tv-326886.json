@@ -1,0 +1,13 @@
+{
+  "tmdb": 326886,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Auspicious Nobles",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "auspicious-nobles"
+      }
+    }
+  }
+}

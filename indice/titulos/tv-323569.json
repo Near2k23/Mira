@@ -1,0 +1,13 @@
+{
+  "tmdb": 323569,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "しもべの王子様",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-servant-prince"
+      }
+    }
+  }
+}

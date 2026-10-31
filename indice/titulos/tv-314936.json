@@ -1,0 +1,13 @@
+{
+  "tmdb": 314936,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อย่าขอพี่เจน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dont-be-too-emotional"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 323563,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夏色の雲が恋と嵐をまきおこす",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-summer-my-storm"
+      }
+    }
+  }
+}

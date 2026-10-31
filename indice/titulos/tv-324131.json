@@ -1,0 +1,13 @@
+{
+  "tmdb": 324131,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "今夜もシリアルキラーと待ち合わせ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tonight-i-have-a-date-with-a-serial-killer"
+      }
+    }
+  }
+}

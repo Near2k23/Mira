@@ -1,0 +1,13 @@
+{
+  "tmdb": 325828,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "도깨비 10주년 여행",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "guardian-the-lonely-and-great-god-10th-anniversary"
+      }
+    }
+  }
+}

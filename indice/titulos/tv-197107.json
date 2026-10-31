@@ -1,0 +1,14 @@
+{
+  "tmdb": 197107,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El sabor del destino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "delicacies-destiny"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 17 y TMDB tiene 16; no verificada"
+}

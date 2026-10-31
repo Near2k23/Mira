@@ -1,0 +1,13 @@
+{
+  "tmdb": 261594,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一念初见锦衣谣",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "angels-and-guards"
+      }
+    }
+  }
+}

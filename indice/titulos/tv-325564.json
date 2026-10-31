@@ -1,0 +1,13 @@
+{
+  "tmdb": 325564,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "炽热的他",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blazing-him"
+      }
+    }
+  }
+}
