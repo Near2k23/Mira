@@ -1,0 +1,13 @@
+{
+  "tmdb": 316021,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "又野又烈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wild-and-fiery"
+      }
+    }
+  }
+}

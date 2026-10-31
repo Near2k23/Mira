@@ -1,0 +1,13 @@
+{
+  "tmdb": 287344,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Guía práctica para el amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-practical-guide-to-love"
+      }
+    }
+  }
+}

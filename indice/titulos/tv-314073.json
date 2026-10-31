@@ -1,0 +1,13 @@
+{
+  "tmdb": 314073,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nunca olvides a tu enemigo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "never-forget-your-enemy"
+      }
+    }
+  }
+}

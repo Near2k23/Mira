@@ -1,0 +1,13 @@
+{
+  "tmdb": 274226,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "锁簪",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-inescapable"
+      }
+    }
+  }
+}

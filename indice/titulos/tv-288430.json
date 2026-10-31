@@ -1,0 +1,13 @@
+{
+  "tmdb": 288430,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "季雨倾城",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "turbulent-love"
+      }
+    }
+  }
+}

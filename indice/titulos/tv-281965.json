@@ -1,0 +1,13 @@
+{
+  "tmdb": 281965,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El negocio perfecto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mad-concrete-dreams"
+      }
+    }
+  }
+}

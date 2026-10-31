@@ -1,0 +1,14 @@
+{
+  "tmdb": 276582,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ปั่นไปให้ถึงรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-like-a-bike"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

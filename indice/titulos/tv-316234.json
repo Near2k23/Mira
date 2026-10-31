@@ -1,0 +1,13 @@
+{
+  "tmdb": 316234,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "금색 밀실",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secret"
+      }
+    }
+  }
+}

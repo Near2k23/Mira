@@ -1,0 +1,13 @@
+{
+  "tmdb": 293505,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "临暗",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dark-and-dawn"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 280822,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "你好1983",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dream-of-golden-years"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 292367,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "在你眉梢种红豆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "seeds-of-scarlet-longing"
+      }
+    }
+  }
+}

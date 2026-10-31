@@ -1,0 +1,13 @@
+{
+  "tmdb": 315085,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "藏匿爱意",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-a-secret"
+      }
+    }
+  }
+}

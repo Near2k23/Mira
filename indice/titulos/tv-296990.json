@@ -1,0 +1,13 @@
+{
+  "tmdb": 296990,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "临安若梦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reincarnated-love"
+      }
+    }
+  }
+}

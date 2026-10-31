@@ -1,0 +1,13 @@
+{
+  "tmdb": 307624,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "初三的六一兒童節",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sammys-childrens-day"
+      }
+    }
+  }
+}

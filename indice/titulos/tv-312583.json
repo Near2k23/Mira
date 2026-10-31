@@ -1,0 +1,13 @@
+{
+  "tmdb": 312583,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hometown Romance",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hometown-romance"
+      }
+    }
+  }
+}

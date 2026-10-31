@@ -1,0 +1,13 @@
+{
+  "tmdb": 314669,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "닥터신",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-shin"
+      }
+    }
+  }
+}

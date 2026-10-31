@@ -1,0 +1,13 @@
+{
+  "tmdb": 316093,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Way To You",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "way-to-you-2026"
+      }
+    }
+  }
+}

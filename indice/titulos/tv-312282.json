@@ -1,0 +1,13 @@
+{
+  "tmdb": 312282,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "コントラスト",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "contrast"
+      }
+    }
+  }
+}

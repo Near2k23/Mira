@@ -1,0 +1,13 @@
+{
+  "tmdb": 282904,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "她的盛焰",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "her-blaze"
+      }
+    }
+  }
+}

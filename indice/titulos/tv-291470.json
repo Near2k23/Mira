@@ -1,0 +1,13 @@
+{
+  "tmdb": 291470,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "冬去春来",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "live-up-to-your-youth"
+      }
+    }
+  }
+}

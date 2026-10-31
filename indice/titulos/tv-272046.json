@@ -1,0 +1,13 @@
+{
+  "tmdb": 272046,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一树梨花一轻舟",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-fatal-bloom"
+      }
+    }
+  }
+}

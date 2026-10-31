@@ -1,0 +1,13 @@
+{
+  "tmdb": 302330,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "校服的裙摆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "too-young-to-love"
+      }
+    }
+  }
+}

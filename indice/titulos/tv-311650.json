@@ -1,0 +1,13 @@
+{
+  "tmdb": 311650,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "심우면 연리리",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cabbage-your-life"
+      }
+    }
+  }
+}

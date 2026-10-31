@@ -1,0 +1,13 @@
+{
+  "tmdb": 315472,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เล่นกับเพื่อนได้มากกว่าเพื่อน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "only-friends-dream-on"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 316930,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "昭雪",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-vindication-of-shadows"
+      }
+    }
+  }
+}

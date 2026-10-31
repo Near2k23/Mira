@@ -1,0 +1,13 @@
+{
+  "tmdb": 276472,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La luz que aún nos guía",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "still-shining"
+      }
+    }
+  }
+}

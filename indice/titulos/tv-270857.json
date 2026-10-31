@@ -1,0 +1,14 @@
+{
+  "tmdb": 270857,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "隐身的名字",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vanished-name"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 24 de 31 episodios"
+}

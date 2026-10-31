@@ -1,0 +1,14 @@
+{
+  "tmdb": 276608,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ตะวันระฟ้า",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-only-sunshine"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

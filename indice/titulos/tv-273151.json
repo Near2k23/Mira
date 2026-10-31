@@ -1,0 +1,13 @@
+{
+  "tmdb": 273151,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "危险关系",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-dark-romance"
+      }
+    }
+  }
+}

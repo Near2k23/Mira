@@ -1,0 +1,13 @@
+{
+  "tmdb": 278134,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我的山与海",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-destiny-2026"
+      }
+    }
+  }
+}

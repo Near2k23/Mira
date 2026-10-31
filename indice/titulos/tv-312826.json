@@ -1,0 +1,13 @@
+{
+  "tmdb": 312826,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El barbero del pueblo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-village-barber"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 261675,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "家事法庭",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hold-a-court-now"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 30 y TMDB tiene 26; no verificada"
+}

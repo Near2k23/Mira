@@ -1,0 +1,13 @@
+{
+  "tmdb": 313138,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "언제나 다시 만나",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "always-meet-again"
+      }
+    }
+  }
+}
