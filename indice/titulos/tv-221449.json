@@ -1,0 +1,13 @@
+{
+  "tmdb": 221449,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花琉璃轶闻",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "royal-rumours"
+      }
+    }
+  }
+}

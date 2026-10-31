@@ -1,0 +1,13 @@
+{
+  "tmdb": 220521,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "소년을 위로해줘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-shoulder-to-cry-on"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 205757,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La pensión romántica secreta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-secret-romantic-guesthouse"
+      }
+    }
+  }
+}

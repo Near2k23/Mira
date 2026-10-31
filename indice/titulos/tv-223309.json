@@ -1,0 +1,13 @@
+{
+  "tmdb": 223309,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Promesa en el Verano",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "promise-in-the-summer"
+      }
+    }
+  }
+}

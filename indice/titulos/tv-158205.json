@@ -1,0 +1,13 @@
+{
+  "tmdb": 158205,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "위기의 X",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "desperate-mr-x"
+      }
+    }
+  }
+}

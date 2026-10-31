@@ -1,0 +1,14 @@
+{
+  "tmdb": 221934,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "금이야 옥이야",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "apple-of-my-eye"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 120 de 121 episodios"
+}

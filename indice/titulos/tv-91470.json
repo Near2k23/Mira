@@ -1,0 +1,13 @@
+{
+  "tmdb": 91470,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The King's Avatar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-kings-avatar"
+      }
+    }
+  }
+}

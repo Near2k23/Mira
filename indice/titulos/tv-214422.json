@@ -1,0 +1,13 @@
+{
+  "tmdb": 214422,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La realidad está aquí",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-real-has-come"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 201672,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "第9節課",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lesson-in-love"
+      }
+    }
+  }
+}

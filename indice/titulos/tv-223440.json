@@ -1,0 +1,13 @@
+{
+  "tmdb": 223440,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "여덟 번째 감각",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-eighth-sense"
+      }
+    }
+  }
+}

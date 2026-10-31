@@ -1,6 +1,6 @@
 {
- "pagina": 48,
- "agregados": 1296,
+ "pagina": 49,
+ "agregados": 1324,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -237,6 +237,10 @@
   {
    "id_o_slug": "tv-218783",
    "motivo": "validar falló: ERROR indice/titulos/tv-218783.json: sitio \"doramasflix\" slug \"Blue-Birthday\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "Make-a-wish",
+   "motivo": "no existe en TMDB"
   }
  ],
  "notas": [
@@ -470,7 +474,11 @@
   "tv-218783.json",
   "tv-219776.json",
   "tv-214250.json",
-  "tv-253213.json"
+  "tv-253213.json",
+  "tv-216390.json",
+  "tv-221934.json",
+  "tv-158258.json",
+  "tv-135422.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1856,6 +1864,35 @@
   220398,
   209295,
   203344,
-  253213
+  253213,
+  220521,
+  217771,
+  219667,
+  216390,
+  214478,
+  91470,
+  221449,
+  158205,
+  220951,
+  120450,
+  205757,
+  221240,
+  32438,
+  214422,
+  220971,
+  207429,
+  223309,
+  221934,
+  223440,
+  209648,
+  221707,
+  215250,
+  223452,
+  158258,
+  206715,
+  158876,
+  135422,
+  201672,
+  61184
  ]
 }

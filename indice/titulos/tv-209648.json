@@ -1,0 +1,13 @@
+{
+  "tmdb": 209648,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Kimi ni Todoke: Llegando a ti",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kimi-ni-todoke-from-me-to-you"
+      }
+    }
+  }
+}

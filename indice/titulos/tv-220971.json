@@ -1,0 +1,13 @@
+{
+  "tmdb": 220971,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พิพิธภัณฑ์รัตติกาล",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "midnight-museum"
+      }
+    }
+  }
+}

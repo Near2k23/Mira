@@ -1,0 +1,14 @@
+{
+  "tmdb": 216390,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La mujer del velo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "woman-in-a-veil"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 100 de 103 episodios"
+}

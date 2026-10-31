@@ -1,0 +1,13 @@
+{
+  "tmdb": 217771,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "수학 없는 수학여행",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-math-school-trip"
+      }
+    }
+  }
+}

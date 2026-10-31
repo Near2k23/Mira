@@ -1,0 +1,13 @@
+{
+  "tmdb": 215250,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "星降る夜に",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "on-a-starry-night"
+      }
+    }
+  }
+}

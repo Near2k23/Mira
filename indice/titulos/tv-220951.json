@@ -1,0 +1,13 @@
+{
+  "tmdb": 220951,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "비의도적 연애담",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unintentional-love-story"
+      }
+    }
+  }
+}

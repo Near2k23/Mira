@@ -1,0 +1,13 @@
+{
+  "tmdb": 61184,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "조선 총잡이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "joseon-shooter"
+      }
+    }
+  }
+}

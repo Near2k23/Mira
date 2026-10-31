@@ -1,0 +1,13 @@
+{
+  "tmdb": 221707,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "소년판타지 - 방과후 설렘 시즌2",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fantasy-boys"
+      }
+    }
+  }
+}

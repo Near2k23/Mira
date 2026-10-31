@@ -1,0 +1,13 @@
+{
+  "tmdb": 206715,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "조선변호사",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "joseon-attorney-a-morality"
+      }
+    }
+  }
+}

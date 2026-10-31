@@ -1,0 +1,13 @@
+{
+  "tmdb": 120450,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แม่ครัวคนใหม่",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mae-krua-kon-mai"
+      }
+    }
+  }
+}

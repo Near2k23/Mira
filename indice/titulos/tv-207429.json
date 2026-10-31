@@ -1,0 +1,13 @@
+{
+  "tmdb": 207429,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春闺梦里人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "romance-of-a-twin-flower"
+      }
+    }
+  }
+}

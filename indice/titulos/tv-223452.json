@@ -1,0 +1,13 @@
+{
+  "tmdb": 223452,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ใต้เงาตะวัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "eclipse-of-the-heart"
+      }
+    }
+  }
+}

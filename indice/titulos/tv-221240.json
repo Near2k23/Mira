@@ -1,0 +1,13 @@
+{
+  "tmdb": 221240,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "วิศวะสุดหล่อขอหมอเป็นเมีย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "future"
+      }
+    }
+  }
+}

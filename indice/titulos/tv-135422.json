@@ -1,0 +1,15 @@
+{
+  "tmdb": 135422,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "第一次遇見花香的那刻",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fragrance-of-the-first-flower",
+        "2": "fragrance-of-the-first-flower"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

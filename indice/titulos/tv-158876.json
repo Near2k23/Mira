@@ -1,0 +1,13 @@
+{
+  "tmdb": 158876,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Asesino Mediático",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "copycat-killer"
+      }
+    }
+  }
+}
