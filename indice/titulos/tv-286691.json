@@ -1,0 +1,13 @@
+{
+  "tmdb": 286691,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cat's♥Eye",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "catseye"
+      }
+    }
+  }
+}

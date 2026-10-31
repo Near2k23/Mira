@@ -8,6 +8,19 @@
       "temporadas": {
         "1": "sakamoto-days"
       }
+    },
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "sakamoto-days",
+            "episodios": 11
+          },
+          {
+            "slug": "sakamoto-days-part-2"
+          }
+        ]
+      }
     }
   }
 }

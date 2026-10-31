@@ -1,0 +1,21 @@
+{
+  "tmdb": 213830,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
+            "episodios": 12
+          },
+          {
+            "slug": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

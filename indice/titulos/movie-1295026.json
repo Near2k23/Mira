@@ -1,0 +1,11 @@
+{
+  "tmdb": 1295026,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Hyakuemu.",
+  "fuentes": {
+    "animeav1": {
+      "slug": "hyakuemu"
+    }
+  }
+}

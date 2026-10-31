@@ -8,6 +8,13 @@
       "temporadas": {
         "4": "osomatsusan-4th-season"
       }
+    },
+    "animeav1": {
+      "temporadas": {
+        "2": "osomatsu-san-2nd-season",
+        "3": "osomatsu-san-3rd-season",
+        "4": "osomatsu-san-4th-season"
+      }
     }
   }
 }

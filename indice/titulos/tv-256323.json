@@ -1,0 +1,13 @@
+{
+  "tmdb": 256323,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Leviathan",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "leviathan"
+      }
+    }
+  }
+}

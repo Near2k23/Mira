@@ -1,0 +1,13 @@
+{
+  "tmdb": 215401,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bullet/Bullet",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "bulletbullet"
+      }
+    }
+  }
+}

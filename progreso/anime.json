@@ -332,7 +332,36 @@
   "tv-294867": "completado",
   "tv-296287": "completado",
   "tv-296851": "completado",
-  "tv-297286": "completado"
+  "tv-297286": "completado",
+  "tv-71785": "completado",
+  "tv-122587": "completado",
+  "tv-207332": "completado",
+  "tv-207468": "nuevo",
+  "tv-213830": "nuevo",
+  "tv-215401": "nuevo",
+  "tv-217247": "completado",
+  "tv-236565": "completado",
+  "tv-244808": "completado",
+  "tv-247045": "completado",
+  "tv-256323": "nuevo",
+  "tv-261392": "completado",
+  "tv-272118": "completado",
+  "tv-272556": "completado",
+  "tv-274546": "completado",
+  "tv-274548": "completado",
+  "tv-276349": "completado",
+  "tv-277513": "completado",
+  "tv-277581": "completado",
+  "tv-280366": "completado",
+  "tv-281044": "completado",
+  "tv-283705": "completado",
+  "tv-284448": "completado",
+  "tv-284771": "completado",
+  "tv-286691": "nuevo",
+  "movie-1295026": "nuevo",
+  "movie-1218925": "completado",
+  "movie-1467486": "nuevo",
+  "movie-1311031": "completado"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -381,7 +410,14 @@
   "nukitashi-the-animation-specials": "no está en TMDB / no ubicado",
   "cengjing-you-yongshi": "no está en TMDB / no ubicado",
   "girls-band-cry-movie": "varias coincidencias en TMDB",
-  "spy-x-family-season-3": "no está en TMDB / no ubicado"
+  "spy-x-family-season-3": "no está en TMDB / no ubicado",
+  "tv-246862": "T1 (new-panty-stocking-with-garterbelt): 13 eps en el sitio vs 30 en TMDB",
+  "luo-xiaohei-zhanji-2": "no está en TMDB",
+  "given-10th-mix": "OVA",
+  "mofa-gongzhu-de-xiao-fannao": "no está en TMDB / no ubicado",
+  "long-zu-ii-daowangzhe-zhi-tong": "no está en TMDB / no ubicado",
+  "dr-stone-science-future-part-2": "no está en TMDB / no ubicado",
+  "shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -428,6 +464,11 @@
    "agregados": 2,
    "completados": 32,
    "saltados": 3
+  },
+  "latest_released 17-18": {
+   "agregados": 7,
+   "completados": 22,
+   "saltados": 5
   }
  }
 }

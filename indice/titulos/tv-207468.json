@@ -1,0 +1,21 @@
+{
+  "tmdb": 207468,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kaijuu 8-gou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kaijuu-8-gou",
+            "episodios": 12
+          },
+          {
+            "slug": "kaijuu-8-gou-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}
