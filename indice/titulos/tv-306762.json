@@ -1,0 +1,13 @@
+{
+  "tmdb": 306762,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Prism Rondo",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "prism-rondo"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "tmdb": 117465,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Jigokuraku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "jigokuraku",
+            "episodios": 13
+          },
+          {
+            "slug": "jigokuraku-2nd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "jigokuraku",
+            "episodios": 13
+          },
+          {
+            "slug": "jigokuraku-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

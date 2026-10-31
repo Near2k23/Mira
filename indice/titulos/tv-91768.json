@@ -8,6 +8,24 @@
       "temporadas": {
         "2": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-4th-season"
       }
+    },
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "honzuki-no-gekokujou",
+            "episodios": 14
+          },
+          {
+            "slug": "honzuki-no-gekokujou-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "honzuki-no-gekokujou-3rd-season"
+          }
+        ],
+        "2": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo"
+      }
     }
   }
 }

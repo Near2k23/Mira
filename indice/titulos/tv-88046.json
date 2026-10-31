@@ -1,0 +1,29 @@
+{
+  "tmdb": 88046,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Enen no Shouboutai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "enen-no-shouboutai",
+        "2": "enen-no-shouboutai-ni-no-shou",
+        "3": [
+          {
+            "slug": "enen-no-shouboutai-san-no-shou",
+            "episodios": 12
+          },
+          {
+            "slug": "enen-no-shouboutai-san-no-shou-part-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "enen-no-shouboutai",
+        "2": "enen-no-shouboutai-ni-no-shou"
+      }
+    }
+  }
+}

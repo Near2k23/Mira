@@ -1,0 +1,28 @@
+{
+  "tmdb": 90937,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Beastars",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "beastars",
+        "2": "beastars-2nd-season",
+        "3": [
+          {
+            "slug": "beastars-final-season",
+            "episodios": 12
+          },
+          {
+            "slug": "beastars-final-season-part-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "beastars"
+      }
+    }
+  }
+}

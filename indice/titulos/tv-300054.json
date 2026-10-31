@@ -1,0 +1,13 @@
+{
+  "tmdb": 300054,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Baki-dou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "baki-dou"
+      }
+    }
+  }
+}

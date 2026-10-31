@@ -1,0 +1,40 @@
+{
+  "tmdb": 56559,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yami Shibai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yami-shibai",
+        "2": "yami-shibai-2",
+        "3": "yami-shibai-3",
+        "4": "yami-shibai-4",
+        "5": "yami-shibai-5",
+        "6": "yami-shibai-6",
+        "7": "yami-shibai-7",
+        "8": "yami-shibai-8",
+        "9": "yami-shibai-9",
+        "10": "yami-shibai-10",
+        "11": "yami-shibai-11",
+        "12": "yami-shibai-12",
+        "13": "yami-shibai-13",
+        "14": "yami-shibai-14",
+        "15": "yami-shibai-15",
+        "16": "yami-shibai-16"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yami-shibai",
+        "2": "yami-shibai-2",
+        "3": "yami-shibai-3rd-season",
+        "4": "yami-shibai-4th-season",
+        "5": "yami-shibai-5th-season",
+        "6": "yami-shibai-6",
+        "7": "yami-shibai-7",
+        "8": "yami-shibai-8"
+      }
+    }
+  }
+}

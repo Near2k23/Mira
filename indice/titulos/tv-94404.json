@@ -1,0 +1,19 @@
+{
+  "tmdb": 94404,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dorohedoro",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dorohedoro",
+        "2": "dorohedoro-season-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dorohedoro"
+      }
+    }
+  }
+}

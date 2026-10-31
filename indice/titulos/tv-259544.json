@@ -1,0 +1,21 @@
+{
+  "tmdb": 259544,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Jigoku Sensei Nube (2025)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "jigoku-sensei-nube-2025",
+            "episodios": 13
+          },
+          {
+            "slug": "jigoku-sensei-nube-2025-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

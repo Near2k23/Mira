@@ -1,0 +1,25 @@
+{
+  "tmdb": 203737,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "[Oshi no Ko]",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "oshi-no-ko",
+            "episodios": 11
+          },
+          {
+            "slug": "oshi-no-ko-2nd-season",
+            "episodios": 13
+          },
+          {
+            "slug": "oshi-no-ko-3rd-season"
+          }
+        ]
+      }
+    }
+  }
+}

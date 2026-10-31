@@ -8,6 +8,12 @@
       "temporadas": {
         "1": "akanebanashi"
       }
+    },
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "akane-banashi"
+      }
     }
   }
 }
