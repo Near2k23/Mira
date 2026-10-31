@@ -1,0 +1,13 @@
+{
+  "tmdb": 137065,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Arknights",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "3": "arknights-rise-from-ember"
+      }
+    }
+  }
+}

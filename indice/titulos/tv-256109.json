@@ -1,0 +1,13 @@
+{
+  "tmdb": 256109,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Teogonia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "teogonia"
+      }
+    }
+  }
+}

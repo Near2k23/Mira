@@ -1,0 +1,13 @@
+{
+  "tmdb": 281058,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Secrets of the Silent Witch",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "silent-witch-chinmoku-no-majo-no-kakushigoto"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 249854,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "mono",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mono"
+      }
+    }
+  }
+}

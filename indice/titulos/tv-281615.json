@@ -1,0 +1,13 @@
+{
+  "tmdb": 281615,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Water Magician",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mizu-zokusei-no-mahoutsukai"
+      }
+    }
+  }
+}

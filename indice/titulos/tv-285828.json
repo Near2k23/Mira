@@ -1,0 +1,13 @@
+{
+  "tmdb": 285828,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Onmyo Kaiten Re:Birth Verse",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "onmyou-kaiten-rebirth"
+      }
+    }
+  }
+}

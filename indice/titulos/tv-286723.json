@@ -1,0 +1,13 @@
+{
+  "tmdb": 286723,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Welcome to the Outcast's Restaurant!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "60523"
+      }
+    }
+  }
+}

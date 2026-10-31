@@ -1,0 +1,11 @@
+{
+  "tmdb": 1333100,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Attack on Titan: EL ATAQUE FINAL",
+  "fuentes": {
+    "tioanime": {
+      "slug": "shingeki-no-kyojin-movie-kanketsuhen-the-last-attack"
+    }
+  }
+}

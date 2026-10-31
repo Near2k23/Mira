@@ -1,0 +1,13 @@
+{
+  "tmdb": 281042,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "日々は過ぎれど飯うまし",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hibi-wa-sugiredo-meshi-umashi"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 278367,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "宇宙人ムームー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uchuujin-muumuu"
+      }
+    }
+  }
+}

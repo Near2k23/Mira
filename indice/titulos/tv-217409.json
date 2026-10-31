@@ -1,0 +1,13 @@
+{
+  "tmdb": 217409,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Un ramo de flores para la chica fea",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "busu-ni-hanataba-wo"
+      }
+    }
+  }
+}

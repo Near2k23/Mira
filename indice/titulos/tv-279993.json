@@ -1,0 +1,13 @@
+{
+  "tmdb": 279993,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ネクロノミ子のコズミックホラーショウ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "necronomico-no-cosmic-horror-show"
+      }
+    }
+  }
+}

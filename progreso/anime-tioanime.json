@@ -1,6 +1,6 @@
 {
-  "pagina": 16,
-  "agregados": 253,
+  "pagina": 18,
+  "agregados": 278,
   "saltados": [
     {
       "id_o_slug": "cyberpunk-edgerunners-2",
@@ -157,6 +157,18 @@
     {
       "id_o_slug": "kaijuu-8gou-2nd-season",
       "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "60543",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kanojo-okarishimasu-4th-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "takopii-no-genzai",
+      "motivo": "OVA/especial"
     }
   ],
   "notas": [
@@ -218,7 +230,8 @@
     "tv-261343.json",
     "tv-46437.json",
     "tv-65930.json",
-    "tv-294867.json"
+    "tv-294867.json",
+    "tv-261392.json"
   ],
-  "idx": 318
+  "idx": 347
 }

@@ -1,0 +1,14 @@
+{
+  "tmdb": 261392,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KAMITSUBAKI CITY UNDER CONSTRUCTION",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamitsubakishi-kensetsuchuu"
+      }
+    }
+  },
+  "nota": "tioanime kamitsubakishi-kensetsuchuu: 13 cap. vs 12 en TMDB T1; revisar."
+}
