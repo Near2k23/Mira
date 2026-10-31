@@ -1,0 +1,13 @@
+{
+  "tmdb": 129685,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ฟ้าลั่นรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fahlanruk"
+      }
+    }
+  }
+}

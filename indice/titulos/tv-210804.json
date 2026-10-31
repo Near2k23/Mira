@@ -1,0 +1,13 @@
+{
+  "tmdb": 210804,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "府上娶了个锦鲤新娘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-blessed-bride"
+      }
+    }
+  }
+}

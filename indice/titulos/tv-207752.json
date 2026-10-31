@@ -1,0 +1,13 @@
+{
+  "tmdb": 207752,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "청춘MT",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "youth-mt"
+      }
+    }
+  }
+}

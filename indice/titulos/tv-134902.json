@@ -1,0 +1,13 @@
+{
+  "tmdb": 134902,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El asesino del impermeable: A la caza de un depredador en Corea",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "el-asesino-del-impermeable"
+      }
+    }
+  }
+}

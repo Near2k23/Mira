@@ -1,0 +1,13 @@
+{
+  "tmdb": 133678,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Érase un amor rural",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "once-upon-a-small-town"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 208591,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อัยย์หลงไน๋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ai-long-nhai"
+      }
+    }
+  }
+}

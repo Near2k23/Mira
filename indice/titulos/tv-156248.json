@@ -1,0 +1,13 @@
+{
+  "tmdb": 156248,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Café Legal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-law-cafe"
+      }
+    }
+  }
+}

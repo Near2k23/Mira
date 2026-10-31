@@ -1,0 +1,13 @@
+{
+  "tmdb": 204653,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tres hermanos audaces",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "three-bold-siblings"
+      }
+    }
+  }
+}

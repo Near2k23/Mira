@@ -1,0 +1,13 @@
+{
+  "tmdb": 133772,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El imperio de la ley",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-empire"
+      }
+    }
+  }
+}

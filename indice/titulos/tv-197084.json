@@ -1,0 +1,13 @@
+{
+  "tmdb": 197084,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "가우스전자",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gaus-electronics"
+      }
+    }
+  }
+}

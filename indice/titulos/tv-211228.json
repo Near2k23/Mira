@@ -1,0 +1,13 @@
+{
+  "tmdb": 211228,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "炽道",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "falling-into-you"
+      }
+    }
+  }
+}

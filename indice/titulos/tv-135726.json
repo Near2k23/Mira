@@ -1,0 +1,13 @@
+{
+  "tmdb": 135726,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mamá, ¿en serio?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mom-dont-do-that"
+      }
+    }
+  }
+}

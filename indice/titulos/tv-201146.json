@@ -1,0 +1,13 @@
+{
+  "tmdb": 201146,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Contrato para una boda",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-contract"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 157383,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Cuchara de Oro",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-golden-spoon"
+      }
+    }
+  }
+}

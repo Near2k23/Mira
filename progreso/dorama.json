@@ -1,6 +1,6 @@
 {
- "pagina": 41,
- "agregados": 1102,
+ "pagina": 42,
+ "agregados": 1130,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -193,6 +193,14 @@
   {
    "id_o_slug": "hes-into-her-2",
    "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "my-girlfriend-is-an-alien-2",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "thai-cave-rescue",
+   "motivo": "otra tarea: serie (país US)"
   }
  ],
  "notas": [
@@ -395,7 +403,11 @@
   "tv-197064.json",
   "tv-135272.json",
   "tv-207371.json",
-  "tv-207716.json"
+  "tv-207716.json",
+  "tv-209815.json",
+  "tv-158900.json",
+  "tv-209859.json",
+  "tv-210851.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1581,6 +1593,34 @@
   208450,
   205071,
   202460,
-  81315
+  81315,
+  135726,
+  134675,
+  134902,
+  156248,
+  133678,
+  132399,
+  209815,
+  97970,
+  129685,
+  207752,
+  158900,
+  209859,
+  209477,
+  209101,
+  135185,
+  195627,
+  201146,
+  158865,
+  210804,
+  133772,
+  210851,
+  201852,
+  157383,
+  208591,
+  200945,
+  204653,
+  211228,
+  197084
  ]
 }

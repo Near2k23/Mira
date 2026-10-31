@@ -1,0 +1,13 @@
+{
+  "tmdb": 209101,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "别惹前女友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "exs-revenge"
+      }
+    }
+  }
+}

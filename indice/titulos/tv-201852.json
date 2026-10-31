@@ -1,0 +1,13 @@
+{
+  "tmdb": 201852,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Abogado Por Un Dólar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-dollar-lawyer"
+      }
+    }
+  }
+}

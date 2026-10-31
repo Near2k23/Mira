@@ -1,0 +1,13 @@
+{
+  "tmdb": 158865,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "블라인드",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blind"
+      }
+    }
+  }
+}

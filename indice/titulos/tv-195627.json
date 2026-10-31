@@ -1,0 +1,13 @@
+{
+  "tmdb": 195627,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "멘탈코치 제갈길",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mental-coach-jegal"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 134675,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Las Hermanas",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "little-women"
+      }
+    }
+  }
+}

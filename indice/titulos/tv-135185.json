@@ -1,0 +1,13 @@
+{
+  "tmdb": 135185,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "两个人的小森林",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-romance-of-the-little-forest"
+      }
+    }
+  }
+}

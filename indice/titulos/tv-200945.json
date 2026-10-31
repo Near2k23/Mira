@@ -1,0 +1,13 @@
+{
+  "tmdb": 200945,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Defensora",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "may-it-please-the-court"
+      }
+    }
+  }
+}
