@@ -1,0 +1,13 @@
+{
+  "tmdb": 127358,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "검은 태양",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-veil"
+      }
+    }
+  }
+}

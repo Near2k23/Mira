@@ -1,0 +1,14 @@
+{
+  "tmdb": 132602,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "해치지 않아",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mean-no-harm"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 16 episodios"
+}

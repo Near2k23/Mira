@@ -1,0 +1,13 @@
+{
+  "tmdb": 132536,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "모꼬지 키친",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mokkoji-kitchen"
+      }
+    }
+  }
+}

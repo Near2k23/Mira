@@ -1,0 +1,13 @@
+{
+  "tmdb": 95987,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ダブル・ファンタジー",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "double-fantasy"
+      }
+    }
+  }
+}

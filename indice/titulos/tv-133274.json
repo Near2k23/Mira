@@ -1,0 +1,13 @@
+{
+  "tmdb": 133274,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Love in Black Hole",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-black-hole"
+      }
+    }
+  }
+}

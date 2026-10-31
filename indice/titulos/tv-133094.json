@@ -1,0 +1,13 @@
+{
+  "tmdb": 133094,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "舍我其谁",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "go-into-your-heart"
+      }
+    }
+  }
+}

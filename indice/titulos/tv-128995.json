@@ -11,5 +11,6 @@
         "3": "yumis-cells"
       }
     }
-  }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2,3 verificadas con listEpisodes de la API de doramasflix"
 }

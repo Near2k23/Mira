@@ -1,0 +1,13 @@
+{
+  "tmdb": 128184,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ciudad natal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hometown"
+      }
+    }
+  }
+}

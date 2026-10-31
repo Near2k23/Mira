@@ -1,0 +1,13 @@
+{
+  "tmdb": 133773,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "住我对面的小哥哥",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-sweet"
+      }
+    }
+  }
+}

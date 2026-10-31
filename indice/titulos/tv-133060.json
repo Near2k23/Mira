@@ -1,0 +1,13 @@
+{
+  "tmdb": 133060,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "程序员那么可爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cute-programmer"
+      }
+    }
+  }
+}

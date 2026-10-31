@@ -1,0 +1,13 @@
+{
+  "tmdb": 133473,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "亲爱的吾兄",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-dear-brothers"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 129473,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un caballero y una joven dama",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "young-lady-and-gentleman"
+      }
+    }
+  }
+}

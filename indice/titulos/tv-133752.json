@@ -1,0 +1,13 @@
+{
+  "tmdb": 133752,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "公子倾城",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "your-sensibility-my-destiny"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 129479,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mujer Magnífica",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-the-woman"
+      }
+    }
+  }
+}

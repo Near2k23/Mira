@@ -1,0 +1,13 @@
+{
+  "tmdb": 130655,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Clase alta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "high-class"
+      }
+    }
+  }
+}

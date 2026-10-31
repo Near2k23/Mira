@@ -1,0 +1,13 @@
+{
+  "tmdb": 132924,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "君九龄",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jun-jiu-ling"
+      }
+    }
+  }
+}

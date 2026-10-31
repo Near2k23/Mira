@@ -1,0 +1,14 @@
+{
+  "tmdb": 129747,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ส่งร้อน เสิร์ฟรัก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bite-me"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 10 de 11 episodios"
+}

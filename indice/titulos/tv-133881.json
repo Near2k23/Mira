@@ -1,0 +1,13 @@
+{
+  "tmdb": 133881,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "どうせもう逃げられない",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cant-run-away-from-love"
+      }
+    }
+  }
+}

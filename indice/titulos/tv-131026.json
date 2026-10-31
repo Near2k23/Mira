@@ -1,0 +1,14 @@
+{
+  "tmdb": 131026,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Dali y el Príncipe Arrogante",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dali-and-the-cocky-prince"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 17 y TMDB tiene 16; no verificada"
+}

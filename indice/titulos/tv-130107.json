@@ -1,0 +1,13 @@
+{
+  "tmdb": 130107,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "一生一世",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "forever-and-ever"
+      }
+    }
+  }
+}
