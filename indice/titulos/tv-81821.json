@@ -1,0 +1,13 @@
+{
+  "tmdb": 81821,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi príncipe por cien días",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "100-days-my-prince"
+      }
+    }
+  }
+}

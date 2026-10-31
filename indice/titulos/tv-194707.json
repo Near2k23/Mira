@@ -1,0 +1,13 @@
+{
+  "tmdb": 194707,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "蕨草少女的白日梦",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "star-crossed-lovers"
+      }
+    }
+  }
+}

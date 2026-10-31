@@ -1,0 +1,13 @@
+{
+  "tmdb": 138481,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "우월한 하루",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-superior-day"
+      }
+    }
+  }
+}

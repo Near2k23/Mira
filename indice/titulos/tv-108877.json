@@ -1,0 +1,16 @@
+{
+  "tmdb": 108877,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "식스센스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sixth-sense",
+        "2": "sixth-sense",
+        "3": "sixth-sense"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2,3 verificadas con listEpisodes de la API de doramasflix"
+}

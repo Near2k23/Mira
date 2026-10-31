@@ -1,0 +1,14 @@
+{
+  "tmdb": 133953,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "影帝的公主",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "be-my-princess"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 35 y TMDB tiene 30; no verificada"
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 158715,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "소년비행",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "juvenile-delinquency",
+        "2": "juvenile-delinquency"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

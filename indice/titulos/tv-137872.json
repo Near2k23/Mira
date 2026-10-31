@@ -1,0 +1,13 @@
+{
+  "tmdb": 137872,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Soundtrack #1",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "soundtrack-1"
+      }
+    }
+  }
+}

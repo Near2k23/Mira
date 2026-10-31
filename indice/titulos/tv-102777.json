@@ -1,0 +1,13 @@
+{
+  "tmdb": 102777,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "千古玦尘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ancient-love-poetry"
+      }
+    }
+  }
+}

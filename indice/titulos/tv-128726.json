@@ -1,0 +1,13 @@
+{
+  "tmdb": 128726,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "如果声音有记忆",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "if-the-voice-has-memory"
+      }
+    }
+  }
+}

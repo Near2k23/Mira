@@ -1,0 +1,13 @@
+{
+  "tmdb": 195267,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คุณหมอครับ ผมมารับวิญญาณคนไข้",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-doctor-im-coming-for-soul"
+      }
+    }
+  }
+}

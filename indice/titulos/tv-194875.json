@@ -1,0 +1,13 @@
+{
+  "tmdb": 194875,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "星降爱恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-under-the-stars"
+      }
+    }
+  }
+}

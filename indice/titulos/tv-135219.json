@@ -1,0 +1,14 @@
+{
+  "tmdb": 135219,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "姻缘大人请留步",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ms-cupid-in-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 27 y TMDB tiene 24; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 135652,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "군검사 도베르만",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "military-prosecutor-doberman"
+      }
+    }
+  }
+}

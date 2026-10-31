@@ -1,0 +1,13 @@
+{
+  "tmdb": 155535,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "킬힐",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kill-heel"
+      }
+    }
+  }
+}

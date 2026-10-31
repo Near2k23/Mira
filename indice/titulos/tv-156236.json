@@ -1,0 +1,13 @@
+{
+  "tmdb": 156236,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ผมปวดกาย นายปวดใจ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "physical-therapy"
+      }
+    }
+  }
+}

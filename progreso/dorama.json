@@ -1,6 +1,6 @@
 {
- "pagina": 34,
- "agregados": 919,
+ "pagina": 35,
+ "agregados": 945,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -149,6 +149,14 @@
   {
    "id_o_slug": "teluk-alaska",
    "motivo": "otra tarea: serie (país ID)"
+  },
+  {
+   "id_o_slug": "maybe-its-love-2",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "pachinko",
+   "motivo": "otra tarea: serie (país US)"
   }
  ],
  "notas": [
@@ -315,7 +323,14 @@
   "tv-137967.json",
   "tv-155844.json",
   "tv-205436.json",
-  "tv-158048.json"
+  "tv-158048.json",
+  "tv-135219.json",
+  "tv-153258.json",
+  "tv-95044.json",
+  "tv-133953.json",
+  "tv-158715.json",
+  "tv-91678.json",
+  "tv-108877.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1302,6 +1317,34 @@
   158149,
   132926,
   112833,
-  122123
+  122123,
+  135219,
+  153258,
+  154825,
+  135652,
+  158761,
+  158528,
+  102777,
+  194570,
+  134465,
+  155535,
+  194569,
+  194707,
+  194771,
+  138481,
+  95044,
+  81821,
+  156236,
+  194875,
+  133953,
+  195267,
+  195483,
+  156038,
+  137872,
+  158715,
+  128726,
+  91678,
+  195840,
+  108877
  ]
 }

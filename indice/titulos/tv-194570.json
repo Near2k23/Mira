@@ -1,0 +1,13 @@
+{
+  "tmdb": 194570,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "亲爱的锦鲤女孩",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lucky-club"
+      }
+    }
+  }
+}

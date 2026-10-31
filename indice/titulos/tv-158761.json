@@ -1,0 +1,13 @@
+{
+  "tmdb": 158761,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Eres el latido de mi corazón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-my-heartbeat"
+      }
+    }
+  }
+}

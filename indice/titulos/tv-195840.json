@@ -1,0 +1,13 @@
+{
+  "tmdb": 195840,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "블루밍",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blueming"
+      }
+    }
+  }
+}

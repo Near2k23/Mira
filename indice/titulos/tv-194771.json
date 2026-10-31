@@ -1,0 +1,13 @@
+{
+  "tmdb": 194771,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "才不要和老板谈恋爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "legally-romance"
+      }
+    }
+  }
+}

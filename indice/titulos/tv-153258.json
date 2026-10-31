@@ -1,0 +1,14 @@
+{
+  "tmdb": 153258,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "엄마는 아이돌",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mama-the-idol"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 8 de 10 episodios"
+}

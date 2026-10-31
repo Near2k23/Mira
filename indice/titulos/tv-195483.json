@@ -1,0 +1,13 @@
+{
+  "tmdb": 195483,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "了不起的D小姐",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "great-miss-d"
+      }
+    }
+  }
+}

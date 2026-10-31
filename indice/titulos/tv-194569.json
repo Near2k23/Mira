@@ -1,0 +1,13 @@
+{
+  "tmdb": 194569,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "谢公子的酒",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "childe-xies-wine"
+      }
+    }
+  }
+}

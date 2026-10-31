@@ -1,0 +1,14 @@
+{
+  "tmdb": 95044,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "余生，请多指教",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-oath-of-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 29 de 32 episodios"
+}

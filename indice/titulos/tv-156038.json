@@ -1,0 +1,13 @@
+{
+  "tmdb": 156038,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아직 최선을 다하지 않았을 뿐",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-have-not-done-my-best"
+      }
+    }
+  }
+}

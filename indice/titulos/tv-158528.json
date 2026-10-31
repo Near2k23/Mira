@@ -1,0 +1,13 @@
+{
+  "tmdb": 158528,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "恋爱角色请指定",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "designated-love"
+      }
+    }
+  }
+}
