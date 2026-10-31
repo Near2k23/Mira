@@ -1,0 +1,13 @@
+{
+  "tmdb": 215458,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "라이딩동댕",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "riding-dongdang"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 213471,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Los N.° 1 de Corea",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "korea-no1"
+      }
+    }
+  }
+}

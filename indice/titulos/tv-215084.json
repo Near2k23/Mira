@@ -1,0 +1,13 @@
+{
+  "tmdb": 215084,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "悬崖下的妻子",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "betrayed-love"
+      }
+    }
+  }
+}

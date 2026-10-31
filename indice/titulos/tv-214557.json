@@ -1,0 +1,13 @@
+{
+  "tmdb": 214557,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "팬텀스쿨",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "phantom-school"
+      }
+    }
+  }
+}

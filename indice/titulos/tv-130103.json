@@ -1,0 +1,14 @@
+{
+  "tmdb": 130103,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "날아올라라 나비",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flying-butterflies"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Flying Butterflies 2022) no coinciden con TMDB (날아올라라 나비 2026); se mantuvo el tmdb_id del sitio"
+}

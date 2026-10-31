@@ -1,0 +1,13 @@
+{
+  "tmdb": 155459,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El misterio de mi jefe",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unlock-my-boss"
+      }
+    }
+  }
+}

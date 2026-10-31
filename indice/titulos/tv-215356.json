@@ -1,0 +1,13 @@
+{
+  "tmdb": 215356,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพื่อนายแค่หนึ่งเดียว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "never-let-me-go"
+      }
+    }
+  }
+}

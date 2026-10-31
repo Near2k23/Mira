@@ -1,0 +1,13 @@
+{
+  "tmdb": 216304,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Director Who Buys Me Dinner",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-director-who-buys-me-dinner"
+      }
+    }
+  }
+}

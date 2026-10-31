@@ -1,0 +1,13 @@
+{
+  "tmdb": 212630,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¡Huye y gana!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "run-for-the-money"
+      }
+    }
+  }
+}

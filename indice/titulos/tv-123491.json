@@ -1,0 +1,13 @@
+{
+  "tmdb": 123491,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Por qué me arreglo para el amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "why-i-dress-up-for-love"
+      }
+    }
+  }
+}

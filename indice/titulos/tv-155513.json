@@ -1,0 +1,13 @@
+{
+  "tmdb": 155513,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ทฤษฎีสีชมพู",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gap-the-series"
+      }
+    }
+  }
+}

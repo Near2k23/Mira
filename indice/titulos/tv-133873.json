@@ -1,0 +1,13 @@
+{
+  "tmdb": 133873,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "징크스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jinx"
+      }
+    }
+  }
+}

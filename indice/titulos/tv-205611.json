@@ -1,0 +1,13 @@
+{
+  "tmdb": 205611,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "메리퀴어",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "merry-queer"
+      }
+    }
+  }
+}

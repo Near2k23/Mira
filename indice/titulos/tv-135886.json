@@ -1,0 +1,14 @@
+{
+  "tmdb": 135886,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "陛下在左，老板在右",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "emperor-or-boss"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 6 de 18 episodios"
+}

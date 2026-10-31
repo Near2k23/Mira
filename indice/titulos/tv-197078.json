@@ -1,0 +1,13 @@
+{
+  "tmdb": 197078,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Summer quiere descansar",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "summer-strike"
+      }
+    }
+  }
+}

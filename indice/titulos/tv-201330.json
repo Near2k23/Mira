@@ -1,0 +1,13 @@
+{
+  "tmdb": 201330,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "금혼령, 조선 혼인 금지령",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-forbidden-marriage"
+      }
+    }
+  }
+}

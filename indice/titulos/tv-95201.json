@@ -1,0 +1,14 @@
+{
+  "tmdb": 95201,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "연애미수",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "failing-in-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 5 de 10 episodios"
+}

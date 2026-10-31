@@ -1,6 +1,6 @@
 {
- "pagina": 44,
- "agregados": 1186,
+ "pagina": 45,
+ "agregados": 1212,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -208,6 +208,18 @@
   },
   {
    "id_o_slug": "busted-s2",
+   "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "im-real-song-joong-ki",
+   "motivo": "sin temporadas que existan en TMDB"
+  },
+  {
+   "id_o_slug": "bad-boys-vs-crazy-girls",
+   "motivo": "otra tarea: serie (país ID)"
+  },
+  {
+   "id_o_slug": "rm-all-day",
    "motivo": "no existe en TMDB"
   }
  ],
@@ -422,7 +434,13 @@
   "tv-134331.json",
   "tv-206437.json",
   "tv-203954.json",
-  "tv-200709.json"
+  "tv-200709.json",
+  "tv-214341.json",
+  "tv-215357.json",
+  "tv-130103.json",
+  "tv-215789.json",
+  "tv-95201.json",
+  "tv-135886.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1694,6 +1712,33 @@
   112837,
   214605,
   213785,
-  153496
+  153496,
+  210273,
+  214557,
+  212630,
+  155513,
+  197078,
+  210955,
+  214341,
+  215357,
+  215084,
+  214406,
+  130103,
+  213471,
+  215458,
+  215384,
+  133873,
+  215789,
+  205611,
+  210758,
+  155459,
+  137043,
+  201330,
+  95201,
+  123491,
+  215356,
+  135886,
+  103642,
+  216304
  ]
 }

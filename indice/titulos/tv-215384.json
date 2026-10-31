@@ -1,0 +1,13 @@
+{
+  "tmdb": 215384,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "오! 나의 어시님",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "oh-my-assistant"
+      }
+    }
+  }
+}

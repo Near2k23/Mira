@@ -1,0 +1,13 @@
+{
+  "tmdb": 210758,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "青春シンデレラ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cinderella-again"
+      }
+    }
+  }
+}

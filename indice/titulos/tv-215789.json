@@ -1,0 +1,14 @@
+{
+  "tmdb": 215789,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "슈취타",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "suchwita"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 16 de 27 episodios"
+}

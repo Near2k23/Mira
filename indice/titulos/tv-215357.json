@@ -1,0 +1,14 @@
+{
+  "tmdb": 215357,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "너뿐이개",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "only-you"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 2 de 4 episodios"
+}

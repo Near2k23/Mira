@@ -1,0 +1,13 @@
+{
+  "tmdb": 210273,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Carta para un fan, por favor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "please-send-a-fan-letter"
+      }
+    }
+  }
+}
