@@ -1,0 +1,14 @@
+{
+  "tmdb": 130839,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un Amor Latente",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-regrets-in-life"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 12 de 24 episodios"
+}

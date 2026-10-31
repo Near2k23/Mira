@@ -1,0 +1,13 @@
+{
+  "tmdb": 204236,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "กลรักรุ่นพี่",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-mechanics"
+      }
+    }
+  }
+}

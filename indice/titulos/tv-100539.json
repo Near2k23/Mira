@@ -1,0 +1,13 @@
+{
+  "tmdb": 100539,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "僕だけが17歳の世界で",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "boku-dake-ga-17-sai-no-sekai-de"
+      }
+    }
+  }
+}

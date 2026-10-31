@@ -1,0 +1,13 @@
+{
+  "tmdb": 204489,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ฉันนี่แหละนายอาทิตย์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "even-sun-series"
+      }
+    }
+  }
+}

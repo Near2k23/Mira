@@ -1,0 +1,13 @@
+{
+  "tmdb": 204764,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "주인님 수라상",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "masters-delicacies"
+      }
+    }
+  }
+}

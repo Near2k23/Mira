@@ -1,0 +1,13 @@
+{
+  "tmdb": 156990,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ร้ายนักนะ รักของมาเฟีย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unforgotten-night"
+      }
+    }
+  }
+}

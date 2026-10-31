@@ -1,0 +1,13 @@
+{
+  "tmdb": 69812,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "クズの本懐",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "kuzu-no-honkai"
+      }
+    }
+  }
+}

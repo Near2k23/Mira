@@ -1,0 +1,13 @@
+{
+  "tmdb": 204590,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나를 사랑하지 않는 X에게",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-x-who-doesnt-love-me"
+      }
+    }
+  }
+}

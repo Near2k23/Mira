@@ -1,0 +1,13 @@
+{
+  "tmdb": 204444,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "미라클",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miracle"
+      }
+    }
+  }
+}

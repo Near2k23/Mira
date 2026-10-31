@@ -1,0 +1,13 @@
+{
+  "tmdb": 202265,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "先輩、断じて恋では！",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "senpai-this-cant-be-love"
+      }
+    }
+  }
+}

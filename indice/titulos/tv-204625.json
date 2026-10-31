@@ -1,0 +1,13 @@
+{
+  "tmdb": 204625,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "배드걸프렌드",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bad-girlfriend"
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
- "pagina": 38,
- "agregados": 1025,
+ "pagina": 39,
+ "agregados": 1049,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -169,6 +169,18 @@
   {
    "id_o_slug": "idol-star-athletics-championships-chuseok-special-2019",
    "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "en-of-love-love-mechanics",
+   "motivo": "ya existía completo"
+  },
+  {
+   "id_o_slug": "en-of-love-this-is-love-story",
+   "motivo": "ya existía completo"
+  },
+  {
+   "id_o_slug": "flower-of-evilF",
+   "motivo": "otra tarea: serie (país PH)"
   }
  ],
  "notas": [
@@ -350,7 +362,16 @@
   "tv-123737.json",
   "tv-201859.json",
   "tv-115663.json",
-  "tv-135157.json"
+  "tv-135157.json",
+  "tv-121926.json",
+  "tv-130839.json",
+  "tv-112836.json",
+  "tv-196268.json",
+  "tv-203230.json",
+  "tv-202985.json",
+  "tv-100634.json",
+  "tv-137870.json",
+  "tv-80010.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1452,6 +1473,33 @@
   200990,
   70029,
   135157,
-  203804
+  203804,
+  204236,
+  155741,
+  121926,
+  130839,
+  69812,
+  156990,
+  202265,
+  100539,
+  112836,
+  204444,
+  157236,
+  196268,
+  138663,
+  204761,
+  204764,
+  204453,
+  116377,
+  197067,
+  204489,
+  203230,
+  202985,
+  100634,
+  205289,
+  137870,
+  80010,
+  204625,
+  204590
  ]
 }

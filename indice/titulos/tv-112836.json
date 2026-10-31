@@ -1,0 +1,14 @@
+{
+  "tmdb": 112836,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La casa de papel: Corea",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "money-heist-korea-joint-economic-area"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 6 de 12 episodios. temporada 2 del sitio no existe en TMDB; omitida"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 204761,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "星河璀璨的我们",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "almost-famous"
+      }
+    }
+  }
+}

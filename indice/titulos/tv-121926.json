@@ -11,5 +11,6 @@
         "3": "a-man-who-defies-the-world-of-bl"
       }
     }
-  }
+  },
+  "nota": "T1: el sitio tiene 4 de 8 episodios. T2: el sitio tiene 3 de 6 episodios. T3: el sitio tiene 6 de 12 episodios. multitemporada con el mismo slug; temporadas 1,2,3 verificadas con listEpisodes de la API de doramasflix"
 }

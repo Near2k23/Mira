@@ -1,0 +1,13 @@
+{
+  "tmdb": 155741,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "あせとせっけん",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweat-and-soap"
+      }
+    }
+  }
+}

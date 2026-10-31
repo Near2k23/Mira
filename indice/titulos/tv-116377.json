@@ -1,0 +1,13 @@
+{
+  "tmdb": 116377,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Querido.M",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dearm"
+      }
+    }
+  }
+}

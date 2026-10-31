@@ -1,0 +1,14 @@
+{
+  "tmdb": 196268,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Anna",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "anna"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 8 y TMDB tiene 6; no verificada"
+}

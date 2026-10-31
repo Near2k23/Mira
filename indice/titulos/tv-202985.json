@@ -1,0 +1,15 @@
+{
+  "tmdb": 202985,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "みなと商事コインランドリー",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "minato-laundromat",
+        "2": "minato-laundromat"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 80010,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花にけだもの",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flower-and-the-beast",
+        "2": "flower-and-the-beast"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

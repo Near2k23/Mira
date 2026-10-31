@@ -1,0 +1,13 @@
+{
+  "tmdb": 204453,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "何加加的桃花源记",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "jiajias-lovely-journey"
+      }
+    }
+  }
+}
