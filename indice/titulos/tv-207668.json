@@ -1,0 +1,13 @@
+{
+  "tmdb": 207668,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Leyenda de Shen Li",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-legend-of-shenli"
+      }
+    }
+  }
+}

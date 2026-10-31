@@ -1,6 +1,6 @@
 {
- "pagina": 61,
- "agregados": 1630,
+ "pagina": 62,
+ "agregados": 1655,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -333,6 +333,14 @@
   {
    "id_o_slug": "shogun",
    "motivo": "otra tarea: serie (país US)"
+  },
+  {
+   "id_o_slug": "whats-wrong-with-secretary-kim-philippines",
+   "motivo": "otra tarea: serie (país PH)"
+  },
+  {
+   "id_o_slug": "fit-check",
+   "motivo": "otra tarea: serie (país PH)"
   }
  ],
  "notas": [
@@ -619,7 +627,11 @@
   "tv-220074.json",
   "tv-241507.json",
   "tv-245255.json",
-  "tv-241555.json"
+  "tv-241555.json",
+  "tv-215720.json",
+  "tv-246482.json",
+  "tv-234901.json",
+  "tv-238786.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2373,6 +2385,34 @@
   228076,
   86066,
   80051,
-  229302
+  229302,
+  215720,
+  235619,
+  214942,
+  242503,
+  246482,
+  231268,
+  248754,
+  207668,
+  234901,
+  246548,
+  214993,
+  238786,
+  247760,
+  246711,
+  250372,
+  239989,
+  248579,
+  213882,
+  208825,
+  250915,
+  224843,
+  209750,
+  240052,
+  250870,
+  237333,
+  244571,
+  230923,
+  232948
  ]
 }

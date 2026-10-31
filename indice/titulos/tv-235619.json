@@ -1,0 +1,13 @@
+{
+  "tmdb": 235619,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花间令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "in-blossom"
+      }
+    }
+  }
+}

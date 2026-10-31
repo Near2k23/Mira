@@ -1,0 +1,13 @@
+{
+  "tmdb": 250372,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "步步倾心",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "step-by-step-love"
+      }
+    }
+  }
+}

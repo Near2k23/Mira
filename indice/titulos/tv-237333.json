@@ -1,0 +1,13 @@
+{
+  "tmdb": 237333,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "We Are คือเรารักกัน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "we-are"
+      }
+    }
+  }
+}

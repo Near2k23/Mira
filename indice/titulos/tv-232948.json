@@ -1,0 +1,13 @@
+{
+  "tmdb": 232948,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "承欢记",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "best-choice-ever"
+      }
+    }
+  }
+}

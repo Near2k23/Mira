@@ -1,0 +1,15 @@
+{
+  "tmdb": 238786,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "대학전쟁",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "university-war",
+        "2": "university-war"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 224843,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "โลกสองใบใจดวงเดียว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "two-worlds"
+      }
+    }
+  }
+}

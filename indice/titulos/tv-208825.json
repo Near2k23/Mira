@@ -1,0 +1,13 @@
+{
+  "tmdb": 208825,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Parasyte: Los grises",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "parasyte-the-grey"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 246548,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春日浓情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "roses-guns"
+      }
+    }
+  }
+}

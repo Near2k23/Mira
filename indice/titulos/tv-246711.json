@@ -1,0 +1,13 @@
+{
+  "tmdb": 246711,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hope on the Street",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hope-on-the-street"
+      }
+    }
+  }
+}

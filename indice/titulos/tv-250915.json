@@ -1,0 +1,13 @@
+{
+  "tmdb": 250915,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "爱在天摇地动时",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "undercover-affair"
+      }
+    }
+  }
+}

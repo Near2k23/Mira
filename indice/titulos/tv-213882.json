@@ -1,0 +1,13 @@
+{
+  "tmdb": 213882,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "又见逍遥",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sword-and-fairy-1-chinese-paladin-1"
+      }
+    }
+  }
+}

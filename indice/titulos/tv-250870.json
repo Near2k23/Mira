@@ -1,0 +1,13 @@
+{
+  "tmdb": 250870,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "手术直播间",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "live-surgery-room"
+      }
+    }
+  }
+}

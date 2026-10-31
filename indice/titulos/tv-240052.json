@@ -1,0 +1,13 @@
+{
+  "tmdb": 240052,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑은 고양이처럼",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-is-like-a-cat"
+      }
+    }
+  }
+}

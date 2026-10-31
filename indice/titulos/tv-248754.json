@@ -1,0 +1,13 @@
+{
+  "tmdb": 248754,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "再见已是白月光",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fall-in-love-again"
+      }
+    }
+  }
+}

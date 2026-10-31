@@ -1,0 +1,13 @@
+{
+  "tmdb": 239989,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แช่งชักหักกระดูก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "curse-code"
+      }
+    }
+  }
+}

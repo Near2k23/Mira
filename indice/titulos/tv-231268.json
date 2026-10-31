@@ -1,0 +1,13 @@
+{
+  "tmdb": 231268,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "멱살 한번 잡힙시다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "nothing-uncovered"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 248579,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "惜花芷",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blossoms-in-adversity"
+      }
+    }
+  }
+}

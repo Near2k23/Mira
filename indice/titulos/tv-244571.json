@@ -1,0 +1,13 @@
+{
+  "tmdb": 244571,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Sathu - Que así sea",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-believers"
+      }
+    }
+  }
+}

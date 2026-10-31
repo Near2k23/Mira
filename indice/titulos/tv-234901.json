@@ -1,0 +1,14 @@
+{
+  "tmdb": 234901,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "คืนนี้มีแค่เรา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "deep-night"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 9 y TMDB tiene 8; no verificada"
+}
