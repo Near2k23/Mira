@@ -1,0 +1,13 @@
+{
+  "tmdb": 129475,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Inspectora Koo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "inspector-koo"
+      }
+    }
+  }
+}

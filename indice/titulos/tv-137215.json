@@ -1,0 +1,13 @@
+{
+  "tmdb": 137215,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "IDOL [아이돌 : The Coup]",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "idol-the-coup"
+      }
+    }
+  }
+}

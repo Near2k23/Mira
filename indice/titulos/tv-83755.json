@@ -1,0 +1,14 @@
+{
+  "tmdb": 83755,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Death Song",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "hymn-of-death"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 3 de 6 episodios"
+}

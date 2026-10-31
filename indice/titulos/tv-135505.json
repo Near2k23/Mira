@@ -1,0 +1,13 @@
+{
+  "tmdb": 135505,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "梦见狮子",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "out-of-the-dream"
+      }
+    }
+  }
+}

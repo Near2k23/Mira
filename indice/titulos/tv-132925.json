@@ -1,0 +1,13 @@
+{
+  "tmdb": 132925,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La manga roja",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-red-sleeve"
+      }
+    }
+  }
+}

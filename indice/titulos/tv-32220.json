@@ -1,0 +1,13 @@
+{
+  "tmdb": 32220,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pasta",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pasta"
+      }
+    }
+  }
+}

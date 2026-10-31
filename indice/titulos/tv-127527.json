@@ -1,0 +1,13 @@
+{
+  "tmdb": 127527,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Melancolía",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "melancholia"
+      }
+    }
+  }
+}

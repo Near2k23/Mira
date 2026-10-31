@@ -1,0 +1,13 @@
+{
+  "tmdb": 138294,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "숨은 그놈 찾기",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "find-me-if-you-can"
+      }
+    }
+  }
+}

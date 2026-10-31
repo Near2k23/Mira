@@ -1,0 +1,13 @@
+{
+  "tmdb": 129887,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Ahora, vamos a separarnos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "now-we-are-breaking-up"
+      }
+    }
+  }
+}

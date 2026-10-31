@@ -1,6 +1,6 @@
 {
- "pagina": 29,
- "agregados": 787,
+ "pagina": 30,
+ "agregados": 816,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -105,6 +105,10 @@
   {
    "id_o_slug": "youtuber-class",
    "motivo": "no existe en TMDB"
+  },
+  {
+   "id_o_slug": "tv-130652",
+   "motivo": "validar falló: ERROR indice/titulos/tv-130652.json: sitio \"doramasflix\" slug \"Me-fall-in-love\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -253,7 +257,12 @@
   "tv-133670.json",
   "tv-109464.json",
   "tv-137085.json",
-  "tv-135676.json"
+  "tv-135676.json",
+  "tv-83755.json",
+  "tv-238915.json",
+  "tv-138221.json",
+  "tv-138512.json",
+  "tv-137620.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -1100,6 +1109,36 @@
   137085,
   135271,
   132814,
-  135676
+  135676,
+  135505,
+  135682,
+  129475,
+  135354,
+  136938,
+  119955,
+  96262,
+  32220,
+  83755,
+  135340,
+  98216,
+  134071,
+  130020,
+  137215,
+  238915,
+  122009,
+  130652,
+  127527,
+  138294,
+  138221,
+  129887,
+  138489,
+  138512,
+  103310,
+  132925,
+  135832,
+  137620,
+  135685,
+  138746,
+  137467
  ]
 }

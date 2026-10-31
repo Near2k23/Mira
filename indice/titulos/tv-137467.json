@@ -1,0 +1,13 @@
+{
+  "tmdb": 137467,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "어른연습생",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "adult-trainee"
+      }
+    }
+  }
+}

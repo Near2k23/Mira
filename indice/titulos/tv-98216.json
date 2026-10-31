@@ -1,0 +1,13 @@
+{
+  "tmdb": 98216,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我不是购物狂",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rebirth-of-shopping-addict"
+      }
+    }
+  }
+}

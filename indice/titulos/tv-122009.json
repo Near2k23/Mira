@@ -1,0 +1,13 @@
+{
+  "tmdb": 122009,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Bad Buddy Series",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bad-buddy-the-series"
+      }
+    }
+  }
+}

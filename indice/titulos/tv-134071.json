@@ -1,0 +1,13 @@
+{
+  "tmdb": 134071,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "너의 밤이 되어줄게",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "let-me-be-your-knight"
+      }
+    }
+  }
+}

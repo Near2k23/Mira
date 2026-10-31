@@ -1,0 +1,13 @@
+{
+  "tmdb": 136938,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เกมล่าทรชน",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "game-of-outlaws"
+      }
+    }
+  }
+}

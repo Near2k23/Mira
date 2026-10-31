@@ -1,0 +1,13 @@
+{
+  "tmdb": 135685,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "다시, 플라이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fly-again"
+      }
+    }
+  }
+}

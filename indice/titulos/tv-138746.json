@@ -1,0 +1,13 @@
+{
+  "tmdb": 138746,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "잡고 싶은 녀석들",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-guys-i-want-to-catch"
+      }
+    }
+  }
+}

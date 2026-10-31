@@ -1,0 +1,13 @@
+{
+  "tmdb": 103310,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "斛珠夫人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "novoland-pearl-eclipse"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 138512,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑에도 공식이 있나요?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "is-there-equation-in-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 5; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 96262,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "키마이라",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chimera"
+      }
+    }
+  }
+}

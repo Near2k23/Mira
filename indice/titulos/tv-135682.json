@@ -1,0 +1,13 @@
+{
+  "tmdb": 135682,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "두근두근 방송사고",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "heartbeat-broadcasting-accident"
+      }
+    }
+  }
+}

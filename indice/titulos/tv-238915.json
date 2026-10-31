@@ -1,0 +1,14 @@
+{
+  "tmdb": 238915,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ดูคลับฟรายเดย์ เดอะซีรี่ส์ เลิฟส์ ซีซั่น เซเลเบรชั่น",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "unhappy-birthday"
+      }
+    }
+  },
+  "nota": "tmdb_id del sitio (null) no coincidía; se usó 238915 buscando por nombre y año"
+}

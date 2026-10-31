@@ -1,0 +1,13 @@
+{
+  "tmdb": 138489,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "남고괴담",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-mysterious-class"
+      }
+    }
+  }
+}
