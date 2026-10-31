@@ -1,0 +1,34 @@
+{
+  "tmdb": 218493,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kekkon Yubiwa Monogatari",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kekkon-yubiwa-monogatari",
+            "episodios": 12
+          },
+          {
+            "slug": "kekkon-yubiwa-monogatari-ii"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kekkon-yubiwa-monogatari",
+            "episodios": 12
+          },
+          {
+            "slug": "kekkon-yubiwa-monogatari-ii"
+          }
+        ]
+      }
+    }
+  }
+}

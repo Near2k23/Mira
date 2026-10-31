@@ -1,0 +1,21 @@
+{
+  "tmdb": 258579,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nageki no Bourei wa Intai shitai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "episodios": 13
+          },
+          {
+            "slug": "nageki-no-bourei-wa-intai-shitai-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

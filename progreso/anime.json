@@ -298,7 +298,41 @@
   "tv-295366": "completado",
   "tv-299778": "nuevo",
   "tv-305163": "completado",
-  "movie-959646": "completado"
+  "movie-959646": "completado",
+  "tv-46437": "completado",
+  "tv-78483": "completado",
+  "tv-97525": "completado",
+  "tv-117879": "completado",
+  "tv-218493": "nuevo",
+  "tv-222624": "completado",
+  "tv-258579": "nuevo",
+  "tv-258901": "completado",
+  "tv-262259": "completado",
+  "tv-262700": "completado",
+  "tv-271605": "completado",
+  "tv-274810": "completado",
+  "tv-274814": "completado",
+  "tv-278059": "completado",
+  "tv-278635": "completado",
+  "tv-280048": "completado",
+  "tv-283818": "completado",
+  "tv-283880": "completado",
+  "tv-283935": "completado",
+  "tv-284388": "completado",
+  "tv-284433": "completado",
+  "tv-284442": "completado",
+  "tv-284644": "completado",
+  "tv-285788": "completado",
+  "tv-286388": "completado",
+  "tv-286791": "completado",
+  "tv-286984": "completado",
+  "tv-287278": "completado",
+  "tv-289217": "completado",
+  "tv-293010": "completado",
+  "tv-294867": "completado",
+  "tv-296287": "completado",
+  "tv-296851": "completado",
+  "tv-297286": "completado"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -345,7 +379,9 @@
   "xian-wang-de-richang-shenghuo-5": "no está en TMDB / no ubicado",
   "shuumatsu-no-walkure-iii": "no está en TMDB / no ubicado",
   "nukitashi-the-animation-specials": "no está en TMDB / no ubicado",
-  "cengjing-you-yongshi": "no está en TMDB / no ubicado"
+  "cengjing-you-yongshi": "no está en TMDB / no ubicado",
+  "girls-band-cry-movie": "varias coincidencias en TMDB",
+  "spy-x-family-season-3": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -386,6 +422,11 @@
   "latest_released 13-14": {
    "agregados": 8,
    "completados": 20,
+   "saltados": 3
+  },
+  "latest_released 15-16": {
+   "agregados": 2,
+   "completados": 32,
    "saltados": 3
   }
  }

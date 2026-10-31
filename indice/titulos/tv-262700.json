@@ -8,6 +8,19 @@
       "temporadas": {
         "1": "uma-musume-cinderella-gray"
       }
+    },
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "uma-musume-cinderella-gray",
+            "episodios": 13
+          },
+          {
+            "slug": "uma-musume-cinderella-gray-part-2"
+          }
+        ]
+      }
     }
   }
 }
