@@ -1,0 +1,13 @@
+{
+  "tmdb": 273112,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "剥茧",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-truth-within"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 281005,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Tal vez mañana",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "surely-tomorrow"
+      }
+    }
+  }
+}

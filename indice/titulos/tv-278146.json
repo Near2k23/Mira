@@ -1,0 +1,13 @@
+{
+  "tmdb": 278146,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ไขคดีเป็น เห็นคดีตาย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dare-you-to-death"
+      }
+    }
+  }
+}

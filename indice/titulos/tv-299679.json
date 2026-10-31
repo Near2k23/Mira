@@ -1,0 +1,15 @@
+{
+  "tmdb": 299679,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ストロボ・エッジ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "strobe-edge",
+        "2": "strobe-edge"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

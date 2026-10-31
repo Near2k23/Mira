@@ -1,0 +1,13 @@
+{
+  "tmdb": 306826,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "平凝有令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-princess-decree"
+      }
+    }
+  }
+}

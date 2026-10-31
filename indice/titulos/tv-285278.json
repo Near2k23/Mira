@@ -1,0 +1,13 @@
+{
+  "tmdb": 285278,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Ídolo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "idol-i"
+      }
+    }
+  }
+}

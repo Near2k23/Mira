@@ -1,0 +1,13 @@
+{
+  "tmdb": 302766,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "长相忆之灯冶未央",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "phoenixs-homecoming"
+      }
+    }
+  }
+}

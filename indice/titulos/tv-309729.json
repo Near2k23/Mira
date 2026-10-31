@@ -1,0 +1,13 @@
+{
+  "tmdb": 309729,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "팬서비스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fan-service"
+      }
+    }
+  }
+}

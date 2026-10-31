@@ -1,0 +1,13 @@
+{
+  "tmdb": 300798,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แผนรักฉบับร้าย",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "beauty-reborn"
+      }
+    }
+  }
+}

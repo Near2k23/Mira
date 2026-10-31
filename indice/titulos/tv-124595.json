@@ -1,0 +1,15 @@
+{
+  "tmdb": 124595,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "御赐小仵作",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-imperial-coroner",
+        "2": "the-imperial-coroner"
+      }
+    }
+  },
+  "nota": "T2: el sitio llega al ep 36 y TMDB tiene 28; no verificada"
+}

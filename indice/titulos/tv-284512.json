@@ -1,0 +1,13 @@
+{
+  "tmdb": 284512,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "玉茗茶骨",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "glory-2025"
+      }
+    }
+  }
+}

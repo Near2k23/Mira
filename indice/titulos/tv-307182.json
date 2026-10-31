@@ -1,0 +1,13 @@
+{
+  "tmdb": 307182,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Countdown to Yes",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "countdown-to-yes"
+      }
+    }
+  }
+}

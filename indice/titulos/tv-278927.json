@@ -1,0 +1,13 @@
+{
+  "tmdb": 278927,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "逍遥",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-unclouded-soul"
+      }
+    }
+  }
+}

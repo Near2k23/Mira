@@ -1,6 +1,6 @@
 {
  "pagina": 101,
- "agregados": 2360,
+ "agregados": 2402,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -561,6 +561,14 @@
   {
    "id_o_slug": "tv-274561",
    "motivo": "validar falló: ERROR indice/titulos/tv-274561.json: sitio \"doramasflix\" slug \"love-in-the-Moonlight\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "tv-280948",
+   "motivo": "validar falló: ERROR indice/titulos/tv-280948.json: sitio \"doramasflix\" slug \"Spring-Fever\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "tv-284143",
+   "motivo": "validar falló: ERROR indice/titulos/tv-284143.json: sitio \"doramasflix\" slug \"shadow-detective-C2025\": no cumple el patrón"
   }
  ],
  "notas": [
@@ -933,7 +941,10 @@
   "tv-283924.json",
   "tv-297710.json",
   "tv-298554.json",
-  "tv-303693.json"
+  "tv-303693.json",
+  "tv-276144.json",
+  "tv-299679.json",
+  "tv-124595.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -3547,6 +3558,48 @@
   306252,
   305975,
   306293,
-  303748
+  303748,
+  284143,
+  306683,
+  301696,
+  298567,
+  282471,
+  276144,
+  278096,
+  306826,
+  263048,
+  281005,
+  304334,
+  307674,
+  296463,
+  300397,
+  308290,
+  300798,
+  278146,
+  302766,
+  197491,
+  302706,
+  308316,
+  285278,
+  238458,
+  284512,
+  278927,
+  273112,
+  309102,
+  290450,
+  308551,
+  301886,
+  296009,
+  280948,
+  302650,
+  309729,
+  309812,
+  299679,
+  124595,
+  308277,
+  301885,
+  307182,
+  311139,
+  270420
  ]
 }

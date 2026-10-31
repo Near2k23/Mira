@@ -1,0 +1,13 @@
+{
+  "tmdb": 296463,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เริ่มใหม่หัวใจเดิม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reloved"
+      }
+    }
+  }
+}

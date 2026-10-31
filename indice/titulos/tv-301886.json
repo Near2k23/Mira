@@ -1,0 +1,13 @@
+{
+  "tmdb": 301886,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "은애하는 도적님아",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "to-my-beloved-thief"
+      }
+    }
+  }
+}

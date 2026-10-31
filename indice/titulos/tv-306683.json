@@ -1,0 +1,13 @@
+{
+  "tmdb": 306683,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "孤鸢",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-sparrows-gambit"
+      }
+    }
+  }
+}

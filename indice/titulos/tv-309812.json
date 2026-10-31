@@ -1,0 +1,13 @@
+{
+  "tmdb": 309812,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "荣华令",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "glory-in-shadows"
+      }
+    }
+  }
+}

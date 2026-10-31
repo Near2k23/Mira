@@ -1,0 +1,13 @@
+{
+  "tmdb": 197491,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "빌런즈",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "villains"
+      }
+    }
+  }
+}

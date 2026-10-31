@@ -1,0 +1,13 @@
+{
+  "tmdb": 278096,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "苍月无烬",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "reborn-from-the-ashes"
+      }
+    }
+  }
+}

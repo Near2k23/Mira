@@ -1,0 +1,13 @@
+{
+  "tmdb": 290450,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "曼波奇缘",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "manbo-destiny"
+      }
+    }
+  }
+}

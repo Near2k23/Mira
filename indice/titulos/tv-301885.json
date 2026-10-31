@@ -1,0 +1,13 @@
+{
+  "tmdb": 301885,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "キンパとおにぎり〜恋するふたりは似ていてちがう〜",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "gimbap-and-onigiri"
+      }
+    }
+  }
+}

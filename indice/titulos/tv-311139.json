@@ -1,0 +1,13 @@
+{
+  "tmdb": 311139,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "러브 인 프로토콜",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-protocol"
+      }
+    }
+  }
+}

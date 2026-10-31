@@ -1,0 +1,13 @@
+{
+  "tmdb": 270420,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Humana por accidente",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "no-tail-to-tell"
+      }
+    }
+  }
+}

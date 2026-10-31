@@ -1,0 +1,13 @@
+{
+  "tmdb": 263048,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "狙击蝴蝶",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sniper-butterfly"
+      }
+    }
+  }
+}

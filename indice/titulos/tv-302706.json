@@ -1,0 +1,13 @@
+{
+  "tmdb": 302706,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "藏香记",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-glory-of-queen"
+      }
+    }
+  }
+}

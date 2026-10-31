@@ -1,0 +1,13 @@
+{
+  "tmdb": 302650,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我亲爱的秘书",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "dear-secretary"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 307674,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "되어줄래? 나의 매니저",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "will-you-be-my-manager"
+      }
+    }
+  }
+}

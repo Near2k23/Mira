@@ -1,0 +1,13 @@
+{
+  "tmdb": 298567,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "천둥구름 비바람",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "thundercloud-rainstorm"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 309102,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "มีคำเตือนโปรดระมัดระวัง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-alert"
+      }
+    }
+  }
+}

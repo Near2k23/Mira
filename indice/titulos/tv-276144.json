@@ -1,0 +1,14 @@
+{
+  "tmdb": 276144,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "매치플레이",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "match-play"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Match Play 2024) no coinciden con TMDB (매치플레이 2025); se mantuvo el tmdb_id del sitio. T1: el sitio tiene 4 de 6 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 300397,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "저스트 메이크업",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "just-makeup"
+      }
+    }
+  }
+}

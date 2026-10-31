@@ -1,0 +1,13 @@
+{
+  "tmdb": 308290,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "러브: 트랙",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-track"
+      }
+    }
+  }
+}
