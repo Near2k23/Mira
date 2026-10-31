@@ -1,0 +1,13 @@
+{
+  "tmdb": 247859,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Honey Lemon Soda",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "honey-lemon-soda"
+      }
+    }
+  }
+}

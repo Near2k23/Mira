@@ -1,0 +1,13 @@
+{
+  "tmdb": 277222,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Catch Me at the Ballpark",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ballpark-de-tsukamaete"
+      }
+    }
+  }
+}

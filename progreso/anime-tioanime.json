@@ -1,6 +1,6 @@
 {
-  "pagina": 19,
-  "agregados": 303,
+  "pagina": 21,
+  "agregados": 328,
   "saltados": [
     {
       "id_o_slug": "cyberpunk-edgerunners-2",
@@ -177,6 +177,10 @@
     {
       "id_o_slug": "lazarus",
       "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "babanbabanban-vampire",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
     }
   ],
   "notas": [
@@ -241,5 +245,5 @@
     "tv-294867.json",
     "tv-261392.json"
   ],
-  "idx": 375
+  "idx": 401
 }

@@ -1,0 +1,13 @@
+{
+  "tmdb": 281545,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "想星のアクエリオン Myth of Emotions",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sousei-no-aquarion-myth-of-emotions"
+      }
+    }
+  }
+}

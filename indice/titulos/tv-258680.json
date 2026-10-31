@@ -1,0 +1,13 @@
+{
+  "tmdb": 258680,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "どうせ、恋してしまうんだ。",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "douse-koishite-shimaunda"
+      }
+    }
+  }
+}

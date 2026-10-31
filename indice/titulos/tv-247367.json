@@ -1,0 +1,13 @@
+{
+  "tmdb": 247367,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Übel Blatt",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ubel-blatt"
+      }
+    }
+  }
+}

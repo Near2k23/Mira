@@ -1,0 +1,13 @@
+{
+  "tmdb": 276880,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Please Put Them On, Takamine-san",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "haite-kudasai-takaminesan"
+      }
+    }
+  }
+}

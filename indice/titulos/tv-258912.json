@@ -1,0 +1,13 @@
+{
+  "tmdb": 258912,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magic Maker: How to Make Magic in Another World",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magic-maker-isekai-mahou-no-tsukurikata"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 210899,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "UniteUp!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "uniteup-unibirth"
+      }
+    }
+  }
+}

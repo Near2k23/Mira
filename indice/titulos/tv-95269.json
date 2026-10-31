@@ -1,0 +1,13 @@
+{
+  "tmdb": 95269,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Toilet-bound Hanako-kun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "jibaku-shounen-hanakokun-2"
+      }
+    }
+  }
+}

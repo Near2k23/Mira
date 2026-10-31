@@ -1,0 +1,13 @@
+{
+  "tmdb": 249031,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Welcome to Japan, Ms. Elf!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nihon-e-youkoso-elfsan"
+      }
+    }
+  }
+}

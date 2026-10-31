@@ -1,0 +1,13 @@
+{
+  "tmdb": 249964,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "girumasu"
+      }
+    }
+  }
+}

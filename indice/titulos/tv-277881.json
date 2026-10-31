@@ -1,0 +1,13 @@
+{
+  "tmdb": 277881,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Unaware Atelier Meister",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kanchigai-no-atelier-meister"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 207332,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sakamoto Days",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakamoto-days"
+      }
+    }
+  }
+}

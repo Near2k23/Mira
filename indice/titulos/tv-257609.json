@@ -1,0 +1,13 @@
+{
+  "tmdb": 257609,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "FARMAGIA (ファーマギア)",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "farmagia"
+      }
+    }
+  }
+}

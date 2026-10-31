@@ -1,0 +1,13 @@
+{
+  "tmdb": 133154,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kijin Gentoushou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kijin-gentoushou"
+      }
+    }
+  }
+}

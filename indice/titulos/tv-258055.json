@@ -1,0 +1,13 @@
+{
+  "tmdb": 258055,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Once Upon a Witch's Death",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aru-majo-ga-shinu-made"
+      }
+    }
+  }
+}
