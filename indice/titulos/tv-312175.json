@@ -1,0 +1,14 @@
+{
+  "tmdb": 312175,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "마니또 클럽",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-secret-friends-club"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 1 de 12 episodios"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 307833,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ปิ๊งรักคุณพี่เย็นชา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "frozen-valentine"
+      }
+    }
+  }
+}

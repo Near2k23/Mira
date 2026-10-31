@@ -1,0 +1,13 @@
+{
+  "tmdb": 289690,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "러브 포비아",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-phobia"
+      }
+    }
+  }
+}

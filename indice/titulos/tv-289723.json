@@ -1,0 +1,13 @@
+{
+  "tmdb": 289723,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "有罪之身",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-guilty"
+      }
+    }
+  }
+}

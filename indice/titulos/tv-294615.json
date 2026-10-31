@@ -1,0 +1,13 @@
+{
+  "tmdb": 294615,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "半醒",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "half-awake"
+      }
+    }
+  }
+}

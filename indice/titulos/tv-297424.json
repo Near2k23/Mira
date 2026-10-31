@@ -1,0 +1,13 @@
+{
+  "tmdb": 297424,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Nuestro universo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-universe"
+      }
+    }
+  }
+}

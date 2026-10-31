@@ -1,0 +1,13 @@
+{
+  "tmdb": 295430,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "其实不是初恋",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "predestined-love-2026"
+      }
+    }
+  }
+}

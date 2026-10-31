@@ -1,0 +1,13 @@
+{
+  "tmdb": 312039,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "许你十年",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-after-addiction"
+      }
+    }
+  }
+}

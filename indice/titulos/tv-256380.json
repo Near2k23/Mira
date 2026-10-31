@@ -1,0 +1,13 @@
+{
+  "tmdb": 256380,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "夫の家庭を壊すまで",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "until-i-destroyed-my-husbands-other-family"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 278157,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักจริง หลังแต่ง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-romance-scammer"
+      }
+    }
+  }
+}

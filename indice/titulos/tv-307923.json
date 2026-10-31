@@ -1,0 +1,13 @@
+{
+  "tmdb": 307923,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "マトリと狂犬",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "matori-and-kyoken-men-in-the-back-alleys"
+      }
+    }
+  }
+}

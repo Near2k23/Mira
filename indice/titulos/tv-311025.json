@@ -1,0 +1,13 @@
+{
+  "tmdb": 311025,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "炽热吸引",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "affinity"
+      }
+    }
+  }
+}

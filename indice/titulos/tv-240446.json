@@ -1,0 +1,13 @@
+{
+  "tmdb": 240446,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "玫瑰丛生",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "about-love"
+      }
+    }
+  }
+}

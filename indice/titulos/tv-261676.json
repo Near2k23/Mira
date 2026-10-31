@@ -1,0 +1,13 @@
+{
+  "tmdb": 261676,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "风过留痕",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-truth"
+      }
+    }
+  }
+}

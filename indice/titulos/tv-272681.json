@@ -1,0 +1,13 @@
+{
+  "tmdb": 272681,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "岁月有情时",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-dazzling-days"
+      }
+    }
+  }
+}

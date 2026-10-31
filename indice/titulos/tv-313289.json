@@ -1,0 +1,13 @@
+{
+  "tmdb": 313289,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La batalla de los destinos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "battle-of-fates"
+      }
+    }
+  }
+}

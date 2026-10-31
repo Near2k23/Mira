@@ -1,0 +1,13 @@
+{
+  "tmdb": 293608,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La infiltrada Srta. Hong",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "undercover-miss-hong"
+      }
+    }
+  }
+}

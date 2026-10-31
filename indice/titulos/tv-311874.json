@@ -1,0 +1,13 @@
+{
+  "tmdb": 311874,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cómo entrenar a tu asesino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "how-to-train-your-killer"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 206494,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El investigador con millones de seguidores",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "million-follower-detective"
+      }
+    }
+  }
+}

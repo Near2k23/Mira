@@ -1,0 +1,13 @@
+{
+  "tmdb": 313995,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cielo Para Dos: Reunión",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "singles-inferno-reunion"
+      }
+    }
+  }
+}

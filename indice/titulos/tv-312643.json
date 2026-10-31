@@ -1,0 +1,13 @@
+{
+  "tmdb": 312643,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "灵犀之香",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "infinite-cycle-of-love"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 307602,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑을 처방해 드립니다",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "recipe-for-love"
+      }
+    }
+  }
+}

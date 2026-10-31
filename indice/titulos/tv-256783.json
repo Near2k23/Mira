@@ -1,0 +1,15 @@
+{
+  "tmdb": 256783,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "成何体统",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "how-dare-you-anime-2024",
+        "2": "how-dare-you-anime-2024"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 280916,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "突然的喜欢",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-page-in-the-90s"
+      }
+    }
+  }
+}

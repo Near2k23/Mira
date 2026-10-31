@@ -1,0 +1,13 @@
+{
+  "tmdb": 293958,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "糖衣",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sugar-and-lies"
+      }
+    }
+  }
+}

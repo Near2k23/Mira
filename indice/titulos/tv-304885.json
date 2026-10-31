@@ -1,0 +1,13 @@
+{
+  "tmdb": 304885,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Yesterday",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "yesterday"
+      }
+    }
+  }
+}
