@@ -1,0 +1,13 @@
+{
+  "tmdb": 250994,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "天久鷹央の推理カルテ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ameku-takao-no-suiri-karte"
+      }
+    }
+  }
+}

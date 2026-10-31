@@ -1,0 +1,13 @@
+{
+  "tmdb": 245876,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "空色ユーティリティ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sorairo-utility-tv"
+      }
+    }
+  }
+}

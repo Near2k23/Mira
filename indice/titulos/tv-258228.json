@@ -1,0 +1,14 @@
+{
+  "tmdb": 258228,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "もめんたりー・リリィ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "momentary-lily"
+      }
+    }
+  },
+  "nota": "tioanime momentary-lily: 14 cap. vs 13 en TMDB T1; revisar."
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 1012201,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "HAIKYU!! La batalla del basurero",
+  "fuentes": {
+    "tioanime": {
+      "slug": "haikyuu-movie-gomisuteba-no-kessen"
+    }
+  }
+}

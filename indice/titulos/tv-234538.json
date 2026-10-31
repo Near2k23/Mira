@@ -1,0 +1,13 @@
+{
+  "tmdb": 234538,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Demon Lord 2099",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maou-2099"
+      }
+    }
+  }
+}

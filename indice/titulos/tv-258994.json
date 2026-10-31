@@ -1,0 +1,13 @@
+{
+  "tmdb": 258994,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Medaka Kuroiwa Is Impervious to My Charms",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai"
+      }
+    }
+  }
+}

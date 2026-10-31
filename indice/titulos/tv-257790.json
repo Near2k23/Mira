@@ -1,0 +1,13 @@
+{
+  "tmdb": 257790,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Me Case con la chica que odio de mi clase",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta"
+      }
+    }
+  }
+}

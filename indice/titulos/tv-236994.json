@@ -1,0 +1,13 @@
+{
+  "tmdb": 236994,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragon Ball Daima",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dragon-ball-daima"
+      }
+    }
+  }
+}

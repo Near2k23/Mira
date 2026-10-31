@@ -1,0 +1,13 @@
+{
+  "tmdb": 262141,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kono Kaisha ni Suki na Hito ga Imasu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kono-kaisha-ni-suki-na-hito-ga-imasu"
+      }
+    }
+  }
+}

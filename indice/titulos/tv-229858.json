@@ -1,0 +1,13 @@
+{
+  "tmdb": 229858,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fate/strange Fake",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fatestrange-fake"
+      }
+    }
+  }
+}

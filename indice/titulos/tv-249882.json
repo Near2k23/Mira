@@ -1,0 +1,13 @@
+{
+  "tmdb": 249882,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ZENSHU",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zenshuu"
+      }
+    }
+  }
+}

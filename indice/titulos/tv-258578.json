@@ -1,0 +1,13 @@
+{
+  "tmdb": 258578,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔法使いの約束",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahoutsukai-no-yakusoku"
+      }
+    }
+  }
+}

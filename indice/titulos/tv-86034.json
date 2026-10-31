@@ -1,0 +1,13 @@
+{
+  "tmdb": 86034,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Arifureta: From Commonplace to World’s Strongest",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "3": "arifureta-shokugyou-de-sekai-saikyou-season-3"
+      }
+    }
+  }
+}

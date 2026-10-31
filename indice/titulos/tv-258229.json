@@ -1,0 +1,13 @@
+{
+  "tmdb": 258229,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hotel Tasokare",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tasokare-hotel"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 274580,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BanG Dream! Ave Mujica",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bang-dream-ave-mujica"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 280906,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Grisaia Phantom Trigger",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "grisaia-phantom-trigger"
+      }
+    }
+  }
+}

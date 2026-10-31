@@ -1,6 +1,6 @@
 {
-  "pagina": 21,
-  "agregados": 328,
+  "pagina": 225,
+  "agregados": 3138,
   "saltados": [
     {
       "id_o_slug": "cyberpunk-edgerunners-2",
@@ -181,6 +181,4662 @@
     {
       "id_o_slug": "babanbabanban-vampire",
       "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ore-dake-level-up-na-ken-season-2-arise-from-the-shadow",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "neet-kunoichi-to-nazeka-dousei-hajimemashita",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kinomi-master",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "beheneko",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "one-piece-gyojin-touhen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ranma-12-2024",
+      "motivo": "tv-259140 T1 ya ocupada por [{\"slug\":\"ranma-12-2024\",\"episodios\":12},{\"slug\":\"ranma-12-2024-2nd-season\",\"episodios\":12},{\"slug\":\"ranma-12-2024-3rd-season\"}] (posible tramo)"
+    },
+    {
+      "id_o_slug": "ao-no-exorcist-yuki-no-hatehen",
+      "motivo": "tv-38464 T3 ya ocupada por \"ao-no-exorcist-shimane-illuminatihen\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "ao-no-hako",
+      "motivo": "tv-207347 T1 ya ocupada por [{\"slug\":\"ao-no-hako\",\"episodios\":25},{\"slug\":\"ao-no-hako-season-2\"}] (posible tramo)"
+    },
+    {
+      "id_o_slug": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kimi-ni-todoke-3rd-season",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "monogatari-series-off-monster-season",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "code-geass-dakkan-no-roze",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kaijuu-8gou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shinigami-bocchan-to-kuro-maid-3rd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "the-idolmster-shiny-colors",
+      "motivo": "tv-248086 T1 ya ocupada por \"the-idolmster-shiny-colors-2nd-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "himesama-goumon-no-jikan-desu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kekkon-yubiwa-monogatari",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ore-dake-level-up-na-ken",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jashinchan-dropkick-seikimatsuhen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "boku-no-hero-academia-ua-heroes-battle",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tensei-shitara-slime-datta-ken-coleus-no-yume",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kimizero",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tokyo-revengers-tenjikuhen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sousou-no-frieren",
+      "motivo": "tv-209867 T1 ya ocupada por [{\"slug\":\"sousou-no-frieren\",\"episodios\":28},{\"slug\":\"sousou-no-frieren-2nd-season\"}] (posible tramo)"
+    },
+    {
+      "id_o_slug": "hanma-baki-son-of-ogre-2nd-season",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "bungou-stray-dogs-5th-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tonikaku-kawaii-joshikouhen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shinigami-bocchan-to-kuro-maid-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "temple",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kanojo-okarishimasu-3rd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jujutsu-kaisen-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "watashi-no-shiawase-na-kekkon",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mononogatari-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fatestrange-fake-whispers-of-dawn",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kimetsu-no-yaiba-katanakaji-no-satohen",
+      "motivo": "tv-85937 T4 ya ocupada por \"kimetsu-no-yaiba-hashira-geikohen\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "birdie-wing-golf-girls-story-season-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tokyo-mew-mew-new-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jigokuraku",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "edens-zero-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-the-final-season-kanketsuhen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "majutsushi-orphen-hagure-tabi-urbanramahen",
+      "motivo": "tv-91764 T3 ya ocupada por \"majutsushi-orphen-hagure-tabi-seiikihen\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "tondemo-skill-de-isekai-hourou-meshi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "high-card",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mononogatari",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kyokou-suiri-season-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tokyo-revengers-seiya-kessenhen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nijiyon-animation",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bungou-stray-dogs-4th-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tonikaku-kawaii-seifuku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "muvluv-alternative-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "cyberpunk-edgerunners",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "totsukuni-no-shoujo-2022",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kakegurui-twin",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "boku-no-hero-academia-ona",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "orient-awajishima-gekitouhen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dr-stone-ryuusui",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tokyo-mew-mew-new",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rwby-hyousetsu-teikoku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kanojo-okarishimasu-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "given-uragawa-no-sonzai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "komisan-wa-comyushou-desu-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "birdie-wing-golf-girls-story",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "arifureta-shokugyou-de-sekai-saikyou-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-the-final-season-part-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "orient",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahouka-koukou-no-rettousei-tsuiokuhen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kimetsu-no-yaiba-yuukakuhen",
+      "motivo": "tv-85937 T3 ya ocupada por \"kimetsu-no-yaiba-katanakaji-no-satohen\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kimetsu-no-yaiba-mugen-resshahen-arc-tv",
+      "motivo": "tv-85937 T2 ya ocupada por [{\"slug\":\"kimetsu-no-yaiba-mugen-resshahen-arc-tv\",\"episodios\":7},{\"slug\":\"kimetsu-no-yaiba-yuukakuhen\"}] (posible tramo)"
+    },
+    {
+      "id_o_slug": "muvluv-alternative",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "komisan-wa-comyushou-desu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mushoku-tensei-isekai-ittara-honki-dasu-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "86-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hanma-baki-son-of-ogre",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "getsuyoubi-no-tawawa-2",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ganbare-doukichan",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "heike-monogatari",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shinigami-bocchan-to-kuro-maid",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shuumatsu-no-walkure",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "edens-zero",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tokyo-revengers",
+      "motivo": "tv-105009 T1 ya ocupada por [{\"slug\":\"tokyo-revengers\",\"episodios\":24},{\"slug\":\"tokyo-revengers-seiya-kessenhen\",\"episodios\":13},{\"slug\":\"tokyo-revengers-tenjikuhen\",\"episodios\":13},{\"slug\":\"tokyo-revengers-santen-sensouhen\"}] (posible tramo)"
+    },
+    {
+      "id_o_slug": "gokushufudou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kobayashisan-chi-no-maid-dragon-s-mini-dragon",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tensura-nikki-tensei-shitara-slime-datta-ken",
+      "motivo": "tv-118541 T1 ya ocupada por \"tensei-shitara-slime-datta-ken-2nd-season-part-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "yakunara-mug-cup-mo",
+      "motivo": "tv-106611 T1 ya ocupada por \"yakunara-mug-cup-mo-niban-gama\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "hetalia-worldstars",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tensei-shitara-slime-datta-ken-2nd-season",
+      "motivo": "tv-118541 T1 ya ocupada por \"tensei-shitara-slime-datta-ken-2nd-season-part-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "mushoku-tensei-isekai-ittara-honki-dasu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "vlad-love",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-the-final-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kimetsu-no-yaiba-movie-mugen-resshahen",
+      "motivo": "ya existía tioanime en movie-635302"
+    },
+    {
+      "id_o_slug": "one-room-third-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hanyou-no-yashahime-sengoku-otogizoushi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-quest-dai-no-daibouken-2020",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jujutsu-kaisen-tv",
+      "motivo": "tv-95479 T1 ya ocupada por [{\"slug\":\"jujutsu-kaisen-tv\",\"episodios\":24},{\"slug\":\"jujutsu-kaisen-2nd-season\",\"episodios\":23},{\"slug\":\"jujutsu-kaisen-shimetsu-kaiyuu-zenpen\"}] (posible tramo)"
+    },
+    {
+      "id_o_slug": "kanojo-okarishimasu",
+      "motivo": "tv-96316 T1 ya ocupada por [{\"slug\":\"kanojo-okarishimasu\",\"episodios\":12},{\"slug\":\"kanojo-okarishimasu-2nd-season\",\"episodios\":12},{\"slug\":\"kanojo-okarishimasu-3rd-season\",\"episodios\":12},{\"slug\":\"kanojo-okarishimasu-4th-season\",\"episodios\":12},{\"slug\":\"kanojo-okarishimasu-5th-season\"}] (posible tramo)"
+    },
+    {
+      "id_o_slug": "no-guns-life-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rezero-kara-hajimeru-isekai-seikatsu-2nd-season",
+      "motivo": "numeración absoluta en conflicto con tv-99084"
+    },
+    {
+      "id_o_slug": "a3-season-spring-summer",
+      "motivo": "tv-96860 T1 ya ocupada por \"a3-season-autumn-winter\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "gundam-build-divers-rerise-2nd-season",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tenchi-muyou-ryououki-5th-season",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kyokou-suiri",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "uchi-tama-uchi-no-tama-shirimasen-ka",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuuban",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rezero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "no-guns-life",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gundam-build-divers-rerise",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mugen-no-juunin-immortal",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fairy-gone-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kono-oto-tomare-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "null-peta",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fatestay-night-movie-heavens-feel-ii-lost-butterfly",
+      "motivo": "ya existía tioanime en movie-390635"
+    },
+    {
+      "id_o_slug": "fategrand-order-zettai-majuu-sensen-babylonia-initium-iter",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kyochuu-rettou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "wotaku-ni-koi-wa-muzukashii-youth",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-season-3-part-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bungou-stray-dogs-3rd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mayonaka-no-occult-koumuin",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fairy-gone",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nande-koko-ni-sensei-ga",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bokutachi-wa-benkyou-ga-dekinai",
+      "motivo": "tv-87432 T1 ya ocupada por \"bokutachi-wa-benkyou-ga-dekinai-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "kono-oto-tomare",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "high-score-girl-extra-stage",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "otona-no-bouguyasan-rimen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "non-non-biyori-movie-vacation",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "zoku-owarimonogatari",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "boku-no-hero-academia-the-movie-futari-no-hero",
+      "motivo": "ya existía tioanime en movie-505262"
+    },
+    {
+      "id_o_slug": "ikkitousen-western-wolves",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "lord-elmelloi-iisei-no-jikenbo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "strike-the-blood-iii",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yu-yu-hakusho-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hangyakusei-million-arthur",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tokyo-ghoulre-2nd-season",
+      "motivo": "tv-61374 T3 ya ocupada por \"tokyo-ghoulre\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "souten-no-ken-regenesis-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "one-piece-episode-of-sorajima",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shikioriori",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yakusoku-no-nanaya-matsuri",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-season-3",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "iya-na-kao-sare-nagara-opantsu-misete-moraitai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "overlord-iii",
+      "motivo": "tv-64196 T2 ya ocupada por \"overlord-ii\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "chiochan-no-tsuugakuro",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "satsuriku-no-tenshi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yuragisou-no-yuunasan-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aru-zombie-shoujo-no-sainan-ona",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-heroes",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "baki-2018",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "to-be-heroine",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jikkenhin-kazoku",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "souten-no-ken-regenesis",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "golden-kamuy",
+      "motivo": "tv-76757 T1 ya ocupada por \"golden-kamuy-2nd-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "shokugeki-no-souma-san-no-sara-toutsuki-resshahen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gurazeni",
+      "motivo": "tv-78470 T1 ya ocupada por \"gurazeni-season-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "uchuu-senkan-tiramisu",
+      "motivo": "tv-78461 T1 ya ocupada por \"uchuu-senkan-tiramisu-ii\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "relife-kanketsuhen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "spiritpact-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shinmai-maou-no-testament-departures",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fategrand-order-moonlightlostroom",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "emiyasan-chi-no-kyou-no-gohan",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nekopara",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-lost-girls",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hitori-no-shita-the-outcast-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "time-bokan-gyakushuu-no-san-akunin",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shokugeki-no-souma-san-no-sara",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "uq-holder-mahou-sensei-negima-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sakura-card-captor-clear-cardhen-prologue-sakura-to-futatsu-no-kuma",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-episodio-del-east-blue",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "owarimonogatari-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "children-of-ether-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yami-shibai-5th-season",
+      "motivo": "tv-56559 T4 ya ocupada por \"yami-shibai-4th-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "love-kome-we-love-rice",
+      "motivo": "tv-71011 T1 ya ocupada por \"love-kome-we-love-rice-2nd-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "cinderella-girls-gekijou",
+      "motivo": "tv-71012 T1 ya ocupada por \"cinderella-girls-gekijou-2nd-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "ao-no-exorcist-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "granblue-fantasy-the-animation",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "granblue-fantasy-the-animation-tv",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "vivid-strike-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "chaos-child",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "super-lovers-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "koro-sensei-quest",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hibike-euphonium-especiales",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kamisama-hajimemashita-shiawase-ni-naru",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-generations",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-d",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "strike-the-blood-ii",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-sun-moon",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "monster-musume-no-iru-nichijou-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kubikiri-cycle-aoiro-savant-to-zaregototsukai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "luger-code-1951",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "haikyuu-third-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nanbaka",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "to-be-hero",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "natsume-yuujinchou-go-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ao-oni-the-animation-movie",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kidou-senshi-gundam-tekketsu-no-orphans-2nd-seas",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ame-iro-cocoa-in-hawaii",
+      "motivo": "sin episodios"
+    },
+    {
+      "id_o_slug": "bubuki-buranki-hoshi-no-kyojin",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bloodivores",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fatekaleid-liner-prismaillya-3rei-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "masou-gakuen-hxh-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kaijuu-girls-ultra-kaijuu-gijinka-keikaku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "non-non-biyori-repeat-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "koe-no-katachi",
+      "motivo": "ya existía tioanime en movie-378064"
+    },
+    {
+      "id_o_slug": "mahoutsukai-no-yome-hoshi-matsu-hito",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "persona-5-the-animation-the-day-breakers",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nanatsu-no-taizai-seisen-no-shirushi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kimi-no-na-wa",
+      "motivo": "ya existía tioanime en movie-372058"
+    },
+    {
+      "id_o_slug": "gundam-build-fighters-try-island-wars",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gintama-aizome-kaori-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "under-the-dog",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-heart-of-gold",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-pelicula-19-volcanion-to-karakuri-no-magiana",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "danganronpa-3-the-end-of-kibougamine-gakuen-mi",
+      "motivo": "tv-67674 T1 ya ocupada por \"danganronpa-3-the-end-of-kibougamine-gakuen-ze\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "hitori-no-shita-the-outcast",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahou-shoujo-nariagirls",
+      "motivo": "sin episodios"
+    },
+    {
+      "id_o_slug": "planetarian-chiisana-hoshi-no-yume",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rs-keikaku-rebirth-storage",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kuma-miko-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "spiritpact",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "drifters-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "girls-und-panzer-der-film-arisu-war",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "garo-divine-flame",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "arslan-senki-tv-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ajin-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shokugeki-no-souma-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "owari-no-seraph-kyuuketsuki-shahar",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "concrete-revolutio-choujin-gensou-the-last-song",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bungou-stray-dogs",
+      "motivo": "tv-65931 T1 ya ocupada por \"bungou-stray-dogs-2nd-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "hakuouki-otogisoushi",
+      "motivo": "sin episodios"
+    },
+    {
+      "id_o_slug": "rezero-kara-hajimeru-isekai-seikatsu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kaitou-joker-3rd-season",
+      "motivo": "tv-61434 T3 ya ocupada por \"kaitou-joker-4th-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "12-sai-chicchana-mune-no-tokimeki",
+      "motivo": "tv-65928 T1 ya ocupada por \"12-sai-chiccha-na-mune-no-tokimeki-2nd-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "kidou-senshi-gundam-unicorn-re0096",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ragnastrike-angels",
+      "motivo": "sin episodios"
+    },
+    {
+      "id_o_slug": "aggretsuko",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ushio-to-tora-tv-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "brotherhood-final-fantasy-xv",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "Bakuon-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "noblesse-awakening",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "queens-blade-grimoire",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ajin",
+      "motivo": "tv-65292 T1 ya ocupada por \"ajin-2nd-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "akagami-no-shirayuki-hime-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahou-shoujo-nante-mou-ii-desukara",
+      "motivo": "tv-68136 T1 ya ocupada por \"mahou-shoujo-nante-mou-ii-desukara-2nd-season\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "koyomimonogatari",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bubuki-buranki",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "durararax-ketsu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "luck-and-logic",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "divine-gate",
+      "motivo": "tv-66730 T1 ya ocupada por \"gate-jieitai-kanochi-nite-kaku-tatakaeri-enryuu-hen\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "active-raid-kido-kyoushuushitsu-dai-hakkei",
+      "motivo": "tv-65214 T1 ya ocupada por \"active-raid-kidou-kyoushuushitsu-dai-hachi-gakar\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tokyo-ghoul-pinto",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-thunderbolt",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aoharu-x-kikanjuu-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "momokuri",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-punch-man-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-adventure-of-nebulandia",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "valkyrie-drive-mermaid-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hibike-euphonium-kakedasu-monaka",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "high-school-dxd-born-yomigaerarenai-pheonix",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "bikini-warriors-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "major-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "noblesse-pamyeol-ui-sijak",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-punch-man-road-to-hero",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "steinsgate-kyoukaimenjou-no-missing-link-divi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "strike-the-blood-valkyria-no-oukoku-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "digimon-adventure-tri",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "noragami-aragoto-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gintama-jump-festa-2015-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "triage-x-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-xy-z",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nagato-yuki-chan-no-shoushitsu-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "cardfight-vanguard-g-gears-crisis-hen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shinmai-maou-no-testament-burst",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fate-stay-night-unlimited-blade-works-tv-2nd-season-sunny-da",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hokuto-no-ken-ichigo-aji",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hantsu-x-trash",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "teekyuu-6",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yuru-yuri-san-hai",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "haikyuu-second-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-iron-blooded-orphans",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "concrete-revolutio-choujin-gensou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "big-order-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kamisama-minarai-himitsu-no-cocotama",
+      "motivo": "sin episodios"
+    },
+    {
+      "id_o_slug": "tokyo-ghoul-jack",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aria-the-avvenire",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "overlord-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "akatsuki-no-yona-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "isuca-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "grisaia-no-rakuen-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-episode-of-Sabo-3-kyoudai-no-kizuna-kiseki-no-sai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yuru-yuri-nachuyachumi-plus",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kamisama-hajimemashita-kako-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fate-kaleid-liner-prisma-illya-2wei-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sora-no-method-aru-shoujo-no-kyuujitsu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "chu-feng-bee",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "grisaia-no-meikyuu-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-pelicula-18-el-gran-genio-de-los-anillos-hoopa",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "the-idolmaster-cinderella-girls-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "akagami-no-shirayuki-hime",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-super-latino",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "durarara-x2-ten",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gate-jieitai-kanochi-nite-kaku-tatakaeri",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "miss-monochrome-the-animation-2nd-season",
+      "motivo": "tv-76219 T2 ya ocupada por \"miss-monochrome-the-animation-3\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "ushio-to-tora-tv",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "enmusubi-no-youko-chan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "owari-no-seraph-owaranai-seraph",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shinmai-maou-no-testament-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gatchaman-crowds-insight-inbound",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "haiyore-nyaruko-san-f",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-xy-odemashi-ko-majin-fuupa",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-the-origin",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-15-fukkatsu-no-f",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-15-fukkatsu-no-f-especial-trunks",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ninja-slayer-from-animation",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "grisaia-no-meikyuu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gintama-2015",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gintama-ova-2015",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "teekyuu-4",
+      "motivo": "tv-53020 T4 ya ocupada por \"teekyuu-5\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "kekkai-sensen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ame-iro-cocoa",
+      "motivo": "tv-68482 T1 ya ocupada por \"ame-iro-cocoa-rainy-color-e-youkoso\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "owari-no-seraph",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shinmai-maou-no-keiyakusha-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "senran-kagura-estival-versus-shoujo-tachi-no-sentaku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "futsuu-no-joshikousei-ga-yatte-mita-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "free-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rolling-girls-chibi-rolling-girls-korokoro-gekijou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kyoukai-no-kanata-movie-ill-be-here-kako-hen",
+      "motivo": "ya existía tioanime en movie-311056"
+    },
+    {
+      "id_o_slug": "pripara-movie-mi-nna-atsumare-prism-tours",
+      "motivo": "ya existía tioanime en movie-494612"
+    },
+    {
+      "id_o_slug": "haikyuu-vs-akaten",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shirobako-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hoozuki-no-reitetsu-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yuru-yuri-nachuyachumi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "anime-de-wakaru-shinryounaika",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "bokura-wa-minna-kawaisou-hajimete-no",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kuroshitsuji-book-of-murder",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hyakka-ryouran-samurai-after-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hyakka-ryouran-samurai-after",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aldnoah-zero-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "the-idolmaster-cinderella-girls",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "durararax2-shou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jojos-bizarre-adventure-stardust-crusaders-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "soukyuu-no-fafner-dead-aggressor-exodus",
+      "motivo": "tv-25891 T1 ya ocupada por \"soukyuu-no-fafner-dead-aggressor-exodus-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "tokyo-ghoul-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tantei-kageki-milky-holmes-td",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tsukimonogatari",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tales-of-zestiria-doushi-no-yoake",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "amagi-brilliant-park-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "the-disappearance-of-conan-edogawa-the-worst-two",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "amagi-brilliant-park-wakuwaku-mini-theater",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "grisaia-no-kajitsu-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dramatical-murder-ova-data-xx-transitory",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ikkitousen-extravaganza-epoch",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yamada-kun-to-7-nin-no-majo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "strike-witches-operation-victory-arrow",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-kuinaki-sentaku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "date-a-live-encore-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kono-danshi-sekka-ni-nayandemasu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "juuza-engi-engetsu-sangokuden-gaiden-youzhou-genya",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "infinite-stratos-2-world-purge-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "love-stage-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "diamond-no-ace-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fastening-days",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hybrid-child",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "new-prince-of-tennis-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sword-art-offline-ii",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mushishi-zoku-shou-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "steins-gate-soumei-eichi-no-cognitive-computing",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fate-stay-night-unilimted",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bonjour-koiaji-patisserie",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "futari-ecchi-2014",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hitsugi-no-chaika-avenging-battle",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "daitoshokan-no-hitsujikai-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "madan-no-ou-to-vanadis-tigre-kun-to-vanadi-chu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "karen-senki",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "suisei-no-gargantia-meguru-kouro-haruka",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gekkan-shoujo-nozaki-kun-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "locodol-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sabagebu-special-mission",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fantasista-stella",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ane-log",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-3d2y-ace-no-shi-wo-koete-luffy-nakama-tono-chikai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mujaki-no-rakuen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "selector-infected-wixoss-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "terra-formars-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nozo-x-kimi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hanamonogatari",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "toukiden-kiwami",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "girls-und-panzer-kore-ga-hontou-no-anzio-sen-desu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "non-non-biyori-okinawa-e-ikukoto-ni-natta",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-pikachu-kore-nan-no-kagi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-pelicula-17-diancie-y-la-crisalida-de-la-destruccion",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mushibugyou-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "seirei-tsukai-no-blade-dance",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fate-kaleid-liner-prisma-illya-zwei",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "psycho-pass-new-edit-version",
+      "motivo": "tv-43865 T2 ya ocupada por \"psycho-pass-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "akame-ga-kill-theater",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "francesca",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "aldnoah-zero",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kidou-senshi-gundam-san",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "barakamon-mijikamon",
+      "motivo": "tv-67048 T1 ya ocupada por \"barakamon\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "blade-and-soul-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "no-game-no-life-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "isshuukan-friends-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hayate-no-gotoku-2014",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "initial-d-final-stage",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "magi-sinbad-no-bouken",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gj-bu-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "atelier-escha-and-logy-tasogare-no-sora-no-renkinjutsushi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mangaka-san-to-assistant-san-to",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-kai-majin-buu-hen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yu-gi-oh-arc-v",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mushishi-zoku-shou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fairy-tail-2014",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kenzen-robo-daimidaler",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jojos-bizarre-adventure-stardust-crusaders",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "selector-infected-wixoss",
+      "motivo": "tv-60816 T1 ya ocupada por \"selector-spread-wixoss\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "blade-soul",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "pokemon-xy-tokubetsu-hen-saikyou-mega-shinka",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "12-sai-kiss-kirai-suki",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "disk-dars-avengers",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mikakunin-de-shinkoukei-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "maken-ki-two-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "witch-craft-works-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "wild-adapter",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "toaru-kagaku-no-railgun-s-daiji-na-koto-wa-zenbu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sengoku-musou-sp",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tsubasa-to-hotaru",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mitsuwano",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fatekaleid-liner-prisma-illya-undoukai-de-dance",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "harmonie",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kuro-no-sumika-chronus",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "zetsumetsu-kigu-shoujo-amazing-twins",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "noragami-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tiger-and-bunny-movie-2-the-rising",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "natsume-yuujinchou-itsuka-yuki",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "little-busters-ex",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kimi-no-iru-machi-uchi-ga-kita-machi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nisekoi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "strange-plus",
+      "motivo": "tv-72806 T1 ya ocupada por \"shin-strange-plus\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "chuunibyou-demo-koi-ga-shitai-ren",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hamatora",
+      "motivo": "tv-61791 T1 ya ocupada por \"hamatora-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "kyoukai-no-kanata-mini-theater",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "buddy-complex",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "toaru-hikushi-e-no-koiuta",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "space-dandy",
+      "motivo": "tv-60874 T1 ya ocupada por \"space-dandy-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "minna-atsumare-falcom-gakuen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tonari-no-seki-kun-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mushishi-tokubetsu-hen-hihamukage",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "seitokai-yakuindomo-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sword-art-online-extra-edition",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "chuunibyou-demo-koi-ga-shitai-ren-lite",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "machine-doll-wa-kizutsukanai-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "freezing-vibration-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "natsume-yuujinchou-lala-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mou-hitotsu-no-mirai-wo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kuroko-no-basuke-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hidamari-sketch-sae-hiro-sotsugyou-sen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "infinite-stratos-2-hitonatsu-no-omoide",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tokyo-ravens-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-xy",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kill-me-baby-butsuzou-kegatte-kise-halloween",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "valvrave-the-liberator-s2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kyousogiga-tv",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yozakura-quartet-tsuki-ni-naku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sekai-de-ichiban-tsuyoku-naritai",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kuroko-no-basket-ng-shu-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "naruto-shippuden-sunny-side-battle",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "white-album-2",
+      "motivo": "tv-70072 T1 ya ocupada por \"white-album-2-2013\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "ansatsu-kyoushitsu-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "Pokemon-the-origin",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gaist-crusher",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fatekaleid-liner-prisma-illya-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yahari-ore-no-seishun-love-comedy-wa-machigatteir",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "little-busters-sekai-no-saitou-wa-ore-ga-mamoru",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-episodio-de-merry-la-historia-de-un-am",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "higurashi-no-naku-koro-ni-kaku-outbreak",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yowamushi-pedal-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "minami-ke-natsuyasumi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gekijouban-toriko-bishokushin-no-special-menu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kobayashi-ga-kawaisugite-tsurai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "corpse-party-tortured-souls-bougyaku-sareta-ta",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-chimi-kyara-gekijou-tondeke",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "imawa-no-kuni-no-alice",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "recorder-and-randsell-mi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "teekyuu-2",
+      "motivo": "tv-53020 T2 ya ocupada por \"teekyuu-3\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "monogatari-series-second-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "maji-de-otaku-na-english-ribbon-chan-eigo-de-ta",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "senki-zesshou-symphogear-g-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "senyu-dai-2-ki",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "brothers-conflict",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ark-IX",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hyakka-ryouran-samurai-bride-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ro-kyu-bu-tomoka-no-ichigo-sundae",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rescue-me",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mirai-nikki-redial",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "chuunibyou-demo-koi-ga-shitai-kirameki",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "magicalstar-kanon-100",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hal",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yuyushiki-nyanyashiki",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tenshi-no-drop",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "miyakawa-ke-no-kuufuku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "koitabi-true-tours-nanto",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "steins-gate-fuka-ryoiki-no-deja-vu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "iron-man-rise-of-technovore",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "valvrave-the-liberator",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sparrows-hotel",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "haitai-nanafa-s2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "queens-blade-vanquished-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "queens-blade-vanquished",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dakara-boku-wa-h-ga-dekinai-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "vassalord",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ryo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "death-billiards",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "arve-rezzle-kikaijikake-no-yoseitachi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "little-witch-academia",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nozoki-ana",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kagaku-na-yatsura",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dareka-no-manazashi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sket-dance-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hetalia-the-beautiful-world",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "chihayafuru-second-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "senyu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "courtesy-of-zettai-karen-children-c-the-unlimited",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "akb0048-next-stage",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "senran-kagura",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hakkenden-touhou-hakken-ibun",
+      "motivo": "tv-48623 T1 ya ocupada por \"hakkenden-touhou-hakken-ibun-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "maoyu-mao-yuusha",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hentai-ouji-to-warawanai-neko-specials",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yodaka-no-hoshi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nekomonogatari-kuro",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "oniai-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-glorious-island",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "girls-und-panzer-especials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "junjou-romantica-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "chuunibyou-demo-koi-ga-shitai-depth-of-field",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "code-breaker-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-episode-of-luffy-hand-island-no-bouk",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nurarihyon-no-mago-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "saint-onii-san",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hanayaka-nari-waga-ichizoku-kinetograph",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "haiyore-nyaruko-san-yasashii-teki-no-shitome-ka",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kokoro-connect-michi-random",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kono-danshi-ningyo-hiroimashita",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sword-art-offline",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kore-wa-zombie-desu-ka-of-the-dead-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "arata-naru-sekai-mirai-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "seitokai-no-ichizon-lv-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "upotte-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aikatsu-3",
+      "motivo": "tv-65503 T1 ya ocupada por \"aikatsu-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "aikatsu-4",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "aikatsu",
+      "motivo": "tv-65503 T1 ya ocupada por \"aikatsu-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "yu-gi-oh-zexal-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jojos-bizarre-adventure-the-animation",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hidamari-sketch-x-honeycomb",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "minami-ke-omatase",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gintama-2012",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "wooser-no-sono-higurashi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "chousoku-henkei-gyrozetter",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hiiro-no-kakera-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hori-san-to-miyamura-kun",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hagure-yuusha-no-estetica-hajirai-ippai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tiger-and-bunny-movie-1-the-beginning",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hashi-no-mukou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "eureka-seven-ao-jungfrau-no-hanabanatachi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "high-school-dxd-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-nami-kokaishi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nogizaka-haruka-no-himitsu-finale",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fairy-tail-houou-no-miko",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "to-love-ru-darkness-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "zettai-junpaku-mahou-shoujo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dantalian-no-shoka-ibarahime",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-off",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "corpse-party-missing-footage",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "otome-wa-boku-ni-koishiteru-futari-no-elder",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "code-geass-nunnally-in-wonderland",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kuroko-no-basket-ng-shu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "guilty-crown-lost-christmas",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "accel-world-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "code-geass-gaiden-bokoku-no-akito",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-best-wishes-kyurem-vs-seikenshi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ebiten",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "especial-ebiten-kritsu-ebisugawa-kk-tenmon",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hakuouki-reimeiroku",
+      "motivo": "tv-44318 T3 ya ocupada por \"hakuouki\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "kyoukai-senjou-no-horizon-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rinne-no-lagrange-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "carnival-phantasm-hibichika",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "moyashimon-returns",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jinrui-wa-suitai-shimashita",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "asa-made-jugyou-chu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "berserk-ougon-jidaihen-ii-doldrey-kouryaku",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahou-tsukai-nara-miso-wo-kue",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "computer-kakumei",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ai-mai-moe-can-change",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "uchuu-senkan-yamato-2199",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "akb0048",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jormungand",
+      "motivo": "tv-46279 T1 ya ocupada por \"jormungand-perfect-order\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "saki-achiga-hen-episode-of-side-a",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "pretty-rhythm-dear-my-future",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sankarea",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "medaka-box",
+      "motivo": "tv-45858 T1 ya ocupada por \"medaka-box-abnormal\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "shirokuma-cafe",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kuro-majo-san-ga-tooru",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "recorder-to-randoseru-re",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "amagami-ss-plus-especial",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "queens-blade-rebellion",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gakkatsu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "furusato-saisei",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "a-channel-smile",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "high-school-dxd-new-born-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "holy-knight",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nagareboshi-lens",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "marimo-no-hana",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kimi-no-iru-machi-tasogare-kousaten",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shijou-saikyou-no-deshi-kenichi-ovas",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "wasurenagumo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "makenki",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "to-heart-2-dungeon-travelers",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "steinsgate-oukoubakko-no-poriomania",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gyo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ijime-ikenie-no-kyoushitsu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sekiei-ayakashi-mangatan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "otome-nadeshiko-koi-techou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "papa-no-iu-koto-wo-kikinasai",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "danshi-koukousei-no-nichijou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "senhime-zesshou-symphogear",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "high-school-dxd",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tantei-opera-milky-holmes-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fate-prototype",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "toradora-bentou-no-gokui",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hoshizora-e-kakaru-hashi-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-episode-of-bardock",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rurouni-kenshin-shin-kyoto-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "major-world-series",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "r15-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "infinite-stratos-encore-koi-ni-kogareru-rokujuso",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kyousogiga",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tales-of-symphonia-sekai-tougou-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ikkitousen-shugaku-toshi-keppu-roku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hidamari-sketch-x-sp",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "queens-blade-ova-2011",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ao-no-exorcist-kuro-no-iede",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kono-danshi-uchuujin-to-tatakaemasu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "eiyuu-densetsu-sora-no-kiseki-the-animation",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sekaiichi-hatsukoi-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shakugan-no-shana-iii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "morita-san-wa-mukuchi-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "cross-fight-b-daman",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shinryaku-ika-musume-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kami-nomi-yonnin-to-idol",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "astarotte-no-omocha-ex",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "busou-shinki-moon-angel",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "prince-of-tennis-eikokushiki-teikyuujou-kessen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "usagi-drop-live-action",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "carnival-phantasm",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hakuouki-sekkaroku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gekijo-ban-heart-no-kuni-no-alice",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "honoo-no-chuunin-shiken-naruto-vs-konohamaru",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "higurashi-no-naku-koro-ni-kira",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "baby-princess-3d-paradise-love",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "baka-to-test-to-shokanju-ii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kore-wa-zombie-desu-ka-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "appleseed-xiii",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "katteni-kaizo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "chikku-neesan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kaichou-wa-maid-sama-omake-dayo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "highschool-of-the-dead-ovas",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fairy-tail-ovas",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "seitokai-yakuindomo-ovas",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "senjo-no-valkyria-3",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yu-gi-oh-zexal",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sekaiichi-hatsukoi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sofuteni",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gyakkyo-burai-kaiji-hakairoku-hen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "showa-monogatari",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nana-to-kaoru",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "morita-san-wa-mukuchi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rain-town",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kampfer-fur-die-liebe",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "supernatural-the-animation",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "thundercats-2011",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "baka-to-test-to-shokanju-matsuri",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aa-megami-sama-2011",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shin-koihime-musou-otome-tairan-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "t-p-sakura-time-paladin-sakura",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mitsudomoe-zoryochu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "freezing",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "otona-joshi-no-anime-time-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "major-message",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kaibutsu-oujo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mazinkaiser-skl",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "macross-frontier-music-clip-shuu-nyankuri",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "koe-de-oshigoto",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "air-gear-break-on-the-sky",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yozakura-quartet-hoshi-no-umi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yumeiro-patissiere-sp-professional",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ore-no-imouto",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mm",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "panty-and-stocking",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "pokemon-best-wishes",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "to-heart-2-adnext",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tamayura",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hyakka-ryoran",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "colorful-movie",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yojouhan-shinwa-taikei-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kuttsukiboshi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "queens-blade-utsukushiki-toushi-tachi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hiyokoi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aki-sora-yume-no-naka",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "black-rock-shooter",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hen-zemi-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shin-koihime-musou-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "amagami-ss",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "black-lagoon-robertas-blood-trail",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ichiban-ushiro-no-daimaou-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "break-blade",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "xxxholic-rou-adayume",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "xxxholic-rou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "k-on-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mayoi-neko-overrun",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "arakawa-under-bridge",
+      "motivo": "tv-35423 T1 ya ocupada por \"arakawa-under-the-bridge-x-bridge\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "shin-koihime-musou-otome-tairan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hetalia-world-series",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tales-of-symphonia-tethealla-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-unicorn",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "katekyo-hitman-reborn-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yondemasuyo-azazel-san-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dantes-inferno-an-animated-epic-dantes-inferno",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "darker-than-black-kuro-no-keiyakusha-gaiden",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hanamaru-youchien",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ookami-kakushi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hidamari-sketch-x-hoshimittsu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kowarekake-no-orgol",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aki-sora",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "weiss-survive-r",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "zan-sayonara-zetsubou-sensei-bangaichi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "halo-legends",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shakugan-no-shana-s",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mahoromatic-tadaima-okaeri",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fairy-tail",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "spice-and-wolf-2-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shin-koihime-musou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shugo-chara-party",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "seitokai-no-shukujitsu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "god-eater-prologue",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "cannan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bakemonogatari",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fight-ippatsu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "candy-boy-episode-ex02-shiawase-kyouyuu-riron",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "minami-ke-betsubara",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "weiss-survive",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "utawarerumono-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "isekai-no-seikishi-monogatari",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "suzumiya-haruhi-s2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "spice-and-wolf-2-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "to-heart-2-ad-plus",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tayutama-kiss-on-my-deity",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "saki",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-kai",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "to-love-ru-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "asura-cryin",
+      "motivo": "tv-42425 T1 ya ocupada por \"asura-cryin-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "queens-blade",
+      "motivo": "tv-45502 T1 ya ocupada por \"queens-blade-gyokuza-o-tsugu-mono\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "kiniro-no-corda-second-passo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "maria-sama-ga-miteru-4th-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tsubasa-shunraiki",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "higurashi-no-naku-koroni-rei",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "afro-samurai-resurrection",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hetalia-axis-powers",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "white-album",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "touhou-niji-sousaku-doujin-anime-musou-kakyou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "da-capo-if",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "urusei-yatsura-the-shougaibutsu-suieitaikai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kissxsis-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-ms-igloo-2-juuryoku-sensen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "goku-sayonara-zetsubou-sensei",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hokuto-no-ken-zero-kenshiro-den",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shugo-chara-doki",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tales-of-the-abyss",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "lucky-star-original-na-visual-to-animation",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shigofumi-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tengen-toppa-gurren-lagann-movie-gurren-hen",
+      "motivo": "ya existía tioanime en movie-20986"
+    },
+    {
+      "id_o_slug": "candy-boy-episode-ex01-mirai-yohouzu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hidamari-sketch-x-365",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tennis-no-ouji-sama-zenkoku-taikai-hen-final",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "junjou-romantica",
+      "motivo": "tv-37548 T1 ya ocupada por \"junjou-romantica-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "vampire-knight",
+      "motivo": "tv-17149 T1 ya ocupada por \"vampire-knight-guilty\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "neo-angelique-abyss",
+      "motivo": "tv-35154 T1 ya ocupada por \"neo-angelique-abyss-second-age\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "zettai-karen-children",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "da-capo-2-second-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "saishuu-shiken-kujira-progressive",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hokuto-no-ken-toki-den",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "to-heart-2-ad",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shigofumi-picture-drama",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bus-gamer",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "saint-seiya-the-hades-chapter-elysion",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "one-piece-episode-of-chopper-plus-2014-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yotsunoha",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mai-otome-s-ifr",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mnemosyne",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kyou-no-go-no-ni-agai-jugyou-mizukake",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hakaba-kitarou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "aria-the-origination",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "vampire-rosario",
+      "motivo": "tv-36983 T1 ya ocupada por \"vampire-rosario-2\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "yawaraka-sangokushi-tsukisase-ryofuko-chan",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kimi-ga-nozomu-eien-next-season",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aa-megami-sama-tatakau-tsubasa",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kara-no-kyoukai",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "strait-jacket",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahou-shoujo-tai-arusu-the-adventure",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "candy-boy-side-story-for-archive",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tsubasa-tokyo-revelations",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kodomo-no-jikan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gakuen-utopia-manabi-straight-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "majin-tantei-nogami-neuro",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "saishuu-shiken-kujira",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dokuro-chan-2",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "higurashi-no-naku-koro-ni-gaiden-nekogoroshi-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "baccano",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "higurashi-no-naku-koroni-ni-kai",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tennis-no-ouji-sama-zenkoku-taikai-hen-semifinal",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tales-of-symphonia-sylvarant-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sousei-no-aquarion-evol",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sousei-no-aquarion-uragiri-no-tsubasa",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "otome-wa-boku-ni-koishiteru-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "muder-princess",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "to-heart-2-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hokuto-no-ken-yuria-den",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "himawari2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "afro-samurai",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "maria-sama-ga-miteru-3rd-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "maria-sama-ga-miteru-3rd",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rozen-maiden-ouverture",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mai-otome-zwei",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "freedom",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "happiness",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "busou-renkin",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "souten-no-ken",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "black-lagoon-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kimi-ga-nozomu-eien-ayu-mayu-gekijou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-diamond-pearl",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sky-girls-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kikoushi-enma",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "utawarerumono-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-seed-c-e-73-stargazer",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kujibiki-unbalance-tv",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hachimitsu-to-clover-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "renkin-san-kyuu-magical-pokaan-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-ms-igloo-mokushiroku-0079",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "black-lagoon",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "princess-princess",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gintama",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "school-rumble-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "suzumiya-haruhi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kyou-no-go-no-ni",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tennis-no-ouji-sama-zenkoku-taikai-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hellsing-ultimate",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rec",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hanbun-tsuki",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "amaenaideyo-katsu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "soukyuu-no-fafner-right-of-left",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hachimitsu-to-clover-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "saint-seiya-the-hades-chapter-inferno",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "megaman-maverick-hunter-x-the-day-of-sigma",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pale-cocoon",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kof-another-day",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kino-no-tabi-the-beautiful-world-tou-no-kuni",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mai-otome",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "air-in-summer",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "seikai-no-senki-3",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "okusama-wa-joshikousei",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "da-capo-second-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "boku-wa-imouto-ni-koi-wo-suru",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "munto-toki-no-kabe-wo-koete",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "elfen-lied-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hachimitsu-to-clover",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "loveless",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ichigo-100",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "comic-party-revolution",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "izumo-takeki-turugi-no-senki",
+      "motivo": "tv-19669 T1 ya ocupada por \"izumo-takeki-tsurugi-no-senki\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "dokuro-chan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "sentou-yousei-shoujo-tasukete-mave-chan",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kino-no-tabi-nanika-wo-suru-tame-ni-life-goes-on",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tennis-no-ouji-sama-futari-no-samurai-the-first-game",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "iriya-no-sora-ufo-no-natsu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "guardian-hearts-power-up",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "air-tv",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kujibiki-unbalance",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "akane-maniax",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tales-of-phantasia",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "howl-no-ugoku-shiro",
+      "motivo": "ya existía tioanime en movie-4935"
+    },
+    {
+      "id_o_slug": "maria-sama-ga-miteru-haru-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yakitate-japan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bleach-tv",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "top-wo-nerae-2-diebuster",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ichigeki-sacchuu-hoihoi-san",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nurse-witch-komugi-chan-magikarte-z",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "honoo-no-mirage-minagiwa-no-hangyakusha",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-ms-igloo-1-nen-sensou-hiroku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "2x2-shinobuden",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ojamajo-doremi-na-i-sho",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "teizokurei-daydream",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rekka-no-honoo-final-burning",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "happy-lesson-the-final",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "love-love",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "gantz",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "cossette-no-shouzou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mahou-shoujo-tai-arusu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mermaid-melody-pichi-pichi-pitch-pure",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kyo-kara-maoh",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "smash-hits",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hunter-x-hunter-greed-island-final",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "area-88",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "maria-sama-ga-miteru",
+      "motivo": "tv-42468 T1 ya ocupada por \"maria-sama-ga-miteru-haru\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "galaxy-angel-s",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "galaxy-angel-3-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mahoromatic-summer-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rahxephon-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shin-hokuto-no-ken",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "el-teatro-de-rumiko",
+      "motivo": "tv-45157 T1 ya ocupada por \"rumiko-takahashi-anthology\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "eiken",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hitsuji-no-uta",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "guardian-hearts",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "lingerie-senshi-papillon-rose",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "munto",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tenshi-no-shippo",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tenshi-no-shippo-chu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "majuu-sensen-the-apocalypse",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hunter-x-hunter-greed-island",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "comic-party-specials",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hack-dusk",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "macros-zero",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "pokemon-advanced",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "saint-seiya-the-hades-chapter-sanctuary",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kiddy-girl",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "get-backers",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "naruto",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "megaman-upon-a-star",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sentou-yousei-yukikaze",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "nurse-witch-komugi-chan-magikarte",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "princess-tutu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ultra-maniac-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "galaxy-angel-z-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "youre-under-arrest-no-mercy",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "galaxy-angel-z",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ojamajo-doremi-dokkaan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hunter-x-hunter-ryodan",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "azumanga-daioh-gekijou-tanpen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "canvas-sepia-iro-no-motif",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rurouni-kenshin-seisou-hen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hikaru-no-go",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "X-2001",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "x-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "di-gi-charat-natsuyasumi-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sen-to-chihiro-no-kamikakushi",
+      "motivo": "ya existía tioanime en movie-129"
+    },
+    {
+      "id_o_slug": "happy-lesson",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "motto-ojamajo-doremi-kaeru-ishi-no-himitsu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "steel-angel-kurumi-zero",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "steel-angel-kurumi-shiki",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "project-arms",
+      "motivo": "tv-34857 T1 ya ocupada por \"project-arms-the-second-chapter\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "puni-puni-poemi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "motto-ojamajo-doremi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "initial-d-3",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "drappler-baki",
+      "motivo": "tv-56425 T1 ya ocupada por \"grappler-baki-saidai-tournament-hen\" (posible tramo)"
+    },
+    {
+      "id_o_slug": "gundam-evolve",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "azumang-web-daioh",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "di-gi-charat-christmas-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "gakkou-no-kaidan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "aa-megami-sama-movie",
+      "motivo": "ya existía tioanime en movie-21174"
+    },
+    {
+      "id_o_slug": "inuyasha",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "labyrinth-of-flames",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "seikai-no-danshou-tanjou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "di-gi-charat-summer-special-2000",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "steel-angel-kurumi-encore",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tenshi-kinryouku",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "flcl",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "love-hina",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yu-gi-oh-duel-monsters-remastered",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "monster-rancher-2000",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ojamajo-doremi-sharp",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "majutsushi-orphen-revenge",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tenamonya-voyagers",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "samurai-spirits-2-asura-zanmaden",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "monster-rancher",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "youre-under-arrest-mini-specials",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rurouni-kenshin-tsuiokuhen",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "slayers-excellent",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ao-no-6-gou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "jigoku-sensei-nube-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "queen-emeraldas",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sakura-card-captor",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "lodoss-tou-senki-eiyuu-kishi-den",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "macross-dynamite-7",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "detatoko-princess",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "saber-marionette-j-again",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "elf-ban-kakyuusei-anata-dake-o-mitsumete",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "photon",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kyuuketsuhime-miyu-tv",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "b-t-x-neo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "slayers-great-movie",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mononoke-hime",
+      "motivo": "ya existía tioanime en movie-128"
+    },
+    {
+      "id_o_slug": "pokemon",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "jungle-de-ikou",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "night-warriors-darkstalkers-revenge",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "neon-genesis-evangelion-death-and-rebirth",
+      "motivo": "ya existía tioanime en movie-18491"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-wing-endless-waltz",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "angel-densetsu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "slayers-special",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "blue-seed-2",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "jigoku-sensei-nube-movie",
+      "motivo": "ya existía tioanime en movie-382464"
+    },
+    {
+      "id_o_slug": "battle-arena-toshiden",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "burn-up-w",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "fire-emblem",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-the-08th-ms-team",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rurouni-kenshin",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "detective-conan",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "bio-hunter",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "yamato-takeru-after-war",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-13",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "el-hazard-the-magnificent-world",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "saber-marionette-r",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-12",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kishin-douji-zenki",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "aozora-shoujo-tai",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dna2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "musekinin-kanchou-tylor-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "macross-plus",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "grappler-baki-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-11",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yu-yu-hakusho-meikai-shito-hen-hono-no-kizuna",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-10",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "genocyber",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "shonan-junai-gumi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "jojos-bizarre-adventure",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-9",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ninja-scroll",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "umi-ga-kikoeru",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-8",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-especial-2",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "aa-megami-sama",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "musekinin-kanchou-tylor",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ushio-to-tora",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "bastard",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-7",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "choujikuu-yousai-macross-2-lovers-again",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-6",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ninja-ryukenden",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "otaku-no-video",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "izumo",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-5",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-0083-stardust-memory",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "burn-up",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-4",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-especial-1",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-3",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "umezu-kazuo-no-noroi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "1-2-paradise",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball-z-pelicula-1",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mobile-suit-gundam-0080-war-in-the-pocket",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "top-wo-nerae-gunbuster",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "kyuuketsuhime-miyu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "macross-flash-back-2012",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hokuto-no-ken-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "outlanders",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tenkuu-no-shiro-laputa",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "the-humanoid",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "dragon-ball",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "urusei-yatsura-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "hokuto-no-ken",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kaze-no-tani-no-nausicaa",
+      "motivo": "ya existía tioanime en movie-81"
+    },
+    {
+      "id_o_slug": "urusei-yatsura-haru-da-tobidase",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "urusei-yatsura",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ginga-kikoutai-majestic-prince",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "robotech",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "choujikuu-yousai-macross",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "youre-under-arrest",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hadi-girl",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "getsuyoubi-no-tawawa",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "xxxholic-kei",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "maken-ki-two",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ninpuu-kamui-gaiden",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "black-clover-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tenshi-no-tamago",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahou-shoujo-lyrical-nanoha-strickers",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "flcl-progressive",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "haikyuu-riku-vs-kuu",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tonikaku-kawaii-sns",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "avatar-libro-tres",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "avatar-la-leyenda-de-korra-libro-dos",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "la-leyenda-de-korra-libro-3",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nihon-animator-mihonichi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ao-haru-ride-live-action",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kiseijuu-sei-no-kakuritsu-part-1-live-action",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "trinity-seven-movie",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yugioh-the-dark-side-of-dimensions",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "double-decker-doug-kirill-extra",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "touch",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahou-shoujo-lyrical-nanoha",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "natsu-no-arashi-akinaichuu",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "flcl-alternative",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ai-shite-night",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "try-knights",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "granblue-fantasy-the-animation-especial",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "arifureta-shokugyou-de-sekai-saikyou-specials",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "overflow",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dogeza-de-tanondemita",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "dr-stone-stone-wars",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "world-trigger-2nd-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shoot-goal-to-the-future",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "toriko-x-one-piece-x-dragon-ball-z-crossover",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "la-leyenda-de-korra-libro-4",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "shingeki-no-kyojin-live-action",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "boku-no-hero-academia-5th-season",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "avatar-libro-uno",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "perfect-blue",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ranma-12-la-pelicula-la-isla-de-las-doncellas",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "lady-oscar",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kimi-to-nami-ni-noretara",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "sukitte-iinayo-live-action",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "hinako-note",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "furusato-meguri",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-movie",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "avatar-la-leyenda-de-korra",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rayearth",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "omohide-poroporo",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "majimoji-rurumo-kanketsuhen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "housekishou-richardshi-no-nazo-kantei",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "yatogamechan-kansatsu-nikki-sansatsume",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "86-eighty-six",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "evangelion-30-10-thrice-upon-a-time",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "build-divide-code-black",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "rurouni-kenshin-densetsu-no-saigo-hen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-live-action",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "room-mate",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "nageki-no-bourei-wa-intai-shitai",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "avatar-libro-dos",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "paprika",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "mahou-shoujo-lyrical-nanoha-as",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "natsu-no-arashi",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "tensei-shitara-slime-datta-ken-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "tsugumomo-ova",
+      "motivo": "OVA/especial"
+    },
+    {
+      "id_o_slug": "uma-musume-pretty-derby-season-2",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "rurouni-kenshin-kyoto-taika-hen",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kuroko-no-basket-movie-3-winter-cup",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "warau-salesman-new",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "kenka-banchou-otome",
+      "motivo": "no encontrado en TMDB (ja+animación+año)"
     }
   ],
   "notas": [
@@ -243,7 +4899,305 @@
     "tv-46437.json",
     "tv-65930.json",
     "tv-294867.json",
-    "tv-261392.json"
+    "tv-261392.json",
+    "tv-258228.json",
+    "tv-69500.json",
+    "tv-240411.json",
+    "tv-236000.json",
+    "tv-255492.json",
+    "tv-243743.json",
+    "tv-65844.json",
+    "tv-237150.json",
+    "tv-220542.json",
+    "tv-205050.json",
+    "tv-208493.json",
+    "tv-204266.json",
+    "tv-195081.json",
+    "tv-155241.json",
+    "tv-136763.json",
+    "tv-127549.json",
+    "tv-123684.json",
+    "tv-69291.json",
+    "tv-94904.json",
+    "tv-111255.json",
+    "tv-99083.json",
+    "tv-83121.json",
+    "tv-96655.json",
+    "tv-98823.json",
+    "tv-80713.json",
+    "tv-91764.json",
+    "tv-93019.json",
+    "tv-88808.json",
+    "tv-90215.json",
+    "tv-85368.json",
+    "tv-86823.json",
+    "tv-87465.json",
+    "tv-84666.json",
+    "tv-85177.json",
+    "tv-83314.json",
+    "tv-82864.json",
+    "tv-82684.json",
+    "tv-80713.json",
+    "tv-80539.json",
+    "tv-80671.json",
+    "tv-69298.json",
+    "tv-78102.json",
+    "tv-77701.json",
+    "tv-78456.json",
+    "tv-76821.json",
+    "tv-76138.json",
+    "tv-75863.json",
+    "tv-75214.json",
+    "tv-75865.json",
+    "tv-76139.json",
+    "tv-76128.json",
+    "tv-74087.json",
+    "tv-74083.json",
+    "tv-74163.json",
+    "tv-62327.json",
+    "tv-74186.json",
+    "tv-74084.json",
+    "tv-74182.json",
+    "tv-72524.json",
+    "tv-72296.json",
+    "tv-72026.json",
+    "tv-71018.json",
+    "tv-69367.json",
+    "tv-69500.json",
+    "tv-70878.json",
+    "tv-71016.json",
+    "tv-70882.json",
+    "tv-69291.json",
+    "tv-65844.json",
+    "tv-69285.json",
+    "tv-69282.json",
+    "tv-69296.json",
+    "tv-69295.json",
+    "tv-68103.json",
+    "tv-65931.json",
+    "tv-68402.json",
+    "tv-68146.json",
+    "tv-67075.json",
+    "tv-66991.json",
+    "tv-67043.json",
+    "tv-67346.json",
+    "tv-67012.json",
+    "tv-66870.json",
+    "tv-68389.json",
+    "tv-65944.json",
+    "tv-65930.json",
+    "tv-66111.json",
+    "tv-65844.json",
+    "tv-65369.json",
+    "tv-65712.json",
+    "tv-65333.json",
+    "tv-65661.json",
+    "tv-64139.json",
+    "tv-71785.json",
+    "tv-75431.json",
+    "tv-69355.json",
+    "tv-63576.json",
+    "tv-64706.json",
+    "tv-71386.json",
+    "tv-67126.json",
+    "tv-67553.json",
+    "tv-74822.json",
+    "tv-80878.json",
+    "tv-63145.json",
+    "tv-46153.json",
+    "tv-63627.json",
+    "tv-8872.json",
+    "tv-63330.json",
+    "tv-62640.json",
+    "tv-62273.json",
+    "tv-62569.json",
+    "tv-69367.json",
+    "tv-45783.json",
+    "tv-72823.json",
+    "tv-61415.json",
+    "tv-62495.json",
+    "tv-61663.json",
+    "tv-109227.json",
+    "tv-61460.json",
+    "tv-61445.json",
+    "tv-62104.json",
+    "tv-68960.json",
+    "tv-77294.json",
+    "tv-53918.json",
+    "tv-62602.json",
+    "tv-61456.json",
+    "tv-61530.json",
+    "tv-60832.json",
+    "tv-60835.json",
+    "tv-60863.json",
+    "tv-60805.json",
+    "tv-60845.json",
+    "tv-67143.json",
+    "tv-70545.json",
+    "tv-73394.json",
+    "tv-72452.json",
+    "tv-68634.json",
+    "tv-70036.json",
+    "tv-65614.json",
+    "tv-60672.json",
+    "tv-72798.json",
+    "tv-45783.json",
+    "tv-71441.json",
+    "tv-60728.json",
+    "tv-61695.json",
+    "tv-76219.json",
+    "tv-61512.json",
+    "tv-63525.json",
+    "tv-61755.json",
+    "tv-57577.json",
+    "tv-49473.json",
+    "tv-45950.json",
+    "tv-34708.json",
+    "tv-76899.json",
+    "tv-45088.json",
+    "tv-45254.json",
+    "tv-55011.json",
+    "tv-46004.json",
+    "tv-56090.json",
+    "tv-50087.json",
+    "tv-53721.json",
+    "tv-26444.json",
+    "tv-53725.json",
+    "tv-53918.json",
+    "tv-124054.json",
+    "tv-53069.json",
+    "tv-65503.json",
+    "tv-52878.json",
+    "tv-72698.json",
+    "tv-62741.json",
+    "tv-46041.json",
+    "tv-55589.json",
+    "tv-46093.json",
+    "tv-79040.json",
+    "tv-45277.json",
+    "tv-44508.json",
+    "tv-45241.json",
+    "tv-45275.json",
+    "tv-65329.json",
+    "tv-42912.json",
+    "tv-54930.json",
+    "tv-42556.json",
+    "tv-45783.json",
+    "tv-43167.json",
+    "tv-46040.json",
+    "tv-63712.json",
+    "tv-74956.json",
+    "tv-45282.json",
+    "tv-42499.json",
+    "tv-8872.json",
+    "tv-31679.json",
+    "tv-43125.json",
+    "tv-46671.json",
+    "tv-46388.json",
+    "tv-60730.json",
+    "tv-45954.json",
+    "tv-95660.json",
+    "tv-45203.json",
+    "tv-63463.json",
+    "tv-37471.json",
+    "tv-42503.json",
+    "tv-65356.json",
+    "tv-46439.json",
+    "tv-56351.json",
+    "tv-38112.json",
+    "tv-69189.json",
+    "tv-45235.json",
+    "tv-44684.json",
+    "tv-68854.json",
+    "tv-38603.json",
+    "tv-46170.json",
+    "tv-56106.json",
+    "tv-36873.json",
+    "tv-68005.json",
+    "tv-37806.json",
+    "tv-36581.json",
+    "tv-37471.json",
+    "tv-36089.json",
+    "tv-44316.json",
+    "tv-42942.json",
+    "tv-45532.json",
+    "tv-45527.json",
+    "tv-35461.json",
+    "tv-44310.json",
+    "tv-37437.json",
+    "tv-45999.json",
+    "tv-36629.json",
+    "tv-36025.json",
+    "tv-25275.json",
+    "tv-42406.json",
+    "tv-42253.json",
+    "tv-25492.json",
+    "tv-42903.json",
+    "tv-43634.json",
+    "tv-31721.json",
+    "tv-45527.json",
+    "tv-42960.json",
+    "tv-34861.json",
+    "tv-27866.json",
+    "tv-34714.json",
+    "tv-24835.json",
+    "tv-37100.json",
+    "tv-42917.json",
+    "tv-35753.json",
+    "tv-34805.json",
+    "tv-89742.json",
+    "tv-36360.json",
+    "tv-26707.json",
+    "tv-89664.json",
+    "tv-25365.json",
+    "tv-24835.json",
+    "tv-31687.json",
+    "tv-46026.json",
+    "tv-46314.json",
+    "tv-45532.json",
+    "tv-34214.json",
+    "tv-34706.json",
+    "tv-31718.json",
+    "tv-34844.json",
+    "tv-19836.json",
+    "tv-56834.json",
+    "tv-45527.json",
+    "tv-45893.json",
+    "tv-31678.json",
+    "tv-36582.json",
+    "tv-82509.json",
+    "tv-42872.json",
+    "tv-42952.json",
+    "tv-36250.json",
+    "tv-912.json",
+    "tv-26968.json",
+    "tv-89086.json",
+    "tv-36251.json",
+    "tv-912.json",
+    "tv-20111.json",
+    "tv-42828.json",
+    "tv-31665.json",
+    "tv-27813.json",
+    "tv-37534.json",
+    "tv-30180.json",
+    "tv-78617.json",
+    "tv-39379.json",
+    "tv-21897.json",
+    "tv-8838.json",
+    "tv-35894.json",
+    "tv-20111.json",
+    "tv-1095.json",
+    "tv-34764.json",
+    "tv-12143.json",
+    "tv-8864.json",
+    "tv-37527.json",
+    "tv-12427.json",
+    "tv-19780.json",
+    "tv-34749.json",
+    "tv-300331.json",
+    "tv-43249.json",
+    "tv-13452.json",
+    "tv-22519.json"
   ],
-  "idx": 401
+  "idx": 4486
 }
