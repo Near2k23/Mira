@@ -1,0 +1,13 @@
+{
+  "tmdb": 235505,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "四海重明",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "loves-rebellion"
+      }
+    }
+  }
+}

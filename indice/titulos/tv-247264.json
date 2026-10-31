@@ -1,0 +1,13 @@
+{
+  "tmdb": 247264,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "花开有时颓靡无声",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "meet-you-at-the-blossom"
+      }
+    }
+  }
+}

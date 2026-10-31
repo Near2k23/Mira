@@ -1,0 +1,13 @@
+{
+  "tmdb": 240892,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พี่เขาบุกโลกของผม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "monster-next-door"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 211065,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El abrazo del destino",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "serendipitys-embrace"
+      }
+    }
+  }
+}

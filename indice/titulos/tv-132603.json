@@ -1,0 +1,13 @@
+{
+  "tmdb": 132603,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "나쁜 기억 지우개",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bad-memory-eraser"
+      }
+    }
+  }
+}

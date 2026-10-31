@@ -1,0 +1,13 @@
+{
+  "tmdb": 254993,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我们在黑夜中相拥",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "embrace-in-the-dark-night"
+      }
+    }
+  }
+}

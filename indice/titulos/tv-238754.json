@@ -1,0 +1,13 @@
+{
+  "tmdb": 238754,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "The Loyal Pin",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-loyal-pin"
+      }
+    }
+  }
+}

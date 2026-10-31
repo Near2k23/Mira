@@ -1,0 +1,13 @@
+{
+  "tmdb": 213086,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "冰雪谣",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "snowfall-the-shadow"
+      }
+    }
+  }
+}

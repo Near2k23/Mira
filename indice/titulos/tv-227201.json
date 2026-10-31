@@ -1,0 +1,13 @@
+{
+  "tmdb": 227201,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Círculo de amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "circle-of-love"
+      }
+    }
+  }
+}

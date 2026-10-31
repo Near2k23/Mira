@@ -1,0 +1,13 @@
+{
+  "tmdb": 259698,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "私藏浪漫",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "you-are-my-secret"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 256220,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El novio",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-boyfriend",
+        "2": "the-boyfriend"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

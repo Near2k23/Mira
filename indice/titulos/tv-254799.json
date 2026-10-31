@@ -1,0 +1,15 @@
+{
+  "tmdb": 254799,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Are You Sure?!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "are-you-sure",
+        "2": "are-you-sure"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 218623,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "4Minutos",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "4-minutes"
+      }
+    }
+  }
+}

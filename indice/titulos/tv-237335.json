@@ -1,0 +1,13 @@
+{
+  "tmdb": 237335,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Summer Night",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "summer-night"
+      }
+    }
+  }
+}

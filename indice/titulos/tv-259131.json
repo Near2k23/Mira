@@ -1,0 +1,15 @@
+{
+  "tmdb": 259131,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "コスメティック・プレイラバー",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cosmetic-playlover",
+        "2": "cosmetic-playlover"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

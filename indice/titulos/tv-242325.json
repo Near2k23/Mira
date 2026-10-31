@@ -1,0 +1,13 @@
+{
+  "tmdb": 242325,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เธอ ฉัน ฝัน เรา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-saw-you-in-my-dream"
+      }
+    }
+  }
+}

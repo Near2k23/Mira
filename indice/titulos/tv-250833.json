@@ -1,0 +1,13 @@
+{
+  "tmdb": 250833,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "路过我年少时光的蓝色",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blue-canvas-of-youthful-days"
+      }
+    }
+  }
+}

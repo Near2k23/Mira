@@ -1,0 +1,13 @@
+{
+  "tmdb": 248821,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en la primera noche",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-at-first-night"
+      }
+    }
+  }
+}

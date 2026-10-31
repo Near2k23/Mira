@@ -1,0 +1,13 @@
+{
+  "tmdb": 45827,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Escuela Técnica Asuko",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "asuka-high-school-march"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 35772,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "천국의 나무",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "tree-of-heaven"
+      }
+    }
+  }
+}

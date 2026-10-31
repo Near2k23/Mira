@@ -1,0 +1,13 @@
+{
+  "tmdb": 258707,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El amor vuelve a casa",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "romance-in-the-house"
+      }
+    }
+  }
+}

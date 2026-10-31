@@ -1,0 +1,13 @@
+{
+  "tmdb": 248909,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "รักใต้บรรทัด",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "battle-of-the-writers"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 245081,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "遇见你的那天",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-best-day-of-my-life"
+      }
+    }
+  }
+}

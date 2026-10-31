@@ -1,0 +1,13 @@
+{
+  "tmdb": 215003,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "사랑의 안단테",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "andante-of-love"
+      }
+    }
+  }
+}

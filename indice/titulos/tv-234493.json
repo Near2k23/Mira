@@ -1,0 +1,13 @@
+{
+  "tmdb": 234493,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "たとえあなたを忘れても",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "every-precious-moment"
+      }
+    }
+  }
+}
