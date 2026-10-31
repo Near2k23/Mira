@@ -1,0 +1,14 @@
+{
+  "tmdb": 40480,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Chicas de Oficina",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "office-girls"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 25 de 40 episodios"
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 73780,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "어쩌다 18",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "somehow-18"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 2 de 10 episodios"
+}

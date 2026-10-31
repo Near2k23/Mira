@@ -1,0 +1,15 @@
+{
+  "tmdb": 71910,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "我女朋友的男朋友",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-girlfriends-boyfriend",
+        "2": "my-girlfriends-boyfriend"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 32 y TMDB tiene 16; no verificada"
+}

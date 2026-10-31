@@ -1,0 +1,13 @@
+{
+  "tmdb": 81133,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La historia del palacio Yanxi",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "story-of-yanxi-palace"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 14807,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Otoño en mi corazón",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "autumn-in-my-heart"
+      }
+    }
+  }
+}

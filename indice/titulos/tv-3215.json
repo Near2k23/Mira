@@ -1,0 +1,13 @@
+{
+  "tmdb": 3215,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Príncipe Del Café",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "coffee-prince"
+      }
+    }
+  }
+}

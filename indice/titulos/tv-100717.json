@@ -1,0 +1,14 @@
+{
+  "tmdb": 100717,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "위험한 약속",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fatal-promise"
+      }
+    }
+  },
+  "nota": "T1: el sitio tiene 104 de 105 episodios"
+}

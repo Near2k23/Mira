@@ -1,0 +1,13 @@
+{
+  "tmdb": 73984,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "漂洋过海来看你",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "across-the-ocean-to-see-you"
+      }
+    }
+  }
+}

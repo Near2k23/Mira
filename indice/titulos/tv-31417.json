@@ -1,0 +1,13 @@
+{
+  "tmdb": 31417,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Eres hermosa",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "youre-beautiful"
+      }
+    }
+  }
+}

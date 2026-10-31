@@ -1,0 +1,14 @@
+{
+  "tmdb": 39037,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Hoguera de la Ambicion",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "flames-of-desire"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Flames of Desire ) no coinciden con TMDB (욕망의 불꽃 2010); se mantuvo el tmdb_id del sitio"
+}

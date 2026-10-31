@@ -1,0 +1,15 @@
+{
+  "tmdb": 74106,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "班长大人",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-big-boss",
+        "2": "the-big-boss"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

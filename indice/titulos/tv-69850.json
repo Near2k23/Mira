@@ -1,0 +1,13 @@
+{
+  "tmdb": 69850,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "My Runway",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-runway"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 40484,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La Esposa Valiente",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-fierce-wife"
+      }
+    }
+  }
+}

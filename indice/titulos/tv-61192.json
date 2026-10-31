@@ -1,0 +1,13 @@
+{
+  "tmdb": 61192,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Destino es Amarte",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fated-to-love-you"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 40239,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "공주의 남자",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-princess-man"
+      }
+    }
+  }
+}

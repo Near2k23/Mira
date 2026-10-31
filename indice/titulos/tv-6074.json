@@ -1,0 +1,13 @@
+{
+  "tmdb": 6074,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Travesuras de Amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-girl"
+      }
+    }
+  }
+}

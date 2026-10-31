@@ -1,0 +1,13 @@
+{
+  "tmdb": 74682,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "No Soy Un Robot",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-am-not-a-robot"
+      }
+    }
+  }
+}

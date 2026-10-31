@@ -1,0 +1,13 @@
+{
+  "tmdb": 78326,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "三国机密之潜龙在渊",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secret-of-the-three-kingdoms"
+      }
+    }
+  }
+}

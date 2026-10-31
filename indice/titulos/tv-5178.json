@@ -1,0 +1,13 @@
+{
+  "tmdb": 5178,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Escalera al cielo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "stairway-to-heaven"
+      }
+    }
+  }
+}

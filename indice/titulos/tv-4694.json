@@ -1,0 +1,13 @@
+{
+  "tmdb": 4694,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El Fénix",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "phoenix"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 87527,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mi Primer Amor de Verdad",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-first-first-love",
+        "2": "my-first-first-love"
+      }
+    }
+  },
+  "nota": "multitemporada con el mismo slug; temporadas 1,2 verificadas con listEpisodes de la API de doramasflix"
+}

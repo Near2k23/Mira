@@ -1,0 +1,13 @@
+{
+  "tmdb": 61611,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Pinocho: No te puedo mentir",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "pinocchio"
+      }
+    }
+  }
+}

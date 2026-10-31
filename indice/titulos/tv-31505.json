@@ -1,0 +1,13 @@
+{
+  "tmdb": 31505,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Iris",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "iris"
+      }
+    }
+  }
+}

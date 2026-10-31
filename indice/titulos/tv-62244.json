@@ -1,0 +1,13 @@
+{
+  "tmdb": 62244,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Mamá está enojada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "angry-mom"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 37636,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Jardin Secreto",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "secret-garden"
+      }
+    }
+  }
+}

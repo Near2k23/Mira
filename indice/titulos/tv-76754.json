@@ -1,0 +1,13 @@
+{
+  "tmdb": 76754,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El hombre ideal",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "mr-right"
+      }
+    }
+  }
+}
