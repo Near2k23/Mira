@@ -1,0 +1,13 @@
+{
+  "tmdb": 326445,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "มีสติแล้วลูกพีช",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "peach-and-me"
+      }
+    }
+  }
+}

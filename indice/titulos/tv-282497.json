@@ -1,0 +1,13 @@
+{
+  "tmdb": 282497,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "迷墙",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "wonder-wall"
+      }
+    }
+  }
+}

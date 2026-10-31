@@ -1,0 +1,13 @@
+{
+  "tmdb": 315007,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor en sincronía",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-in-sync"
+      }
+    }
+  }
+}

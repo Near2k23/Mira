@@ -1,0 +1,13 @@
+{
+  "tmdb": 300954,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El esposo",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-husband"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 323264,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "¿Y si dejamos de ser mejores amigos a partir de ahora?",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "lets-end-our-friendship-now"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 7; no verificada"
+}

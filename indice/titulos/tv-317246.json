@@ -1,0 +1,13 @@
+{
+  "tmdb": 317246,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "コンサルタント―死を執筆する男―",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-consultant"
+      }
+    }
+  }
+}

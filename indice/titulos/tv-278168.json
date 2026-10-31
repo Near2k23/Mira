@@ -1,0 +1,13 @@
+{
+  "tmdb": 278168,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Un perro y un avión",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "a-dog-and-a-plane"
+      }
+    }
+  }
+}

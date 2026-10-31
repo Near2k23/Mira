@@ -1,0 +1,13 @@
+{
+  "tmdb": 301345,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "京城奇探",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "cases-between-us"
+      }
+    }
+  }
+}

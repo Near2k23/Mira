@@ -1,0 +1,13 @@
+{
+  "tmdb": 307012,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Supervivientes del amor sagrado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "saint-love-survivors"
+      }
+    }
+  }
+}

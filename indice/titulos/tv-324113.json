@@ -1,0 +1,13 @@
+{
+  "tmdb": 324113,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "죄와 사랑",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sin-and-love"
+      }
+    }
+  }
+}

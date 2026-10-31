@@ -1,0 +1,13 @@
+{
+  "tmdb": 289147,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "灵魂摆渡·十年",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-ferry-man-10th-anniversary"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 312588,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "พี่เองก็ลำบาก",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chasing-love"
+      }
+    }
+  }
+}

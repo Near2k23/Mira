@@ -1,0 +1,13 @@
+{
+  "tmdb": 325577,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "妻本善良",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "inherently-kind"
+      }
+    }
+  }
+}

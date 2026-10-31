@@ -1,0 +1,13 @@
+{
+  "tmdb": 291392,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Volver a Ti",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-for-you"
+      }
+    }
+  }
+}

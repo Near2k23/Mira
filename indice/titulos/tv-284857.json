@@ -1,0 +1,13 @@
+{
+  "tmdb": 284857,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "鹅绒雪",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "bound-by-sin"
+      }
+    }
+  }
+}

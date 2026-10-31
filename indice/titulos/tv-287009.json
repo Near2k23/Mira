@@ -1,0 +1,13 @@
+{
+  "tmdb": 287009,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Doctor al borde del amor",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "doctor-on-the-edge"
+      }
+    }
+  }
+}

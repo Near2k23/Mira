@@ -1,0 +1,13 @@
+{
+  "tmdb": 312493,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Hit viral",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "viral-hit"
+      }
+    }
+  }
+}

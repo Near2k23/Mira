@@ -1,0 +1,13 @@
+{
+  "tmdb": 316294,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เพย์แบค เดอะซีรีส์",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "payback"
+      }
+    }
+  }
+}

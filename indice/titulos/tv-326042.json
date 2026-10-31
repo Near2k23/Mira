@@ -1,0 +1,13 @@
+{
+  "tmdb": 326042,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "照殿花开",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "camellias"
+      }
+    }
+  }
+}

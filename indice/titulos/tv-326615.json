@@ -1,0 +1,13 @@
+{
+  "tmdb": 326615,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "浣纱录",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "el-maestro-de-la-seda-del-futuro"
+      }
+    }
+  }
+}

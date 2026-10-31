@@ -1,0 +1,14 @@
+{
+  "tmdb": 323013,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "マイ・フィクション",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-fiction"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 9; no verificada"
+}

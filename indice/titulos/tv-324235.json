@@ -1,0 +1,13 @@
+{
+  "tmdb": 324235,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "春花宴",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blooms-for-her"
+      }
+    }
+  }
+}

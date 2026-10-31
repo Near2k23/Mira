@@ -1,0 +1,13 @@
+{
+  "tmdb": 311844,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "救い、巣喰われ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "salvation-swallowed-by-the-nest"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 325126,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "九义人之烟云绣",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-embroidered-truth"
+      }
+    }
+  }
+}

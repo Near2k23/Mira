@@ -1,0 +1,13 @@
+{
+  "tmdb": 315083,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "อรุณรุ่ง",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-edge-of-horizon"
+      }
+    }
+  }
+}
