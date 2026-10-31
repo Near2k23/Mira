@@ -1,0 +1,13 @@
+{
+  "tmdb": 225930,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "要久久爱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-endures"
+      }
+    }
+  }
+}

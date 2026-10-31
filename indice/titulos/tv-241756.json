@@ -1,0 +1,13 @@
+{
+  "tmdb": 241756,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "パーフェクトプロポーズ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "perfect-propose"
+      }
+    }
+  }
+}

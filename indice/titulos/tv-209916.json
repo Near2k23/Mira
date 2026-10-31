@@ -1,0 +1,13 @@
+{
+  "tmdb": 209916,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "祈今朝",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sword-and-fairy-6-chinese-paladin-6"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 239631,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "仙剑四",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "chinese-paladin-4-sword-and-fairy-4"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 212553,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "El legado",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-bequeathed"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 242663,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor con fecha límite",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-deadline"
+      }
+    }
+  }
+}

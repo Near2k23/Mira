@@ -1,0 +1,13 @@
+{
+  "tmdb": 221112,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "在暴雪时分",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "amidst-a-snowstorm-of-love"
+      }
+    }
+  }
+}

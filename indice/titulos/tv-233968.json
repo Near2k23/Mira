@@ -1,0 +1,13 @@
+{
+  "tmdb": 233968,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "阿麦从军",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "fighting-for-love"
+      }
+    }
+  }
+}

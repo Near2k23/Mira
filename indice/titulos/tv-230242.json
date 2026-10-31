@@ -1,0 +1,13 @@
+{
+  "tmdb": 230242,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "恆久定律",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "anti-reset"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 245255,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "慕先生，请按小说来",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "give-you-my-heart"
+      }
+    }
+  },
+  "nota": "nombre/año del sitio (Give You My Heart 2024) no coinciden con TMDB (慕先生，请按小说来 ); se mantuvo el tmdb_id del sitio. T1: el sitio llega al ep 24 y TMDB tiene 1; no verificada"
+}

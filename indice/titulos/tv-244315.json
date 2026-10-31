@@ -1,0 +1,13 @@
+{
+  "tmdb": 244315,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "아이엠그라운드",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "i-am-ground"
+      }
+    }
+  }
+}

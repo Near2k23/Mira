@@ -1,0 +1,13 @@
+{
+  "tmdb": 233205,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cautivar a un rey",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "captivating-the-king"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 240581,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Amor a la vista",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "eye-love-you"
+      }
+    }
+  }
+}

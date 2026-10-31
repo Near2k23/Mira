@@ -1,0 +1,13 @@
+{
+  "tmdb": 243403,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Preparadas, listas, ¡amor!",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "ready-set-love"
+      }
+    }
+  }
+}

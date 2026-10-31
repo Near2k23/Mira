@@ -1,0 +1,13 @@
+{
+  "tmdb": 244395,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "染指",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "indulgence"
+      }
+    }
+  }
+}

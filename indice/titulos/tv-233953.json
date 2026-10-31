@@ -1,0 +1,13 @@
+{
+  "tmdb": 233953,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "独一有二的她",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-special-girl"
+      }
+    }
+  }
+}

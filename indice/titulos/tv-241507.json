@@ -1,0 +1,14 @@
+{
+  "tmdb": 241507,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "เฟื่องนคร",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "city-of-stars"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 13 y TMDB tiene 12; no verificada"
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 240591,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "연애 지상주의 구역",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "love-for-loves-sake"
+      }
+    }
+  }
+}

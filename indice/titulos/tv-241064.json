@@ -1,0 +1,13 @@
+{
+  "tmdb": 241064,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "好きやねんけどどうやろか",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "although-i-love-you-and-you"
+      }
+    }
+  }
+}

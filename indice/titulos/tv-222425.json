@@ -1,0 +1,13 @@
+{
+  "tmdb": 222425,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "끝내주는 해결사",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "queen-of-divorce"
+      }
+    }
+  }
+}

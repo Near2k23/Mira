@@ -1,0 +1,13 @@
+{
+  "tmdb": 244015,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "내짝남X날짝남",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "our-love-triangle"
+      }
+    }
+  }
+}

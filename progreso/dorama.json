@@ -1,6 +1,6 @@
 {
- "pagina": 59,
- "agregados": 1578,
+ "pagina": 60,
+ "agregados": 1603,
  "saltados": [
   {
    "id_o_slug": "patawid",
@@ -325,6 +325,10 @@
   {
    "id_o_slug": "tv-243435",
    "motivo": "validar falló: ERROR indice/titulos/tv-243435.json: sitio \"doramasflix\" slug \"Have-a-crush-on-you\": no cumple el patrón"
+  },
+  {
+   "id_o_slug": "drops-of-god",
+   "motivo": "otra tarea: serie (país FR)"
   }
  ],
  "notas": [
@@ -606,7 +610,11 @@
   "tv-235199.json",
   "tv-76409.json",
   "tv-237411.json",
-  "tv-135238.json"
+  "tv-135238.json",
+  "tv-215072.json",
+  "tv-220074.json",
+  "tv-241507.json",
+  "tv-245255.json"
  ],
  "actualizados": 0,
  "_done": [
@@ -2302,6 +2310,35 @@
   225029,
   129637,
   222767,
-  220836
+  220836,
+  239631,
+  215072,
+  240772,
+  220074,
+  233205,
+  209916,
+  222425,
+  212553,
+  241064,
+  225930,
+  222233,
+  244315,
+  242663,
+  244395,
+  240591,
+  230242,
+  232913,
+  209226,
+  244813,
+  243403,
+  233968,
+  244015,
+  240581,
+  221112,
+  230824,
+  241507,
+  233953,
+  241756,
+  245255
  ]
 }

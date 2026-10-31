@@ -1,0 +1,13 @@
+{
+  "tmdb": 244813,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "甜甜的陷阱",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sweet-trap"
+      }
+    }
+  }
+}
