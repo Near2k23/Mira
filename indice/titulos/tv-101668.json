@@ -1,0 +1,13 @@
+{
+  "tmdb": 101668,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "うまよん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "umayon"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 110309,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SK8 the Infinity",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sk"
+      }
+    }
+  }
+}

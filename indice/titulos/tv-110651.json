@@ -1,0 +1,13 @@
+{
+  "tmdb": 110651,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SHOW BY ROCK!! STARS!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "show-by-rock-stars"
+      }
+    }
+  }
+}

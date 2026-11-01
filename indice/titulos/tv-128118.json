@@ -1,0 +1,13 @@
+{
+  "tmdb": 128118,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Deep Insanity: The Lost Child",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "deep-insanity-the-lost-child"
+      }
+    }
+  }
+}

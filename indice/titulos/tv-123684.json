@@ -1,0 +1,18 @@
+{
+  "tmdb": 123684,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KAGINADO",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaginado",
+        "2": "kaginado-season-2"
+      },
+      "desfase": {
+        "1": 1
+      }
+    }
+  },
+  "nota": "tioanime kaginado: 11 cap. vs 12 en TMDB T1; revisar."
+}

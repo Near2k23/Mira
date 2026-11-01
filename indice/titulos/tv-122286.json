@@ -1,0 +1,13 @@
+{
+  "tmdb": 122286,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rumble Garanndoll",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gyakuten-sekai-no-denchi-shoujo"
+      }
+    }
+  }
+}

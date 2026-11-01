@@ -1,0 +1,13 @@
+{
+  "tmdb": 101571,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Munou na Nana",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "munou-na-nana"
+      }
+    }
+  }
+}

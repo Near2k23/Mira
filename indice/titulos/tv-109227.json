@@ -1,0 +1,14 @@
+{
+  "tmdb": 109227,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hi☆sCoool! セハガール",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hiscoool-seha-girls"
+      }
+    }
+  },
+  "nota": "tioanime hiscoool-seha-girls: 13 cap. vs 14 en TMDB T1; revisar."
+}

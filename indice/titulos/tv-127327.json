@@ -1,0 +1,13 @@
+{
+  "tmdb": 127327,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Miss Shachiku and the Baby Little Ghost",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shachikusan-wa-youjo-yuurei-ni-iyasaretai"
+      }
+    }
+  }
+}

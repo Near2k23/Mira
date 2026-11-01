@@ -1,0 +1,13 @@
+{
+  "tmdb": 112615,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cestvs: The Roman Fighter",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cestvs-the-roman-fighter"
+      }
+    }
+  }
+}

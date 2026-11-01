@@ -1,0 +1,13 @@
+{
+  "tmdb": 108911,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "メガネブ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "meganebu"
+      }
+    }
+  }
+}

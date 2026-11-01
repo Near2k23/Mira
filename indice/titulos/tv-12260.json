@@ -1,0 +1,13 @@
+{
+  "tmdb": 12260,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sakigake!! Cromartie Koukou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakigake-cromartie-koukou"
+      }
+    }
+  }
+}

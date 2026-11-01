@@ -1,0 +1,13 @@
+{
+  "tmdb": 100825,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 108952,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dr. Ramune: Mysterious Disease Specialist",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kai-byoui-ramune"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 108977,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "プレイタの傷",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "project-scard-praeter-no-kizu"
+      }
+    }
+  }
+}

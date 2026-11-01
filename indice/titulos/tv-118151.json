@@ -1,0 +1,13 @@
+{
+  "tmdb": 118151,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seven Knights Revolution: Hero Successor",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seven-knights-revolution-eiyuu-no-keishousha"
+      }
+    }
+  }
+}

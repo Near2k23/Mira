@@ -1,0 +1,11 @@
+{
+  "tmdb": 80518,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Fullmetal Alchemist: La estrella sagrada de Milos",
+  "fuentes": {
+    "tioanime": {
+      "slug": "fullmetal-alchemist-milos-no-sei-naru-hoshi"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 107003,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Peach Boy Riverside",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "peach-boy-riverside"
+      }
+    }
+  }
+}

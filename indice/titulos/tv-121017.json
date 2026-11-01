@@ -1,0 +1,13 @@
+{
+  "tmdb": 121017,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Irina: The Vampire Cosmonaut",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsuki-to-laika-to-nosferatu"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 81,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Nausicaä del Valle del Viento",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kaze-no-tani-no-naushika"
+    }
+  }
+}

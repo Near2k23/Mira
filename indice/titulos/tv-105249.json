@@ -1,0 +1,13 @@
+{
+  "tmdb": 105249,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The World Ends with You The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "subarashiki-kono-sekai-the-animation"
+      }
+    }
+  }
+}

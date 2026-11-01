@@ -1,0 +1,11 @@
+{
+  "tmdb": 9606,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Metrópolis",
+  "fuentes": {
+    "tioanime": {
+      "slug": "metropolis"
+    }
+  }
+}

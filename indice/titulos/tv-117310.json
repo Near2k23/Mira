@@ -1,0 +1,13 @@
+{
+  "tmdb": 117310,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Girls' Frontline",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dolls-frontline"
+      }
+    }
+  }
+}

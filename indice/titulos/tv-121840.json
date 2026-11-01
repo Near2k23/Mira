@@ -1,0 +1,13 @@
+{
+  "tmdb": 121840,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Visual Prison",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "visual-prison"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 124054,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ぷちます!!-プチプチ・アイドルマスター-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "puchimas-petit-idolmster"
+      }
+    }
+  },
+  "nota": "tioanime puchimas-petit-idolmster: 65 cap. vs 64 en TMDB T1; revisar."
+}

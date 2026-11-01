@@ -1,0 +1,14 @@
+{
+  "tmdb": 127549,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sasaki to Miyano",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sasaki-to-miyano"
+      }
+    }
+  },
+  "nota": "tioanime sasaki-to-miyano: 13 cap. vs 12 en TMDB T1; revisar."
+}

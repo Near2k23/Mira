@@ -1,0 +1,11 @@
+{
+  "tmdb": 79707,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Los niños que buscan voces perdidas",
+  "fuentes": {
+    "tioanime": {
+      "slug": "hoshi-o-ou-kodomo"
+    }
+  }
+}

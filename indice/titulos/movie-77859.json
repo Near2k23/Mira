@@ -1,0 +1,11 @@
+{
+  "tmdb": 77859,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "チリンの鈴",
+  "fuentes": {
+    "tioanime": {
+      "slug": "chirin-no-suzu"
+    }
+  }
+}

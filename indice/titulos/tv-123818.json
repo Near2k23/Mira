@@ -1,0 +1,13 @@
+{
+  "tmdb": 123818,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Deaimon: Recipe for Happiness",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "deaimon"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 108478,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Farewell, My Dear Cramer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sayonara-watashi-no-cramer"
+      }
+    }
+  }
+}

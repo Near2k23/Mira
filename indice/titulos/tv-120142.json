@@ -1,0 +1,13 @@
+{
+  "tmdb": 120142,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sabikui Bisco",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sabikui-bisco"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 113256,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita",
+        "2": "shin-no-nakama-s2"
+      }
+    }
+  }
+}

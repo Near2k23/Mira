@@ -1,0 +1,14 @@
+{
+  "tmdb": 102086,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kami-tachi ni Hirowareta Otoko",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamitachi-ni-hirowareta-otoko",
+        "2": "kamitachi-ni-hirowareta-otoko-2nd-season"
+      }
+    }
+  }
+}

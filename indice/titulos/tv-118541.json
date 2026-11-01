@@ -1,0 +1,13 @@
+{
+  "tmdb": 118541,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Slime Diaries",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tensei-shitara-slime-datta-ken-2nd-season-part-2"
+      }
+    }
+  }
+}

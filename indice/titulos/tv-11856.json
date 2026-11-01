@@ -1,0 +1,13 @@
+{
+  "tmdb": 11856,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "マイアミ☆ガンズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "miami-guns"
+      }
+    }
+  }
+}

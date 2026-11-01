@@ -1,0 +1,13 @@
+{
+  "tmdb": 109186,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "怪談レストラン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaidan-restaurant"
+      }
+    }
+  }
+}

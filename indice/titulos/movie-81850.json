@@ -1,0 +1,11 @@
+{
+  "tmdb": 81850,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Super Agente Cobra",
+  "fuentes": {
+    "tioanime": {
+      "slug": "space-adventure-cobra-the-movie"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 103409,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "World's End Harem",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shuumatsu-no-harem"
+      }
+    }
+  }
+}

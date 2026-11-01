@@ -1,0 +1,13 @@
+{
+  "tmdb": 117945,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Joran: The Princess of Snow and Blood",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jouran-the-princess-of-snow-and-blood"
+      }
+    }
+  }
+}

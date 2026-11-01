@@ -1,0 +1,13 @@
+{
+  "tmdb": 110207,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gekidol",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gekidol"
+      }
+    }
+  }
+}

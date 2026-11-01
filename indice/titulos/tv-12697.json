@@ -1,0 +1,13 @@
+{
+  "tmdb": 12697,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragon Ball GT",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dragon-ball-gt"
+      }
+    }
+  }
+}

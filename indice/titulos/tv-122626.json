@@ -1,0 +1,13 @@
+{
+  "tmdb": 122626,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tesla Note",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tesla-note"
+      }
+    }
+  }
+}

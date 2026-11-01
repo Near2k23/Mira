@@ -1,0 +1,14 @@
+{
+  "tmdb": 111576,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shadows House",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shadows-house",
+        "2": "shadows-house-2nd-season"
+      }
+    }
+  }
+}

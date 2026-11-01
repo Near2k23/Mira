@@ -1,0 +1,13 @@
+{
+  "tmdb": 112940,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Battle Game in 5 Seconds",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "deatte-5byou-de-battle"
+      }
+    }
+  }
+}

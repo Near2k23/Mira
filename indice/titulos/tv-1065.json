@@ -1,0 +1,13 @@
+{
+  "tmdb": 1065,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "炎の蜃気楼",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "honoo-no-mirage"
+      }
+    }
+  }
+}

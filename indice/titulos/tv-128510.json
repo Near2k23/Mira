@@ -1,0 +1,13 @@
+{
+  "tmdb": 128510,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shin Ikkitousen",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shin-ikkitousen"
+      }
+    }
+  }
+}

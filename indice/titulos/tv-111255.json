@@ -1,0 +1,14 @@
+{
+  "tmdb": 111255,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wonder Egg Priority",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wonder-egg-priority"
+      }
+    }
+  },
+  "nota": "tioanime wonder-egg-priority: 13 cap. vs 12 en TMDB T1; revisar."
+}

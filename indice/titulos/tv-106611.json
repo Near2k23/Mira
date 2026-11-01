@@ -1,0 +1,13 @@
+{
+  "tmdb": 106611,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Let's Make a Mug Too",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yakunara-mug-cup-mo-niban-gama"
+      }
+    }
+  }
+}

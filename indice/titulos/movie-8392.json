@@ -1,0 +1,11 @@
+{
+  "tmdb": 8392,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Mi vecino Totoro",
+  "fuentes": {
+    "tioanime": {
+      "slug": "tonari-no-totoro"
+    }
+  }
+}

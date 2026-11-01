@@ -1,0 +1,13 @@
+{
+  "tmdb": 121792,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akebi's Sailor Uniform",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akebichan-no-sailorfuku"
+      }
+    }
+  }
+}

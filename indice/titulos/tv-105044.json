@@ -1,0 +1,16 @@
+{
+  "tmdb": 105044,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Heaven's Design Team",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tenchi-souzou-designbu"
+      },
+      "desfase": {
+        "1": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 12634,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blue Seed",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blue-seed"
+      }
+    }
+  }
+}

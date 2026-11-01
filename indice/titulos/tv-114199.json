@@ -1,0 +1,13 @@
+{
+  "tmdb": 114199,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Puraore! Pride of Orange",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "puraore-pride-of-orange"
+      }
+    }
+  }
+}

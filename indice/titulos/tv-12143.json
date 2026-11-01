@@ -1,0 +1,14 @@
+{
+  "tmdb": 12143,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Azumanga Daioh",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "azumanga-daiou"
+      }
+    }
+  },
+  "nota": "tioanime azumanga-daiou: 28 cap. vs 26 en TMDB T1; revisar."
+}

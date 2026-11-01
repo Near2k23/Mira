@@ -1,0 +1,13 @@
+{
+  "tmdb": 1043,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ouran High School Host Club",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ouran-host-club"
+      }
+    }
+  }
+}

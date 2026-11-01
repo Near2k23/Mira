@@ -1,0 +1,13 @@
+{
+  "tmdb": 113042,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "美少年探偵団",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bishounen-tanteidan"
+      }
+    }
+  }
+}

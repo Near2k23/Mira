@@ -1,0 +1,11 @@
+{
+  "tmdb": 80079,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "チベット犬物語 ～金色のドージェ～",
+  "fuentes": {
+    "tioanime": {
+      "slug": "tibet-inu-monogatari"
+    }
+  }
+}

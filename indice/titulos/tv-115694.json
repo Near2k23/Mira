@@ -1,0 +1,13 @@
+{
+  "tmdb": 115694,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shikimori's Not Just a Cutie",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kawaii-dake-ja-nai-shikimorisan"
+      }
+    }
+  }
+}

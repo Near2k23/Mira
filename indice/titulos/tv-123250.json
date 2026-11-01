@@ -1,0 +1,13 @@
+{
+  "tmdb": 123250,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Don't Hurt Me, My Healer!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kono-healer-mendokusai"
+      }
+    }
+  }
+}

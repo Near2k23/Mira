@@ -1,0 +1,13 @@
+{
+  "tmdb": 104699,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rey chamán",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shaman-king-2021"
+      }
+    }
+  }
+}

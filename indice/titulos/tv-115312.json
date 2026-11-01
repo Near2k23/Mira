@@ -1,0 +1,13 @@
+{
+  "tmdb": 115312,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mahouka Koukou no Yuutousei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahouka-koukou-no-yuutousei"
+      }
+    }
+  }
+}

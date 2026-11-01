@@ -1,0 +1,13 @@
+{
+  "tmdb": 102432,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magatsu Wahrheit: Zuerst",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magatsu-wahrheit-zuerst"
+      }
+    }
+  }
+}

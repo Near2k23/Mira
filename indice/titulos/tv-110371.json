@@ -1,0 +1,13 @@
+{
+  "tmdb": 110371,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "WIXOSS DIVA(A)LIVE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wixoss-divaalive"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 120013,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "RE-MAIN",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "remain"
+      }
+    }
+  }
+}

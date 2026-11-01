@@ -1,0 +1,13 @@
+{
+  "tmdb": 105211,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Riel Romanesco",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rail-romanesque"
+      }
+    }
+  }
+}

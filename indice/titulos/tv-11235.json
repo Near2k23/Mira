@@ -1,0 +1,14 @@
+{
+  "tmdb": 11235,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Medabots",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "medabots",
+        "2": "medabots-damashii"
+      }
+    }
+  }
+}

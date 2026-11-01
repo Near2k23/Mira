@@ -1,0 +1,13 @@
+{
+  "tmdb": 112463,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cue!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cue"
+      }
+    }
+  }
+}

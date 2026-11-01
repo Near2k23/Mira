@@ -1,0 +1,14 @@
+{
+  "tmdb": 100988,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Higurashi: When They Cry - GOU",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "higurashi-no-naku-koro-ni-2020",
+        "2": "higurashi-no-naku-koro-ni-sotsu"
+      }
+    }
+  }
+}

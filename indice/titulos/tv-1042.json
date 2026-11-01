@@ -1,0 +1,13 @@
+{
+  "tmdb": 1042,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El anillo mágico",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shoujo-kakumei-utena"
+      }
+    }
+  }
+}

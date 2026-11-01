@@ -1,0 +1,13 @@
+{
+  "tmdb": 103249,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragon Goes House-Hunting",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dragon-ie-wo-kau"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 12577,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "デビル メイ クライ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "devil-may-cry"
+      }
+    }
+  }
+}

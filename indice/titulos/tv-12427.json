@@ -1,0 +1,15 @@
+{
+  "tmdb": 12427,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "HAPPY☆LESSON",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "happy-lesson-tv",
+        "2": "happy-lesson-advance"
+      }
+    }
+  },
+  "nota": "tioanime happy-lesson-tv: 14 cap. vs 13 en TMDB T1; revisar."
+}

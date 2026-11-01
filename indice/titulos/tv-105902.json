@@ -1,0 +1,13 @@
+{
+  "tmdb": 105902,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "THE IDOLM@STER Million Live!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-idolmster-million-live"
+      }
+    }
+  }
+}

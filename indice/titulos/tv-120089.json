@@ -6,6 +6,8 @@
   "fuentes": {
     "tioanime": {
       "temporadas": {
+        "1": "spy-x-family",
+        "2": "spy-x-family-season-2",
         "3": "spy-x-family-season-3"
       }
     }

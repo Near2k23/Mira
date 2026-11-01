@@ -1,0 +1,13 @@
+{
+  "tmdb": 107257,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Grand Blues!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "guraburu"
+      }
+    }
+  }
+}

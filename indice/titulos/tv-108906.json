@@ -1,0 +1,14 @@
+{
+  "tmdb": 108906,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "プリティーリズム・オーロラドリーム",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "pretty-rhythm-aurora-dream",
+        "3": "pretty-rhythm-rainbow-live"
+      }
+    }
+  }
+}

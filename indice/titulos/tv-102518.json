@@ -1,0 +1,13 @@
+{
+  "tmdb": 102518,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Iwakakeru! Sport Climbing Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "iwa-kakeru-sport-climbing-girls"
+      }
+    }
+  }
+}

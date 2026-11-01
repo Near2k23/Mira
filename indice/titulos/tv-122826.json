@@ -1,0 +1,13 @@
+{
+  "tmdb": 122826,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dance Dance Danseur",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dance-dance-danseur"
+      }
+    }
+  }
+}

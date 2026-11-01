@@ -1,0 +1,13 @@
+{
+  "tmdb": 128824,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mou Ippon!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mou-ippon"
+      }
+    }
+  }
+}

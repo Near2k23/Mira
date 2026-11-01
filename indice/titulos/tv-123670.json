@@ -1,0 +1,13 @@
+{
+  "tmdb": 123670,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Build-Divide",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "build-divide-code-white"
+      }
+    }
+  }
+}

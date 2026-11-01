@@ -1,0 +1,11 @@
+{
+  "tmdb": 820067,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Las Quintillizas: La Película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "5toubun-no-hanayome-movie"
+    }
+  }
+}

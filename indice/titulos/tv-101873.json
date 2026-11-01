@@ -1,0 +1,13 @@
+{
+  "tmdb": 101873,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cells at Work! CODE BLACK",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hataraku-saibou-black-tv"
+      }
+    }
+  }
+}

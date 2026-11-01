@@ -1,0 +1,13 @@
+{
+  "tmdb": 104852,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hortensia Saga",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hortensia-saga-tv"
+      }
+    }
+  }
+}

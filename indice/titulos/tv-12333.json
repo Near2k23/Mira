@@ -1,0 +1,14 @@
+{
+  "tmdb": 12333,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "超重神グラヴィオン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gravion",
+        "2": "gravion-zwei"
+      }
+    }
+  }
+}

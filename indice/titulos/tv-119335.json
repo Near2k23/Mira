@@ -1,0 +1,13 @@
+{
+  "tmdb": 119335,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "In the Land of Leadale",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "leadale-no-daichi-nite"
+      }
+    }
+  }
+}

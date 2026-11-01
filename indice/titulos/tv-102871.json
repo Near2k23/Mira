@@ -1,0 +1,13 @@
+{
+  "tmdb": 102871,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KING's RAID: Successors of the Will",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kings-raid-ishi-wo-tsugumonotachi"
+      }
+    }
+  }
+}

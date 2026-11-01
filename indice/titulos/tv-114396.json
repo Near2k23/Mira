@@ -1,0 +1,13 @@
+{
+  "tmdb": 114396,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Love of Kill",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koroshi-ai"
+      }
+    }
+  }
+}

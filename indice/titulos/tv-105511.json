@@ -1,0 +1,13 @@
+{
+  "tmdb": 105511,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "My Senpai is Annoying",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "senpai-ga-uzai-kouhai-no-hanashi"
+      }
+    }
+  }
+}

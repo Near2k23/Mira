@@ -1,0 +1,13 @@
+{
+  "tmdb": 104032,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kenja no Deshi wo Nanoru Kenja",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kenja-no-deshi-wo-nanoru-kenja"
+      }
+    }
+  }
+}

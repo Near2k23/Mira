@@ -1,0 +1,13 @@
+{
+  "tmdb": 105476,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Dungeon of Black Company",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "meikyuu-black-company"
+      }
+    }
+  }
+}

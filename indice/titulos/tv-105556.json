@@ -1,0 +1,14 @@
+{
+  "tmdb": 105556,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "DON'T TOY WITH ME, MISS NAGATORO",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ijiranaide-nagatorosan",
+        "2": "ijiranaide-nagatorosan-2nd-attack"
+      }
+    }
+  }
+}

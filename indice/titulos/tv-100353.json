@@ -1,0 +1,13 @@
+{
+  "tmdb": 100353,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bungo and Alchemist: Gears of Judgement",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bungou-to-alchemist-shinpan-no-haguruma"
+      }
+    }
+  }
+}

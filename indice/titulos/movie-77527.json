@@ -1,0 +1,11 @@
+{
+  "tmdb": 77527,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "サイレントメビウス2",
+  "fuentes": {
+    "tioanime": {
+      "slug": "silent-mobius-2"
+    }
+  }
+}

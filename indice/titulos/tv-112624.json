@@ -1,0 +1,14 @@
+{
+  "tmdb": 112624,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Vampire Dies in No Time",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kyuuketsuki-sugu-shinu",
+        "2": "kyuuketsuki-sugu-shinu-2"
+      }
+    }
+  }
+}

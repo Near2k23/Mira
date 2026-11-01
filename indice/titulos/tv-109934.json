@@ -1,0 +1,13 @@
+{
+  "tmdb": 109934,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Requiem of the Rose King",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "baraou-no-souretsu"
+      }
+    }
+  }
+}

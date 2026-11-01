@@ -1,0 +1,13 @@
+{
+  "tmdb": 119100,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bocchi the Rock!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bocchi-the-rock"
+      }
+    }
+  }
+}

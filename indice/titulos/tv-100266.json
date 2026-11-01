@@ -1,0 +1,13 @@
+{
+  "tmdb": 100266,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "トライブクルクル",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tribe-cool-crew"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 100281,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Moriarty the Patriot",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yuukoku-no-moriarty"
+      }
+    }
+  }
+}

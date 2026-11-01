@@ -1,0 +1,13 @@
+{
+  "tmdb": 121964,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Vanitas no Karte",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vanitas-no-carte"
+      }
+    }
+  }
+}

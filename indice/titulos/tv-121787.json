@@ -1,0 +1,13 @@
+{
+  "tmdb": 121787,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "takt op.Destiny",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "takt-op-destiny"
+      }
+    }
+  }
+}

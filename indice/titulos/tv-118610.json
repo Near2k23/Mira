@@ -1,0 +1,13 @@
+{
+  "tmdb": 118610,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blue Reflection Ray",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blue-reflection-ray"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 116168,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "When will Ayumu Make His Move",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soredemo-ayumu-wa-yosetekuru"
+      }
+    }
+  }
+}

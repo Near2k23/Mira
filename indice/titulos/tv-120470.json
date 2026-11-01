@@ -1,0 +1,13 @@
+{
+  "tmdb": 120470,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Legend of Heroes: Trails of Cold Steel - Northern War",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-legend-of-heroes-sen-no-kiseki-northern-war"
+      }
+    }
+  }
+}

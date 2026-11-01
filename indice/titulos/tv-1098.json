@@ -1,0 +1,13 @@
+{
+  "tmdb": 1098,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Witch Hunter Robin",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "witch-hunter-robin"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 107001,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Idaten Deities Know Only Peace",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "heion-sedai-no-idatentachi"
+      }
+    }
+  }
+}

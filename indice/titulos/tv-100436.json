@@ -1,0 +1,13 @@
+{
+  "tmdb": 100436,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akudama Drive",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akudama-drive"
+      }
+    }
+  }
+}

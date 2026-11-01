@@ -1,0 +1,13 @@
+{
+  "tmdb": 112696,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "VazzRock the Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vazzrock-the-animation"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 124363,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El Amanecer de la Bruja",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahoutsukai-reimeiki"
+      }
+    }
+  }
+}

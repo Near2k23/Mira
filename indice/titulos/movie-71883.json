@@ -1,0 +1,11 @@
+{
+  "tmdb": 71883,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "RedLine",
+  "fuentes": {
+    "tioanime": {
+      "slug": "redline"
+    }
+  }
+}

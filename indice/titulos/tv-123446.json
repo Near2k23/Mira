@@ -1,0 +1,13 @@
+{
+  "tmdb": 123446,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Great Jahy Will Not Be Defeated!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jahysama-wa-kujikenai"
+      }
+    }
+  }
+}

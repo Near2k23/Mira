@@ -1,0 +1,13 @@
+{
+  "tmdb": 121078,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mieruko-chan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mierukochan"
+      }
+    }
+  }
+}

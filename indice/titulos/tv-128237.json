@@ -1,0 +1,13 @@
+{
+  "tmdb": 128237,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Legend of Mana: The Teardrop Crystal",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seiken-densetsu-legend-of-mana-the-teardrop-crystal"
+      }
+    }
+  }
+}

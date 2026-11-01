@@ -1,0 +1,11 @@
+{
+  "tmdb": 609202,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "BLACKFOX",
+  "fuentes": {
+    "tioanime": {
+      "slug": "black-fox"
+    }
+  }
+}

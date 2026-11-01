@@ -1,0 +1,13 @@
+{
+  "tmdb": 12536,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yu-Gi-Oh! GX",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yu-gi-oh-gx"
+      }
+    }
+  }
+}

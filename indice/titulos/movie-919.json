@@ -1,0 +1,11 @@
+{
+  "tmdb": 919,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Blood: El último vampiro",
+  "fuentes": {
+    "tioanime": {
+      "slug": "blood-the-last-vampire"
+    }
+  }
+}

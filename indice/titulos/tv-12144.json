@@ -1,0 +1,13 @@
+{
+  "tmdb": 12144,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Distrito comercial mágico Abenobashi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "abenobashi-maho-shotengai"
+      }
+    }
+  }
+}

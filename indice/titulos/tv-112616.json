@@ -1,0 +1,13 @@
+{
+  "tmdb": 112616,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "NIGHT HEAD 2041",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "night-head-2041"
+      }
+    }
+  }
+}

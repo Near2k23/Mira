@@ -1,0 +1,13 @@
+{
+  "tmdb": 122827,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ゲッターロボ アーク",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "getter-robo-arc"
+      }
+    }
+  }
+}

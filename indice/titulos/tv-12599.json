@@ -1,0 +1,13 @@
+{
+  "tmdb": 12599,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mai-HiME",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mai-hime"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 115112,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Slow Loop",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "slow-loop"
+      }
+    }
+  }
+}

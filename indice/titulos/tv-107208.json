@@ -1,0 +1,13 @@
+{
+  "tmdb": 107208,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スカーレッドライダーゼクス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "scared-rider-xechs"
+      }
+    }
+  }
+}

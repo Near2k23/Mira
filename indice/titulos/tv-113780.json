@@ -1,0 +1,13 @@
+{
+  "tmdb": 113780,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "WAVE!! -Let's go surfing!!-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wave-surfing-yappe-tv"
+      }
+    }
+  }
+}

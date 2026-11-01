@@ -1,0 +1,13 @@
+{
+  "tmdb": 128826,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Miss KUROITSU from the Monster Development Department",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaijin-kaihatsubu-no-kuroitsusan"
+      }
+    }
+  }
+}

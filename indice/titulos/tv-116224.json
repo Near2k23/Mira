@@ -1,0 +1,13 @@
+{
+  "tmdb": 116224,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fairy Ranmaru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fairy-ranmaru-anata-no-kokoro-otasuke-shimasu"
+      }
+    }
+  }
+}

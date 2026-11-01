@@ -1,0 +1,13 @@
+{
+  "tmdb": 12341,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "E'S OTHERWISE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "es-otherwise"
+      }
+    }
+  }
+}

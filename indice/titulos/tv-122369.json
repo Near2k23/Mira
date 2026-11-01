@@ -1,0 +1,13 @@
+{
+  "tmdb": 122369,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fuuto Pi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fuuto-tantei"
+      }
+    }
+  }
+}

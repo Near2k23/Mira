@@ -1,0 +1,13 @@
+{
+  "tmdb": 106782,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mashiro no Oto",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mashiro-no-oto"
+      }
+    }
+  }
+}

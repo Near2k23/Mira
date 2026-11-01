@@ -1,0 +1,11 @@
+{
+  "tmdb": 97787,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Digimon: La Película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "digimon-adventure-movie"
+    }
+  }
+}

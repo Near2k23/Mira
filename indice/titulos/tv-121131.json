@@ -1,0 +1,13 @@
+{
+  "tmdb": 121131,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Scarlet Nexus",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "scarlet-nexus"
+      }
+    }
+  }
+}

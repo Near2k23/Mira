@@ -1,0 +1,13 @@
+{
+  "tmdb": 114202,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Selection Project",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "selection-project"
+      }
+    }
+  }
+}

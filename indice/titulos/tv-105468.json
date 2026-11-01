@@ -1,0 +1,13 @@
+{
+  "tmdb": 105468,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ハピネスチャージプリキュア！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "happiness-charge-precure"
+      }
+    }
+  }
+}

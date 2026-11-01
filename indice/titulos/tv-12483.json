@@ -1,0 +1,13 @@
+{
+  "tmdb": 12483,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "闇の末裔",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yami-no-matsuei"
+      }
+    }
+  }
+}

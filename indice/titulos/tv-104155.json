@@ -1,0 +1,13 @@
+{
+  "tmdb": 104155,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "LBX Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soukou-musume-senki"
+      }
+    }
+  }
+}

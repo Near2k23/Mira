@@ -1,0 +1,13 @@
+{
+  "tmdb": 117886,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shokei Shoujo no Virgin Road",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shokei-shoujo-no-virgin-road"
+      }
+    }
+  }
+}

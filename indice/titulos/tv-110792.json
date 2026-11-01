@@ -1,0 +1,13 @@
+{
+  "tmdb": 110792,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Idolls!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "idolls"
+      }
+    }
+  }
+}

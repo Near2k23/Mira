@@ -1,0 +1,13 @@
+{
+  "tmdb": 103319,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Day I Became a God",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamisama-ni-natta-hi"
+      }
+    }
+  }
+}

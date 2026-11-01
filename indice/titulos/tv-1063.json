@@ -1,0 +1,13 @@
+{
+  "tmdb": 1063,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Samurai Champloo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "samurai-champloo"
+      }
+    }
+  }
+}

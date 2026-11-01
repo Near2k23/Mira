@@ -1,0 +1,13 @@
+{
+  "tmdb": 103157,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Hidden Dungeon Only I Can Enter",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ore-dake-haireru-kakushi-dungeon"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 100567,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Combatants Will Be Dispatched!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sentouin-hakenshimasu"
+      }
+    }
+  }
+}

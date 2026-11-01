@@ -1,0 +1,14 @@
+{
+  "tmdb": 1095,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ghost in the Shell: Stand Alone Complex",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ghost-in-the-shell-stand-alone-complex"
+      }
+    }
+  },
+  "nota": "tioanime ghost-in-the-shell-stand-alone-complex: 27 cap. vs 26 en TMDB T1; revisar."
+}

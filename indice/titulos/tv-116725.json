@@ -1,0 +1,13 @@
+{
+  "tmdb": 116725,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Vivy: Fluorite Eye’s Song",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vivy-fluorite-eyes-song"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 120968,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "D_Cide Traumerei The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dcide-traumerei-the-animation"
+      }
+    }
+  }
+}

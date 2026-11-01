@@ -1,0 +1,13 @@
+{
+  "tmdb": 103962,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Megami-ryou no Ryoubo-kun.",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "megamiryou-no-ryoubokun"
+      }
+    }
+  }
+}

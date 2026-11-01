@@ -1,0 +1,13 @@
+{
+  "tmdb": 120966,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "AMAIM Warrior at the Borderline",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kyoukai-senki"
+      }
+    }
+  }
+}

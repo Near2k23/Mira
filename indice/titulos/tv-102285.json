@@ -1,0 +1,13 @@
+{
+  "tmdb": 102285,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "恋とプロデューサー～EVOL×LOVE～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koi-to-producer-evollove"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 73245,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Bleach: Verso del infierno",
+  "fuentes": {
+    "tioanime": {
+      "slug": "bleach-jigoku-hen"
+    }
+  }
+}

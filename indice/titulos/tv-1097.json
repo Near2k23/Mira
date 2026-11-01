@@ -1,0 +1,13 @@
+{
+  "tmdb": 1097,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ergo Proxy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ergo-proxy"
+      }
+    }
+  }
+}

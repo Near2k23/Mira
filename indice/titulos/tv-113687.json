@@ -1,0 +1,13 @@
+{
+  "tmdb": 113687,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Remake Our Life!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bokutachi-no-remake"
+      }
+    }
+  }
+}

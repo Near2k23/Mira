@@ -1,0 +1,13 @@
+{
+  "tmdb": 114892,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Platinum End",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "platinum-end"
+      }
+    }
+  }
+}

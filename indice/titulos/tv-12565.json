@@ -1,0 +1,14 @@
+{
+  "tmdb": 12565,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Those Who Hunt Elves",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "those-who-hunt-elves",
+        "2": "those-who-hunt-elves-ii"
+      }
+    }
+  }
+}

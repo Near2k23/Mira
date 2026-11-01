@@ -1,0 +1,13 @@
+{
+  "tmdb": 108912,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "プピポー！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "pupipo"
+      }
+    }
+  }
+}

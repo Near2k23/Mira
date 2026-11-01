@@ -1,0 +1,13 @@
+{
+  "tmdb": 124572,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Healer Girl",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "healer-girl"
+      }
+    }
+  }
+}

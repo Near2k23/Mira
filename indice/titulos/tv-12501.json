@@ -1,0 +1,14 @@
+{
+  "tmdb": 12501,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kaleido Star",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaleido-star"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

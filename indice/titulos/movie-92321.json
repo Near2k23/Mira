@@ -1,0 +1,11 @@
+{
+  "tmdb": 92321,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Hacia el Bosque de las Luciérnagas",
+  "fuentes": {
+    "tioanime": {
+      "slug": "hotarubi-no-mori-e"
+    }
+  }
+}

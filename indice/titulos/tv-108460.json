@@ -1,0 +1,13 @@
+{
+  "tmdb": 108460,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "バトルアスリーテス大運動会 ReSTART!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "battle-athletess-daiundoukai-restart"
+      }
+    }
+  }
+}
