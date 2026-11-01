@@ -1,7 +1,7 @@
 {
  "anio": 2023,
- "mes": 12,
- "pagina": 3,
+ "mes": 0,
+ "pagina": 0,
  "agregados": 699,
  "saltados": [
   {
@@ -169736,5 +169736,6 @@
    "id_o_slug": "1006297",
    "motivo": "no está en vimeus"
   }
- ]
+ ],
+ "terminado": true
 }
