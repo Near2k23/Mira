@@ -1,0 +1,13 @@
+{
+  "tmdb": 194831,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Futoku no Guild",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futoku-no-guild"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 153697,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ayakashi Triangle",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ayakashi-triangle"
+      }
+    }
+  }
+}

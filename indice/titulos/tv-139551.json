@@ -1,0 +1,13 @@
+{
+  "tmdb": 139551,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kami Kuzu Idol",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kami-kuzuidol"
+      }
+    }
+  }
+}

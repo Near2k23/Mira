@@ -1,0 +1,13 @@
+{
+  "tmdb": 205308,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tomo-chan Is a Girl!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tomochan-wa-onnanoko"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 205111,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Tale of Outcasts",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nokemonotachi-no-yoru"
+      }
+    }
+  }
+}

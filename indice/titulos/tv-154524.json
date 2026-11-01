@@ -16,6 +16,11 @@
           }
         ]
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "urusei-yatsura-2022"
+      }
     }
   }
 }

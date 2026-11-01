@@ -1,0 +1,13 @@
+{
+  "tmdb": 153482,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Raven of the Inner Palace",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koukyuu-no-karasu"
+      }
+    }
+  }
+}

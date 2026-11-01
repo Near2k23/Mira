@@ -1,0 +1,13 @@
+{
+  "tmdb": 13915,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Leyenda Lunar Tsukihime",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsukihime"
+      }
+    }
+  }
+}

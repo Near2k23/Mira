@@ -1,0 +1,13 @@
+{
+  "tmdb": 135292,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tribe Nine",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tribe-nine"
+      }
+    }
+  }
+}

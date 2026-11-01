@@ -1,0 +1,13 @@
+{
+  "tmdb": 136841,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Salaryman’s Club",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rymans-club"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 21260,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "タクティカルロア",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tactical-roar"
+      }
+    }
+  }
+}

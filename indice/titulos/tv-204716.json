@@ -1,0 +1,13 @@
+{
+  "tmdb": 204716,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akiba Maid Sensou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akiba-maid-sensou"
+      }
+    }
+  }
+}

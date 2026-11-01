@@ -1,0 +1,14 @@
+{
+  "tmdb": 21897,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Green Green",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "green-green"
+      }
+    }
+  },
+  "nota": "tioanime green-green: 14 cap. vs 12 en TMDB T1; revisar."
+}

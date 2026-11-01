@@ -16,6 +16,11 @@
           }
         ]
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu"
+      }
     }
   }
 }

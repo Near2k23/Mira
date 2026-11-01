@@ -1,0 +1,13 @@
+{
+  "tmdb": 221418,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kawagoe Boys sing",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kawagoe-boys-sing"
+      }
+    }
+  }
+}

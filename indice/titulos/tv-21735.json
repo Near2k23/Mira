@@ -1,0 +1,13 @@
+{
+  "tmdb": 21735,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Macross 7",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "macross-7"
+      }
+    }
+  }
+}

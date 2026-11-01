@@ -1,0 +1,13 @@
+{
+  "tmdb": 130456,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Uchi no Shishou wa Shippo ga Nai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uchi-no-shishou-wa-shippo-ga-nai"
+      }
+    }
+  }
+}

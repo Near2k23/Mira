@@ -1,0 +1,13 @@
+{
+  "tmdb": 211034,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kawaisugi Crisis",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kawaisugi-crisis"
+      }
+    }
+  }
+}

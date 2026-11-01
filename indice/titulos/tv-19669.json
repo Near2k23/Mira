@@ -1,0 +1,13 @@
+{
+  "tmdb": 19669,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "IZUMO -猛き剣の閃記-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "izumo-takeki-tsurugi-no-senki"
+      }
+    }
+  }
+}

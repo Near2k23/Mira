@@ -1,0 +1,13 @@
+{
+  "tmdb": 133197,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kumichou Musume to Sewagakari",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kumichou-musume-to-sewagakari"
+      }
+    }
+  }
+}

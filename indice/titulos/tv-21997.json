@@ -1,0 +1,13 @@
+{
+  "tmdb": 21997,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "絢爛舞踏祭ザ･マーズ･デイブレイク",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kenran-butoh-sai"
+      }
+    }
+  }
+}

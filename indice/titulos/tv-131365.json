@@ -1,0 +1,13 @@
+{
+  "tmdb": 131365,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Wrong Way to Use Healing Magic",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chiyu-mahou-no-machigatta-tsukaikata"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 203045,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Paradox Live THE ANIMATION",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "paradox-live-the-animation"
+      }
+    }
+  }
+}

@@ -16,6 +16,11 @@
           }
         ]
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "rurouni-kenshin-meiji-kenkaku-romantan-2023"
+      }
     }
   }
 }

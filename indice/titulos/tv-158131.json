@@ -1,0 +1,13 @@
+{
+  "tmdb": 158131,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yurei Deco",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yurei-deco"
+      }
+    }
+  }
+}

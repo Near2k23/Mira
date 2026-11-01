@@ -1,0 +1,13 @@
+{
+  "tmdb": 156218,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lucifer and the Biscuit Hammer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hoshi-no-samidare"
+      }
+    }
+  }
+}

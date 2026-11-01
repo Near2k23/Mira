@@ -1,0 +1,15 @@
+{
+  "tmdb": 20111,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mobile Suit Gundam SEED",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mobile-suit-gundam-seed",
+        "2": "mobile-suit-gundam-seed-destiny"
+      }
+    }
+  },
+  "nota": "tioanime mobile-suit-gundam-seed-destiny: 51 cap. vs 50 en TMDB T2; revisar. tioanime mobile-suit-gundam-seed: 51 cap. vs 50 en TMDB T1; revisar."
+}

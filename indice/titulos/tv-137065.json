@@ -6,6 +6,8 @@
   "fuentes": {
     "tioanime": {
       "temporadas": {
+        "1": "arknights-reimei-zensou",
+        "2": "arknights-fuyukomori-kaerimichi",
         "3": "arknights-rise-from-ember"
       }
     },

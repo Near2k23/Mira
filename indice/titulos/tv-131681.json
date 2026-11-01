@@ -1,0 +1,13 @@
+{
+  "tmdb": 131681,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fanfare of Adolescence",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gunjou-no-fanfare"
+      }
+    }
+  }
+}

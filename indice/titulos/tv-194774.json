@@ -1,0 +1,13 @@
+{
+  "tmdb": 194774,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kinsou no Vermeil",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kinsou-no-vermeil"
+      }
+    }
+  }
+}

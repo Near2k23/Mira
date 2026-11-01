@@ -1,0 +1,13 @@
+{
+  "tmdb": 198152,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ONIMAI: I'm Now Your Sister!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "oniichan-wa-oshimai"
+      }
+    }
+  }
+}

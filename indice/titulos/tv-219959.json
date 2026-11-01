@@ -1,0 +1,13 @@
+{
+  "tmdb": 219959,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "花右京メイド隊",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hanaukyo-maid-tai"
+      }
+    }
+  }
+}

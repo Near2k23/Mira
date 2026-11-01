@@ -1,0 +1,13 @@
+{
+  "tmdb": 16525,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "NIGHT HEAD GENESIS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "night-head-genesis"
+      }
+    }
+  }
+}

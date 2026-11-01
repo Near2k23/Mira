@@ -1,0 +1,13 @@
+{
+  "tmdb": 137718,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tomodachi Game",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tomodachi-game"
+      }
+    }
+  }
+}

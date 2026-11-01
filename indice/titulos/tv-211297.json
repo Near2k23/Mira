@@ -1,0 +1,13 @@
+{
+  "tmdb": 211297,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "REVENGER",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "revenger"
+      }
+    }
+  }
+}

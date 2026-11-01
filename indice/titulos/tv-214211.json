@@ -1,0 +1,13 @@
+{
+  "tmdb": 214211,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Marginal Service",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-marginal-service"
+      }
+    }
+  }
+}

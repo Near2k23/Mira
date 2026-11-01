@@ -1,0 +1,13 @@
+{
+  "tmdb": 137045,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tokyo 24th Ward",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tokyo-24ku"
+      }
+    }
+  }
+}

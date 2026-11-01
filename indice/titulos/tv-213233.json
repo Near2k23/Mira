@@ -1,0 +1,13 @@
+{
+  "tmdb": 213233,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "AYAKA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ayaka"
+      }
+    }
+  }
+}

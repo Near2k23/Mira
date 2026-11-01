@@ -1,0 +1,13 @@
+{
+  "tmdb": 19697,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アキハバラ電脳組",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akihabara-dennou-gumi"
+      }
+    }
+  }
+}

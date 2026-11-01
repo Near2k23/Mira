@@ -1,0 +1,13 @@
+{
+  "tmdb": 158293,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shinobi no Ittoki",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shinobi-no-ittoki"
+      }
+    }
+  }
+}

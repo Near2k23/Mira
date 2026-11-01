@@ -1,0 +1,13 @@
+{
+  "tmdb": 19849,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blood+",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blood-plus"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 157345,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Extreme Hearts",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "extreme-hearts"
+      }
+    }
+  }
+}

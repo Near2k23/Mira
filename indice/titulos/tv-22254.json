@@ -1,0 +1,13 @@
+{
+  "tmdb": 22254,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Phantom: Requiem for the Phantom",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "phantom-requiem-for-the-phantom"
+      }
+    }
+  }
+}

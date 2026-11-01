@@ -1,0 +1,13 @@
+{
+  "tmdb": 21918,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Full Moon: Buscando la Luna Llena",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "full-moon-wo-sagashite"
+      }
+    }
+  }
+}

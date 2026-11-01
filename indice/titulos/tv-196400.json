@@ -1,0 +1,13 @@
+{
+  "tmdb": 196400,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mobile Suit Gundam: The Witch from Mercury",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mobile-suit-gundam-the-witch-from-mercury"
+      }
+    }
+  }
+}

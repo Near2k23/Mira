@@ -1,0 +1,13 @@
+{
+  "tmdb": 217404,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Stardust Telepath",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hoshikuzu-telepath"
+      }
+    }
+  }
+}

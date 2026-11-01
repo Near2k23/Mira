@@ -1,0 +1,14 @@
+{
+  "tmdb": 19780,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Onegai Teacher",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "onegai-teacher"
+      }
+    }
+  },
+  "nota": "tioanime onegai-teacher: 13 cap. vs 12 en TMDB T1; revisar."
+}

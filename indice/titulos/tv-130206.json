@@ -1,0 +1,13 @@
+{
+  "tmdb": 130206,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fantasia Sango: Realm of Legends",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gensou-sangokushi-tengen-reishinki"
+      }
+    }
+  }
+}

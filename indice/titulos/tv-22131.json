@@ -1,0 +1,13 @@
+{
+  "tmdb": 22131,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "プリズムアーク",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "prism-ark"
+      }
+    }
+  }
+}

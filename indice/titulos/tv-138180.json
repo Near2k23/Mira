@@ -1,0 +1,13 @@
+{
+  "tmdb": 138180,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "In the Heart of Kunoichi Tsubaki",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kunoichi-tsubaki-no-mune-no-uchi"
+      }
+    }
+  }
+}

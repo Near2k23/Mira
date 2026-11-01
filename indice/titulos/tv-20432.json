@@ -1,0 +1,13 @@
+{
+  "tmdb": 20432,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SPEED GRAPHER",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "speed-grapher"
+      }
+    }
+  }
+}

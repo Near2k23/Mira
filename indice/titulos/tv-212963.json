@@ -1,0 +1,13 @@
+{
+  "tmdb": 212963,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Buddy Daddies",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "buddy-daddies"
+      }
+    }
+  }
+}

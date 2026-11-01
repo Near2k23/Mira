@@ -1,0 +1,13 @@
+{
+  "tmdb": 20177,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "おねがい☆ツインズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "onegai-twins"
+      }
+    }
+  }
+}

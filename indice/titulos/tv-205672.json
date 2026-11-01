@@ -1,0 +1,13 @@
+{
+  "tmdb": 205672,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fluffy Paradise",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 203780,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Beast Tamer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "beast-tamer"
+      }
+    }
+  }
+}

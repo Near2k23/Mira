@@ -1,0 +1,13 @@
+{
+  "tmdb": 21311,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Michiko to Hatchin",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "michiko-to-hatchin"
+      }
+    }
+  }
+}

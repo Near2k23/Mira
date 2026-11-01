@@ -1,0 +1,13 @@
+{
+  "tmdb": 21315,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Night Walker -真夜中の探偵-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "night-walker-mayonaka-no-tantei"
+      }
+    }
+  }
+}

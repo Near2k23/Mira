@@ -1,0 +1,13 @@
+{
+  "tmdb": 209217,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Human Crazy University",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "human-bug-daigaku"
+      }
+    }
+  }
+}

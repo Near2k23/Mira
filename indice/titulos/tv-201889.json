@@ -1,0 +1,13 @@
+{
+  "tmdb": 201889,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kubo-san wa Mob wo Yurusanai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kubosan-wa-mob-wo-yurusanai"
+      }
+    }
+  }
+}

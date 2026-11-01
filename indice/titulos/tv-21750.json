@@ -1,0 +1,13 @@
+{
+  "tmdb": 21750,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Higashi No Eden",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "higashi-no-eden"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 220779,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El gran clérigo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seija-musou"
+      }
+    }
+  }
+}

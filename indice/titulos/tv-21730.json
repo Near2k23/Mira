@@ -1,0 +1,13 @@
+{
+  "tmdb": 21730,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mobile Suit Gundam Wing",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mobile-suit-gundam-wing"
+      }
+    }
+  }
+}

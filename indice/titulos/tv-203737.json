@@ -20,6 +20,11 @@
           }
         ]
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "oshi-no-ko"
+      }
     }
   }
 }

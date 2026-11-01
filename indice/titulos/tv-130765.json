@@ -1,0 +1,13 @@
+{
+  "tmdb": 130765,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Love All Play",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "love-all-play"
+      }
+    }
+  }
+}

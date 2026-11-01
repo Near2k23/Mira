@@ -1,0 +1,13 @@
+{
+  "tmdb": 218563,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rokudo's Bad Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rokudou-no-onnatachi"
+      }
+    }
+  }
+}

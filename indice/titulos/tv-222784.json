@@ -1,0 +1,13 @@
+{
+  "tmdb": 222784,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mr. Villain's Day Off",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kyuujitsu-no-warumonosan"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 154901,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Teppen!!!!!!!!!!!!!!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "teppen"
+      }
+    }
+  }
+}

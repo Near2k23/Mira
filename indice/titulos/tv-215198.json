@@ -1,0 +1,13 @@
+{
+  "tmdb": 215198,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Stella of the Theater: World Dai Star",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "world-dai-star"
+      }
+    }
+  }
+}

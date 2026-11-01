@@ -1,0 +1,13 @@
+{
+  "tmdb": 131083,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rusted Armors",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sabiiro-no-armor-reimei"
+      }
+    }
+  }
+}

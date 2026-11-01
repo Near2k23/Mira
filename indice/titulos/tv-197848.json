@@ -1,0 +1,13 @@
+{
+  "tmdb": 197848,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Unwanted Undead Adventurer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nozomanu-fushi-no-boukensha"
+      }
+    }
+  }
+}

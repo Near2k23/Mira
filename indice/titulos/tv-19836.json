@@ -1,0 +1,20 @@
+{
+  "tmdb": 19836,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔法少女リリカルなのは",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magical-girl-lyrical-nanoha",
+        "2": "magical-girl-lyrical-nanoha-as",
+        "3": "magical-girl-lyrical-nanoha-strikers",
+        "4": "mahou-shoujo-lyrical-nanoha-vivid"
+      },
+      "desfase": {
+        "3": 1
+      }
+    }
+  },
+  "nota": "tioanime magical-girl-lyrical-nanoha-strikers: 25 cap. vs 26 en TMDB T3; revisar."
+}

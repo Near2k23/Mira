@@ -1,0 +1,13 @@
+{
+  "tmdb": 19855,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blue Gender",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blue-gender"
+      }
+    }
+  }
+}

@@ -9,6 +9,12 @@
         "1": "ishura",
         "2": "ishura-2nd-season"
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ishura"
+      },
+      "numeracion": "absoluta"
     }
   }
 }

@@ -1,0 +1,13 @@
+{
+  "tmdb": 203192,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KanColle: Itsuka Ano Umi de",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kancolle-itsuka-ano-umi-de"
+      }
+    }
+  }
+}

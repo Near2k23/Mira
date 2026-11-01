@@ -1,0 +1,13 @@
+{
+  "tmdb": 195924,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shine on! Bakumatsu Bad Boys",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bucchigire"
+      }
+    }
+  }
+}

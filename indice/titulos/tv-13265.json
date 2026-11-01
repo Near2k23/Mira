@@ -1,0 +1,13 @@
+{
+  "tmdb": 13265,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dennou Coil",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dennou-coil"
+      }
+    }
+  }
+}

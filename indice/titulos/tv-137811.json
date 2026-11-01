@@ -1,0 +1,13 @@
+{
+  "tmdb": 137811,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Technoroid: OVERMIND",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "technoroid-overmind"
+      }
+    }
+  }
+}

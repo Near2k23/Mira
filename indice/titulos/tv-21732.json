@@ -1,0 +1,14 @@
+{
+  "tmdb": 21732,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mobile Suit Gundam 00",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gundam-00",
+        "2": "gundam-00-2nd-season"
+      }
+    }
+  }
+}

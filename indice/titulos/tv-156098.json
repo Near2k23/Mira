@@ -1,0 +1,13 @@
+{
+  "tmdb": 156098,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Alice Gear Aegis Expansion",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "alice-gear-aegis-expansion"
+      }
+    }
+  }
+}

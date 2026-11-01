@@ -1,0 +1,13 @@
+{
+  "tmdb": 137194,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shine Post",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shine-post"
+      }
+    }
+  }
+}

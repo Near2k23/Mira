@@ -1,0 +1,13 @@
+{
+  "tmdb": 16830,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hellsing",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hellsing"
+      }
+    }
+  }
+}

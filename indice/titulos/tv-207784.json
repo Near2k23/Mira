@@ -1,0 +1,13 @@
+{
+  "tmdb": 207784,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tragones y mazmorras",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dungeon-meshi"
+      }
+    }
+  }
+}

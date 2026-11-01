@@ -1,0 +1,13 @@
+{
+  "tmdb": 13674,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "機動戦士Zガンダム",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mobile-suit-zeta-gundam"
+      }
+    }
+  }
+}

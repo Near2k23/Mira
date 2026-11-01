@@ -1,0 +1,13 @@
+{
+  "tmdb": 22366,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "One Outs",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "one-outs"
+      }
+    }
+  }
+}

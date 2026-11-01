@@ -1,0 +1,13 @@
+{
+  "tmdb": 211057,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Berserk: La Edad de Oro – Memorial Edition",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "berserk-ougon-jidaihen-memorial-edition"
+      }
+    }
+  }
+}

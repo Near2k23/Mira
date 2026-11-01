@@ -1,0 +1,13 @@
+{
+  "tmdb": 195990,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Renai Flops",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "renai-flops"
+      }
+    }
+  }
+}

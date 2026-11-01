@@ -1,0 +1,13 @@
+{
+  "tmdb": 196042,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Opus.COLORs",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "opuscolors"
+      }
+    }
+  }
+}

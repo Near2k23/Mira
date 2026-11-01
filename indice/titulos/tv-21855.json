@@ -1,0 +1,13 @@
+{
+  "tmdb": 21855,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "07-Ghost",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "07-ghost"
+      }
+    }
+  }
+}

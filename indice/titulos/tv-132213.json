@@ -1,0 +1,13 @@
+{
+  "tmdb": 132213,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Heroines Run the Show",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto"
+      }
+    }
+  }
+}

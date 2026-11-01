@@ -1,0 +1,13 @@
+{
+  "tmdb": 20450,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Witchblade",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "witchblade"
+      }
+    }
+  }
+}

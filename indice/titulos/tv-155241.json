@@ -1,0 +1,14 @@
+{
+  "tmdb": 155241,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mahjong Soul Pon☆",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jantama-pong"
+      }
+    }
+  },
+  "nota": "tioanime jantama-pong: 12 cap. vs 11 en TMDB T1; revisar."
+}

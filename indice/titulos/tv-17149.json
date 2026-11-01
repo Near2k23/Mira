@@ -1,0 +1,13 @@
+{
+  "tmdb": 17149,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ヴァンパイア騎士",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vampire-knight-guilty"
+      }
+    }
+  }
+}

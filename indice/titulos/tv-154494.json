@@ -1,0 +1,13 @@
+{
+  "tmdb": 154494,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lycoris Recoil",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lycoris-recoil"
+      }
+    }
+  }
+}

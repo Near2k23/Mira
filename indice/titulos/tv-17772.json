@@ -1,0 +1,13 @@
+{
+  "tmdb": 17772,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "鋼鉄神ジーグ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kotetsushin-jeeg"
+      }
+    }
+  }
+}

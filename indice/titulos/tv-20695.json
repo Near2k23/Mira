@@ -1,0 +1,13 @@
+{
+  "tmdb": 20695,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yu-Gi-Oh! 5D's",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yu-gi-oh-5ds"
+      }
+    }
+  }
+}

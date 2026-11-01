@@ -1,0 +1,13 @@
+{
+  "tmdb": 211093,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アルスの巨獣",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ars-no-kyojuu"
+      }
+    }
+  }
+}

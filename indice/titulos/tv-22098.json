@@ -1,0 +1,13 @@
+{
+  "tmdb": 22098,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El Hazard: The Wanderers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "el-hazard-the-wanderers"
+      }
+    }
+  }
+}

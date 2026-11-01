@@ -1,0 +1,17 @@
+{
+  "tmdb": 13452,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Las aventuras de Saint Tail",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saint-tail"
+      },
+      "desfase": {
+        "1": 1
+      }
+    }
+  },
+  "nota": "tioanime saint-tail: 42 cap. vs 43 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 156688,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Fire Hunter",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hikari-no-ou"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 202770,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Warau Arsnotoria Sun!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "warau-arsnotoria-sun"
+      }
+    }
+  }
+}

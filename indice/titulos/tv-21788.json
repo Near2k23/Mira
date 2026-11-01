@@ -1,0 +1,13 @@
+{
+  "tmdb": 21788,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Peace Maker Kurogane",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "peace-maker-kurogane"
+      }
+    }
+  }
+}
