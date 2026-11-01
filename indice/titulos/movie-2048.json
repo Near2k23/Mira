@@ -1,0 +1,10 @@
+{
+  "tmdb": 2048,
+  "tipo": "movie",
+  "categoria": "movie",
+  "titulo": "Yo, Robot",
+  "fuentes": {
+    "vimeus": {},
+    "embed69": {}
+  }
+}
