@@ -1,0 +1,18 @@
+{
+  "tmdb": 224207,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BanG Dream! It's MyGO!!!!!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "bang-dream-its-mygo"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "bang-dream-its-mygo"
+      }
+    }
+  }
+}

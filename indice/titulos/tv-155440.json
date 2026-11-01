@@ -1,0 +1,18 @@
+{
+  "tmdb": 155440,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimi wa Houkago Insomnia",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kimi-wa-houkago-insomnia"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-wa-houkago-insomnia"
+      }
+    }
+  }
+}

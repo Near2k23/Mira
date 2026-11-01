@@ -1,0 +1,18 @@
+{
+  "tmdb": 196220,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lv1 Maou to One Room Yuusha",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "lv1-maou-to-one-room-yuusha"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "lv1-maou-to-one-room-yuusha"
+      }
+    }
+  }
+}

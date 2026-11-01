@@ -1,0 +1,18 @@
+{
+  "tmdb": 222625,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega"
+      }
+    }
+  }
+}

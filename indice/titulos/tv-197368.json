@@ -1,0 +1,14 @@
+{
+  "tmdb": 197368,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ao no Orchestra",
+  "nota": "Temporadas omitidas por no cuadrar episodios: ao-no-orchestra: 24 eps en el sitio vs 45 en TMDB (absoluta)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ao-no-orchestra"
+      }
+    }
+  }
+}

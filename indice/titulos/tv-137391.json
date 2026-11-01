@@ -1,0 +1,18 @@
+{
+  "tmdb": 137391,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Isekai Shoukan wa Nidome desu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "isekai-shoukan-wa-nidome-desu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-shoukan-wa-nidome-desu"
+      }
+    }
+  }
+}

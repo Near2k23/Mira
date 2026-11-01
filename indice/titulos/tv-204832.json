@@ -1,0 +1,21 @@
+{
+  "tmdb": 204832,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mashle",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "mashle",
+            "episodios": 12
+          },
+          {
+            "slug": "mashle-shinkakusha-kouho-senbatsu-shiken-hen"
+          }
+        ]
+      }
+    }
+  }
+}

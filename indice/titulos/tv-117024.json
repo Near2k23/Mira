@@ -1,0 +1,18 @@
+{
+  "tmdb": 117024,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Niehime to Kemono no Ou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "niehime-to-kemono-no-ou"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "niehime-to-kemono-no-ou"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 207521,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Okashi na Tensei",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "okashi-na-tensei"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "okashi-na-tensei"
+      }
+    }
+  }
+}

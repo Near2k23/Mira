@@ -668,7 +668,33 @@
   "tv-223780": "nuevo",
   "movie-845387": "nuevo",
   "movie-1108306": "nuevo",
-  "movie-508883": "nuevo"
+  "movie-508883": "nuevo",
+  "tv-69295": "nuevo",
+  "tv-117024": "nuevo",
+  "tv-137390": "nuevo",
+  "tv-137391": "nuevo",
+  "tv-155440": "nuevo",
+  "tv-196220": "nuevo",
+  "tv-197368": "nuevo",
+  "tv-200732": "nuevo",
+  "tv-204832": "nuevo",
+  "tv-204849": "nuevo",
+  "tv-205366": "nuevo",
+  "tv-207521": "nuevo",
+  "tv-207743": "nuevo",
+  "tv-209649": "nuevo",
+  "tv-214540": "nuevo",
+  "tv-214547": "nuevo",
+  "tv-214651": "nuevo",
+  "tv-217390": "nuevo",
+  "tv-218263": "nuevo",
+  "tv-222625": "nuevo",
+  "tv-223251": "nuevo",
+  "tv-224207": "nuevo",
+  "tv-228663": "nuevo",
+  "movie-1056803": "nuevo",
+  "movie-812225": "nuevo",
+  "movie-1012652": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -782,7 +808,15 @@
   "nanatsu-no-taizai-ensa-no-edinburgh-part-2": "no está en TMDB / no ubicado",
   "shiguang-dailiren-ii": "no está en TMDB / no ubicado",
   "tonikaku-kawaii-joshikou-hen": "no está en TMDB / no ubicado",
-  "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi": "no está en TMDB / no ubicado"
+  "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi": "no está en TMDB / no ubicado",
+  "bishoujo-senshi-sailor-moon-cosmos-movie": "varias coincidencias en TMDB",
+  "fate-strange-fake-whispers-of-dawn": "Especial",
+  "biao-ren": "no está en TMDB / no ubicado",
+  "tenchi-muyou-gxp-paradise-shidou-hen": "OVA",
+  "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-ova": "OVA",
+  "aishang-ta-de-liyou": "no está en TMDB / no ubicado",
+  "majutsushi-orphen-hagure-tabi-seiiki-hen": "no está en TMDB / no ubicado",
+  "aiyou-de-mishi": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -792,7 +826,8 @@
   "tv-68854",
   "tv-46195",
   "tv-236385",
-  "tv-93816"
+  "tv-93816",
+  "tv-197368"
  ],
  "paginas": {
   "latest_released 1-2": {
@@ -892,6 +927,11 @@
   },
   "latest_released 41-42": {
    "agregados": 22,
+   "completados": 0,
+   "saltados": 8
+  },
+  "latest_released 43-44": {
+   "agregados": 26,
    "completados": 0,
    "saltados": 8
   }

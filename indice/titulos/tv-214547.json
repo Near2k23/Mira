@@ -1,0 +1,18 @@
+{
+  "tmdb": 214547,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "jijou-wo-shiranai-tenkousei-ga-guigui-kuru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "jijou-wo-shiranai-tenkousei-ga-guigui-kuru"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 217390,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "uchi-no-kaisha-no-chiisai-senpai-no-hanashi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "uchi-no-kaisha-no-chiisai-senpai-no-hanashi"
+      }
+    }
+  }
+}

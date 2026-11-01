@@ -1,0 +1,18 @@
+{
+  "tmdb": 205366,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kanojo-ga-koushaku-tei-ni-itta-riyuu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kanojo-ga-koushakutei-ni-itta-riyuu"
+      }
+    }
+  }
+}

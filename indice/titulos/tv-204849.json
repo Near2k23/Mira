@@ -1,0 +1,18 @@
+{
+  "tmdb": 204849,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Genjitsu no Yohane: Sunshine in the Mirror",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "genjitsu-no-yohane-sunshine-in-the-mirror"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "genjitsu-no-yohane-sunshine-in-the-mirror"
+      }
+    }
+  }
+}

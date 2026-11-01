@@ -1,0 +1,34 @@
+{
+  "tmdb": 137390,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Birdie Wing: Golf Girls' Story",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "birdie-wing-golf-girls-story",
+            "episodios": 13
+          },
+          {
+            "slug": "birdie-wing-golf-girls-story-season-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "birdie-wing-golf-girls-story",
+            "episodios": 13
+          },
+          {
+            "slug": "birdie-wing-golf-girls-story-season-2"
+          }
+        ]
+      }
+    }
+  }
+}

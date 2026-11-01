@@ -1,0 +1,18 @@
+{
+  "tmdb": 228663,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Horimiya: Piece",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "horimiya-piece"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "horimiya-piece"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 218263,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Suki na Ko ga Megane wo Wasureta",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "suki-na-ko-ga-megane-wo-wasureta"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "suki-na-ko-ga-megane-wo-wasureta"
+      }
+    }
+  }
+}

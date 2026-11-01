@@ -1,0 +1,18 @@
+{
+  "tmdb": 200732,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Otonari ni Ginga",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "otonari-ni-ginga"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "otonari-ni-ginga"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 207743,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ousama Ranking: Yuuki no Takarabako",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ousama-ranking-yuuki-no-takarabako"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ousama-ranking-yuuki-no-takarabako"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tmdb": 214540,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dead Mount Death Play",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "dead-mount-death-play",
+            "episodios": 12
+          },
+          {
+            "slug": "dead-mount-death-play-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

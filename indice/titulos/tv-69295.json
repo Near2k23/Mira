@@ -1,0 +1,19 @@
+{
+  "tmdb": 69295,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Masamune-kun no Revenge",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "masamune-kun-no-revenge",
+        "2": "masamune-kun-no-revenge-r"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "masamunekun-no-revenge-r"
+      }
+    }
+  }
+}

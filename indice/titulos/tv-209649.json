@@ -1,0 +1,18 @@
+{
+  "tmdb": 209649,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Jitsu wa Ore, Saikyou deshita?",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "jitsu-wa-ore-saikyou-deshita"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "jitsu-wa-ore-saikyou-deshita"
+      }
+    }
+  }
+}
