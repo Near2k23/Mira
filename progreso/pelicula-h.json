@@ -1,8 +1,8 @@
 {
  "anio": 2024,
  "mes": 10,
- "pagina": 2,
- "agregados": 421,
+ "pagina": 9,
+ "agregados": 446,
  "saltados": [
   {
    "id_o_slug": "586353",
@@ -131530,6 +131530,466 @@
   },
   {
    "id_o_slug": "1352582",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1002155",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1483746",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1381185",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1316838",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1241894",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1372212",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1228682",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1684827",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1327772",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1363093",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1352049",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1239511",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "930994",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1357922",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1362328",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1282138",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1274379",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1130276",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1357819",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1362528",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1265196",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1158996",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1366794",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1030600",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1401336",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "927342",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1247597",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1374382",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1373514",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1141126",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1566603",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1273487",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1002398",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1387458",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1248954",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1450940",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1397956",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1358942",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "730251",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1598361",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "387660",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1366106",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1370027",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1171634",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1378036",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1224327",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1372684",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1467002",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1364970",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1365747",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1342333",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1340168",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1361526",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1392085",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1365018",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1399158",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1187967",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1367782",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1358280",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1377623",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1368827",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1356232",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1354627",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1366830",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1722092",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1363598",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1001684",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1379453",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1274590",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1278047",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1375542",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1378763",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1378693",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1300293",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1500035",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1401973",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1214489",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1381158",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "706693",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1436920",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1352369",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1256604",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1376917",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1365120",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1434213",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1563151",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1735988",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1363662",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1315981",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1360389",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1275025",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1798863",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1416510",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1295000",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1799573",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1144954",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1291199",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1322219",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1308546",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1108336",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1222947",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1379074",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1279907",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1369630",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1378548",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1388303",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1248055",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1182881",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1381949",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1358757",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1358937",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1682996",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1287914",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1357943",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1210794",
    "motivo": "no está en vimeus"
   }
  ]
