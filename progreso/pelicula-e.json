@@ -1,7 +1,7 @@
 {
  "anio": 2004,
  "mes": 8,
- "pagina": 1,
+ "pagina": 2,
  "agregados": 50,
  "saltados": [
   {
@@ -32295,7 +32295,87 @@
   {
    "id_o_slug": "708601",
    "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "21712",
+   "motivo": "animación japonesa (tarea anime)"
+  },
+  {
+   "id_o_slug": "9282",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "11026",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "694370",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "61165",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1502901",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "10762",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "11052",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "33908",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "83",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "18497",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "14024",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "579136",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "10257",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "48895",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "116560",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "594232",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "587253",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "282140",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "57474",
+   "motivo": "no está en vimeus"
   }
  ],
- "paginas_recorridas": 410
+ "paginas_recorridas": 411
 }
