@@ -1,0 +1,34 @@
+{
+  "tmdb": 104711,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Edens Zero",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "edens-zero",
+            "episodios": 25
+          },
+          {
+            "slug": "edens-zero-2nd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "edens-zero",
+            "episodios": 25
+          },
+          {
+            "slug": "edens-zero-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

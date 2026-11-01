@@ -1,0 +1,34 @@
+{
+  "tmdb": 118017,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tokyo Mew Mew New ♡",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "tokyo-mew-mew-new",
+            "episodios": 12
+          },
+          {
+            "slug": "tokyo-mew-mew-new-2nd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "tokyo-mew-mew-new",
+            "episodios": 12
+          },
+          {
+            "slug": "tokyo-mew-mew-new-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

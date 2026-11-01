@@ -1,0 +1,20 @@
+{
+  "tmdb": 139130,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Skip to Loafer",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "skip-to-loafer"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "skip-to-loafer"
+      }
+    }
+  }
+}

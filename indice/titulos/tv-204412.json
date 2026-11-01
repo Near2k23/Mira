@@ -1,0 +1,18 @@
+{
+  "tmdb": 204412,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "My Home Hero",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "my-home-hero"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "my-home-hero"
+      }
+    }
+  }
+}

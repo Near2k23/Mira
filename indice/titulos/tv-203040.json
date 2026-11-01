@@ -1,0 +1,18 @@
+{
+  "tmdb": 203040,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kono Subarashii Sekai ni Bakuen wo!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kono-subarashii-sekai-ni-bakuen-wo"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kono-subarashii-sekai-ni-bakuen-wo"
+      }
+    }
+  }
+}

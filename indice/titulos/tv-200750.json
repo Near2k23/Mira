@@ -1,0 +1,18 @@
+{
+  "tmdb": 200750,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yuusha ga Shinda!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yuusha-ga-shinda"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yuusha-ga-shinda"
+      }
+    }
+  }
+}

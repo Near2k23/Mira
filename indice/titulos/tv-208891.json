@@ -1,0 +1,18 @@
+{
+  "tmdb": 208891,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tengoku Daimakyou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tengoku-daimakyou"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tengoku-daimakyou"
+      }
+    }
+  }
+}

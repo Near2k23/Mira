@@ -1,0 +1,20 @@
+{
+  "tmdb": 87456,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mix: Meisei Story",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mix-meisei-story",
+        "2": "mix-meisei-story-2nd-season-nidome-no-natsu-sora-no-mukou-e"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mix-meisei-story",
+        "2": "mix-meisei-story-2nd-season"
+      }
+    }
+  }
+}

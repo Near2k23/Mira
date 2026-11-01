@@ -1,0 +1,20 @@
+{
+  "tmdb": 100049,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tonikaku Kawaii",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tonikaku-kawaii",
+        "2": "tonikaku-kawaii-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tonikaku-kawaii",
+        "2": "tonikaku-kawaii-2nd-season"
+      }
+    }
+  }
+}

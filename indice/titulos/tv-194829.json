@@ -1,0 +1,18 @@
+{
+  "tmdb": 194829,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "isekai-one-turn-kill-neesan-ane-douhan-no-isekai-seikatsu-hajimemashita"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-one-turn-kill-neesan"
+      }
+    }
+  }
+}

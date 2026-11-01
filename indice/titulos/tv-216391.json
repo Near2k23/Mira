@@ -1,0 +1,18 @@
+{
+  "tmdb": 216391,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The iDOLM@STER Cinderella Girls: U149",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "the-idolmster-cinderella-girls-u149"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "the-idolmster-cinderella-girls-u149"
+      }
+    }
+  }
+}

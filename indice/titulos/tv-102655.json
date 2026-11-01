@@ -1,0 +1,20 @@
+{
+  "tmdb": 102655,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "D4DJ First Mix",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "d4dj-first-mix",
+        "2": "d4dj-all-mix"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "d4dj-first-mix",
+        "2": "d4dj-all-mix"
+      }
+    }
+  }
+}

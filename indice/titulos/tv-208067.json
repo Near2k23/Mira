@@ -1,0 +1,18 @@
+{
+  "tmdb": 208067,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yamada-kun to Lv999 no Koi wo Suru",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yamada-kun-to-lv999-no-koi-wo-suru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yamadakun-to-lv999-no-koi-wo-suru"
+      }
+    }
+  }
+}

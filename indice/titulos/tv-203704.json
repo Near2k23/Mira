@@ -1,0 +1,13 @@
+{
+  "tmdb": 203704,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Itou Junji: Maniac",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "itou-junji-maniac"
+      }
+    }
+  }
+}

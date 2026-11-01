@@ -1,0 +1,18 @@
+{
+  "tmdb": 199920,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kaminaki Sekai no Kamisama Katsudou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kaminaki-sekai-no-kamisama-katsudou"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kaminaki-sekai-no-kamisama-katsudou"
+      }
+    }
+  }
+}

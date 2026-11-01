@@ -1,0 +1,20 @@
+{
+  "tmdb": 97782,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kuma Kuma Kuma Bear",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kuma-kuma-kuma-bear",
+        "2": "kuma-kuma-kuma-bear-punch"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kuma-kuma-kuma-bear",
+        "2": "kuma-kuma-kuma-bear-punch"
+      }
+    }
+  }
+}

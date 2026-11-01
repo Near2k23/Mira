@@ -1,0 +1,18 @@
+{
+  "tmdb": 133282,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mahou Shoujo Magical Destroyers",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mahou-shoujo-magical-destroyers"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mahou-shoujo-magical-destroyers"
+      }
+    }
+  }
+}

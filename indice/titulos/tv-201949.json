@@ -1,0 +1,18 @@
+{
+  "tmdb": 201949,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Watashi no Yuri wa Oshigoto desu!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "watashi-no-yuri-wa-oshigoto-desu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "watashi-no-yuri-wa-oshigoto-desu"
+      }
+    }
+  }
+}

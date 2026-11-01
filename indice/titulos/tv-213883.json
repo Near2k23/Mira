@@ -1,0 +1,13 @@
+{
+  "tmdb": 213883,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hirogaru Sky! Precure",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hirogaru-sky-precure"
+      }
+    }
+  }
+}

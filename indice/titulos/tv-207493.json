@@ -1,0 +1,18 @@
+{
+  "tmdb": 207493,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tensei-kizoku-no-isekai-boukenroku"
+      }
+    }
+  }
+}

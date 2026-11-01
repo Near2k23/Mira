@@ -1,0 +1,20 @@
+{
+  "tmdb": 72505,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Isekai wa Smartphone to Tomo ni.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "isekai-wa-smartphone-to-tomo-ni",
+        "2": "isekai-wa-smartphone-to-tomo-ni-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-wa-smartphone-to-tomo-ni",
+        "2": "isekai-wa-smartphone-to-tomo-ni-2"
+      }
+    }
+  }
+}

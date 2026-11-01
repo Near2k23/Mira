@@ -1,0 +1,20 @@
+{
+  "tmdb": 117706,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+        "2": "shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+        "2": "shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei"
+      }
+    }
+  }
+}

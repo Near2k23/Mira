@@ -1,0 +1,18 @@
+{
+  "tmdb": 207250,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boku no Kokoro no Yabai Yatsu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "boku-no-kokoro-no-yabai-yatsu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "boku-no-kokoro-no-yabai-yatsu"
+      }
+    }
+  }
+}

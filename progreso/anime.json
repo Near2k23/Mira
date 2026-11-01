@@ -694,7 +694,34 @@
   "tv-228663": "nuevo",
   "movie-1056803": "nuevo",
   "movie-812225": "nuevo",
-  "movie-1012652": "nuevo"
+  "movie-1012652": "nuevo",
+  "tv-72505": "nuevo",
+  "tv-87456": "nuevo",
+  "tv-97782": "nuevo",
+  "tv-100049": "nuevo",
+  "tv-102655": "nuevo",
+  "tv-104711": "nuevo",
+  "tv-117706": "nuevo",
+  "tv-118017": "nuevo",
+  "tv-133282": "nuevo",
+  "tv-139130": "nuevo",
+  "tv-156013": "nuevo",
+  "tv-194829": "nuevo",
+  "tv-199920": "nuevo",
+  "tv-200750": "nuevo",
+  "tv-201949": "nuevo",
+  "tv-203040": "nuevo",
+  "tv-203704": "nuevo",
+  "tv-204112": "nuevo",
+  "tv-204412": "nuevo",
+  "tv-207250": "nuevo",
+  "tv-207493": "nuevo",
+  "tv-208067": "nuevo",
+  "tv-208493": "nuevo",
+  "tv-208891": "nuevo",
+  "tv-213883": "nuevo",
+  "tv-216391": "nuevo",
+  "movie-998731": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -816,7 +843,16 @@
   "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-ova": "OVA",
   "aishang-ta-de-liyou": "no está en TMDB / no ubicado",
   "majutsushi-orphen-hagure-tabi-seiiki-hen": "no está en TMDB / no ubicado",
-  "aiyou-de-mishi": "no está en TMDB / no ubicado"
+  "aiyou-de-mishi": "no está en TMDB / no ubicado",
+  "princess-principal-crown-handler-3": "varias coincidencias en TMDB",
+  "gridman-universe": "varias coincidencias en TMDB",
+  "inu-ni-nattara-suki-na-hito-ni-hirowareta-specials": "no está en TMDB / no ubicado",
+  "shingeki-no-kyojin-the-final-season-kanketsu-hen": "Especial",
+  "buddy-daddies-intermission-cherry-pick": "Especial",
+  "zuoshou-shanglan": "no está en TMDB / no ubicado",
+  "lupin-iii-vs-cats-eye": "no está en TMDB / no ubicado",
+  "wu-liuqi-anying-suming": "no está en TMDB / no ubicado",
+  "cardfight-vanguard-willdress-season-2": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -934,6 +970,11 @@
    "agregados": 26,
    "completados": 0,
    "saltados": 8
+  },
+  "latest_released 45-46": {
+   "agregados": 27,
+   "completados": 0,
+   "saltados": 10
   }
  }
 }
