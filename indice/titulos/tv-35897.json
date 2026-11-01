@@ -1,0 +1,13 @@
+{
+  "tmdb": 35897,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔界戦記ディスガイア",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "makai-senki-disgaea"
+      }
+    }
+  }
+}

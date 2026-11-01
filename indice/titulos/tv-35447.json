@@ -1,0 +1,13 @@
+{
+  "tmdb": 35447,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shinryaku! Ika Musume",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shinryaku-ika-musume"
+      }
+    }
+  }
+}

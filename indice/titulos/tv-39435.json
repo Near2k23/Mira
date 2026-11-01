@@ -1,0 +1,13 @@
+{
+  "tmdb": 39435,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "C: The Money of Soul and Possibility Control",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "c-the-money-of-soul"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34188,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Princess Lover!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "princess-lover"
+      }
+    }
+  }
+}

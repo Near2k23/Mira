@@ -1,0 +1,13 @@
+{
+  "tmdb": 34784,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "OVERMANキングゲイナー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "overman-king-gainer"
+      }
+    }
+  }
+}

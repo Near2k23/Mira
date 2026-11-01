@@ -1,0 +1,13 @@
+{
+  "tmdb": 34751,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Steel Angel Kurumi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "steel-angel-kurumi"
+      }
+    }
+  }
+}

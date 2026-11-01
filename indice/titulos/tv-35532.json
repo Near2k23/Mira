@@ -1,0 +1,13 @@
+{
+  "tmdb": 35532,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "みつどもえ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mitsudomoe"
+      }
+    }
+  }
+}

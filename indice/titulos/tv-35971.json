@@ -1,0 +1,13 @@
+{
+  "tmdb": 35971,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Pandora Hearts",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "pandora-hearts"
+      }
+    }
+  }
+}

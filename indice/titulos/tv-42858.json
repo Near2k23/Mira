@@ -1,0 +1,15 @@
+{
+  "tmdb": 42858,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Galaxy Angel",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "galaxy-angel",
+        "3": "galaxy-angel-3",
+        "4": "galaxy-angel-4"
+      }
+    }
+  }
+}

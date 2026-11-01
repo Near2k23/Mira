@@ -1,0 +1,13 @@
+{
+  "tmdb": 42830,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seirei no Moribito",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seirei-no-moribito"
+      }
+    }
+  }
+}

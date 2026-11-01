@@ -1,0 +1,14 @@
+{
+  "tmdb": 42567,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ai Yori Aoshi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ai-yori-aoshi",
+        "2": "ai-yori-aoshi-enishi"
+      }
+    }
+  }
+}

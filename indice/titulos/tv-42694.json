@@ -1,0 +1,13 @@
+{
+  "tmdb": 42694,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Di Gi Charat",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "di-gi-charat"
+      }
+    }
+  }
+}

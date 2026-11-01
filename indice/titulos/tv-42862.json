@@ -1,0 +1,13 @@
+{
+  "tmdb": 42862,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "マーメイドメロディーぴちぴちピッチ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mermaid-melody-pichi-pichi-pitch"
+      }
+    }
+  }
+}

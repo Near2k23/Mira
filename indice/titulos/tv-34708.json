@@ -1,0 +1,16 @@
+{
+  "tmdb": 34708,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Genshiken",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "genshiken",
+        "2": "genshiken-2",
+        "3": "genshiken-nidaime"
+      }
+    }
+  },
+  "nota": "tioanime genshiken-nidaime: 14 cap. vs 13 en TMDB T3; revisar."
+}

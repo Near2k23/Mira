@@ -1,0 +1,13 @@
+{
+  "tmdb": 36877,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SHUFFLE!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shuffle"
+      }
+    }
+  }
+}

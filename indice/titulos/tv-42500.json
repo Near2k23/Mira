@@ -1,0 +1,13 @@
+{
+  "tmdb": 42500,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lucky Star",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lucky-star"
+      }
+    }
+  }
+}

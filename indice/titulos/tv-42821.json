@@ -1,0 +1,13 @@
+{
+  "tmdb": 42821,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Welcome to the NHK",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "welcome-to-the-nhk"
+      }
+    }
+  }
+}

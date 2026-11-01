@@ -1,0 +1,13 @@
+{
+  "tmdb": 34210,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "爆れつハンター",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bakuretsu-hunters"
+      }
+    }
+  }
+}

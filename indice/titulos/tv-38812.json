@@ -1,0 +1,13 @@
+{
+  "tmdb": 38812,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ダンボール戦機",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "3": "danball-senki-wars"
+      }
+    }
+  }
+}

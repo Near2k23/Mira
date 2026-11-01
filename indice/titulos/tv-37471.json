@@ -1,0 +1,15 @@
+{
+  "tmdb": 37471,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nurarihyon no Mago",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nurarihyon-no-mago",
+        "2": "nurarihyon-no-mago-sennen-makyo"
+      }
+    }
+  },
+  "nota": "tioanime nurarihyon-no-mago-sennen-makyo: 25 cap. vs 24 en TMDB T2; revisar. tioanime nurarihyon-no-mago: 26 cap. vs 24 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 36360,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "仮面のメイドガイ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamen-no-maid-guy"
+      }
+    }
+  },
+  "nota": "tioanime kamen-no-maid-guy: 13 cap. vs 12 en TMDB T1; revisar."
+}

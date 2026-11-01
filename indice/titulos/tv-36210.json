@@ -1,0 +1,13 @@
+{
+  "tmdb": 36210,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragón azul",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blue-dragon"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 40143,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shaman King",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shaman-king"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 36449,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ロスト・ユニバース",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lost-universe"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34711,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "エレメンタルジェレイド",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "elemental-gelade"
+      }
+    }
+  }
+}

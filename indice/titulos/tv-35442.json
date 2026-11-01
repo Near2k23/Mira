@@ -1,0 +1,13 @@
+{
+  "tmdb": 35442,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "カードファイト!! ヴァンガード",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cardfight-vanguard"
+      }
+    }
+  }
+}

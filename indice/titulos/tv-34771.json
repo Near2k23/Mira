@@ -1,0 +1,13 @@
+{
+  "tmdb": 34771,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saikano",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saikano"
+      }
+    }
+  }
+}

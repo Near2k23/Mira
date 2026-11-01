@@ -1,0 +1,13 @@
+{
+  "tmdb": 38532,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rio RainbowGate!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rio-rainbow-gate"
+      }
+    }
+  }
+}

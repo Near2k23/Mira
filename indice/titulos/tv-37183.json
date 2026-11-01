@@ -1,0 +1,13 @@
+{
+  "tmdb": 37183,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dance in the Vampire Bund",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dance-in-the-vampire-bund"
+      }
+    }
+  }
+}

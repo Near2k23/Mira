@@ -1,0 +1,13 @@
+{
+  "tmdb": 37104,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "月は東に日は西に Operation Sanctuary",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsuki-wa-higashi-ni-hi-wa-nishi-ni-operation-sanctuary"
+      }
+    }
+  }
+}

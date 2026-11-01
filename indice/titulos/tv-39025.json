@@ -1,0 +1,13 @@
+{
+  "tmdb": 39025,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mouse",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mouse"
+      }
+    }
+  }
+}

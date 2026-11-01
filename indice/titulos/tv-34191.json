@@ -1,0 +1,13 @@
+{
+  "tmdb": 34191,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "マジカノ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magikano"
+      }
+    }
+  }
+}

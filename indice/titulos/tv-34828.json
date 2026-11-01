@@ -1,0 +1,13 @@
+{
+  "tmdb": 34828,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "蒼天航路",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "souten-kouro"
+      }
+    }
+  }
+}

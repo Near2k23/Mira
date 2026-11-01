@@ -1,0 +1,13 @@
+{
+  "tmdb": 35554,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ジパング",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zipang"
+      }
+    }
+  }
+}

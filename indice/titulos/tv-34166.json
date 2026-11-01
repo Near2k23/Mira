@@ -1,0 +1,13 @@
+{
+  "tmdb": 34166,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kino no Tabi: The Beautiful World",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "los-viajes-de-kino"
+      }
+    }
+  }
+}

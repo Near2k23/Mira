@@ -1,0 +1,13 @@
+{
+  "tmdb": 42692,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El fuego de Recca",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rekka-no-honoo"
+      }
+    }
+  }
+}

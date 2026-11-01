@@ -1,0 +1,13 @@
+{
+  "tmdb": 36243,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yojouhan Shinwa Taikei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yojou-han-shinwa-taikei"
+      }
+    }
+  }
+}

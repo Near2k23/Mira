@@ -1,0 +1,14 @@
+{
+  "tmdb": 37100,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akaneiro ni Somaru Saka",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akane-iro"
+      }
+    }
+  },
+  "nota": "tioanime akane-iro: 13 cap. vs 12 en TMDB T1; revisar."
+}

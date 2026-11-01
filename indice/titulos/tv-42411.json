@@ -1,0 +1,13 @@
+{
+  "tmdb": 42411,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "裏切りは僕の名前を知っている",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uragiri-wa-boku-no-namae-wo-shitteiru"
+      }
+    }
+  }
+}

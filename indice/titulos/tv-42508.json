@@ -1,0 +1,13 @@
+{
+  "tmdb": 42508,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Astarotte no Omocha!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "astarotte-no-omocha"
+      }
+    }
+  }
+}

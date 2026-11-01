@@ -1,0 +1,14 @@
+{
+  "tmdb": 35876,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "リングにかけろ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ring-ni-kakero",
+        "2": "ring-ni-kakero-1-nichibei-kessen-hen"
+      }
+    }
+  }
+}

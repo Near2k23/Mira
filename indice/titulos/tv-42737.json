@@ -1,0 +1,13 @@
+{
+  "tmdb": 42737,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Geneshaft",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "geneshaft"
+      }
+    }
+  }
+}

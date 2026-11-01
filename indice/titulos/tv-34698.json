@@ -1,0 +1,13 @@
+{
+  "tmdb": 34698,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Air Master",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "air-master"
+      }
+    }
+  }
+}

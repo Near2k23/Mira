@@ -1,0 +1,15 @@
+{
+  "tmdb": 42555,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ファイ・ブレイン 神のパズル",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "phi-brain-kami-no-puzzle",
+        "2": "phi-brain-kami-no-puzzle-ii",
+        "3": "phi-brain-kami-no-puzzle-iii"
+      }
+    }
+  }
+}

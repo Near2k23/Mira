@@ -1,0 +1,13 @@
+{
+  "tmdb": 42419,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SKET DANCE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sket-dance"
+      }
+    }
+  }
+}

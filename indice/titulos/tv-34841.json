@@ -1,0 +1,13 @@
+{
+  "tmdb": 34841,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bucky en busca del mundo cero",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jibaku-kun"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 42412,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "HEROMAN",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "heroman"
+      }
+    }
+  }
+}

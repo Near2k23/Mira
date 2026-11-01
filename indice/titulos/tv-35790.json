@@ -1,0 +1,13 @@
+{
+  "tmdb": 35790,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sakura Card Captor",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "4": "cardcaptor-sakura-clear-cardhen"
+      }
+    }
+  }
+}

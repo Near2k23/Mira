@@ -1,0 +1,14 @@
+{
+  "tmdb": 35894,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Zatch Bell!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gash-bell"
+      }
+    }
+  },
+  "nota": "tioanime gash-bell: 152 cap. vs 150 en TMDB T1; revisar."
+}

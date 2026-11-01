@@ -1,0 +1,13 @@
+{
+  "tmdb": 34791,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Claymore",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "claymore"
+      }
+    }
+  }
+}

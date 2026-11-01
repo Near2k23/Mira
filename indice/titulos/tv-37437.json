@@ -1,0 +1,15 @@
+{
+  "tmdb": 37437,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sora no Otoshimono",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sora-no-otoshimono",
+        "2": "sora-no-otoshimono-forte"
+      }
+    }
+  },
+  "nota": "tioanime sora-no-otoshimono: 14 cap. vs 13 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 42407,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ささめきこと",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sasameki-koto"
+      }
+    }
+  }
+}

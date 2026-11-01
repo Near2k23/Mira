@@ -1,0 +1,13 @@
+{
+  "tmdb": 36836,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "おとめ妖怪 ざくろ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "otome-youkai-zakuro"
+      }
+    }
+  }
+}

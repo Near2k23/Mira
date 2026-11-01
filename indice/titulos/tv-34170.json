@@ -1,0 +1,13 @@
+{
+  "tmdb": 34170,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nazca",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jikuu-tenshou-nazca"
+      }
+    }
+  }
+}

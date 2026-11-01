@@ -1,0 +1,13 @@
+{
+  "tmdb": 35129,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ぽぽたん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "popotan"
+      }
+    }
+  }
+}

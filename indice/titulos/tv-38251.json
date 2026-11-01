@@ -1,0 +1,14 @@
+{
+  "tmdb": 38251,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Toriko",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "toriko"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

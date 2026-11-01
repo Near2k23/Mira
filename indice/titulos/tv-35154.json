@@ -1,0 +1,13 @@
+{
+  "tmdb": 35154,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ネオアンジェリーク Abyss",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "neo-angelique-abyss-second-age"
+      }
+    }
+  }
+}

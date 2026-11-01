@@ -1,0 +1,14 @@
+{
+  "tmdb": 3570,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sailor Moon",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sailor-moon"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

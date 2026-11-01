@@ -1,0 +1,13 @@
+{
+  "tmdb": 37521,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "姫様ご用心",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hime-sama-goyoujin"
+      }
+    }
+  }
+}

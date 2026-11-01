@@ -1,0 +1,14 @@
+{
+  "tmdb": 34861,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "黒塚 KUROZUKA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kurozuka"
+      }
+    }
+  },
+  "nota": "tioanime kurozuka: 13 cap. vs 12 en TMDB T1; revisar."
+}

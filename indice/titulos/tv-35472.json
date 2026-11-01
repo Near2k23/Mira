@@ -1,0 +1,13 @@
+{
+  "tmdb": 35472,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Good Luck! Ninomiya-kun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "goshuushou-sama-ni-nomiya-kun"
+      }
+    }
+  }
+}

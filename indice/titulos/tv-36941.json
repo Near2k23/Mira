@@ -1,0 +1,13 @@
+{
+  "tmdb": 36941,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fruits Basket",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fruits-basket"
+      }
+    }
+  }
+}

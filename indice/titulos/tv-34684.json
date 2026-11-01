@@ -1,0 +1,14 @@
+{
+  "tmdb": 34684,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "りぜるまいん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rizelmine"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

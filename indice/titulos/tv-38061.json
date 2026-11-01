@@ -1,0 +1,13 @@
+{
+  "tmdb": 38061,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ウルトラマニアック",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ultra-maniac"
+      }
+    }
+  }
+}

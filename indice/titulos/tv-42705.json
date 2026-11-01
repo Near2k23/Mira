@@ -1,0 +1,14 @@
+{
+  "tmdb": 42705,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Espíritu de lucha: Hajime no Ippo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hajime-no-ippo",
+        "2": "hajime-no-ippo-nc"
+      }
+    }
+  }
+}

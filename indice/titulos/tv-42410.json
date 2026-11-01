@@ -1,0 +1,13 @@
+{
+  "tmdb": 42410,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Durarara!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "durarara"
+      }
+    }
+  }
+}

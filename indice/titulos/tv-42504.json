@@ -1,0 +1,13 @@
+{
+  "tmdb": 42504,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "No.6",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "number-6"
+      }
+    }
+  }
+}

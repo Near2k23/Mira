@@ -1,0 +1,15 @@
+{
+  "tmdb": 36041,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bakuman",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bakuman",
+        "2": "bakuman-2",
+        "3": "bakuman-iii"
+      }
+    }
+  }
+}

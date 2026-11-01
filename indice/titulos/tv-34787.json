@@ -1,0 +1,13 @@
+{
+  "tmdb": 34787,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "フタコイ オルタナティブ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futakoi-alternative"
+      }
+    }
+  }
+}

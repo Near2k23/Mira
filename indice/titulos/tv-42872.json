@@ -1,0 +1,14 @@
+{
+  "tmdb": 42872,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tokimeki Memorial: Only Love",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tokimeki-memorial-only-love"
+      }
+    }
+  },
+  "nota": "tioanime tokimeki-memorial-only-love: 26 cap. vs 25 en TMDB T1; revisar."
+}

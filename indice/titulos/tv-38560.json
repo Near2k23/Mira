@@ -1,0 +1,13 @@
+{
+  "tmdb": 38560,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gosick",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gosick"
+      }
+    }
+  }
+}

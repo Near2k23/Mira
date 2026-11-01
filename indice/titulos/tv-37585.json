@@ -1,0 +1,13 @@
+{
+  "tmdb": 37585,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KenIchi, el discípulo más fuerte de la historia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shijou-saikyou-no-deshi-kenichi"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 36024,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ghost Hound",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ghost-hound"
+      }
+    }
+  }
+}

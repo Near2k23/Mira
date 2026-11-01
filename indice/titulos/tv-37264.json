@@ -1,0 +1,14 @@
+{
+  "tmdb": 37264,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "鉄腕バーディー DECODE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "birdy-decode",
+        "2": "birdy-decode-ii"
+      }
+    }
+  }
+}

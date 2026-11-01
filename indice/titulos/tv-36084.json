@@ -1,0 +1,13 @@
+{
+  "tmdb": 36084,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tears to Tiara",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tears-to-tiara"
+      }
+    }
+  }
+}

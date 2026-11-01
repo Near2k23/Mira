@@ -1,0 +1,14 @@
+{
+  "tmdb": 35461,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ソ・ラ・ノ・ヲ・ト",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "so-ra-no-wo-to"
+      }
+    }
+  },
+  "nota": "tioanime so-ra-no-wo-to: 14 cap. vs 12 en TMDB T1; revisar."
+}

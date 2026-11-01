@@ -1,0 +1,14 @@
+{
+  "tmdb": 36581,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "屍鬼",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shiki"
+      }
+    }
+  },
+  "nota": "tioanime shiki: 24 cap. vs 22 en TMDB T1; revisar."
+}

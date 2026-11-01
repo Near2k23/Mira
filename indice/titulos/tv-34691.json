@@ -1,0 +1,13 @@
+{
+  "tmdb": 34691,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "TYTANIA -タイタニア-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tytania"
+      }
+    }
+  }
+}

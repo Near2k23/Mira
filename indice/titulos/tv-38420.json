@@ -1,0 +1,14 @@
+{
+  "tmdb": 38420,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kore wa Zombie Desu ka",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kore-wa-zombie-desu-ka",
+        "2": "kore-wa-zombie-desu-ka-of-the-dead"
+      }
+    }
+  }
+}

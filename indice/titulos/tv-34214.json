@@ -1,0 +1,14 @@
+{
+  "tmdb": 34214,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "sola",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sola"
+      }
+    }
+  },
+  "nota": "tioanime sola: 15 cap. vs 13 en TMDB T1; revisar."
+}

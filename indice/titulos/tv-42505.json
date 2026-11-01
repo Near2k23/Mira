@@ -1,0 +1,13 @@
+{
+  "tmdb": 42505,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sacred Seven",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sacred-seven"
+      }
+    }
+  }
+}

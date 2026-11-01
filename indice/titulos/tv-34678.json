@@ -1,0 +1,13 @@
+{
+  "tmdb": 34678,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "バスカッシュ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "basquash"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 42861,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "恋風",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koi-kaze"
+      }
+    }
+  }
+}

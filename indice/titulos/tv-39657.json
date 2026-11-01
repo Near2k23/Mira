@@ -1,0 +1,13 @@
+{
+  "tmdb": 39657,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "輪るピングドラム",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mawaru-penguindrum"
+      }
+    }
+  }
+}

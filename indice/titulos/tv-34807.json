@@ -1,0 +1,13 @@
+{
+  "tmdb": 34807,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "はいぱーぽりす",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hyper-police"
+      }
+    }
+  }
+}

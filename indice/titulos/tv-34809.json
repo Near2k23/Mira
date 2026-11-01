@@ -1,0 +1,13 @@
+{
+  "tmdb": 34809,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ghost Hunt",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ghost-hunt"
+      }
+    }
+  }
+}

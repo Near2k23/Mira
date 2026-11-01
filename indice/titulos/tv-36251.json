@@ -1,0 +1,14 @@
+{
+  "tmdb": 36251,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "好きなものは好きだからしょうがない！！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sukisho"
+      }
+    }
+  },
+  "nota": "tioanime sukisho: 13 cap. vs 12 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 42417,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "花咲くいろは",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hanasaku-iroha"
+      }
+    }
+  }
+}

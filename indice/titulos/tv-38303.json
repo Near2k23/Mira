@@ -1,0 +1,13 @@
+{
+  "tmdb": 38303,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スタ☆スカ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "starry-sky"
+      }
+    }
+  }
+}

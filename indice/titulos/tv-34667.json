@@ -1,0 +1,14 @@
+{
+  "tmdb": 34667,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "まりあ†ほりっく",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maria-holic",
+        "2": "maria-holic-alive"
+      }
+    }
+  }
+}

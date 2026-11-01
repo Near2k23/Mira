@@ -1,0 +1,13 @@
+{
+  "tmdb": 34735,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ゼーガペイン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zegapain"
+      }
+    }
+  }
+}

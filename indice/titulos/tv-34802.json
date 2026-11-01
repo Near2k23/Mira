@@ -1,0 +1,13 @@
+{
+  "tmdb": 34802,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "忘却の旋律",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "melody-of-oblivion"
+      }
+    }
+  }
+}

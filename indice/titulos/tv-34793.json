@@ -1,0 +1,14 @@
+{
+  "tmdb": 34793,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Girls Bravo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "girls-bravo"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

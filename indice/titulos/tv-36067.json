@@ -1,0 +1,14 @@
+{
+  "tmdb": 36067,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "乃木坂春香の秘密",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nogizaka-haruka-no-himitsu",
+        "2": "nogizaka-haruka-2"
+      }
+    }
+  }
+}

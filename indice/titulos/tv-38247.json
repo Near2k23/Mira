@@ -1,0 +1,13 @@
+{
+  "tmdb": 38247,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wolverine (Anime)",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wolverine"
+      }
+    }
+  }
+}

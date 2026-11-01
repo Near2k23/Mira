@@ -1,0 +1,13 @@
+{
+  "tmdb": 34717,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ながされて藍蘭島",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nagasarete-airantou"
+      }
+    }
+  }
+}

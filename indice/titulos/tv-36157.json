@@ -1,0 +1,13 @@
+{
+  "tmdb": 36157,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Strawberry Panic!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "strawberry-panic"
+      }
+    }
+  }
+}

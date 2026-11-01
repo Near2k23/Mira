@@ -1,0 +1,13 @@
+{
+  "tmdb": 34213,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "かみちゃまかりん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamichama-karin"
+      }
+    }
+  }
+}

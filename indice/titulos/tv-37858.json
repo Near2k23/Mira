@@ -1,0 +1,13 @@
+{
+  "tmdb": 37858,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fate/stay night",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fate-stay-night"
+      }
+    }
+  }
+}

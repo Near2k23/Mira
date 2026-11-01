@@ -1,0 +1,13 @@
+{
+  "tmdb": 34836,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "怪物王女",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "princess-resurrection"
+      }
+    }
+  }
+}

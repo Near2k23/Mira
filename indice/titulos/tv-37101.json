@@ -1,0 +1,13 @@
+{
+  "tmdb": 37101,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "STAR DRIVER 輝きのタクト",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "star-driver-kagayaki-no-takuto"
+      }
+    }
+  }
+}

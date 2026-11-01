@@ -1,0 +1,13 @@
+{
+  "tmdb": 34801,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "WOLF'S RAIN",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wolfs-rain"
+      }
+    }
+  }
+}

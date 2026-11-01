@@ -1,0 +1,13 @@
+{
+  "tmdb": 37866,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tokyo Magnitude 8.0",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tokyo-magnitude-80"
+      }
+    }
+  }
+}

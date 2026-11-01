@@ -1,0 +1,13 @@
+{
+  "tmdb": 37580,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Princesa Jellyfish",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kurage-hime"
+      }
+    }
+  }
+}

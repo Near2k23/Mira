@@ -1,0 +1,13 @@
+{
+  "tmdb": 36324,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Precure Splash Star",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futari-wa-precure-splash-star"
+      }
+    }
+  }
+}

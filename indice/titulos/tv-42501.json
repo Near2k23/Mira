@@ -1,0 +1,13 @@
+{
+  "tmdb": 42501,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "モーレツ宇宙海賊",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "moretsu-uchuu-kaizoku"
+      }
+    }
+  }
+}

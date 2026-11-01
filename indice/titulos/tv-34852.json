@@ -1,0 +1,13 @@
+{
+  "tmdb": 34852,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "うえきの法則",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-law-of-ueki"
+      }
+    }
+  }
+}

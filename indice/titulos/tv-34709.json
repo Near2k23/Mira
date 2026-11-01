@@ -1,0 +1,13 @@
+{
+  "tmdb": 34709,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "京極夏彦 巷説百物語",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kousetsu-hyaku-monogatari"
+      }
+    }
+  }
+}

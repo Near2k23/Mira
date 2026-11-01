@@ -1,0 +1,17 @@
+{
+  "tmdb": 35753,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "La Magia de Zero",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zero-no-tsukaima",
+        "2": "zero-no-tsukaima-2",
+        "3": "zero-no-tsukaima-princess-no-rondo",
+        "4": "zero-no-tsukaima-f"
+      }
+    }
+  },
+  "nota": "tioanime zero-no-tsukaima-princess-no-rondo: 13 cap. vs 12 en TMDB T3; revisar."
+}

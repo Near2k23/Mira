@@ -1,0 +1,13 @@
+{
+  "tmdb": 34727,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "レンタルマギカ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rental-magica"
+      }
+    }
+  }
+}

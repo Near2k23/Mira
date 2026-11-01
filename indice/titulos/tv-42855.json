@@ -1,0 +1,13 @@
+{
+  "tmdb": 42855,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "君が望む永遠",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-ga-nozomu-eien"
+      }
+    }
+  }
+}

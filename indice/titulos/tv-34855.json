@@ -1,0 +1,13 @@
+{
+  "tmdb": 34855,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "リストランテ・パラディーゾ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ristorante-paradiso"
+      }
+    }
+  }
+}

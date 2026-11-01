@@ -1,0 +1,13 @@
+{
+  "tmdb": 34739,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "お伽草子",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "otogizoushi"
+      }
+    }
+  }
+}

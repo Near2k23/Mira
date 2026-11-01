@@ -1,0 +1,13 @@
+{
+  "tmdb": 35138,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hetalia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "5": "hetalia-the-world-twinkle"
+      }
+    }
+  }
+}

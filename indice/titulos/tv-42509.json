@@ -1,0 +1,13 @@
+{
+  "tmdb": 42509,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Steins Gate",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "steinsgate"
+      }
+    }
+  }
+}

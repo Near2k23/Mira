@@ -1,0 +1,13 @@
+{
+  "tmdb": 38671,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "夢喰いメリー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yumekui-merry"
+      }
+    }
+  }
+}

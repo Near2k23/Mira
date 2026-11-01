@@ -1,0 +1,14 @@
+{
+  "tmdb": 42503,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Deadman Wonderland",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "deadman-wonderland"
+      }
+    }
+  },
+  "nota": "tioanime deadman-wonderland: 13 cap. vs 12 en TMDB T1; revisar."
+}

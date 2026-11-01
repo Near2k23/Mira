@@ -1,0 +1,13 @@
+{
+  "tmdb": 42413,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Demon King Daimao",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ichiban-ushiro-no-daimaou"
+      }
+    }
+  }
+}

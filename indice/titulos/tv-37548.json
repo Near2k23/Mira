@@ -1,0 +1,14 @@
+{
+  "tmdb": 37548,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Junjo Romantica",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "junjou-romantica-2",
+        "3": "junjou-romantica-3"
+      }
+    }
+  }
+}

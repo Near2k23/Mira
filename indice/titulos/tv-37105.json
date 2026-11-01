@@ -1,0 +1,13 @@
+{
+  "tmdb": 37105,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "鍵姫物語 永久アリス輪舞曲",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kagihime-monogatari-eikyuu-alice-rinbukyoku"
+      }
+    }
+  }
+}

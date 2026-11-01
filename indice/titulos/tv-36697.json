@@ -1,0 +1,13 @@
+{
+  "tmdb": 36697,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seitokai Yakuindomo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seitokai-yakuindomo"
+      }
+    }
+  }
+}

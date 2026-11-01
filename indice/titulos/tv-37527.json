@@ -1,0 +1,14 @@
+{
+  "tmdb": 37527,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chobits",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chobits"
+      }
+    }
+  },
+  "nota": "tioanime chobits: 28 cap. vs 26 en TMDB T1; revisar."
+}

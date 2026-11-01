@@ -1,0 +1,13 @@
+{
+  "tmdb": 37555,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Omamori Himari",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "omamori-himari"
+      }
+    }
+  }
+}

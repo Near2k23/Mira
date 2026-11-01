@@ -1,0 +1,13 @@
+{
+  "tmdb": 42836,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "蒼穹のファフナー Dead Aggressor",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soukyuu-no-fafner-dead-aggressor"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 36629,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "テガミバチ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tegami-bachi",
+        "2": "tegami-bachi-reverse"
+      }
+    }
+  },
+  "nota": "tioanime tegami-bachi: 26 cap. vs 25 en TMDB T1; revisar."
+}

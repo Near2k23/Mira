@@ -1,0 +1,13 @@
+{
+  "tmdb": 38141,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "宙のまにまに",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sora-no-manimani"
+      }
+    }
+  }
+}

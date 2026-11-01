@@ -1,0 +1,13 @@
+{
+  "tmdb": 35610,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Inuyasha",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "inuyasha-kanketsu-hen"
+      }
+    }
+  }
+}

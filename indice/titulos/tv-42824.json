@@ -1,0 +1,13 @@
+{
+  "tmdb": 42824,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "美鳥の日々",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "midori-no-hibi"
+      }
+    }
+  }
+}

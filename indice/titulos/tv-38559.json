@@ -1,0 +1,13 @@
+{
+  "tmdb": 38559,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "レベルE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "level-e"
+      }
+    }
+  }
+}

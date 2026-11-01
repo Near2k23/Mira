@@ -1,0 +1,14 @@
+{
+  "tmdb": 37517,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ドルアーガの塔",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "druaga-no-tou-the-aegis-of-uruk",
+        "2": "druaga-no-tou-the-sword-of-uruk"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34669,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "夢使い",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yume-tsukai"
+      }
+    }
+  }
+}

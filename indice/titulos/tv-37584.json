@@ -1,0 +1,15 @@
+{
+  "tmdb": 37584,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ikkitousen",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ikkitousen",
+        "2": "ikkitousen-dragon-destiny",
+        "4": "ikkitousen-xtreme-xecutor"
+      }
+    }
+  }
+}

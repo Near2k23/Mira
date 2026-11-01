@@ -1,0 +1,14 @@
+{
+  "tmdb": 36250,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "xxxHOLiC",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "xxxholic"
+      }
+    }
+  },
+  "nota": "tioanime xxxholic: 25 cap. vs 24 en TMDB T1; revisar."
+}

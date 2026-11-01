@@ -1,0 +1,14 @@
+{
+  "tmdb": 34844,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "キスダム -ENGAGE planet-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kiss-dum-engage-planet"
+      }
+    }
+  },
+  "nota": "tioanime kiss-dum-engage-planet: 27 cap. vs 26 en TMDB T1; revisar."
+}

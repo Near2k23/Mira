@@ -1,0 +1,13 @@
+{
+  "tmdb": 34826,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "双恋",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futakoi"
+      }
+    }
+  }
+}

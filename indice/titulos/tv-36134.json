@@ -1,0 +1,13 @@
+{
+  "tmdb": 36134,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Sacred Blacksmith",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seiken-no-blacksmith"
+      }
+    }
+  }
+}

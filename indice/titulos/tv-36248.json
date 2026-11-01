@@ -1,0 +1,13 @@
+{
+  "tmdb": 36248,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "鉄のラインバレル",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kurogane-no-linebarrels"
+      }
+    }
+  }
+}

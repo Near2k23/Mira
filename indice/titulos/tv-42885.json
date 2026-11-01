@@ -1,0 +1,13 @@
+{
+  "tmdb": 42885,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Myself ; Yourself",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "myself-yourself"
+      }
+    }
+  }
+}

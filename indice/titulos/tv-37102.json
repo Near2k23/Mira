@@ -1,0 +1,13 @@
+{
+  "tmdb": 37102,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "それでも町は廻っている",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soredemo-mach-wa-mawatteiru"
+      }
+    }
+  }
+}

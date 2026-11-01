@@ -1,0 +1,13 @@
+{
+  "tmdb": 35973,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ロミオ×ジュリエット",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "romeo-x-juliet"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 34706,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "鋼鉄三国志",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koutetsu-sangokushi"
+      }
+    }
+  },
+  "nota": "tioanime koutetsu-sangokushi: 26 cap. vs 25 en TMDB T1; revisar."
+}

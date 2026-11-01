@@ -1,0 +1,14 @@
+{
+  "tmdb": 37508,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Futari wa Pretty Cure",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futari-wa-precure",
+        "2": "futari-wa-precure-max-heart"
+      }
+    }
+  }
+}

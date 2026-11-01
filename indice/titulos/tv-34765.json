@@ -1,0 +1,13 @@
+{
+  "tmdb": 34765,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bokurano",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bokurano"
+      }
+    }
+  }
+}

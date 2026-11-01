@@ -1,0 +1,13 @@
+{
+  "tmdb": 38057,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "咎狗の血",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "togainu-no-chi"
+      }
+    }
+  }
+}

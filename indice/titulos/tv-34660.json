@@ -1,0 +1,15 @@
+{
+  "tmdb": 34660,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "最遊記",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gensoumaden-saiyuuki",
+        "4": "saiyuuki-reload-blast",
+        "5": "saiyuuki-reload-zeroin"
+      }
+    }
+  }
+}

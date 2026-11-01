@@ -1,0 +1,13 @@
+{
+  "tmdb": 34744,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hatsukoi Limited.",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hatsukoi-limited"
+      }
+    }
+  }
+}

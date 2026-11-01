@@ -1,0 +1,13 @@
+{
+  "tmdb": 37529,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "隠の王",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nabari-no-ou"
+      }
+    }
+  }
+}

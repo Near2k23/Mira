@@ -1,0 +1,13 @@
+{
+  "tmdb": 37867,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ladies Vs Butlers!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ladies-vs-butlers"
+      }
+    }
+  }
+}

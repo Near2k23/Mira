@@ -1,0 +1,13 @@
+{
+  "tmdb": 38313,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "戦国乙女～桃色パラドックス～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sengoku-otome-momoiro-paradox"
+      }
+    }
+  }
+}

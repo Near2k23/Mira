@@ -1,0 +1,13 @@
+{
+  "tmdb": 36359,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "機神大戦 ギガンティック・フォーミュラ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kishin-taisen-gigantic-formula"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 42713,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Record of Lodoss War",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lodoss-tou-senki"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34186,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "チーズスイートホーム",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chis-sweet-home"
+      }
+    }
+  }
+}

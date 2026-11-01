@@ -1,0 +1,13 @@
+{
+  "tmdb": 36837,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "彼氏彼女の事情",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kare-kano"
+      }
+    }
+  }
+}

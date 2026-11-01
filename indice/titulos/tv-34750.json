@@ -1,0 +1,13 @@
+{
+  "tmdb": 34750,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "亡念のザムド",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bounen-no-xamdou"
+      }
+    }
+  }
+}

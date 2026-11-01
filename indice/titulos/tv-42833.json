@@ -1,0 +1,13 @@
+{
+  "tmdb": 42833,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "幕末機関説 いろはにほへと",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bakumatsu-kikansetsu-irohanihoheto"
+      }
+    }
+  }
+}

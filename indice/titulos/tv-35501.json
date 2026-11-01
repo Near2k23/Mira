@@ -1,0 +1,13 @@
+{
+  "tmdb": 35501,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アリソンとリリア",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "allison-to-lillia"
+      }
+    }
+  }
+}

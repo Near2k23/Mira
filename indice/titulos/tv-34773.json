@@ -1,0 +1,13 @@
+{
+  "tmdb": 34773,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "RD 潜脳調査室",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "real-drive"
+      }
+    }
+  }
+}

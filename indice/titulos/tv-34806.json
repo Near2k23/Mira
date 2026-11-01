@@ -1,0 +1,13 @@
+{
+  "tmdb": 34806,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "NEEDLESS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "needless"
+      }
+    }
+  }
+}

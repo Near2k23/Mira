@@ -1,0 +1,13 @@
+{
+  "tmdb": 42502,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Brave 10",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "brave-10"
+      }
+    }
+  }
+}

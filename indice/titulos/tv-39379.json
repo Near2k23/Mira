@@ -1,0 +1,17 @@
+{
+  "tmdb": 39379,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Full Metal Panic!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "full-metal-panic",
+        "2": "full-metal-panic-fumoffu",
+        "3": "full-metal-panic-2",
+        "4": "full-metal-panic-invisible-victory"
+      }
+    }
+  },
+  "nota": "tioanime full-metal-panic-fumoffu: 12 cap. vs 11 en TMDB T2; revisar."
+}

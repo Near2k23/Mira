@@ -1,0 +1,15 @@
+{
+  "tmdb": 38112,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seikon no Qwaser",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seikon-no-qwaser",
+        "2": "seikon-no-qwaser-ii"
+      }
+    }
+  },
+  "nota": "tioanime seikon-no-qwaser-ii: 13 cap. vs 12 en TMDB T2; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34216,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BLASSREITER",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blassreiter"
+      }
+    }
+  }
+}

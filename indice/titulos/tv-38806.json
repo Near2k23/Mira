@@ -1,0 +1,13 @@
+{
+  "tmdb": 38806,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ケモノヅメ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kemonozume"
+      }
+    }
+  }
+}

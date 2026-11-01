@@ -1,0 +1,16 @@
+{
+  "tmdb": 40424,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Initial D",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "initial-d",
+        "2": "initial-d-2",
+        "3": "initial-d-fourth-stage",
+        "4": "initial-d-fifth-stage"
+      }
+    }
+  }
+}

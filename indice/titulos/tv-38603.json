@@ -1,0 +1,14 @@
+{
+  "tmdb": 38603,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Beelzebub",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "beelzebub"
+      }
+    }
+  },
+  "nota": "tioanime beelzebub: 61 cap. vs 60 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 42468,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Maria-sama ga Miteru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maria-sama-ga-miteru-haru",
+        "4": "maria-sama-ga-miteru-4th"
+      }
+    }
+  }
+}

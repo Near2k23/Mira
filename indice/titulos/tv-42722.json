@@ -1,0 +1,14 @@
+{
+  "tmdb": 42722,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "まほろまてぃっく",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahoromatic",
+        "2": "mahoromatic-2"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 42442,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Maburaho",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maburaho"
+      }
+    }
+  }
+}

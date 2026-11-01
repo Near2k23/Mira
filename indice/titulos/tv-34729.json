@@ -1,0 +1,13 @@
+{
+  "tmdb": 34729,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "神風怪盗ジャンヌ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamikaze-kaitou-jeanne"
+      }
+    }
+  }
+}

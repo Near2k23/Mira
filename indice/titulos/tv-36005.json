@@ -1,0 +1,13 @@
+{
+  "tmdb": 36005,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "イタズラなKiss",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "itazura-na-kiss"
+      }
+    }
+  }
+}

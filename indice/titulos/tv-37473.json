@@ -1,0 +1,13 @@
+{
+  "tmdb": 37473,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rave Master",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rave-master"
+      }
+    }
+  }
+}

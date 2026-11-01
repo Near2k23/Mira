@@ -1,0 +1,16 @@
+{
+  "tmdb": 34742,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "To Love-Ru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "to-love-ru",
+        "2": "motto-to-love-ru",
+        "3": "to-love-ru-darkness",
+        "4": "to-love-ru-darkness-2nd"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 35544,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Martian Successor Nadesico",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "martian-successor-nadesico"
+      }
+    }
+  }
+}

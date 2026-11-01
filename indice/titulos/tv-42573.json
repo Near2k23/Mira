@@ -1,0 +1,13 @@
+{
+  "tmdb": 42573,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Slam Dunk",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "slam-dunk"
+      }
+    }
+  }
+}

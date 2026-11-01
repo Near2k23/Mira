@@ -1,0 +1,13 @@
+{
+  "tmdb": 34821,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nadja",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ashita-no-nadja"
+      }
+    }
+  }
+}

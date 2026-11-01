@@ -1,0 +1,14 @@
+{
+  "tmdb": 37534,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "うた∽かた",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uta-kata"
+      }
+    }
+  },
+  "nota": "tioanime uta-kata: 13 cap. vs 12 en TMDB T1; revisar."
+}

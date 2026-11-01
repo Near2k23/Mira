@@ -1,0 +1,13 @@
+{
+  "tmdb": 34834,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tokyo Underground",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tokyo-underground"
+      }
+    }
+  }
+}

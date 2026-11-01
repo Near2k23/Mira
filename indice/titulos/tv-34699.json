@@ -1,0 +1,13 @@
+{
+  "tmdb": 34699,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ファンタジックチルドレン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fantasti-children"
+      }
+    }
+  }
+}

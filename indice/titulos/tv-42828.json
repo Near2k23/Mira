@@ -1,0 +1,15 @@
+{
+  "tmdb": 42828,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rozen Maiden",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rozen-maiden",
+        "2": "rozen-maiden-2"
+      }
+    }
+  },
+  "nota": "tioanime rozen-maiden: 13 cap. vs 12 en TMDB T1; revisar."
+}

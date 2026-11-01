@@ -1,0 +1,13 @@
+{
+  "tmdb": 42557,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kids on the Slope",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakamichi-no-apollon"
+      }
+    }
+  }
+}

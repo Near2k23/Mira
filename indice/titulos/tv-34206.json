@@ -1,0 +1,13 @@
+{
+  "tmdb": 34206,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "陰からマモル！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kage-kara-mamoru"
+      }
+    }
+  }
+}

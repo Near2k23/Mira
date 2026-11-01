@@ -1,0 +1,14 @@
+{
+  "tmdb": 37546,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "∀ガンダム",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "turn-a-gundam"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

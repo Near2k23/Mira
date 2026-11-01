@@ -1,0 +1,15 @@
+{
+  "tmdb": 35464,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ストライクウィッチーズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "strike-witches",
+        "2": "strike-witches-2",
+        "3": "strike-witches-road-to-berlin"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34767,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "宇宙のステルヴィア",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uchuu-no-stellvia"
+      }
+    }
+  }
+}

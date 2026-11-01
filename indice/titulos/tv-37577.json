@@ -1,0 +1,13 @@
+{
+  "tmdb": 37577,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "奥さまは魔法少女",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "okusama-wa-mahou-shoujo"
+      }
+    }
+  }
+}

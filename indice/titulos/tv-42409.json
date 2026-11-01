@@ -1,0 +1,13 @@
+{
+  "tmdb": 42409,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chu-Bra!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chu-bra"
+      }
+    }
+  }
+}

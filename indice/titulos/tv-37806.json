@@ -1,0 +1,14 @@
+{
+  "tmdb": 37806,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Asobi ni Iku yo!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "asobi-ni-iku-yo"
+      }
+    }
+  },
+  "nota": "tioanime asobi-ni-iku-yo: 13 cap. vs 12 en TMDB T1; revisar."
+}

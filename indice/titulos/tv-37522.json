@@ -1,0 +1,13 @@
+{
+  "tmdb": 37522,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "にゃんこい！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nyan-koi"
+      }
+    }
+  }
+}

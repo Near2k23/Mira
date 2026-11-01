@@ -1,0 +1,13 @@
+{
+  "tmdb": 38811,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragón Crisis!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dragon-crisis"
+      }
+    }
+  }
+}

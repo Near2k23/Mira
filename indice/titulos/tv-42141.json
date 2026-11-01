@@ -1,0 +1,13 @@
+{
+  "tmdb": 42141,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "神様ドォルズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamisama-dolls"
+      }
+    }
+  }
+}

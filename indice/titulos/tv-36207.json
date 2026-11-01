@@ -1,0 +1,13 @@
+{
+  "tmdb": 36207,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "東京大学物語",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tokyo-daigaku-monogatari"
+      }
+    }
+  }
+}

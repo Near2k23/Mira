@@ -1,0 +1,14 @@
+{
+  "tmdb": 36089,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Densetsu No Yuusha No Densetsu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "densetsu"
+      }
+    }
+  },
+  "nota": "tioanime densetsu: 25 cap. vs 24 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 34714,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "かんなぎ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kannagi"
+      }
+    }
+  },
+  "nota": "tioanime kannagi: 14 cap. vs 13 en TMDB T1; revisar."
+}

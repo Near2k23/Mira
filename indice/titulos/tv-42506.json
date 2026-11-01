@@ -1,0 +1,13 @@
+{
+  "tmdb": 42506,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Mystic Archives of Dantalian",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dantalian-no-shoka"
+      }
+    }
+  }
+}

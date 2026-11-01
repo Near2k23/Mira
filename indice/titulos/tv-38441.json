@@ -1,0 +1,13 @@
+{
+  "tmdb": 38441,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Freezing",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "freezing-vibration"
+      }
+    }
+  }
+}

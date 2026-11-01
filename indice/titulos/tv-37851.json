@@ -1,0 +1,14 @@
+{
+  "tmdb": 37851,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Digimon Fusion",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "digimon-xros-wars",
+        "2": "digimon-xros-wars-toki-o-kakeru-shounen-hunter-tachi"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34696,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yozakura Quartet",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yozakura-quartet"
+      }
+    }
+  }
+}

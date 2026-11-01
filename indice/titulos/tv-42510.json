@@ -1,0 +1,13 @@
+{
+  "tmdb": 42510,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "R-15",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "r15"
+      }
+    }
+  }
+}

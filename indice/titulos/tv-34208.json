@@ -1,0 +1,13 @@
+{
+  "tmdb": 34208,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Paradise Kiss",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "paradis-kiss"
+      }
+    }
+  }
+}

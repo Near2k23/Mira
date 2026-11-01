@@ -1,0 +1,13 @@
+{
+  "tmdb": 35423,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Arakawa Under the Bridge",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "arakawa-under-the-bridge-x-bridge"
+      }
+    }
+  }
+}

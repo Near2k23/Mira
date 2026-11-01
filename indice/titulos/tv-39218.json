@@ -1,0 +1,13 @@
+{
+  "tmdb": 39218,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔法少女まどか☆マギカ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maho-shojo"
+      }
+    }
+  }
+}

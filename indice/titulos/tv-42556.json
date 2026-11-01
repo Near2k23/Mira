@@ -1,0 +1,14 @@
+{
+  "tmdb": 42556,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nazo No Kanojo X",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nazo-no-kanojo-x"
+      }
+    }
+  },
+  "nota": "tioanime nazo-no-kanojo-x: 14 cap. vs 13 en TMDB T1; revisar."
+}

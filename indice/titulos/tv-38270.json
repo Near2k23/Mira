@@ -1,0 +1,13 @@
+{
+  "tmdb": 38270,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "フラクタル",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fractale"
+      }
+    }
+  }
+}

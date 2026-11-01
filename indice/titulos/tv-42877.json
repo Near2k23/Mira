@@ -1,0 +1,13 @@
+{
+  "tmdb": 42877,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akagi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "touhai-densetsu-akagi-yami-ni-maiorita-tensai"
+      }
+    }
+  }
+}

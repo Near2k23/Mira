@@ -1,0 +1,13 @@
+{
+  "tmdb": 34808,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "いぬかみっ!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "inukami"
+      }
+    }
+  }
+}

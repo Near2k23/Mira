@@ -1,0 +1,13 @@
+{
+  "tmdb": 34813,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "星方天使エンジェルリンクス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seihou-tenshi-angel-links"
+      }
+    }
+  }
+}

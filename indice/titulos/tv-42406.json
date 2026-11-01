@@ -1,0 +1,14 @@
+{
+  "tmdb": 42406,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "花咲ける青少年",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hanasakeru-seishounen"
+      }
+    }
+  },
+  "nota": "tioanime hanasakeru-seishounen: 40 cap. vs 39 en TMDB T1; revisar."
+}

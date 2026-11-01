@@ -1,0 +1,14 @@
+{
+  "tmdb": 36582,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gift ~eternal rainbow~",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gitf-eternal-rainbow"
+      }
+    }
+  },
+  "nota": "tioanime gitf-eternal-rainbow: 13 cap. vs 12 en TMDB T1; revisar."
+}

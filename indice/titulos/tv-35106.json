@@ -1,0 +1,13 @@
+{
+  "tmdb": 35106,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "星方武侠アウトロースター",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seihou-bukyou-outlaw-star"
+      }
+    }
+  }
+}

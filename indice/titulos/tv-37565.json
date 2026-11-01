@@ -1,0 +1,14 @@
+{
+  "tmdb": 37565,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tsubasa Chronicle",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsubasa-chronicle"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

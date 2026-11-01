@@ -1,0 +1,14 @@
+{
+  "tmdb": 38107,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sister Princess",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sister-princess",
+        "2": "sister-princess-re-pure"
+      }
+    }
+  }
+}

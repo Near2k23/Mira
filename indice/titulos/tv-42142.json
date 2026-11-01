@@ -1,0 +1,13 @@
+{
+  "tmdb": 42142,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Un-Go",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "un-go"
+      }
+    }
+  }
+}

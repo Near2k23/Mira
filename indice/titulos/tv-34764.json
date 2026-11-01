@@ -1,0 +1,14 @@
+{
+  "tmdb": 34764,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "G-On Riders",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "g-on-riders"
+      }
+    }
+  },
+  "nota": "tioanime g-on-riders: 13 cap. vs 14 en TMDB T1; revisar."
+}

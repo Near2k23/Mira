@@ -1,0 +1,13 @@
+{
+  "tmdb": 36983,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rosario + Vampire",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vampire-rosario-2"
+      }
+    }
+  }
+}
