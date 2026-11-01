@@ -1,10 +1,10 @@
 {
  "anio": 2023,
- "mes": 4,
- "pagina": 4,
- "paginas_recorridas": 2134,
- "agregados": 365,
- "ya_existian": 13,
+ "mes": 6,
+ "pagina": 7,
+ "paginas_recorridas": 2240,
+ "agregados": 391,
+ "ya_existian": 14,
  "saltados": [
   {
    "id_o_slug": "279136",
@@ -167921,6 +167921,8326 @@
   {
    "id_o_slug": "200701",
    "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223586",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "219038",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "203276",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226891",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "211034",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "222374",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "139280",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "298767",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "210586",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "211927",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "214997",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224133",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "215198",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "225458",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222371",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "304561",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222892",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "126726",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223668",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226057",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223389",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225193",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "204112",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "301075",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "216681",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223812",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "220538",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224544",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223515",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224260",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224432",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225102",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224438",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "222314",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224609",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "223666",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222779",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "290464",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224054",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "157212",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225109",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221313",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "224744",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225412",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221634",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "121183",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222024",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224504",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "222559",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "220372",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "157199",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "248248",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "195359",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232166",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "202753",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "219345",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221854",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225336",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224349",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221869",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223132",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "214529",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222835",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221646",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "301353",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222847",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222730",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "222846",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220306",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223712",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224816",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "139183",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "235434",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "122049",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222972",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224388",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223251",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "139182",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225521",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224229",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223759",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224815",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "196042",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "221251",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224412",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221802",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "211796",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "202212",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "121459",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "244030",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222373",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "119064",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219847",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223980",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225849",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224587",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224244",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216871",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222368",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221821",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "205703",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224566",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "207018",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "220565",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220860",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222029",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "223709",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222366",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223305",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "239252",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "197063",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224552",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "261587",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224912",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "215815",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223817",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224362",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222370",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223642",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228234",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225961",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221631",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224278",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224820",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222369",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224736",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222372",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224013",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225468",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225322",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "220615",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "248554",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "220960",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231303",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223934",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223628",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272965",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222974",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223561",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "208133",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "216184",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222922",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216867",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224297",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "209462",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224163",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226555",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "153784",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219899",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "212289",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220154",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224557",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "312689",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221811",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221664",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223761",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "208858",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224665",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229733",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225465",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "208131",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225710",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225072",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225016",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221805",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222364",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224233",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223663",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "223601",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225094",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226300",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "316849",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224494",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224028",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "245290",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225125",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "222416",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224614",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226941",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "209717",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224333",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "135865",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225157",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224997",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272158",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "241545",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "262881",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "325417",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "210461",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224613",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "221917",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225524",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "255015",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "336737",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "245733",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221125",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "248344",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "244088",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "224889",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224232",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220413",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "249385",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225669",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221665",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224156",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224667",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224966",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221633",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225232",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225014",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222408",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223952",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226782",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224838",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "332819",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "244066",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224358",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "309962",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221081",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "211309",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220834",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223720",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221630",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224132",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223506",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225177",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226128",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224197",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224969",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225039",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225382",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223763",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "301657",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225066",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "246094",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227583",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "313588",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234443",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223999",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225431",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225206",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225325",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221650",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222628",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225138",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225850",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "220014",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225182",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228620",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225027",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224682",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224046",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227539",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "48889",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224033",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "153243",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "208013",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224364",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225538",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224995",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230661",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "273173",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225529",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "132958",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "222783",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221535",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "245832",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224338",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224135",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225464",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234003",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223435",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224739",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "218716",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236528",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225101",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224661",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221457",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "220861",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225235",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "219324",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225369",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "335746",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "332390",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227084",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224832",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224437",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260501",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222977",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225982",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224256",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224418",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230539",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224943",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "277862",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "253976",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224901",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224389",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225144",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225021",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229055",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "232637",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221809",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220139",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "263060",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "251839",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223786",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224929",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "241175",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "236316",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224347",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "221810",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222301",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "263140",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225407",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225508",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224545",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225405",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "337002",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224108",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "250254",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225247",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223495",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223218",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222508",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222557",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224529",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225570",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224334",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225145",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222758",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234437",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226796",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "290490",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224963",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224880",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "297350",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226433",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224016",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "240209",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225306",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224465",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219670",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224540",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "322860",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226269",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "288008",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224431",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225015",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224116",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "250741",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223902",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225159",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224663",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224734",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224293",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232564",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "218719",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "292507",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223589",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225523",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "253417",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225990",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224066",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225074",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223593",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230534",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225556",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228864",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224310",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224039",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224034",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "286237",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225900",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227325",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225416",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229064",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223899",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "296152",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224782",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224307",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224837",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224615",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224143",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225420",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224760",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225580",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224687",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224918",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225757",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228619",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226093",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224658",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232451",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "304000",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224703",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224999",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228164",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "296268",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "334154",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224415",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223503",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "222703",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225473",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223277",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226349",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224288",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225345",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "292886",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224724",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225677",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224484",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223790",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "231051",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223791",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257408",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "260254",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225141",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224541",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225195",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224554",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225594",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225001",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "278506",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "229335",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "245548",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227091",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225592",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224939",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "290192",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224798",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224064",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "230240",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "319985",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "135850",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "256931",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223795",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243525",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "306367",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225848",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225104",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "237214",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225254",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "223338",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "332198",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "244794",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "258471",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "316624",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225591",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "292325",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224295",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "289793",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225341",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228353",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226490",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "283925",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227978",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224888",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225457",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "291288",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "307045",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226439",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231534",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230678",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222756",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "231605",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226271",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224660",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224419",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222839",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "248924",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222629",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224742",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231907",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "47465",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223840",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "296049",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229508",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225493",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221823",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224669",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "286155",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222757",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "330742",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "296108",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225733",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224025",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229085",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224785",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "328637",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226619",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224242",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219234",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "222960",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223669",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227302",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221595",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "292124",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224933",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225111",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224483",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "285200",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224637",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224492",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226544",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221625",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216740",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236840",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223978",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "245524",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225079",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254024",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "223298",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "322957",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227290",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "326032",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "235888",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225500",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224684",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "263247",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225512",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "210357",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257117",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257671",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "248801",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "304005",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243419",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224306",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225352",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225874",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "338404",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222210",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225046",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "242541",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230563",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223802",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227270",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "210352",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224289",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "210351",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233472",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230963",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257703",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224911",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225451",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "223762",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231202",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225378",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225477",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "319305",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225784",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224726",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224160",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "231271",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "230446",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "295095",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224873",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "253272",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224365",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225248",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224897",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "296559",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "329788",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "283968",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226295",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226834",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224519",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "256071",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222294",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "279622",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "238076",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "302146",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223676",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "277025",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "262660",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224221",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260749",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225374",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "230339",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "310460",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225334",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "318281",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224796",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224688",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "307990",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227670",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "262665",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224914",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "228055",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226481",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "273411",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230083",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "222607",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "272672",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "274462",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224151",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "236721",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225272",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227129",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "242790",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226036",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225985",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "238729",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "309952",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232547",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "317666",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224037",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227827",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230729",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222789",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254857",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "210278",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225161",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231689",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "306022",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232838",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "245425",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225160",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "327743",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224608",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "240416",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223079",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "239710",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "277749",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "283111",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221705",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "242847",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "277688",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "237471",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "325349",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "139180",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "239473",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225169",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226856",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "325372",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223558",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "249484",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224762",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "212476",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224360",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224466",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "247148",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260438",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "279634",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224829",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "248192",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223454",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226804",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216794",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "242277",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "310996",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226367",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226678",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225424",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224081",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225333",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224974",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225401",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226169",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225087",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "275531",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "287038",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "286528",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226716",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "289246",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272354",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228410",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "257405",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224187",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225250",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "289302",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "251517",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228904",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225324",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "275922",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "339915",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225377",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224507",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "262992",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "260632",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "249420",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "280508",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224040",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225674",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224099",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "275999",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "318704",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222245",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "290129",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "251479",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "233007",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235200",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223619",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "246306",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224300",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "292687",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223475",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224662",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223883",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233536",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "290175",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226499",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "247461",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224508",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257764",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224902",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "256227",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "242778",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "291697",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229119",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "316189",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229219",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223913",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "231618",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "244991",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228738",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225578",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "248729",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "255200",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230416",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225163",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "248174",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225134",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "306146",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236413",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243685",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225337",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216869",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "280612",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224308",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "247726",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "295323",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228332",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246022",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225310",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "292374",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224457",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "291133",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "244098",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "240660",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "274569",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224579",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225360",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "247525",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "292824",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "255010",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224422",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225885",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "333291",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225240",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "278980",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "284199",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "245908",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "236340",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225330",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224446",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "251890",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "247914",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "337212",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228334",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229558",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "259530",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224864",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "330849",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246305",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "244734",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "327091",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246304",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "247585",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224817",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "251507",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224849",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226617",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "271370",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "324298",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260178",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "232778",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "260451",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225413",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225741",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225189",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235029",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224182",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "263359",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272445",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "251167",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "252515",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225448",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272875",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "279894",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "324934",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "326859",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "328290",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "259013",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "247466",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226430",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "258455",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "291596",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226999",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "320049",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224294",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223672",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230503",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224234",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224447",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "237930",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221672",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "247050",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "251503",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "331907",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224167",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "259371",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "261515",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "238657",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "323398",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227224",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229253",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224123",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228710",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "323274",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225613",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257401",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227214",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225403",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "245868",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "326800",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229362",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "260090",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224917",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243920",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229046",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227769",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224238",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "336850",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224121",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224574",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "251905",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "319880",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225099",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "249883",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "321517",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224055",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "272867",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "257103",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "251504",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225691",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260004",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "310124",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "255009",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224549",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224690",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236020",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224743",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224126",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "247062",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230908",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227127",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "247063",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "292594",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235021",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225557",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224683",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223665",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "233719",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226396",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236422",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230789",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228108",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226897",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "291667",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224061",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "271941",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230540",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224616",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260431",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "304698",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224185",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224118",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "287218",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "261453",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "235335",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232770",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227931",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "235464",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226344",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225474",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224871",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224681",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224170",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257253",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224772",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "301106",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "285220",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230557",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221799",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "231086",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224539",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223968",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "263045",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "258286",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "245965",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "231888",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "257803",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235398",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224000",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226437",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225612",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226274",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224342",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220862",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224787",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231432",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226689",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225154",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227586",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246436",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "244060",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231643",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "231093",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230548",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230546",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230537",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230535",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230531",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230530",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230026",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227828",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225633",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224657",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224421",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260432",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "234001",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226713",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225426",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225263",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224168",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223725",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "309074",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "251636",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227755",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224239",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224044",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223714",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "281194",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "245829",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235498",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234316",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231091",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230046",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224861",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "309543",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224839",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "202998",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "209265",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226680",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225554",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "90808",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225320",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "212350",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "214665",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "118546",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "100349",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235547",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "202577",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "210269",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "157160",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "135615",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "96237",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223249",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "155534",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "194573",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "214079",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "201019",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "134224",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "212802",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225970",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "138288",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "203616",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "256104",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "214420",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226969",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "240247",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "209201",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "155754",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "214994",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226002",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "204944",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "208953",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225577",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "146393",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "235228",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227627",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "210218",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224740",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222236",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "116793",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "137040",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "196421",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "128024",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "202162",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221391",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "215472",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226707",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226198",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224710",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "251805",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223119",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "222288",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226414",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226032",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221871",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226831",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "204589",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226038",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227147",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225217",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "258012",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226732",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223430",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225964",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "319989",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254015",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227649",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226241",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "211049",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227144",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "224773",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "154114",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "220594",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "253678",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "223566",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227562",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "200874",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226267",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "280422",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "219241",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "223237",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226070",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226066",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "217831",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "128308",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226214",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227093",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224382",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224857",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "155508",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226425",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226748",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225948",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224387",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223722",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227706",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "274740",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222674",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "202738",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224009",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230109",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226220",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225829",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225887",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "208015",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224102",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "214996",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "211721",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "217828",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226706",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216890",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "224920",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225756",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220353",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225958",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "232239",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "206619",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226962",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "201050",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254666",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234573",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227106",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226051",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225686",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224047",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226084",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226812",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227634",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "219346",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "217641",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219378",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226055",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "137252",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219600",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225968",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226030",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "210272",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227381",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227035",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "212762",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227442",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230582",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226180",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226697",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "211692",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228473",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224654",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227149",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "273713",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227213",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225991",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225979",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "208677",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225242",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224553",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "321393",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226035",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225804",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219555",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225738",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "249349",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226845",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226053",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226292",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226542",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222976",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225076",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "213738",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227971",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226345",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227248",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224103",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224981",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228051",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226328",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243444",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226471",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227868",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226978",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225859",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227980",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225866",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226173",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226465",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "310691",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225916",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226907",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220585",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227274",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229143",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "278410",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225843",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225975",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "213690",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225462",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226598",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227188",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "217439",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227628",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221995",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225349",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227495",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225888",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226056",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221598",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225967",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224522",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "218865",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227683",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "221880",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226101",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226450",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226226",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219236",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225717",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227201",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "329427",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226110",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "296700",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226282",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224371",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227990",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225243",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226558",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227830",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "154415",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227466",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233806",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225036",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227664",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "222806",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227204",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233631",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226291",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225505",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226807",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226130",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225989",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227225",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227054",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226500",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "326083",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225681",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226061",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226368",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226080",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225965",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228623",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226762",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227238",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "251562",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "234473",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "229073",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229594",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226733",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226261",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226784",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221432",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226039",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227046",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226495",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227142",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225864",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230290",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225966",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227168",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "237192",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226626",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233858",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224971",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224925",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222172",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226085",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225768",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225971",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227044",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "229250",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227973",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "241786",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225492",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224482",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "312890",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "153618",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224989",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225882",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228083",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "232292",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225023",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225742",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227469",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226798",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "218718",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225994",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227276",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "322792",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "275567",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225732",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227006",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "336564",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "219707",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225236",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233368",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225025",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225841",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226757",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "137075",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226028",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226248",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "241953",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226233",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227542",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "219227",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "303880",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228155",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227217",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226034",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228338",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "238065",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "298833",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226911",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "255602",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227023",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225983",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246249",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "240921",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227564",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "330044",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225332",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226054",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226890",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "234572",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228118",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226406",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228560",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216807",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "292581",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233991",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "253479",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "246895",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225751",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227117",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225791",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225919",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226074",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "295297",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "228806",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226496",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226371",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226696",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227145",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "211688",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226408",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233813",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "221278",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226541",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226025",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226387",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222737",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226171",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230130",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228216",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "324007",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225815",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "322646",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234183",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226403",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226253",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226302",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "126883",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227471",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226766",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "250834",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227095",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "283314",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236695",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225433",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226620",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225658",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "323655",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "236730",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225037",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226498",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226076",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225783",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225981",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "242529",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226124",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225792",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229900",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226569",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225428",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226591",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228726",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227323",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225635",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227334",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225697",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "237822",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227995",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226283",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226833",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227437",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "238271",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "237821",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229561",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222672",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236849",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222720",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227072",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "280989",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226402",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272405",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225683",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226320",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "328989",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226854",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233668",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227151",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227208",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "307608",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "330056",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227719",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222761",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225878",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226774",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "228575",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "235448",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "312101",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228518",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "313256",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226077",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "213217",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227454",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "322257",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "228534",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228551",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "330042",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "255514",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "289318",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227996",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225972",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "295771",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227138",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233580",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226435",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225300",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "285308",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "281686",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226451",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228192",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227074",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227025",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "333313",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226314",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226049",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227230",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227832",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "243364",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228567",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227202",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227353",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227040",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "275524",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216569",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "277946",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227997",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235415",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "237604",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226587",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "243686",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230262",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226927",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225789",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "232582",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232589",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "278207",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246158",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228941",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227066",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227115",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227219",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226137",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227103",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226557",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226060",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225817",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "251841",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228151",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "295036",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226494",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236205",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "276615",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226780",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225663",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226791",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226223",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "290527",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225769",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227013",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "253301",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226621",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225085",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "230549",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227484",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226690",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "274773",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227166",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "286963",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "310987",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228964",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226050",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226573",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "291085",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "231635",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226213",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227164",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "237555",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225589",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "300732",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226556",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "214513",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226301",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "308932",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226521",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230117",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226920",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229068",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226711",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "317261",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "273728",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "296602",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "306962",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "288005",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226917",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272185",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "216790",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227406",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "338044",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226088",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226236",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "325208",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "228716",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "281435",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "279811",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "275551",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229232",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "262687",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227543",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "242564",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254829",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272172",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224014",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "289285",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226756",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228868",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226094",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227197",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235942",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "287522",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "279096",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "309339",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225873",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "262662",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "315067",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "240430",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "258014",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "325942",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226778",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "281688",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224899",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "276025",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "250709",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228219",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232443",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254327",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "221597",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228562",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243658",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226467",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "330222",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "334117",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225802",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225811",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "328274",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227068",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "275512",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228404",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "251295",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "292317",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "237855",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226904",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227663",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232169",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "308413",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226939",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "279630",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "270529",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "291135",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229199",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "241328",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "317853",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "291116",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "274443",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227143",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "290107",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230798",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225614",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "294760",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226972",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227097",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "236971",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243927",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "258164",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228909",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230955",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "337416",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223757",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "319686",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "295461",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "280423",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225453",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227726",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "328772",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225370",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "283237",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "248199",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226420",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229611",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229018",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226202",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227903",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "252271",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227638",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225760",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "235714",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226783",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "308697",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230277",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236453",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "240381",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225482",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227282",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "318496",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226908",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "273845",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "279965",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "255653",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "242091",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "233895",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254539",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "239495",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235976",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226203",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225819",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226881",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225908",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227096",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229894",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "283017",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227207",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "308953",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227169",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "339671",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229493",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226709",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "248905",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "313629",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "296763",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225984",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226072",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226200",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "276384",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225918",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "228571",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "258807",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "274827",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "279619",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "230404",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "252448",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225091",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "250283",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "300549",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "291561",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227048",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "338167",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231695",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "262246",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "282412",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "248010",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "244864",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "270525",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "255593",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226842",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "229670",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227167",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "323642",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "328889",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228432",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226614",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "260150",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "238740",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228607",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228403",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "239772",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228911",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "278601",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225354",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227408",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "280729",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225788",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243917",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225805",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227632",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "291656",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230224",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "244190",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226683",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229093",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "230267",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "242477",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230488",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226526",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "272856",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227220",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226423",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228915",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226567",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227844",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "234240",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "239959",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226181",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230747",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "215297",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "261788",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231762",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "327549",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "244642",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "247922",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246860",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "320270",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "275956",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254173",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246301",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234429",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "304409",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "270461",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "283788",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "320504",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227030",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226671",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "255640",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227336",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "335599",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "279617",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "231333",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227753",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "231886",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226672",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227746",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227816",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "241116",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "294356",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226217",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236927",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225880",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "317029",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232131",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227547",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243208",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "261193",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "286284",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "278795",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "247919",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "245474",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225777",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "275731",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "333416",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231834",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "220557",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228489",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225976",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "244186",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228727",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272787",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230419",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "288238",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228488",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225969",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "303820",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226229",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "326370",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "321511",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "246340",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227065",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227488",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260326",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "289042",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "291570",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227491",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "231161",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "273702",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "238350",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "295317",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "238838",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "239491",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227313",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226011",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226479",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254627",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "254520",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "247087",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "231691",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "317024",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "261513",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226589",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "259415",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "315071",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "225173",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "303006",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "255428",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225993",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "249564",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227028",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235529",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "285326",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227185",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228148",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226431",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "286133",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226211",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "247982",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228467",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "272852",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227027",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227223",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "251903",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "326843",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "276372",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "325542",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227620",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "319505",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229062",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227186",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257296",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "280505",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "291553",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227032",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "288879",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "251069",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "287318",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "258801",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "246132",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "243033",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230807",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227005",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "235297",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225959",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "334024",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "327718",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230616",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "233032",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227304",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227414",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225703",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "259070",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227199",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "315246",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230640",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "236677",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227870",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227864",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226000",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "240710",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "307544",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "305858",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "289752",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "258791",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226676",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225301",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "247324",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227338",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "277253",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "257115",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "322123",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "282599",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "296813",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225543",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228336",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227015",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226520",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272848",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "259340",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "239364",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228066",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226007",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226949",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "274994",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228816",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "274015",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226299",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "280590",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227490",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "330132",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227243",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228570",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226395",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225619",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "280503",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230862",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230415",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226497",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226170",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227125",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "288690",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "321476",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "226980",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "234795",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226372",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226380",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "280601",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "287046",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "286035",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257410",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "241768",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227388",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230292",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "272858",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "260442",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227357",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "280507",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "239398",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "284545",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227825",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226073",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "250412",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "303270",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228526",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "277017",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "272901",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227271",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "252615",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "257286",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227387",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226979",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225761",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260336",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226005",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225912",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "241915",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "235166",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227226",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227122",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "274623",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "252209",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227050",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226586",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226475",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227079",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "247821",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "237230",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231941",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "294277",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "260099",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227498",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "294783",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226017",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "252908",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "243352",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227135",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226297",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227860",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "261237",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "247327",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "233530",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "231793",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227389",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "201846",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226442",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "302779",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "236204",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234225",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230576",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225884",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "263260",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "263011",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "260051",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "258797",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "247473",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "231332",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227150",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "340097",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226658",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "212989",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "127529",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226687",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228429",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229192",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "327451",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "198004",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "156616",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225780",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226826",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "123192",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "210733",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "138992",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228540",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "154824",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226045",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226751",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226411",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "313937",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "135251",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226675",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228547",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "131305",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "105169",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "207004",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "107463",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "218695",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "238681",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223121",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "196550",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228459",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "117678",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229572",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228853",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "210702",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "211059",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "219841",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227395",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229263",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224207",
+   "motivo": "anime (otra tarea)"
+  },
+  {
+   "id_o_slug": "227938",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "196214",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "152549",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228667",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229579",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "225552",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "216228",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "220261",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "223393",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228421",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "208834",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "215320",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "212250",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229285",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "218099",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "233568",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "242180",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "157240",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229266",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "218576",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "232429",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "227322",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229256",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228996",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227554",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225152",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228241",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227955",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229779",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227660",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "223824",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228784",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229058",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225226",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "272272",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229295",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228965",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "128301",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "234805",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "228610",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "230318",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "197579",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "214653",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228397",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221399",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "211748",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229194",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "210424",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "294301",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "221923",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "205166",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227211",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226878",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "158235",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "135240",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229105",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "216223",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228203",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228520",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228782",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "222648",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225335",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "226370",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229217",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "224410",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "294888",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "217700",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "218035",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "225553",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "228238",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228344",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227047",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "245324",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228303",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228988",
+   "motivo": "reality/talk show/noticias"
+  },
+  {
+   "id_o_slug": "230140",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "208935",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "224386",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229774",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "227037",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229229",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226809",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "229331",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "219423",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "214603",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "229057",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "230025",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "256525",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "228266",
+   "motivo": "dorama (otra tarea)"
+  },
+  {
+   "id_o_slug": "226382",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "228093",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "227443",
+   "motivo": "dorama (otra tarea)"
   }
  ]
 }
