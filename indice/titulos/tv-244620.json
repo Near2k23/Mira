@@ -1,0 +1,18 @@
+{
+  "tmdb": 244620,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mob kara Hajimaru Tansaku Eiyuutan",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mob-kara-hajimaru-tansaku-eiyuutan"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mob-kara-hajimaru-tansaku-eiyuutan"
+      }
+    }
+  }
+}

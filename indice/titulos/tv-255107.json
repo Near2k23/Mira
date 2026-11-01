@@ -1,0 +1,13 @@
+{
+  "tmdb": 255107,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Code Geass: Dakkan no Rozé",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "code-geass-dakkan-no-roze"
+      }
+    }
+  }
+}

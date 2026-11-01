@@ -1,0 +1,21 @@
+{
+  "tmdb": 158373,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "NieR:Automata Ver1.1a",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "nierautomata-ver11a",
+            "episodios": 12
+          },
+          {
+            "slug": "nierautomata-ver11a-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

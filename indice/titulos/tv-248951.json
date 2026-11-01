@@ -1,0 +1,18 @@
+{
+  "tmdb": 248951,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Maougun Saikyou no Majutsushi wa Ningen datta",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "maougun-saikyou-no-majutsushi-wa-ningen-datta"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "maougun-saikyou-no-majutsushi-wa-ningen-datta"
+      }
+    }
+  }
+}

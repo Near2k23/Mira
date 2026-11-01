@@ -1,0 +1,18 @@
+{
+  "tmdb": 239761,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Senpai wa Otokonoko",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "senpai-wa-otokonoko"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "senpai-wa-otokonoko"
+      }
+    }
+  }
+}

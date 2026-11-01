@@ -1,0 +1,20 @@
+{
+  "tmdb": 241628,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ramen Akaneko",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "ramen-akaneko"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "ramen-akaneko"
+      }
+    }
+  }
+}

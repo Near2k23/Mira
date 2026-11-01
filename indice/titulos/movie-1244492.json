@@ -1,0 +1,11 @@
+{
+  "tmdb": 1244492,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Look Back",
+  "fuentes": {
+    "animeav1": {
+      "slug": "look-back"
+    }
+  }
+}

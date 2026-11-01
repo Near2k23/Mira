@@ -1,0 +1,18 @@
+{
+  "tmdb": 229743,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
+      }
+    }
+  }
+}

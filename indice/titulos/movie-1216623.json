@@ -1,0 +1,11 @@
+{
+  "tmdb": 1216623,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Trapezium",
+  "fuentes": {
+    "animeav1": {
+      "slug": "trapezium"
+    }
+  }
+}

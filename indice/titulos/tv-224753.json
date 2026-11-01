@@ -1,0 +1,18 @@
+{
+  "tmdb": 224753,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Giji Harem",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "giji-harem"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "giji-harem"
+      }
+    }
+  }
+}

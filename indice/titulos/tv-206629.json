@@ -1,0 +1,18 @@
+{
+  "tmdb": 206629,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gimai Seikatsu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "gimai-seikatsu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "gimai-seikatsu"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 233523,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Madougushi Dahliya wa Utsumukanai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "madougushi-dahliya-wa-utsumukanai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "madougushi-dahliya-wa-utsumukanai"
+      }
+    }
+  }
+}

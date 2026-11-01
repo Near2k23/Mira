@@ -531,7 +531,35 @@
   "movie-1014505": "completado",
   "movie-1143875": "nuevo",
   "movie-1159311": "completado",
-  "movie-989730": "nuevo"
+  "movie-989730": "nuevo",
+  "tv-46195": "nuevo",
+  "tv-158373": "nuevo",
+  "tv-206629": "nuevo",
+  "tv-209707": "nuevo",
+  "tv-211709": "nuevo",
+  "tv-216074": "nuevo",
+  "tv-222925": "nuevo",
+  "tv-224753": "nuevo",
+  "tv-229743": "nuevo",
+  "tv-233523": "nuevo",
+  "tv-235758": "nuevo",
+  "tv-238892": "nuevo",
+  "tv-239761": "nuevo",
+  "tv-241628": "nuevo",
+  "tv-244620": "nuevo",
+  "tv-244652": "nuevo",
+  "tv-245285": "nuevo",
+  "tv-248951": "nuevo",
+  "tv-249409": "nuevo",
+  "tv-250596": "nuevo",
+  "tv-250597": "nuevo",
+  "tv-250598": "nuevo",
+  "tv-255107": "nuevo",
+  "tv-255492": "nuevo",
+  "movie-1244492": "nuevo",
+  "movie-1211716": "nuevo",
+  "movie-1223178": "nuevo",
+  "movie-1216623": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -622,14 +650,21 @@
   "rezero-kara-hajimeru-isekai-seikatsu-3rd-season": "no está en TMDB / no ubicado",
   "uzumaki": "no está en TMDB / no ubicado",
   "murai-no-koi": "no está en TMDB / no ubicado",
-  "yeosin-gangnim": "no está en TMDB / no ubicado"
+  "yeosin-gangnim": "no está en TMDB / no ubicado",
+  "isekai-suicide-squad": "no está en TMDB / no ubicado",
+  "cardfight-vanguard-divinez-season-2": "no está en TMDB / no ubicado",
+  "yuru-camp-season-3-specials": "no está en TMDB / no ubicado",
+  "hanma-baki-vs-kengan-ashura": "no está en TMDB / no ubicado",
+  "dead-dead-demons-dededede-destruction-ona": "no está en TMDB / no ubicado",
+  "xiehou-ta-de-shaonu-shidai": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
   "tv-65930",
   "tv-73223",
   "tv-69500",
-  "tv-68854"
+  "tv-68854",
+  "tv-46195"
  ],
  "paginas": {
   "latest_released 1-2": {
@@ -706,6 +741,11 @@
    "agregados": 25,
    "completados": 2,
    "saltados": 7
+  },
+  "latest_released 31-32": {
+   "agregados": 28,
+   "completados": 0,
+   "saltados": 6
   }
  }
 }

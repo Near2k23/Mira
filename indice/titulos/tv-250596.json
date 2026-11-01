@@ -1,0 +1,18 @@
+{
+  "tmdb": 250596,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boku no Tsuma wa Kanjou ga Nai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "boku-no-tsuma-wa-kanjou-ga-nai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "boku-no-tsuma-wa-kanjou-ga-nai"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tmdb": 238892,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ore wa Subete wo \\",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "ore-wa-subete-wo-parry-suru"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "ore-wa-subete-wo-parry-suru"
+      }
+    }
+  }
+}

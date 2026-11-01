@@ -1,0 +1,20 @@
+{
+  "tmdb": 216074,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "2.5-jigen no Ririsa",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "25-jigen-no-ririsa"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "25jigen-no-ririsa"
+      }
+    }
+  }
+}

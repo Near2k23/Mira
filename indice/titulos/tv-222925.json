@@ -1,0 +1,18 @@
+{
+  "tmdb": 222925,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kono Sekai wa Fukanzen Sugiru",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kono-sekai-wa-fukanzen-sugiru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kono-sekai-wa-fukanzen-sugiru"
+      }
+    }
+  }
+}

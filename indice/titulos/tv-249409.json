@@ -1,0 +1,18 @@
+{
+  "tmdb": 249409,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tasogare Out Focus",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tasogare-out-focus"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tasogare-out-focus"
+      }
+    }
+  }
+}

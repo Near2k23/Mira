@@ -1,0 +1,18 @@
+{
+  "tmdb": 250597,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dungeon no Naka no Hito",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dungeon-no-naka-no-hito"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dungeon-no-naka-no-hito"
+      }
+    }
+  }
+}

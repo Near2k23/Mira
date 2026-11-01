@@ -1,0 +1,14 @@
+{
+  "tmdb": 209707,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Megami no Café Terrace",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "megami-no-cafe-terrace",
+        "2": "megami-no-cafe-terrace-2nd-season"
+      }
+    }
+  }
+}

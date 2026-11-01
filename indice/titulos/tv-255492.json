@@ -1,0 +1,13 @@
+{
+  "tmdb": 255492,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tensui no Sakuna-hime",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tensui-no-sakuna-hime"
+      }
+    }
+  }
+}
