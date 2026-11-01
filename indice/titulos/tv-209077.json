@@ -1,0 +1,18 @@
+{
+  "tmdb": 209077,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Undead Unluck",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "undead-unluck"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "undead-unluck"
+      }
+    }
+  }
+}

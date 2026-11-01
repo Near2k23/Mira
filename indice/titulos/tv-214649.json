@@ -1,0 +1,18 @@
+{
+  "tmdb": 214649,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bullbuster",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "bullbuster"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "bullbuster"
+      }
+    }
+  }
+}

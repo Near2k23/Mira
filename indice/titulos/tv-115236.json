@@ -1,0 +1,20 @@
+{
+  "tmdb": 115236,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seijo no Maryoku wa Bannou desu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "seijo-no-maryoku-wa-bannou-desu",
+        "2": "seijo-no-maryoku-wa-bannou-desu-season-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "seijo-no-maryoku-wa-bannou-desu",
+        "2": "seijo-no-maryoku-wa-bannou-desu-2nd-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 234740,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Atarashii Joushi wa Do Tennen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "atarashii-joushi-wa-do-tennen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "atarashii-joushi-wa-do-tennen"
+      }
+    }
+  }
+}

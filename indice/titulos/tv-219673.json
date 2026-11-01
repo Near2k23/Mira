@@ -1,0 +1,18 @@
+{
+  "tmdb": 219673,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hametsu no Oukoku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hametsu-no-oukoku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hametsu-no-oukoku"
+      }
+    }
+  }
+}

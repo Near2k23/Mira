@@ -1,0 +1,18 @@
+{
+  "tmdb": 213331,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boushoku no Berserk",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "boushoku-no-berserk"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "boushoku-no-berserk"
+      }
+    }
+  }
+}

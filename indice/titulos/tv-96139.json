@@ -1,0 +1,20 @@
+{
+  "tmdb": 96139,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hypnosis-mic-division-rap-battle-rhyme-anima",
+        "2": "hypnosis-mic-division-rap-battle-rhyme-anima-plus"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hypnosis-mic-division-rap-battle-rhyme-anima",
+        "2": "hypnosis-mic-division-rap-battle-rhyme-anima-plus"
+      }
+    }
+  }
+}

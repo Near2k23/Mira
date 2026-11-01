@@ -1,0 +1,27 @@
+{
+  "tmdb": 73833,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mahoutsukai no Yome",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mahoutsukai-no-yome",
+        "2": [
+          {
+            "slug": "mahoutsukai-no-yome-season-2",
+            "episodios": 12
+          },
+          {
+            "slug": "mahoutsukai-no-yome-season-2-part-2"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mahoutsukai-no-yome"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 153336,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Buta no Liver wa Kanetsu Shiro",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "buta-no-liver-wa-kanetsu-shiro"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "buta-no-liver-wa-kanetsu-shiro"
+      }
+    }
+  }
+}

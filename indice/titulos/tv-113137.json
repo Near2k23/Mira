@@ -1,0 +1,20 @@
+{
+  "tmdb": 113137,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kanojo mo Kanojo",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kanojo-mo-kanojo",
+        "2": "kanojo-mo-kanojo-season-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kanojo-mo-kanojo",
+        "2": "kanojo-mo-kanojo-season-2"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 229612,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yuzuki-san Chi no Yonkyoudai.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yuzuki-san-chi-no-yonkyoudai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yuzukisan-chi-no-yonkyoudai"
+      }
+    }
+  }
+}

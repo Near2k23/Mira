@@ -1,0 +1,18 @@
+{
+  "tmdb": 153450,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Migi to Dali",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "migi-to-dali"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "migi-to-dali"
+      }
+    }
+  }
+}

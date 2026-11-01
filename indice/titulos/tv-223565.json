@@ -1,0 +1,18 @@
+{
+  "tmdb": 223565,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kibou no Chikara: Otona Precure '23",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kibou-no-chikara-otona-precure-23"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kibou-no-chikara-otona-precure-23"
+      }
+    }
+  }
+}

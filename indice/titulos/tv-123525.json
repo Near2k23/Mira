@@ -1,0 +1,20 @@
+{
+  "tmdb": 123525,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saihate no Paladin",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "saihate-no-paladin",
+        "2": "saihate-no-paladin-tetsusabi-no-yama-no-ou"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "saihate-no-paladin",
+        "2": "saihate-no-paladin-tetsusabi-no-yama-no-ou"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 221148,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Potion-danomi de Ikinobimasu!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "potion-danomi-de-ikinobimasu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "potiondanomi-de-ikinobimasu"
+      }
+    }
+  }
+}

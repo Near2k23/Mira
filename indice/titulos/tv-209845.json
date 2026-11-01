@@ -1,0 +1,13 @@
+{
+  "tmdb": 209845,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi"
+      }
+    }
+  }
+}

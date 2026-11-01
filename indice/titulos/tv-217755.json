@@ -1,0 +1,18 @@
+{
+  "tmdb": 217755,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hikikomari Kyuuketsuki no Monmon",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hikikomari-kyuuketsuki-no-monmon"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hikikomari-kyuuketsuki-no-monmon"
+      }
+    }
+  }
+}

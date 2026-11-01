@@ -1,0 +1,20 @@
+{
+  "tmdb": 119495,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kage no Jitsuryokusha ni Naritakute!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kage-no-jitsuryokusha-ni-naritakute",
+        "2": "kage-no-jitsuryokusha-ni-naritakute-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kage-no-jitsuryokusha-ni-naritakute",
+        "2": "kage-no-jitsuryokusha-ni-naritakute-2nd-season"
+      }
+    }
+  }
+}

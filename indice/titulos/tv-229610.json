@@ -1,0 +1,18 @@
+{
+  "tmdb": 229610,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Toaru Ossan no VRMMO Katsudouki",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "toaru-ossan-no-vrmmo-katsudouki"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "toaru-ossan-no-vrmmo-katsudouki"
+      }
+    }
+  }
+}

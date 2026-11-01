@@ -1,0 +1,18 @@
+{
+  "tmdb": 217512,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "16bit Sensation: Another Layer",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "16bit-sensation-another-layer"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "16bit-sensation-another-layer"
+      }
+    }
+  }
+}

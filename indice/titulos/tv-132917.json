@@ -1,0 +1,18 @@
+{
+  "tmdb": 132917,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Under Ninja",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "under-ninja"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "under-ninja"
+      }
+    }
+  }
+}

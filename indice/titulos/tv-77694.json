@@ -1,0 +1,21 @@
+{
+  "tmdb": 77694,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Uma Musume: Pretty Derby",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "uma-musume-pretty-derby",
+        "2": "uma-musume-pretty-derby-season-2",
+        "3": "uma-musume-pretty-derby-season-3"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "uma-musume-pretty-derby-season-2",
+        "3": "uma-musume-pretty-derby-season-3"
+      }
+    }
+  }
+}

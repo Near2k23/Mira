@@ -1,0 +1,18 @@
+{
+  "tmdb": 136840,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seiken Gakuin no Makentsukai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "seiken-gakuin-no-makentsukai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "seiken-gakuin-no-makentsukai"
+      }
+    }
+  }
+}

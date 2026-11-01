@@ -1,0 +1,18 @@
+{
+  "tmdb": 216269,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Watashi no Oshi wa Akuyaku Reijou.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "watashi-no-oshi-wa-akuyaku-reijou"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "watashi-no-oshi-wa-akuyaku-reijou"
+      }
+    }
+  }
+}

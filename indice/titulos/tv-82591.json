@@ -1,0 +1,20 @@
+{
+  "tmdb": 82591,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Goblin Slayer",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "goblin-slayer",
+        "2": "goblin-slayer-ii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "goblin-slayer",
+        "2": "goblin-slayer-ii"
+      }
+    }
+  }
+}

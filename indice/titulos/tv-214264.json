@@ -1,0 +1,21 @@
+{
+  "tmdb": 214264,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kizuna no Allele",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kizuna-no-allele",
+            "episodios": 12
+          },
+          {
+            "slug": "kizuna-no-allele-season-2"
+          }
+        ]
+      }
+    }
+  }
+}
