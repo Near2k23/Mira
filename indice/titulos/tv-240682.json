@@ -1,0 +1,18 @@
+{
+  "tmdb": 240682,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Astro Note",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "astro-note"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "astro-note"
+      }
+    }
+  }
+}

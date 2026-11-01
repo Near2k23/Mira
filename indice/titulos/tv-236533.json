@@ -1,0 +1,18 @@
+{
+  "tmdb": 236533,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "one-room-hiatari-futsuu-tenshi-tsuki"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "one-room-hiatari-futsuu-tenshitsuki"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 218833,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blue Archive the Animation",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "blue-archive-the-animation"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "blue-archive-the-animation"
+      }
+    }
+  }
+}

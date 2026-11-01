@@ -1,0 +1,18 @@
+{
+  "tmdb": 236392,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Henjin no Salad Bowl",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "henjin-no-salad-bowl"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "henjin-no-salad-bowl"
+      }
+    }
+  }
+}

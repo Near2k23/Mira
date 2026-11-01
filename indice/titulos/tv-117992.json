@@ -1,0 +1,42 @@
+{
+  "tmdb": 117992,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shinigami Bocchan to Kuro Maid",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "shinigami-bocchan-to-kuro-maid",
+            "episodios": 12
+          },
+          {
+            "slug": "shinigami-bocchan-to-kuro-maid-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "shinigami-bocchan-to-kuro-maid-3rd-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "shinigami-bocchan-to-kuro-maid",
+            "episodios": 12
+          },
+          {
+            "slug": "shinigami-bocchan-to-kuro-maid-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "shinigami-bocchan-to-kuro-maid-3rd-season"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 246029,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kenka Dokugaku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kenka-dokugaku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kenka-dokugaku"
+      }
+    }
+  }
+}

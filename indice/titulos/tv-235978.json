@@ -1,0 +1,18 @@
+{
+  "tmdb": 235978,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tadaima, Okaeri",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tadaima-okaeri"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tadaima-okaeri"
+      }
+    }
+  }
+}

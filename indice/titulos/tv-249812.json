@@ -1,0 +1,13 @@
+{
+  "tmdb": 249812,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Grimm Kumikyoku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "grimm-kumikyoku"
+      }
+    }
+  }
+}

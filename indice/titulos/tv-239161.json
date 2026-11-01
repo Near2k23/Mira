@@ -1,0 +1,18 @@
+{
+  "tmdb": 239161,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The New Gate",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "the-new-gate"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "the-new-gate"
+      }
+    }
+  }
+}

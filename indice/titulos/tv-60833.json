@@ -1,0 +1,22 @@
+{
+  "tmdb": 60833,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mahouka Koukou no Rettousei",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mahouka-koukou-no-rettousei",
+        "2": "mahouka-koukou-no-rettousei-raihousha-hen",
+        "3": "mahouka-koukou-no-rettousei-3rd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mahouka-koukou-no-rettousei",
+        "2": "mahouka-koukou-no-rettousei-raihoushahen",
+        "3": "mahouka-koukou-no-rettousei-3rd-season"
+      }
+    }
+  }
+}

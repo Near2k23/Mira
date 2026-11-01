@@ -1,0 +1,18 @@
+{
+  "tmdb": 238903,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Vampire Dormitory",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "vampire-dormitory"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "vampire-dormitory"
+      }
+    }
+  }
+}

@@ -559,7 +559,35 @@
   "movie-1244492": "nuevo",
   "movie-1211716": "nuevo",
   "movie-1223178": "nuevo",
-  "movie-1216623": "nuevo"
+  "movie-1216623": "nuevo",
+  "tv-46004": "nuevo",
+  "tv-60833": "nuevo",
+  "tv-62564": "nuevo",
+  "tv-117992": "nuevo",
+  "tv-196287": "nuevo",
+  "tv-206033": "nuevo",
+  "tv-216760": "nuevo",
+  "tv-218146": "nuevo",
+  "tv-218291": "nuevo",
+  "tv-218833": "nuevo",
+  "tv-222923": "nuevo",
+  "tv-231873": "nuevo",
+  "tv-235389": "nuevo",
+  "tv-235978": "nuevo",
+  "tv-236385": "nuevo",
+  "tv-236392": "nuevo",
+  "tv-236533": "nuevo",
+  "tv-237233": "nuevo",
+  "tv-238843": "nuevo",
+  "tv-238903": "nuevo",
+  "tv-239161": "nuevo",
+  "tv-239853": "nuevo",
+  "tv-240682": "nuevo",
+  "tv-241928": "nuevo",
+  "tv-243141": "nuevo",
+  "tv-246029": "nuevo",
+  "tv-249812": "nuevo",
+  "movie-1104844": "completado"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -656,7 +684,10 @@
   "yuru-camp-season-3-specials": "no está en TMDB / no ubicado",
   "hanma-baki-vs-kengan-ashura": "no está en TMDB / no ubicado",
   "dead-dead-demons-dededede-destruction-ona": "no está en TMDB / no ubicado",
-  "xiehou-ta-de-shaonu-shidai": "no está en TMDB / no ubicado"
+  "xiehou-ta-de-shaonu-shidai": "no está en TMDB / no ubicado",
+  "shadowverse-flame-arc-hen": "no está en TMDB / no ubicado",
+  "boku-no-hero-academia-memories": "Especial",
+  "tensei-shitara-slime-datta-ken-3rd-season": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -664,7 +695,8 @@
   "tv-73223",
   "tv-69500",
   "tv-68854",
-  "tv-46195"
+  "tv-46195",
+  "tv-236385"
  ],
  "paginas": {
   "latest_released 1-2": {
@@ -745,6 +777,11 @@
   "latest_released 31-32": {
    "agregados": 28,
    "completados": 0,
+   "saltados": 6
+  },
+  "latest_released 33-34": {
+   "agregados": 27,
+   "completados": 1,
    "saltados": 6
   }
  }

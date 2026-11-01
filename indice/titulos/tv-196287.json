@@ -1,0 +1,18 @@
+{
+  "tmdb": 196287,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tonari no Youkai-san",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tonari-no-youkai-san"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tonari-no-youkaisan"
+      }
+    }
+  }
+}

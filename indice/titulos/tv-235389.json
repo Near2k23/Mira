@@ -1,0 +1,20 @@
+{
+  "tmdb": 235389,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Re:Monster",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "remonster"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "remonster"
+      }
+    }
+  }
+}

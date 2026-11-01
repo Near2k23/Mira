@@ -1,0 +1,20 @@
+{
+  "tmdb": 237233,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life"
+      }
+    }
+  }
+}

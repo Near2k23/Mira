@@ -1,0 +1,18 @@
+{
+  "tmdb": 216760,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seiyuu Radio no Uraomote",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "seiyuu-radio-no-uraomote"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "seiyuu-radio-no-uraomote"
+      }
+    }
+  }
+}

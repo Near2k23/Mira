@@ -1,0 +1,25 @@
+{
+  "tmdb": 46004,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Date A Live",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "date-a-live",
+        "2": "date-a-live-ii",
+        "3": "date-a-live-iii",
+        "4": "date-a-live-iv",
+        "5": "date-a-live-v"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "date-a-live-2",
+        "3": "date-a-live-iii",
+        "4": "date-a-live-iv",
+        "5": "date-a-live-v"
+      }
+    }
+  }
+}

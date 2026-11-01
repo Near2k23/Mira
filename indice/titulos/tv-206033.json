@@ -1,0 +1,18 @@
+{
+  "tmdb": 206033,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Highspeed Etoile",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "highspeed-etoile"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "highspeed-etoile"
+      }
+    }
+  }
+}

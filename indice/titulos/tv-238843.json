@@ -1,0 +1,20 @@
+{
+  "tmdb": 238843,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Fable",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "the-fable"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "the-fable"
+      }
+    }
+  }
+}

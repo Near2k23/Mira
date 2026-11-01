@@ -1,0 +1,22 @@
+{
+  "tmdb": 62564,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hibike! Euphonium",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hibike-euphonium",
+        "2": "hibike-euphonium-2",
+        "3": "hibike-euphonium-3"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hibike-euphonium",
+        "2": "hibike-euphonium-2",
+        "3": "hibike-euphonium-3"
+      }
+    }
+  }
+}

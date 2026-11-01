@@ -1,0 +1,20 @@
+{
+  "tmdb": 231873,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boukyaku Battery (TV)",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "boukyaku-battery-tv"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "boukyaku-battery-tv"
+      }
+    }
+  }
+}

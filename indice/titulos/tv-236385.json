@@ -1,0 +1,14 @@
+{
+  "tmdb": 236385,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "T.P BON",
+  "nota": "Temporadas omitidas por no cuadrar episodios: tp-bon: 12 eps en el sitio vs 24 en TMDB (absoluta)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tp-bon"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 222923,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yoru no Kurage wa Oyogenai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yoru-no-kurage-wa-oyogenai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yoru-no-kurage-wa-oyogenai"
+      }
+    }
+  }
+}
