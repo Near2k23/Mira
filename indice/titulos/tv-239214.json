@@ -1,0 +1,18 @@
+{
+  "tmdb": 239214,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hananoi-kun to Koi no Yamai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hananoi-kun-to-koi-no-yamai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hananoikun-to-koi-no-yamai"
+      }
+    }
+  }
+}

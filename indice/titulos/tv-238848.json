@@ -1,0 +1,18 @@
+{
+  "tmdb": 238848,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii"
+      }
+    }
+  }
+}

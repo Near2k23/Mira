@@ -1,0 +1,18 @@
+{
+  "tmdb": 244435,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "touken-ranbu-kai-kyoden-moyuru-honnouji"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "touken-ranbu-kai-kyoden-moyuru-honnouji"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 212273,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shuumatsu Train Doko e Iku?",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shuumatsu-train-doko-e-iku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shuumatsu-train-doko-e-iku"
+      }
+    }
+  }
+}

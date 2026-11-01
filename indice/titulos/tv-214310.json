@@ -1,0 +1,18 @@
+{
+  "tmdb": 214310,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita"
+      }
+    }
+  }
+}

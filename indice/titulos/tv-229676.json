@@ -1,0 +1,20 @@
+{
+  "tmdb": 229676,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "ookami-to-koushinryou-merchant-meets-the-wise-wolf"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "ookami-to-koushinryou-merchant-meets-the-wise-wolf"
+      }
+    }
+  }
+}

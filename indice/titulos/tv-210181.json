@@ -1,0 +1,21 @@
+{
+  "tmdb": 210181,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Synduality: Noir",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "synduality-noir",
+            "episodios": 12
+          },
+          {
+            "slug": "synduality-noir-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

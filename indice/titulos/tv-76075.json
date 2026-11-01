@@ -1,0 +1,22 @@
+{
+  "tmdb": 76075,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yuru Camp△",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yuru-camp",
+        "2": "yuru-camp-season-2",
+        "3": "yuru-camp-season-3"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yuru-camp",
+        "2": "yuru-camp-season-2",
+        "3": "yuru-camp-season-3"
+      }
+    }
+  }
+}

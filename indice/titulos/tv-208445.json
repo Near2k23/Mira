@@ -1,0 +1,18 @@
+{
+  "tmdb": 208445,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Majo to Yajuu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "majo-to-yajuu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "majo-to-yajuu"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 221310,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gekai Elise",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "gekai-elise"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "gekai-elise"
+      }
+    }
+  }
+}

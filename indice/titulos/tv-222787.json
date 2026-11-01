@@ -1,0 +1,18 @@
+{
+  "tmdb": 222787,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Metallic Rouge",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "metallic-rouge"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "metallic-rouge"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tmdb": 154524,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Urusei Yatsura (2022)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "urusei-yatsura-2022",
+            "episodios": 23
+          },
+          {
+            "slug": "urusei-yatsura-2022-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

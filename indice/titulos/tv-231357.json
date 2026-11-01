@@ -1,0 +1,18 @@
+{
+  "tmdb": 231357,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Oroka na Tenshi wa Akuma to Odoru",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "oroka-na-tenshi-wa-akuma-to-odoru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "oroka-na-tenshi-wa-akuma-to-odoru"
+      }
+    }
+  }
+}

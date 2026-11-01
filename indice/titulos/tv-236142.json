@@ -1,0 +1,18 @@
+{
+  "tmdb": 236142,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gekkan Mousou Kagaku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "gekkan-mousou-kagaku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "gekkan-mousou-kagaku"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 156057,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kami wa Game ni Ueteiru.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kami-wa-game-ni-ueteiru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kami-wa-game-ni-ueteiru"
+      }
+    }
+  }
+}

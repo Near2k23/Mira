@@ -1,0 +1,13 @@
+{
+  "tmdb": 232865,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shaman King: Flowers",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shaman-king-flowers"
+      }
+    }
+  }
+}

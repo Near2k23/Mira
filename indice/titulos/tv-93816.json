@@ -1,0 +1,14 @@
+{
+  "tmdb": 93816,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Great Pretender",
+  "nota": "Temporadas omitidas por no cuadrar episodios: T2 (great-pretender-razbliuto): 1 eps en el sitio vs 4 en TMDB",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "great-pretender"
+      }
+    }
+  }
+}

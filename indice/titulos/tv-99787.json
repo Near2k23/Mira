@@ -1,0 +1,18 @@
+{
+  "tmdb": 99787,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Meiji Gekken: 1874",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "meiji-gekken-1874"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "meiji-gekken-1874"
+      }
+    }
+  }
+}

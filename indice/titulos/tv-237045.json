@@ -1,0 +1,18 @@
+{
+  "tmdb": 237045,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "30sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii"
+      }
+    }
+  }
+}

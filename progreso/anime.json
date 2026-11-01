@@ -587,7 +587,37 @@
   "tv-243141": "nuevo",
   "tv-246029": "nuevo",
   "tv-249812": "nuevo",
-  "movie-1104844": "completado"
+  "movie-1104844": "completado",
+  "tv-76075": "nuevo",
+  "tv-93816": "nuevo",
+  "tv-99787": "nuevo",
+  "tv-154524": "nuevo",
+  "tv-156057": "nuevo",
+  "tv-208445": "nuevo",
+  "tv-210181": "nuevo",
+  "tv-212273": "nuevo",
+  "tv-213181": "nuevo",
+  "tv-214310": "nuevo",
+  "tv-221310": "nuevo",
+  "tv-222787": "nuevo",
+  "tv-222930": "nuevo",
+  "tv-225168": "nuevo",
+  "tv-226905": "nuevo",
+  "tv-229108": "nuevo",
+  "tv-229676": "nuevo",
+  "tv-231357": "nuevo",
+  "tv-232865": "nuevo",
+  "tv-236142": "nuevo",
+  "tv-236930": "nuevo",
+  "tv-237045": "nuevo",
+  "tv-238846": "nuevo",
+  "tv-238848": "nuevo",
+  "tv-239214": "nuevo",
+  "tv-243216": "nuevo",
+  "tv-244435": "nuevo",
+  "movie-1012201": "completado",
+  "movie-1177096": "nuevo",
+  "movie-1146972": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -687,7 +717,13 @@
   "xiehou-ta-de-shaonu-shidai": "no está en TMDB / no ubicado",
   "shadowverse-flame-arc-hen": "no está en TMDB / no ubicado",
   "boku-no-hero-academia-memories": "Especial",
-  "tensei-shitara-slime-datta-ken-3rd-season": "no está en TMDB / no ubicado"
+  "tensei-shitara-slime-datta-ken-3rd-season": "no está en TMDB / no ubicado",
+  "tv-229443": "T1 (himesama-goumon-no-jikan-desu): 12 eps en el sitio vs 24 en TMDB",
+  "given-movie-2-hiiragi-mix": "varias coincidencias en TMDB",
+  "nijiyon-animation-2": "no está en TMDB / no ubicado",
+  "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi": "OVA",
+  "ninja-kamui": "no está en TMDB / no ubicado",
+  "cardfight-vanguard-divinez": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -696,7 +732,8 @@
   "tv-69500",
   "tv-68854",
   "tv-46195",
-  "tv-236385"
+  "tv-236385",
+  "tv-93816"
  ],
  "paginas": {
   "latest_released 1-2": {
@@ -783,6 +820,11 @@
    "agregados": 27,
    "completados": 1,
    "saltados": 6
+  },
+  "latest_released 35-36": {
+   "agregados": 29,
+   "completados": 1,
+   "saltados": 8
   }
  }
 }

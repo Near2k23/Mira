@@ -1,0 +1,18 @@
+{
+  "tmdb": 238846,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yuuki Bakuhatsu Bang Bravern",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yuuki-bakuhatsu-bang-bravern"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yuuki-bakuhatsu-bang-bravern"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 225168,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bartender: Kami no Glass",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "bartender-kami-no-glass"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "bartender-kami-no-glass"
+      }
+    }
+  }
+}

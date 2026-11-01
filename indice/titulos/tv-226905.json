@@ -1,0 +1,18 @@
+{
+  "tmdb": 226905,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bucchigiri?!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "bucchigiri"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "bucchigiri"
+      }
+    }
+  }
+}

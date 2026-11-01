@@ -1,0 +1,13 @@
+{
+  "tmdb": 243216,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wonderful Precure!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "wonderful-precure"
+      }
+    }
+  }
+}
