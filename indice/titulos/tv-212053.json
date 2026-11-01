@@ -1,0 +1,18 @@
+{
+  "tmdb": 212053,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ojou to Banken-kun",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ojou-to-banken-kun"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ojou-to-bankenkun"
+      }
+    }
+  }
+}

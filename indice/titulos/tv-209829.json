@@ -1,0 +1,18 @@
+{
+  "tmdb": 209829,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dekoboko Majo no Oyako Jijou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dekoboko-majo-no-oyako-jijou"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dekoboko-majo-no-oyako-jijou"
+      }
+    }
+  }
+}

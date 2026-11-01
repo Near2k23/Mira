@@ -1,0 +1,21 @@
+{
+  "tmdb": 135335,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sugar Apple Fairy Tale",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "sugar-apple-fairy-tale",
+            "episodios": 12
+          },
+          {
+            "slug": "sugar-apple-fairy-tale-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

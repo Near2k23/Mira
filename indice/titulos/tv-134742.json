@@ -1,0 +1,18 @@
+{
+  "tmdb": 134742,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Eiyuu Kyoushitsu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "eiyuu-kyoushitsu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "eiyuu-kyoushitsu"
+      }
+    }
+  }
+}

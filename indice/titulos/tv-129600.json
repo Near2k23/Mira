@@ -1,0 +1,14 @@
+{
+  "tmdb": 129600,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hanma Baki: Son of Ogre",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hanma-baki-son-of-ogre",
+        "2": "hanma-baki-son-of-ogre-2nd-season"
+      }
+    }
+  }
+}

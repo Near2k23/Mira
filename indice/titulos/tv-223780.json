@@ -1,0 +1,18 @@
+{
+  "tmdb": 223780,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Megumi no Daigo: Kyuukoku no Orange",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "megumi-no-daigo-kyuukoku-no-orange"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "megumi-no-daigo-kyuukoku-no-orange"
+      }
+    }
+  }
+}

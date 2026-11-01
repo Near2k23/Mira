@@ -1,0 +1,22 @@
+{
+  "tmdb": 156898,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bastard!! Ankoku no Hakaishin (ONA)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "bastard-ankoku-no-hakaishin-ona",
+            "episodios": 13
+          },
+          {
+            "slug": "bastard-ankoku-no-hakaishin-part-2-ona"
+          }
+        ],
+        "2": "bastard-ankoku-no-hakaishin-jigoku-no-chinkonka-hen"
+      }
+    }
+  }
+}

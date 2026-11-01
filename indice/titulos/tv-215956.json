@@ -1,0 +1,18 @@
+{
+  "tmdb": 215956,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "AI no Idenshi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "ai-no-idenshi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "ai-no-idenshi"
+      }
+    }
+  }
+}

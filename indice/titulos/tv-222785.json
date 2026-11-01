@@ -1,0 +1,18 @@
+{
+  "tmdb": 222785,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Undead Girl Murder Farce",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "undead-girl-murder-farce"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "undead-girl-murder-farce"
+      }
+    }
+  }
+}

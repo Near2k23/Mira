@@ -1,0 +1,18 @@
+{
+  "tmdb": 202821,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dekiru Neko wa Kyou mo Yuuutsu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dekiru-neko-wa-kyou-mo-yuuutsu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dekiru-neko-wa-kyou-mo-yuuutsu"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 153337,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nanatsu no Maken ga Shihai suru",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "nanatsu-no-maken-ga-shihai-suru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "nanatsu-no-maken-ga-shihai-suru"
+      }
+    }
+  }
+}

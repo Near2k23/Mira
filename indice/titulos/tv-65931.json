@@ -1,0 +1,58 @@
+{
+  "tmdb": 65931,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bungou Stray Dogs",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "bungou-stray-dogs",
+            "episodios": 12
+          },
+          {
+            "slug": "bungou-stray-dogs-2nd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "bungou-stray-dogs-3rd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "bungou-stray-dogs-4th-season",
+            "episodios": 13
+          },
+          {
+            "slug": "bungou-stray-dogs-5th-season"
+          }
+        ]
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "bungou-stray-dogs",
+            "episodios": 12
+          },
+          {
+            "slug": "bungou-stray-dogs",
+            "episodios": 12
+          },
+          {
+            "slug": "bungou-stray-dogs-3rd-season",
+            "episodios": 12
+          },
+          {
+            "slug": "bungou-stray-dogs-4th-season",
+            "episodios": 13
+          },
+          {
+            "slug": "bungou-stray-dogs-5th-season"
+          }
+        ]
+      }
+    }
+  }
+}

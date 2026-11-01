@@ -1,0 +1,21 @@
+{
+  "tmdb": 194986,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Spy Kyoushitsu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "spy-kyoushitsu",
+            "episodios": 12
+          },
+          {
+            "slug": "spy-kyoushitsu-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

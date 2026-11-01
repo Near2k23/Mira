@@ -1,0 +1,18 @@
+{
+  "tmdb": 201363,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Level 1 dakedo Unique Skill de Saikyou desu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "level-1-dakedo-unique-skill-de-saikyou-desu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "level-1-dakedo-unique-skill-de-saikyou-desu"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 217766,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 206799,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dark Gathering",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "dark-gathering"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "dark-gathering"
+      }
+    }
+  }
+}

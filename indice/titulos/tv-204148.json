@@ -1,0 +1,18 @@
+{
+  "tmdb": 204148,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shiro Seijo to Kuro Bokushi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shiro-seijo-to-kuro-bokushi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shiro-seijo-to-kuro-bokushi"
+      }
+    }
+  }
+}

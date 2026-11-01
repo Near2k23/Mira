@@ -646,7 +646,29 @@
   "tv-223565": "nuevo",
   "tv-229610": "nuevo",
   "tv-229612": "nuevo",
-  "tv-234740": "nuevo"
+  "tv-234740": "nuevo",
+  "tv-65931": "nuevo",
+  "tv-122204": "nuevo",
+  "tv-129600": "nuevo",
+  "tv-134742": "nuevo",
+  "tv-135335": "nuevo",
+  "tv-153337": "nuevo",
+  "tv-156898": "nuevo",
+  "tv-157571": "nuevo",
+  "tv-194986": "nuevo",
+  "tv-201363": "nuevo",
+  "tv-202821": "nuevo",
+  "tv-204148": "nuevo",
+  "tv-206799": "nuevo",
+  "tv-209829": "nuevo",
+  "tv-212053": "nuevo",
+  "tv-215956": "nuevo",
+  "tv-217766": "nuevo",
+  "tv-222785": "nuevo",
+  "tv-223780": "nuevo",
+  "movie-845387": "nuevo",
+  "movie-1108306": "nuevo",
+  "movie-508883": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -752,7 +774,15 @@
   "nijiyon-animation-2": "no está en TMDB / no ubicado",
   "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi": "OVA",
   "ninja-kamui": "no está en TMDB / no ubicado",
-  "cardfight-vanguard-divinez": "no está en TMDB / no ubicado"
+  "cardfight-vanguard-divinez": "no está en TMDB / no ubicado",
+  "tv-218613": "T1 (temple): 13 eps en el sitio vs 12 en TMDB",
+  "captain-tsubasa-season-2-junior-youth-hen": "no está en TMDB / no ubicado",
+  "boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta": "no está en TMDB / no ubicado",
+  "5-toubun-no-hanayome": "Especial",
+  "nanatsu-no-taizai-ensa-no-edinburgh-part-2": "no está en TMDB / no ubicado",
+  "shiguang-dailiren-ii": "no está en TMDB / no ubicado",
+  "tonikaku-kawaii-joshikou-hen": "no está en TMDB / no ubicado",
+  "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -859,6 +889,11 @@
    "agregados": 29,
    "completados": 0,
    "saltados": 7
+  },
+  "latest_released 41-42": {
+   "agregados": 22,
+   "completados": 0,
+   "saltados": 8
   }
  }
 }

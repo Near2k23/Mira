@@ -1,0 +1,18 @@
+{
+  "tmdb": 122204,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Liar Liar",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "liar-liar"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "liar-liar"
+      }
+    }
+  }
+}
