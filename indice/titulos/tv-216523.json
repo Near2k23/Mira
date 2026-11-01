@@ -1,0 +1,21 @@
+{
+  "tmdb": 216523,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kamonohashi Ron no Kindan Suiri",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kamonohashi-ron-no-kindan-suiri",
+            "episodios": 13
+          },
+          {
+            "slug": "kamonohashi-ron-no-kindan-suiri-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

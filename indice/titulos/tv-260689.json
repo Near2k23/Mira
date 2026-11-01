@@ -1,0 +1,18 @@
+{
+  "tmdb": 260689,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "NegaPosi Angler",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "negaposi-angler"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "negaposi-angler"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tmdb": 233408,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Houkago Shounen Hanako-kun",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "houkago-shounen-hanako-kun",
+            "episodios": 4
+          },
+          {
+            "slug": "houkago-shounen-hanako-kun-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

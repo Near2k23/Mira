@@ -1,0 +1,18 @@
+{
+  "tmdb": 204635,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chi. Chikyuu no Undou ni Tsuite",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "chi-chikyuu-no-undou-ni-tsuite"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "chi-chikyuu-no-undou-ni-tsuite"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tmdb": 218843,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "nanatsu-no-taizai-mokushiroku-no-yonkishi",
+            "episodios": 24
+          },
+          {
+            "slug": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

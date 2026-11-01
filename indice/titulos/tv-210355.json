@@ -1,0 +1,18 @@
+{
+  "tmdb": 210355,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mecha-ude (TV)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mecha-ude-tv"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mechaude-tv"
+      }
+    }
+  }
+}

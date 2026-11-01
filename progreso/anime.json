@@ -478,7 +478,33 @@
   "tv-276204": "nuevo",
   "tv-280906": "completado",
   "movie-1310672": "nuevo",
-  "movie-1333100": "completado"
+  "movie-1333100": "completado",
+  "tv-69500": "nuevo",
+  "tv-88044": "nuevo",
+  "tv-99088": "nuevo",
+  "tv-106055": "nuevo",
+  "tv-113808": "nuevo",
+  "tv-131041": "nuevo",
+  "tv-204635": "nuevo",
+  "tv-210355": "nuevo",
+  "tv-210879": "nuevo",
+  "tv-216523": "nuevo",
+  "tv-218843": "nuevo",
+  "tv-230189": "nuevo",
+  "tv-233408": "nuevo",
+  "tv-236530": "nuevo",
+  "tv-240125": "nuevo",
+  "tv-240641": "nuevo",
+  "tv-242143": "nuevo",
+  "tv-244592": "nuevo",
+  "tv-244624": "nuevo",
+  "tv-244625": "nuevo",
+  "tv-248086": "nuevo",
+  "tv-257603": "nuevo",
+  "tv-259787": "nuevo",
+  "tv-259788": "nuevo",
+  "tv-260689": "nuevo",
+  "tv-270659": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -556,12 +582,18 @@
   "high-card-the-flowers-bloom": "no está en TMDB / no ubicado",
   "one-piece-gyojin-tou-hen": "no está en TMDB / no ubicado",
   "one-piece-fan-letter": "Especial",
-  "kidou-senshi-gundam-fukushuu-no-requiem": "no está en TMDB / no ubicado"
+  "kidou-senshi-gundam-fukushuu-no-requiem": "no está en TMDB / no ubicado",
+  "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru": "no está en TMDB / no ubicado",
+  "fairy-tail-100-nen-quest-kanwa-lucys-diary": "Especial",
+  "danmachi-v": "no está en TMDB / no ubicado",
+  "sword-art-online-alternative-gun-gale-online-ii": "no está en TMDB / no ubicado",
+  "hitoribocchi-no-isekai-kouryaku": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
   "tv-65930",
-  "tv-73223"
+  "tv-73223",
+  "tv-69500"
  ],
  "paginas": {
   "latest_released 1-2": {
@@ -628,6 +660,11 @@
    "agregados": 9,
    "completados": 18,
    "saltados": 6
+  },
+  "latest_released 27-28": {
+   "agregados": 26,
+   "completados": 0,
+   "saltados": 4
   }
  }
 }

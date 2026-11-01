@@ -1,0 +1,18 @@
+{
+  "tmdb": 259788,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Youkai Gakkou no Sensei Hajimemashita!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "youkai-gakkou-no-sensei-hajimemashita"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "youkai-gakkou-no-sensei-hajimemashita"
+      }
+    }
+  }
+}

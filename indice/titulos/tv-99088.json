@@ -1,0 +1,18 @@
+{
+  "tmdb": 99088,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi"
+      }
+    }
+  }
+}

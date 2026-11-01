@@ -1,0 +1,20 @@
+{
+  "tmdb": 88044,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Maou-sama, Retry!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "maou-sama-retry",
+        "2": "maou-sama-retry-r"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "maousama-retry",
+        "2": "maousama-retry-r"
+      }
+    }
+  }
+}

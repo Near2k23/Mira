@@ -1,0 +1,18 @@
+{
+  "tmdb": 259787,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Raise wa Tanin ga Ii",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "raise-wa-tanin-ga-ii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "raise-wa-tanin-ga-ii"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 230189,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kekkon suru tte, Hontou desu ka",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kekkon-suru-tte-hontou-desu-ka"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kekkon-suru-tte-hontou-desu-ka"
+      }
+    }
+  }
+}

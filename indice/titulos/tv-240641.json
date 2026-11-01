@@ -1,0 +1,18 @@
+{
+  "tmdb": 240641,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hoshifuru Oukoku no Nina",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "hoshifuru-oukoku-no-nina"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "hoshifuru-oukoku-no-nina"
+      }
+    }
+  }
+}

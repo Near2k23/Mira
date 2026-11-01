@@ -1,0 +1,20 @@
+{
+  "tmdb": 113808,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seirei Gensouki",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "seirei-gensouki",
+        "2": "seirei-gensouki-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "seirei-gensouki",
+        "2": "seirei-gensouki-2"
+      }
+    }
+  }
+}

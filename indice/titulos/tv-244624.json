@@ -1,0 +1,18 @@
+{
+  "tmdb": 244624,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu"
+      }
+    }
+  }
+}

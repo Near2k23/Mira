@@ -1,0 +1,18 @@
+{
+  "tmdb": 270659,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kinoko Inu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kinoko-inu"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kinoko-inu"
+      }
+    }
+  }
+}

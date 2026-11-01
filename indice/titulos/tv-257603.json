@@ -1,0 +1,18 @@
+{
+  "tmdb": 257603,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tsuma, Shougakusei ni Naru.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tsuma-shougakusei-ni-naru"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "tsuma-shougakusei-ni-naru"
+      }
+    }
+  }
+}

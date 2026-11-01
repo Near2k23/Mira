@@ -1,0 +1,18 @@
+{
+  "tmdb": 236530,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "goukon-ni-ittara-onna-ga-inakatta-hanashi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "goukon-ni-ittara-onna-ga-inakatta-hanashi"
+      }
+    }
+  }
+}

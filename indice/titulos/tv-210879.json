@@ -1,0 +1,21 @@
+{
+  "tmdb": 210879,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "rurouni-kenshin-meiji-kenkaku-romantan-2023",
+            "episodios": 24
+          },
+          {
+            "slug": "rurouni-kenshin-kyoto-douran"
+          }
+        ]
+      }
+    }
+  }
+}

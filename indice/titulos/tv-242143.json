@@ -1,0 +1,18 @@
+{
+  "tmdb": 242143,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimi wa Meido-sama.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kimi-wa-meido-sama"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-wa-meidosama"
+      }
+    }
+  }
+}

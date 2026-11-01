@@ -1,0 +1,18 @@
+{
+  "tmdb": 244592,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Haigakura",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "haigakura"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "haigakura"
+      }
+    }
+  }
+}

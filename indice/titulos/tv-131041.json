@@ -1,0 +1,21 @@
+{
+  "tmdb": 131041,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blue Lock",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "blue-lock",
+            "episodios": 24
+          },
+          {
+            "slug": "blue-lock-vs-u-20-japan"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "tmdb": 106055,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Love Live! Superstar!!",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "love-live-superstar",
+        "2": "love-live-superstar-2nd-season",
+        "3": "love-live-superstar-3rd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "love-live-superstar",
+        "2": "love-live-superstar-2nd-season",
+        "3": "love-live-superstar-3rd-season"
+      }
+    }
+  }
+}
