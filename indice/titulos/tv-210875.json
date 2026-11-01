@@ -1,0 +1,18 @@
+{
+  "tmdb": 210875,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Atri: My Dear Moments",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "atri-my-dear-moments"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "atri-my-dear-moments"
+      }
+    }
+  }
+}

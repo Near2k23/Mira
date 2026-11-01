@@ -1,0 +1,18 @@
+{
+  "tmdb": 232252,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Delico's Nursery",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "delicos-nursery"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "delicos-nursery"
+      }
+    }
+  }
+}

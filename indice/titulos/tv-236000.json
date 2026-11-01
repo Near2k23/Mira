@@ -1,0 +1,18 @@
+{
+  "tmdb": 236000,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kinnikuman-kanpeki-choujin-shiso-hen"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kinnikuman-kanpeki-choujin-shisohen"
+      }
+    }
+  }
+}

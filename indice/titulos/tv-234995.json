@@ -1,0 +1,14 @@
+{
+  "tmdb": 234995,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sengoku Youko: Yonaoshi Kyoudai-hen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "sengoku-youko-yonaoshi-kyoudai-hen",
+        "2": "sengoku-youko-senma-konton-hen"
+      }
+    }
+  }
+}

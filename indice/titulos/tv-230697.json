@@ -1,0 +1,18 @@
+{
+  "tmdb": 230697,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Koi wa Futago de Warikirenai",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "koi-wa-futago-de-warikirenai"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "koi-wa-futago-de-warikirenai"
+      }
+    }
+  }
+}

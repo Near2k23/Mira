@@ -1,0 +1,13 @@
+{
+  "tmdb": 248947,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fairy Tail 4 : 100-nen Quest",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "fairy-tail-100-nen-quest"
+      }
+    }
+  }
+}

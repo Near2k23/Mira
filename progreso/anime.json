@@ -504,7 +504,34 @@
   "tv-259787": "nuevo",
   "tv-259788": "nuevo",
   "tv-260689": "nuevo",
-  "tv-270659": "nuevo"
+  "tv-270659": "nuevo",
+  "tv-68854": "nuevo",
+  "tv-90660": "nuevo",
+  "tv-97860": "nuevo",
+  "tv-101972": "nuevo",
+  "tv-205743": "nuevo",
+  "tv-210875": "nuevo",
+  "tv-215429": "nuevo",
+  "tv-222798": "nuevo",
+  "tv-230697": "nuevo",
+  "tv-232252": "nuevo",
+  "tv-234910": "nuevo",
+  "tv-234995": "nuevo",
+  "tv-236000": "nuevo",
+  "tv-239158": "nuevo",
+  "tv-239764": "nuevo",
+  "tv-240633": "nuevo",
+  "tv-241138": "nuevo",
+  "tv-241535": "nuevo",
+  "tv-244617": "nuevo",
+  "tv-244672": "nuevo",
+  "tv-248817": "nuevo",
+  "tv-248866": "nuevo",
+  "tv-248947": "nuevo",
+  "movie-1014505": "completado",
+  "movie-1143875": "nuevo",
+  "movie-1159311": "completado",
+  "movie-989730": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -587,13 +614,22 @@
   "fairy-tail-100-nen-quest-kanwa-lucys-diary": "Especial",
   "danmachi-v": "no está en TMDB / no ubicado",
   "sword-art-online-alternative-gun-gale-online-ii": "no está en TMDB / no ubicado",
-  "hitoribocchi-no-isekai-kouryaku": "no está en TMDB / no ubicado"
+  "hitoribocchi-no-isekai-kouryaku": "no está en TMDB / no ubicado",
+  "tv-243743": "T1 (elf-san-wa-yaserarenai): 14 eps en el sitio vs 12 en TMDB",
+  "given-movie-3-umi-e": "varias coincidencias en TMDB",
+  "yamato-yo-towa-ni-rebel-3199": "no está en TMDB",
+  "wu-liuqi-jiyi-suipian": "no está en TMDB / no ubicado",
+  "rezero-kara-hajimeru-isekai-seikatsu-3rd-season": "no está en TMDB / no ubicado",
+  "uzumaki": "no está en TMDB / no ubicado",
+  "murai-no-koi": "no está en TMDB / no ubicado",
+  "yeosin-gangnim": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
   "tv-65930",
   "tv-73223",
-  "tv-69500"
+  "tv-69500",
+  "tv-68854"
  ],
  "paginas": {
   "latest_released 1-2": {
@@ -665,6 +701,11 @@
    "agregados": 26,
    "completados": 0,
    "saltados": 4
+  },
+  "latest_released 29-30": {
+   "agregados": 25,
+   "completados": 2,
+   "saltados": 7
   }
  }
 }

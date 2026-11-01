@@ -1,0 +1,18 @@
+{
+  "tmdb": 239158,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Na Nare Hana Nare",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "na-nare-hana-nare"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "na-nare-hana-nare"
+      }
+    }
+  }
+}

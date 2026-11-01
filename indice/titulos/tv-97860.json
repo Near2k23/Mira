@@ -1,0 +1,20 @@
+{
+  "tmdb": 97860,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kami no Tou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kami-no-tou",
+        "2": "kami-no-tou-ouji-no-kikan"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kami-no-tou",
+        "2": "kami-no-tou-ouji-no-kikan"
+      }
+    }
+  }
+}

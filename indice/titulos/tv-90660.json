@@ -1,0 +1,30 @@
+{
+  "tmdb": 90660,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kengan Ashura",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kengan-ashura",
+            "episodios": 12
+          },
+          {
+            "slug": "kengan-ashura-part-2"
+          }
+        ],
+        "2": [
+          {
+            "slug": "kengan-ashura-season-2",
+            "episodios": 12
+          },
+          {
+            "slug": "kengan-ashura-season-2-part-2"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 248866,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shikanoko Nokonoko Koshitantan",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "shikanoko-nokonoko-koshitantan"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "shikanoko-nokonoko-koshitantan"
+      }
+    }
+  }
+}

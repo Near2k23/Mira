@@ -1,0 +1,18 @@
+{
+  "tmdb": 239764,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 215429,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Acro Trip",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "acro-trip"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "acro-trip"
+      }
+    }
+  }
+}

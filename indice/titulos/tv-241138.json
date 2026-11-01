@@ -1,0 +1,14 @@
+{
+  "tmdb": 241138,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rising Impact",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "rising-impact",
+        "2": "rising-impact-season-2"
+      }
+    }
+  }
+}

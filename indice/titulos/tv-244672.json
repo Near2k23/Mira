@@ -1,0 +1,18 @@
+{
+  "tmdb": 244672,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka"
+      }
+    }
+  }
+}

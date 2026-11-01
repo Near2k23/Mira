@@ -1,0 +1,20 @@
+{
+  "tmdb": 101972,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
+        "2": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
+        "2": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 234910,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Amagami-san Chi no Enmusubi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "amagami-san-chi-no-enmusubi"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "amagamisan-chi-no-enmusubi"
+      }
+    }
+  }
+}

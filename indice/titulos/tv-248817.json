@@ -1,0 +1,18 @@
+{
+  "tmdb": 248817,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rekishi ni Nokoru Akujo ni Naru zo",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "rekishi-ni-nokoru-akujo-ni-naru-zo"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "rekishi-ni-nokoru-akujo-ni-naru-zo"
+      }
+    }
+  }
+}

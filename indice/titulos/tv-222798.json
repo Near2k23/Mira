@@ -1,0 +1,21 @@
+{
+  "tmdb": 222798,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kamierabi",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": [
+          {
+            "slug": "kamierabi",
+            "episodios": 12
+          },
+          {
+            "slug": "kamierabi-2nd-season"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tmdb": 241535,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Make Heroine ga Oosugiru!",
+  "fuentes": {
+    "animeav1": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "make-heroine-ga-oosugiru"
+      }
+    },
+    "tioanime": {
+      "numeracion": "absoluta",
+      "temporadas": {
+        "1": "make-heroine-ga-oosugiru"
+      }
+    }
+  }
+}

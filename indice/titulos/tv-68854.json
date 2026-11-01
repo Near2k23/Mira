@@ -1,0 +1,21 @@
+{
+  "tmdb": 68854,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimi ni Todoke",
+  "nota": "Temporadas omitidas por no cuadrar episodios: T3 (kimi-ni-todoke-3rd-season): 6 eps en el sitio vs 5 en TMDB",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "kimi-ni-todoke",
+        "2": "kimi-ni-todoke-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-ni-todoke",
+        "2": "kimi-ni-todoke-2"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tmdb": 205743,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Isekai Shikkaku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "isekai-shikkaku"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-shikkaku"
+      }
+    }
+  }
+}
