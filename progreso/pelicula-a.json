@@ -1,8 +1,8 @@
 {
  "anio": 2025,
- "mes": 9,
+ "mes": 10,
  "pagina": 2,
- "agregados": 887,
+ "agregados": 913,
  "saltados": [
   {
    "id_o_slug": "1620711",
@@ -275934,6 +275934,62 @@
   },
   {
    "id_o_slug": "1526207",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "787747",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1489187",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1257406",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1254808",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1526215",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1469354",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1175842",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1571594",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1187298",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1456349",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1479178",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1295400",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1606906",
+   "motivo": "no está en vimeus"
+  },
+  {
+   "id_o_slug": "1548073",
    "motivo": "no está en vimeus"
   }
  ]
