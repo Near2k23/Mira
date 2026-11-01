@@ -1,0 +1,10 @@
+{
+  "tmdb": 500,
+  "tipo": "movie",
+  "categoria": "movie",
+  "titulo": "Perros de Reserva",
+  "fuentes": {
+    "vimeus": {},
+    "embed69": {}
+  }
+}
