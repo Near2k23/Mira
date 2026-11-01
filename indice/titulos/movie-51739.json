@@ -1,0 +1,11 @@
+{
+  "tmdb": 51739,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El mundo secreto de Arrietty",
+  "fuentes": {
+    "tioanime": {
+      "slug": "karigurashi-no-arrietty"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 271708,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "K: Missing Kings",
+  "fuentes": {
+    "tioanime": {
+      "slug": "k-missing-kings"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 22843,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Evangelion: 2.22 Tú (No) Puedes Avanzar",
+  "fuentes": {
+    "tioanime": {
+      "slug": "evangelion-20-you-can-not-advance"
+    }
+  }
+}

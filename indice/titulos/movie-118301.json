@@ -1,0 +1,11 @@
+{
+  "tmdb": 118301,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Super Once: La Película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "inazuma-eleven-saikyo-gundan-ogre-shurai"
+    }
+  }
+}

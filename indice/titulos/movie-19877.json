@@ -1,0 +1,11 @@
+{
+  "tmdb": 19877,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El puño de la Estrella del Norte",
+  "fuentes": {
+    "tioanime": {
+      "slug": "hokuto-no-ken-movie"
+    }
+  }
+}

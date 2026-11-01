@@ -1,0 +1,11 @@
+{
+  "tmdb": 374205,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "One Piece Gold: La película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "one-piece-film-gold"
+    }
+  }
+}

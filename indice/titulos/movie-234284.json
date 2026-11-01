@@ -1,0 +1,11 @@
+{
+  "tmdb": 234284,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "イヴの時間 劇場版",
+  "fuentes": {
+    "tioanime": {
+      "slug": "eve-no-jikan-gekijouban"
+    }
+  }
+}

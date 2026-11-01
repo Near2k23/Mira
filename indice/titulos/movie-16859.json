@@ -1,0 +1,11 @@
+{
+  "tmdb": 16859,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Kiki: Entregas a Domicilio",
+  "fuentes": {
+    "tioanime": {
+      "slug": "majo-no-takkyuubin"
+    }
+  }
+}

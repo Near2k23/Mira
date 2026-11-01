@@ -1,0 +1,11 @@
+{
+  "tmdb": 589082,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Hakubo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "hakubo"
+    }
+  }
+}

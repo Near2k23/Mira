@@ -1,0 +1,11 @@
+{
+  "tmdb": 11299,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Cowboy Bebop, la película: Llamando a las puertas del cielo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "cowboy-bebop-tengoku-no-obira"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 44587,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "X -エックス-",
+  "fuentes": {
+    "tioanime": {
+      "slug": "x-1999"
+    }
+  }
+}

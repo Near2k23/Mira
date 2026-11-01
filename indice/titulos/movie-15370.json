@@ -1,0 +1,11 @@
+{
+  "tmdb": 15370,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El regreso del gato",
+  "fuentes": {
+    "tioanime": {
+      "slug": "neko-no-ongaeshi"
+    }
+  }
+}

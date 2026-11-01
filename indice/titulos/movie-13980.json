@@ -1,0 +1,11 @@
+{
+  "tmdb": 13980,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El samurái sin nombre",
+  "fuentes": {
+    "tioanime": {
+      "slug": "stranger-mukou-hadan"
+    }
+  }
+}

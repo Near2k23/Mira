@@ -1,0 +1,11 @@
+{
+  "tmdb": 347201,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Boruto: Naruto la Película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "boruto-naruto-the-movie"
+    }
+  }
+}

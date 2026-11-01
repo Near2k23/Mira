@@ -1,0 +1,11 @@
+{
+  "tmdb": 125521,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "スレイヤーズ RETURN",
+  "fuentes": {
+    "tioanime": {
+      "slug": "slayers-return"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 333623,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Love Live! The School Idol Movie",
+  "fuentes": {
+    "tioanime": {
+      "slug": "love-live-the-school-idol-movie"
+    }
+  }
+}

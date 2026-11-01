@@ -1,0 +1,11 @@
+{
+  "tmdb": 15137,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Evangelion: 1.11 Tú (No) Estás Solo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "evangelion-10-you-are-not-alone"
+    }
+  }
+}

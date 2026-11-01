@@ -1,0 +1,11 @@
+{
+  "tmdb": 334376,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Ghost in the Shell Ascenso: La Película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "ghost-in-the-shell-2015"
+    }
+  }
+}

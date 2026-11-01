@@ -1,0 +1,11 @@
+{
+  "tmdb": 192577,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Capitán Harlock: El pirata espacial",
+  "fuentes": {
+    "tioanime": {
+      "slug": "captain-harlock-2013"
+    }
+  }
+}

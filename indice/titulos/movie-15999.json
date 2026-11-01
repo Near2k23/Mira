@@ -1,0 +1,11 @@
+{
+  "tmdb": 15999,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Vampire Hunter D: Bloodlust",
+  "fuentes": {
+    "tioanime": {
+      "slug": "vampire-hunter-d-bloodlust"
+    }
+  }
+}

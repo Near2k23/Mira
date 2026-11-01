@@ -1,0 +1,11 @@
+{
+  "tmdb": 1012652,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Psycho-Pass: Providencia",
+  "fuentes": {
+    "tioanime": {
+      "slug": "psychopass-movie-providence"
+    }
+  }
+}

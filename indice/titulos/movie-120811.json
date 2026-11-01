@@ -1,0 +1,11 @@
+{
+  "tmdb": 120811,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "K-On!: La película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "k-on-pelicula"
+    }
+  }
+}

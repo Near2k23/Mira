@@ -1,0 +1,11 @@
+{
+  "tmdb": 126710,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "マジック・ツリーハウス",
+  "fuentes": {
+    "tioanime": {
+      "slug": "magic-tree-house"
+    }
+  }
+}

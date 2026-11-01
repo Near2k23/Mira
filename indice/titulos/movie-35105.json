@@ -1,0 +1,11 @@
+{
+  "tmdb": 35105,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "スレイヤーズ",
+  "fuentes": {
+    "tioanime": {
+      "slug": "gekijouban-slayers"
+    }
+  }
+}

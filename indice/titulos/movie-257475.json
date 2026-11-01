@@ -1,0 +1,11 @@
+{
+  "tmdb": 257475,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Tamako Love Story",
+  "fuentes": {
+    "tioanime": {
+      "slug": "tamako-love-story"
+    }
+  }
+}

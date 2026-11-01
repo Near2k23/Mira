@@ -1,0 +1,11 @@
+{
+  "tmdb": 390734,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Final Fantasy XV: La película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kingsglaive-final-fantasy-xv"
+    }
+  }
+}

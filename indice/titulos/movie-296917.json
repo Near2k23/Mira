@@ -1,0 +1,11 @@
+{
+  "tmdb": 296917,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Pysicho Pass - La Película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "psycho-pass-movie"
+    }
+  }
+}

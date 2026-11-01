@@ -1,0 +1,11 @@
+{
+  "tmdb": 15283,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "La Guerra de los Mapaches",
+  "fuentes": {
+    "tioanime": {
+      "slug": "heisei-tanuki-gassen-ponpoko"
+    }
+  }
+}

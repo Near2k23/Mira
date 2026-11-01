@@ -1,0 +1,11 @@
+{
+  "tmdb": 126963,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Dragon Ball Z: La batalla de los dioses",
+  "fuentes": {
+    "tioanime": {
+      "slug": "dragon-ball-z-battle-of-gods"
+    }
+  }
+}

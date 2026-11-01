@@ -1,0 +1,11 @@
+{
+  "tmdb": 135915,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Nerawareta Gakuen",
+  "fuentes": {
+    "tioanime": {
+      "slug": "nerawareta-gakuen"
+    }
+  }
+}

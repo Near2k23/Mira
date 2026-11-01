@@ -1,0 +1,11 @@
+{
+  "tmdb": 239523,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Cazador X: La última misión",
+  "fuentes": {
+    "tioanime": {
+      "slug": "hunter-x-hunter-the-last-mission"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 412383,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "KanColle: The Movie",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kancolle-movie"
+    }
+  }
+}

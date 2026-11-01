@@ -1,0 +1,11 @@
+{
+  "tmdb": 17566,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Brave Story",
+  "fuentes": {
+    "tioanime": {
+      "slug": "brave-story"
+    }
+  }
+}

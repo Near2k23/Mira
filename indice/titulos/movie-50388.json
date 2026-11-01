@@ -1,0 +1,11 @@
+{
+  "tmdb": 50388,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "King of Thorn: El rey del espino",
+  "fuentes": {
+    "tioanime": {
+      "slug": "king-of-thorn"
+    }
+  }
+}

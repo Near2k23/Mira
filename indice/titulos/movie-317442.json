@@ -1,0 +1,11 @@
+{
+  "tmdb": 317442,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "The Last: Naruto la película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "naruto-shippuuden-movie-7-the-last"
+    }
+  }
+}

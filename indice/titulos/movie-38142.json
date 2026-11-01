@@ -1,0 +1,11 @@
+{
+  "tmdb": 38142,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "5 centímetros por segundo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "byousoku-5-centimeter"
+    }
+  }
+}

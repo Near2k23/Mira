@@ -1,0 +1,11 @@
+{
+  "tmdb": 110420,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Los niños lobo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "ookami-kodomo-no-ame-to-yuki"
+    }
+  }
+}

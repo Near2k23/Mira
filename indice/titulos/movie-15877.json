@@ -1,0 +1,11 @@
+{
+  "tmdb": 15877,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "The Sky Crawlers",
+  "fuentes": {
+    "tioanime": {
+      "slug": "the-sky-crawlers"
+    }
+  }
+}

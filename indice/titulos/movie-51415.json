@@ -1,0 +1,11 @@
+{
+  "tmdb": 51415,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "サイレントメビウス",
+  "fuentes": {
+    "tioanime": {
+      "slug": "silent-mobius-the-motion-picture"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 149,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Akira",
+  "fuentes": {
+    "tioanime": {
+      "slug": "akira"
+    }
+  }
+}

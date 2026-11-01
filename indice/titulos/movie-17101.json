@@ -1,0 +1,11 @@
+{
+  "tmdb": 17101,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Bleach: La rebelión del polvo de diamante",
+  "fuentes": {
+    "tioanime": {
+      "slug": "bleach-the-diamonddust-rebellion"
+    }
+  }
+}

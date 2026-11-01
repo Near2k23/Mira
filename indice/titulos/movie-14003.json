@@ -1,0 +1,11 @@
+{
+  "tmdb": 14003,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Fullmetal Alchemist: El conquistador de Shambala",
+  "fuentes": {
+    "tioanime": {
+      "slug": "full-metal-alchemist-conqueror-of-shamballa"
+    }
+  }
+}

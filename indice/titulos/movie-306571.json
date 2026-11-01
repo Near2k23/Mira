@@ -1,0 +1,11 @@
+{
+  "tmdb": 306571,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Quiero ser el Quinto",
+  "fuentes": {
+    "tioanime": {
+      "slug": "gotou-ni-naritai"
+    }
+  }
+}

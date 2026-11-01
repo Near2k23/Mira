@@ -1,0 +1,11 @@
+{
+  "tmdb": 11621,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Porco Rosso",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kurenai-no-buta"
+    }
+  }
+}

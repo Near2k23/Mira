@@ -1,0 +1,11 @@
+{
+  "tmdb": 16990,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Escaflowne: La película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "escaflowne-the-movie"
+    }
+  }
+}

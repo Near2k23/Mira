@@ -1,0 +1,11 @@
+{
+  "tmdb": 315465,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El niño y la bestia",
+  "fuentes": {
+    "tioanime": {
+      "slug": "bakemono-no-ko"
+    }
+  }
+}

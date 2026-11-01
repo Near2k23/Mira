@@ -1,0 +1,11 @@
+{
+  "tmdb": 212153,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Persona 3 La Pelicula 1: Primavera de Nacimiento",
+  "fuentes": {
+    "tioanime": {
+      "slug": "persona-3"
+    }
+  }
+}

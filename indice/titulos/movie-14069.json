@@ -1,0 +1,11 @@
+{
+  "tmdb": 14069,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "La Chica que Saltaba a Través del Tiempo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "toki-wo-kakeru-shoujo"
+    }
+  }
+}

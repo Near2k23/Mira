@@ -1,0 +1,11 @@
+{
+  "tmdb": 336481,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "音楽少女",
+  "fuentes": {
+    "tioanime": {
+      "slug": "ongaku-shoujo"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 553600,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Promare",
+  "fuentes": {
+    "tioanime": {
+      "slug": "promare"
+    }
+  }
+}

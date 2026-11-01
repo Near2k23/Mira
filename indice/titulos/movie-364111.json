@@ -1,0 +1,11 @@
+{
+  "tmdb": 364111,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El himno del corazón",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kokoro-ga-sakebitagatterunda"
+    }
+  }
+}

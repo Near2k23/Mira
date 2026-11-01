@@ -1,0 +1,11 @@
+{
+  "tmdb": 28874,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Guerra cibernética",
+  "fuentes": {
+    "tioanime": {
+      "slug": "summer-wars"
+    }
+  }
+}

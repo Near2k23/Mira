@@ -1,0 +1,11 @@
+{
+  "tmdb": 16516,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Clannad Movie",
+  "fuentes": {
+    "tioanime": {
+      "slug": "clannad-the-motion-picture"
+    }
+  }
+}

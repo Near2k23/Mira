@@ -1,0 +1,11 @@
+{
+  "tmdb": 436931,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Pokémon: ¡Yo te elijo!",
+  "fuentes": {
+    "tioanime": {
+      "slug": "pokemon-kimi-ni-kimeta"
+    }
+  }
+}

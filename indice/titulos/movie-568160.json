@@ -1,0 +1,11 @@
+{
+  "tmdb": 568160,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El tiempo contigo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "tenki-no-ko"
+    }
+  }
+}

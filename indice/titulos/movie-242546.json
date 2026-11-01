@@ -1,0 +1,11 @@
+{
+  "tmdb": 242546,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Bayonetta: Destino Sangriento",
+  "fuentes": {
+    "tioanime": {
+      "slug": "bayonetta-bloody-fate"
+    }
+  }
+}

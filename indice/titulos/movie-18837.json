@@ -1,0 +1,11 @@
+{
+  "tmdb": 18837,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "マクロスプラス MOVIE EDITION",
+  "fuentes": {
+    "tioanime": {
+      "slug": "macross-plus-movie-edition"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 27812,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Kakurenbo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kakurenbo"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 181656,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Asura",
+  "fuentes": {
+    "tioanime": {
+      "slug": "asura"
+    }
+  }
+}

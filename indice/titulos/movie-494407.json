@@ -1,0 +1,11 @@
+{
+  "tmdb": 494407,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Pokémon: El poder de todos",
+  "fuentes": {
+    "tioanime": {
+      "slug": "pokemon-minna-no-monogatari"
+    }
+  }
+}

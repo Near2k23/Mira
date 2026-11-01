@@ -1,0 +1,11 @@
+{
+  "tmdb": 20722,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "La Maison en Petits Cubes",
+  "fuentes": {
+    "tioanime": {
+      "slug": "tsumiki-no-ie"
+    }
+  }
+}

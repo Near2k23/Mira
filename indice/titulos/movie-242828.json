@@ -1,0 +1,11 @@
+{
+  "tmdb": 242828,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El recuerdo de Marnie",
+  "fuentes": {
+    "tioanime": {
+      "slug": "omoide-no-marnie"
+    }
+  }
+}

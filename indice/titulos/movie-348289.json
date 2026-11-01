@@ -1,0 +1,11 @@
+{
+  "tmdb": 348289,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "劇場版 アイカツ！",
+  "fuentes": {
+    "tioanime": {
+      "slug": "aikatsu-movie"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "pagina": 225,
-  "agregados": 3138,
+  "agregados": 3132,
   "saltados": [
     {
       "id_o_slug": "cyberpunk-edgerunners-2",
@@ -4837,6 +4837,30 @@
     {
       "id_o_slug": "kenka-banchou-otome",
       "motivo": "no encontrado en TMDB (ja+animación+año)"
+    },
+    {
+      "id_o_slug": "zutto-mae-kara-suki-deshita-kokuhaku-jikkou-Iinkai",
+      "motivo": "slug con mayúsculas, el validador lo rechaza"
+    },
+    {
+      "id_o_slug": "Ikkitousen-great-guardians",
+      "motivo": "slug con mayúsculas, el validador lo rechaza"
+    },
+    {
+      "id_o_slug": "Kiniro-no-corda-blue-sky",
+      "motivo": "slug con mayúsculas, el validador lo rechaza"
+    },
+    {
+      "id_o_slug": "Scrapped-princess",
+      "motivo": "slug con mayúsculas, el validador lo rechaza"
+    },
+    {
+      "id_o_slug": "M3-sono-kuroki-hagane",
+      "motivo": "slug con mayúsculas, el validador lo rechaza"
+    },
+    {
+      "id_o_slug": "shimoneta-to-Iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
+      "motivo": "slug con mayúsculas, el validador lo rechaza"
     }
   ],
   "notas": [

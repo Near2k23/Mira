@@ -1,0 +1,11 @@
+{
+  "tmdb": 20982,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Naruto Shippuden: La Película",
+  "fuentes": {
+    "tioanime": {
+      "slug": "naruto-shippuden-peliculas"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 37928,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "センコロール",
+  "fuentes": {
+    "tioanime": {
+      "slug": "cencoroll"
+    }
+  }
+}

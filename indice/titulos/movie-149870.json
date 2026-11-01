@@ -1,0 +1,11 @@
+{
+  "tmdb": 149870,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Se levanta el viento",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kaze-tachinu"
+    }
+  }
+}

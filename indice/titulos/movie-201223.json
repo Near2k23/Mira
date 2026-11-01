@@ -1,0 +1,11 @@
+{
+  "tmdb": 201223,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Ao no Exorcist The Movie",
+  "fuentes": {
+    "tioanime": {
+      "slug": "ao-no-exorcist-movie"
+    }
+  }
+}

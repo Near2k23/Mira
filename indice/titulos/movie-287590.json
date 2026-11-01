@@ -1,0 +1,11 @@
+{
+  "tmdb": 287590,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Los Caballeros del Zodiaco: La leyenda del Santuario",
+  "fuentes": {
+    "tioanime": {
+      "slug": "saint_seiya_legend_of_sanctuary"
+    }
+  }
+}

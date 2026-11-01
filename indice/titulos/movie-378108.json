@@ -1,0 +1,11 @@
+{
+  "tmdb": 378108,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "En este rincón del mundo",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kono-sekai-no-katasumi-ni"
+    }
+  }
+}

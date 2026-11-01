@@ -1,0 +1,11 @@
+{
+  "tmdb": 37048,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "Mobile Suit Gundam 00 the Movie: Awakening of the Trailblazer",
+  "fuentes": {
+    "tioanime": {
+      "slug": "gundam-00-movie"
+    }
+  }
+}

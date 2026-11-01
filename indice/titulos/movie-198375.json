@@ -1,0 +1,11 @@
+{
+  "tmdb": 198375,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "El jardín de las palabras",
+  "fuentes": {
+    "tioanime": {
+      "slug": "kotonoha-no-niwa"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tmdb": 12477,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "La Tumba de las Luciérnagas",
+  "fuentes": {
+    "tioanime": {
+      "slug": "hotaru-no-haka"
+    }
+  }
+}
