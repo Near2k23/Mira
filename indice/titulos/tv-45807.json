@@ -1,0 +1,13 @@
+{
+  "tmdb": 45807,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kokoro Connect",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kokoro-connect"
+      }
+    }
+  }
+}

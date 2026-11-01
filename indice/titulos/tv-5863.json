@@ -1,0 +1,13 @@
+{
+  "tmdb": 5863,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Samurai 7",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "samurai-7"
+      }
+    }
+  }
+}

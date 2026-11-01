@@ -1,0 +1,13 @@
+{
+  "tmdb": 46423,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "La Sacerdotisa de Octubre",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kannazuki-no-miko"
+      }
+    }
+  }
+}

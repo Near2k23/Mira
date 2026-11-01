@@ -1,0 +1,16 @@
+{
+  "tmdb": 45527,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nodame Cantabile",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nodame-cantabile",
+        "2": "nodame-cantabile-paris",
+        "3": "nodame-cantabile-finale"
+      }
+    }
+  },
+  "nota": "tioanime nodame-cantabile-finale: 13 cap. vs 11 en TMDB T3; revisar. tioanime nodame-cantabile-paris: 13 cap. vs 11 en TMDB T2; revisar. tioanime nodame-cantabile: 24 cap. vs 23 en TMDB T1; revisar."
+}

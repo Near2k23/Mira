@@ -1,0 +1,14 @@
+{
+  "tmdb": 51492,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "探偵オペラ ミルキィホームズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tantei-opera",
+        "3": "futari-wa-milky-holmes"
+      }
+    }
+  }
+}

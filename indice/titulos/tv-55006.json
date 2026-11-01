@@ -1,0 +1,13 @@
+{
+  "tmdb": 55006,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aku no Hana",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aku-no-hana"
+      }
+    }
+  }
+}

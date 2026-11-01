@@ -1,0 +1,14 @@
+{
+  "tmdb": 50087,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Amnesia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "amnesia"
+      }
+    }
+  },
+  "nota": "tioanime amnesia: 13 cap. vs 12 en TMDB T1; revisar."
+}

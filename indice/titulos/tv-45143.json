@@ -1,0 +1,13 @@
+{
+  "tmdb": 45143,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ゾイドジェネシス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zoids-genesis"
+      }
+    }
+  }
+}

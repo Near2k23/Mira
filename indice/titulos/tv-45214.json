@@ -1,0 +1,13 @@
+{
+  "tmdb": 45214,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スーパーロボット大戦OG -ジ・インスペクター-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "super-robot-taisen"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 57577,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blood Lad",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blood-lad"
+      }
+    }
+  },
+  "nota": "tioanime blood-lad: 11 cap. vs 10 en TMDB T1; revisar."
+}

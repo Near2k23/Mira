@@ -1,0 +1,15 @@
+{
+  "tmdb": 46412,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Utawarerumono",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "utawarerumono",
+        "2": "utawarerumono-itsuwari-no-kamen",
+        "3": "utawarerumono-futari-no-hakuoro"
+      }
+    }
+  }
+}

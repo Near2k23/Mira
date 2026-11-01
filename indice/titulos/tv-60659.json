@@ -1,0 +1,13 @@
+{
+  "tmdb": 60659,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "COPPELION",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "coppelion"
+      }
+    }
+  }
+}

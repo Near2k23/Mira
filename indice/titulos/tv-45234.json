@@ -1,0 +1,13 @@
+{
+  "tmdb": 45234,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dakara Boku wa, H ga Dekinai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dakara-boku-wa-h-ga-dekinai"
+      }
+    }
+  }
+}

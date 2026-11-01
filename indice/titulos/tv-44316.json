@@ -1,0 +1,14 @@
+{
+  "tmdb": 44316,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "閃光のナイトレイド",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "senkou-no-night-raid"
+      }
+    }
+  },
+  "nota": "tioanime senkou-no-night-raid: 14 cap. vs 13 en TMDB T1; revisar."
+}

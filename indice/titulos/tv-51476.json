@@ -1,0 +1,13 @@
+{
+  "tmdb": 51476,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Zettai Bouei Leviatan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zettai-boei-leviathan"
+      }
+    }
+  }
+}

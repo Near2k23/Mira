@@ -1,0 +1,15 @@
+{
+  "tmdb": 45254,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nyarko-san: Another Crawling Chaos",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "haiyoru-nyaruko-san",
+        "2": "haiyore-nyaruko-san-w"
+      }
+    }
+  },
+  "nota": "tioanime haiyore-nyaruko-san-w: 13 cap. vs 12 en TMDB T2; revisar."
+}

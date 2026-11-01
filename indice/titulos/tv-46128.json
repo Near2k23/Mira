@@ -1,0 +1,13 @@
+{
+  "tmdb": 46128,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "フレッシュプリキュア！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fresh-precure"
+      }
+    }
+  }
+}

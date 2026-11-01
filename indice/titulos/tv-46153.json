@@ -1,0 +1,16 @@
+{
+  "tmdb": 46153,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Working!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "working",
+        "2": "working-2",
+        "3": "working-3"
+      }
+    }
+  },
+  "nota": "tioanime working-3: 14 cap. vs 13 en TMDB T3; revisar."
+}

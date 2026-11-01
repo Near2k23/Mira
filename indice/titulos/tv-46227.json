@@ -1,0 +1,13 @@
+{
+  "tmdb": 46227,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aoi Sekai no Chushin de",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aoi-sekai-no-chuushin-de"
+      }
+    }
+  }
+}

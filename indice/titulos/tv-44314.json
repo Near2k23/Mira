@@ -1,0 +1,15 @@
+{
+  "tmdb": 44314,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "DOG DAYS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dog-days",
+        "2": "dog-days-2",
+        "3": "dog-days-3"
+      }
+    }
+  }
+}

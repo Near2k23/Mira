@@ -1,0 +1,13 @@
+{
+  "tmdb": 56996,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chaos;Head",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chaos-head"
+      }
+    }
+  }
+}

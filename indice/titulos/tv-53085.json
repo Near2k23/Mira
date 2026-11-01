@@ -1,0 +1,13 @@
+{
+  "tmdb": 53085,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "キューティクル探偵因幡",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cuticle-detective-inaba"
+      }
+    }
+  }
+}

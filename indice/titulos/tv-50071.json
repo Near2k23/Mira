@@ -1,0 +1,15 @@
+{
+  "tmdb": 50071,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ai-Mai-Mi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ai-mai-mi",
+        "2": "ai-mai-mi-mousou-catastrophe",
+        "3": "ai-mai-mii-surgical-friends"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 45615,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ragnarok The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ragnarok-the-animation"
+      }
+    }
+  }
+}

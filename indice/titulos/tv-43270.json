@@ -1,0 +1,13 @@
+{
+  "tmdb": 43270,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blood-C",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blood-c"
+      }
+    }
+  }
+}

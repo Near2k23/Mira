@@ -1,0 +1,14 @@
+{
+  "tmdb": 53725,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mangirl!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mangirl"
+      }
+    }
+  },
+  "nota": "tioanime mangirl: 14 cap. vs 13 en TMDB T1; revisar."
+}

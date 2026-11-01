@@ -1,0 +1,13 @@
+{
+  "tmdb": 54950,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kitakubu Katsudou Kiroku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kitakubu-katsudou-kiroku"
+      }
+    }
+  }
+}

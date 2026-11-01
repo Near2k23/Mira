@@ -1,0 +1,13 @@
+{
+  "tmdb": 57706,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ranma ½",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ranma"
+      }
+    }
+  }
+}

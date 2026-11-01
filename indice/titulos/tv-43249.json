@@ -1,0 +1,14 @@
+{
+  "tmdb": 43249,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Agente  Aika",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "agent-aika"
+      }
+    }
+  },
+  "nota": "tioanime agent-aika: 8 cap. vs 7 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 58237,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "銀の匙 Silver Spoon",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gin-no-saji",
+        "2": "gin-no-saji-2"
+      }
+    }
+  }
+}

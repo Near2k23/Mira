@@ -1,0 +1,13 @@
+{
+  "tmdb": 45967,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "B Gata H Kei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "b-gata-h-kei"
+      }
+    }
+  }
+}

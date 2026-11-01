@@ -1,0 +1,13 @@
+{
+  "tmdb": 43288,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Beck: Mongolian Chop Squad",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "beck"
+      }
+    }
+  }
+}

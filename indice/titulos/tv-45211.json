@@ -1,0 +1,13 @@
+{
+  "tmdb": 45211,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tari Tari",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tari-tari"
+      }
+    }
+  }
+}

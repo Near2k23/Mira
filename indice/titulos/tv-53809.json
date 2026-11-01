@@ -1,0 +1,13 @@
+{
+  "tmdb": 53809,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mushibugyo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mushibugyo"
+      }
+    }
+  }
+}

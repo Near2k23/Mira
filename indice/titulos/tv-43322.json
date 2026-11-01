@@ -1,0 +1,13 @@
+{
+  "tmdb": 43322,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Code-E",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "code-e"
+      }
+    }
+  }
+}

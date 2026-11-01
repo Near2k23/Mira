@@ -1,0 +1,13 @@
+{
+  "tmdb": 46440,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hyakka Ryouran: Samurai Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "hyakka-ryouran-samurai-bride"
+      }
+    }
+  }
+}

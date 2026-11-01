@@ -1,0 +1,17 @@
+{
+  "tmdb": 57041,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gintama",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "5": "gintama-2011",
+        "8": "gintama-2017",
+        "9": "gintama-pororihen",
+        "10": "gintama-gin-no-tamashiihen",
+        "11": "gintama-shirogane-no-tamashiihen-2"
+      }
+    }
+  }
+}

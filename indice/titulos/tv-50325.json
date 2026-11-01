@@ -1,0 +1,13 @@
+{
+  "tmdb": 50325,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Pet Girl of Sakurasou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakurasou-no-pet-na-kanojo"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 44897,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "銀色のオリンシス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "giniro-no-olynsis-tokito"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 46026,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "もえたん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "moetan"
+      }
+    }
+  },
+  "nota": "tioanime moetan: 13 cap. vs 11 en TMDB T1; revisar."
+}

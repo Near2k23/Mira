@@ -1,0 +1,13 @@
+{
+  "tmdb": 46435,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Robotics;Notes",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "robotics-notes"
+      }
+    }
+  }
+}

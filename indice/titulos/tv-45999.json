@@ -1,0 +1,14 @@
+{
+  "tmdb": 45999,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "夢色パティシエール",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yumeiro-patissiere"
+      }
+    }
+  },
+  "nota": "tioanime yumeiro-patissiere: 51 cap. vs 50 en TMDB T1; revisar."
+}

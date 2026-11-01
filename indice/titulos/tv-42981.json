@@ -1,0 +1,13 @@
+{
+  "tmdb": 42981,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ハートキャッチプリキュア!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "heartcatch-precure"
+      }
+    }
+  }
+}

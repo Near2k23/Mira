@@ -1,0 +1,14 @@
+{
+  "tmdb": 45209,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Uchuu Kyoudai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uchuu-kyoudai"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

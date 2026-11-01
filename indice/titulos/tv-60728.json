@@ -1,0 +1,14 @@
+{
+  "tmdb": 60728,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kill la Kill",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kill-la-kill"
+      }
+    }
+  },
+  "nota": "tioanime kill-la-kill: 26 cap. vs 24 en TMDB T1; revisar."
+}

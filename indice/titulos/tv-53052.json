@@ -1,0 +1,13 @@
+{
+  "tmdb": 53052,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Desde el nuevo mundo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shinsekai-yori"
+      }
+    }
+  }
+}

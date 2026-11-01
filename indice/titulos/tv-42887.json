@@ -1,0 +1,15 @@
+{
+  "tmdb": 42887,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "さよなら絶望先生",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sayonara-zetsubou-sensei",
+        "2": "zoku-sayonara-zetsubou-sensei",
+        "3": "zan-sayonara-zetsubou-sensei"
+      }
+    }
+  }
+}

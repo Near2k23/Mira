@@ -1,0 +1,14 @@
+{
+  "tmdb": 43125,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Guilty Crown",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "guilty-crown"
+      }
+    }
+  },
+  "nota": "tioanime guilty-crown: 23 cap. vs 22 en TMDB T1; revisar."
+}

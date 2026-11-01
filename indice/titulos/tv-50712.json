@@ -6,6 +6,10 @@
   "fuentes": {
     "tioanime": {
       "temporadas": {
+        "1": "kuroshitsuji",
+        "2": "kuroshitsuji-2",
+        "3": "kuroshitsuji-book-of-circus",
+        "4": "kuroshitsuji-kishuku-gakkouhen",
         "5": "kuroshitsuji-midori-no-majohen"
       }
     },

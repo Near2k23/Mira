@@ -1,0 +1,16 @@
+{
+  "tmdb": 45783,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kuroko no Basket",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kuroko-no-basuke",
+        "2": "kuroko-no-basuke-2",
+        "3": "kuroko-no-basket-3"
+      }
+    }
+  },
+  "nota": "tioanime kuroko-no-basket-3: 26 cap. vs 25 en TMDB T3; revisar. tioanime kuroko-no-basuke-2: 26 cap. vs 25 en TMDB T2; revisar. tioanime kuroko-no-basuke: 26 cap. vs 25 en TMDB T1; revisar."
+}

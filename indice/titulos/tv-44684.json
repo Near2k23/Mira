@@ -1,0 +1,14 @@
+{
+  "tmdb": 44684,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nichijou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nichijou"
+      }
+    }
+  },
+  "nota": "tioanime nichijou: 28 cap. vs 26 en TMDB T1; revisar."
+}

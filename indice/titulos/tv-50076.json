@@ -1,0 +1,13 @@
+{
+  "tmdb": 50076,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "AIURA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aiura"
+      }
+    }
+  }
+}

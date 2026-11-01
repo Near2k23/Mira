@@ -1,0 +1,13 @@
+{
+  "tmdb": 54933,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Devil Survivor 2: The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "devil-survivor-2-the-animation"
+      }
+    }
+  }
+}

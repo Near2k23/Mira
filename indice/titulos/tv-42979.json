@@ -1,0 +1,13 @@
+{
+  "tmdb": 42979,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ワールド・デストラクション ～世界撲滅の六人～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "world-destruction"
+      }
+    }
+  }
+}

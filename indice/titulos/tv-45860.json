@@ -1,0 +1,13 @@
+{
+  "tmdb": 45860,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lupin III: Una mujer llamada Mine Fujiko",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lupin-iii"
+      }
+    }
+  }
+}

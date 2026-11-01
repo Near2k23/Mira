@@ -1,0 +1,14 @@
+{
+  "tmdb": 54930,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tasogare Otome x Amnesia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tasogare-otome-x-amnesia"
+      }
+    }
+  },
+  "nota": "tioanime tasogare-otome-x-amnesia: 13 cap. vs 12 en TMDB T1; revisar."
+}

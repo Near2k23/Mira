@@ -1,0 +1,13 @@
+{
+  "tmdb": 55018,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "グイン・サーガ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "guin-saga"
+      }
+    }
+  }
+}

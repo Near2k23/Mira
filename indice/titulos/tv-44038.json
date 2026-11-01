@@ -1,0 +1,13 @@
+{
+  "tmdb": 44038,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "銀河へキックオフ!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ginga-e-kickoff"
+      }
+    }
+  }
+}

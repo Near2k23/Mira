@@ -1,0 +1,13 @@
+{
+  "tmdb": 46438,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "あらしのよるに 〜ひみつのともだち〜",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "arashi-no-yoru-ni-himitsu-no-tomodachi"
+      }
+    }
+  }
+}

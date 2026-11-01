@@ -1,0 +1,15 @@
+{
+  "tmdb": 45532,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "おおきく振りかぶって",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ookiku-furikabutte",
+        "2": "ookik-furikabutte-natsu-no-taikai-hen"
+      }
+    }
+  },
+  "nota": "tioanime ookik-furikabutte-natsu-no-taikai-hen: 14 cap. vs 13 en TMDB T2; revisar. tioanime ookiku-furikabutte: 26 cap. vs 25 en TMDB T1; revisar."
+}

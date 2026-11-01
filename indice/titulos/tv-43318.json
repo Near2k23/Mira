@@ -1,0 +1,13 @@
+{
+  "tmdb": 43318,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chrome Shelled Regios",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koukaku-no-regios"
+      }
+    }
+  }
+}

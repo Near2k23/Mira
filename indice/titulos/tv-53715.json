@@ -1,0 +1,14 @@
+{
+  "tmdb": 53715,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "リトルバスターズ!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "little-busters",
+        "2": "little-busters-refrain"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 42930,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "新白雪姫伝説プリーティア",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "pretear"
+      }
+    }
+  }
+}

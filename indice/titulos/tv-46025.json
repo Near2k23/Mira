@@ -1,0 +1,14 @@
+{
+  "tmdb": 46025,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Infinite Stratos",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "infinite-stratos",
+        "2": "infinite-stratos-2"
+      }
+    }
+  }
+}

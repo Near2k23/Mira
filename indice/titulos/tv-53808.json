@@ -1,0 +1,13 @@
+{
+  "tmdb": 53808,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "波打際のむろみさん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "namiuchigiwa-no-muromi-san"
+      }
+    }
+  }
+}

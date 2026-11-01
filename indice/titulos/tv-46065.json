@@ -1,0 +1,13 @@
+{
+  "tmdb": 46065,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Senran Kagura",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "senran-kagura-shinovi-master-tokyo-youmahen"
+      }
+    }
+  }
+}

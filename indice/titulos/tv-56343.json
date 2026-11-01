@@ -1,0 +1,13 @@
+{
+  "tmdb": 56343,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Baka to Test to Shoukanjuu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "baka-to-test-to-shokanju"
+      }
+    }
+  }
+}

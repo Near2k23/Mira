@@ -1,0 +1,14 @@
+{
+  "tmdb": 44310,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "11eyes",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "11-eyes"
+      }
+    }
+  },
+  "nota": "tioanime 11-eyes: 13 cap. vs 12 en TMDB T1; revisar."
+}

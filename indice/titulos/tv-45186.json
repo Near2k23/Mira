@@ -1,0 +1,13 @@
+{
+  "tmdb": 45186,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Area no Kishi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "area-no-kishi"
+      }
+    }
+  }
+}

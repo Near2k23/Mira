@@ -1,0 +1,13 @@
+{
+  "tmdb": 52850,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dansai Bunri no Crime Edge",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dansai-bunri-no-crime-edge"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 48623,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hakkenden: Touhou Hakken Ibun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hakkenden-touhou-hakken-ibun-2"
+      }
+    }
+  }
+}

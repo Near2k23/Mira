@@ -1,0 +1,13 @@
+{
+  "tmdb": 46033,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Asu No Yoichi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "asu-no-yoishi"
+      }
+    }
+  }
+}

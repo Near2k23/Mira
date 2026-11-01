@@ -1,0 +1,13 @@
+{
+  "tmdb": 42951,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kaiji",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gyakkyou-burai-kaiji-ultimate-survivor"
+      }
+    }
+  }
+}

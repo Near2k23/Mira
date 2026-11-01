@@ -1,0 +1,14 @@
+{
+  "tmdb": 55011,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Suisei no Gargantia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "suisei-no-gargantia"
+      }
+    }
+  },
+  "nota": "tioanime suisei-no-gargantia: 15 cap. vs 13 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 43079,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Black Rock Shooter",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "black-rock-shooter-tv"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 45418,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Iron Man",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "iron-man"
+      }
+    }
+  }
+}

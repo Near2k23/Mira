@@ -1,0 +1,13 @@
+{
+  "tmdb": 57778,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "RDG レッドデータガール",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rdg-red-data-girl"
+      }
+    }
+  }
+}

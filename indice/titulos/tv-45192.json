@@ -1,0 +1,13 @@
+{
+  "tmdb": 45192,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "超訳百人一首 うた恋い。",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "utakoi"
+      }
+    }
+  }
+}

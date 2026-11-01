@@ -1,0 +1,13 @@
+{
+  "tmdb": 43066,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Detroit Metal City",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "detroit-metal-city"
+      }
+    }
+  }
+}

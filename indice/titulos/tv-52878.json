@@ -1,0 +1,14 @@
+{
+  "tmdb": 52878,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sukitte Ii na yo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sukitte-iinayo"
+      }
+    }
+  },
+  "nota": "tioanime sukitte-iinayo: 14 cap. vs 13 en TMDB T1; revisar."
+}

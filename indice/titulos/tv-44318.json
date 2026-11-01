@@ -1,0 +1,14 @@
+{
+  "tmdb": 44318,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hakuouki: Demon of the Fleeting Blossom",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "hakuouki-ii",
+        "3": "hakuouki"
+      }
+    }
+  }
+}

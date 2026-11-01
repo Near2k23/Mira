@@ -1,0 +1,13 @@
+{
+  "tmdb": 44942,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ぱにょぱにょデ・ジ・キャラット",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "panyo-panyo-di-gi-charat"
+      }
+    }
+  }
+}

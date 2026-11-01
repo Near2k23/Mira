@@ -1,0 +1,14 @@
+{
+  "tmdb": 52889,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "うーさーのその日暮らし",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "wooser-no-sono-higurashi-kakusei-hen",
+        "3": "wooser-no-sono-higurashi-mugen-hen"
+      }
+    }
+  }
+}

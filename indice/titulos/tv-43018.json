@@ -1,0 +1,14 @@
+{
+  "tmdb": 43018,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "めぞん一刻",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maison-ikkoku"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

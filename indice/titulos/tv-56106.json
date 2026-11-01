@@ -1,0 +1,14 @@
+{
+  "tmdb": 56106,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "這いよる!ニャルアニ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "haiyoru-nyaruani"
+      }
+    }
+  },
+  "nota": "tioanime haiyoru-nyaruani: 12 cap. vs 11 en TMDB T2; revisar."
+}

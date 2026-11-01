@@ -1,0 +1,13 @@
+{
+  "tmdb": 44163,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Broken Blade",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "break-blade-2014"
+      }
+    }
+  }
+}

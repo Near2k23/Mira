@@ -1,0 +1,13 @@
+{
+  "tmdb": 54923,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "獣の奏者 エリン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kemono-no-souja-erin"
+      }
+    }
+  }
+}

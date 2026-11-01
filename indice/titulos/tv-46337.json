@@ -1,0 +1,13 @@
+{
+  "tmdb": 46337,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cross Game",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cross-game"
+      }
+    }
+  }
+}

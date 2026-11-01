@@ -1,0 +1,13 @@
+{
+  "tmdb": 54241,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sugar Sugar Rune",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sugar-sugar-rune"
+      }
+    }
+  }
+}

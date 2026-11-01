@@ -1,0 +1,13 @@
+{
+  "tmdb": 44202,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "イケてる2人",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "iketeru-futari"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 45195,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimi to Boku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-to-boku",
+        "2": "kimi-to-boku-ii"
+      }
+    }
+  }
+}

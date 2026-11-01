@@ -1,0 +1,14 @@
+{
+  "tmdb": 54728,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BeyBlade",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "beyblade",
+        "2": "beyblade-v-force"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "tmdb": 56354,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "みなみけ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "minami-ke",
+        "2": "minami-ke-okawari",
+        "3": "minami-ke-okaeri",
+        "4": "minami-ke-tadaima"
+      }
+    }
+  }
+}

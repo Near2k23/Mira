@@ -1,0 +1,13 @@
+{
+  "tmdb": 45213,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Usagi Drop",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "usagi-drop"
+      }
+    }
+  }
+}

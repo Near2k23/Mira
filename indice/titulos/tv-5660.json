@@ -1,0 +1,13 @@
+{
+  "tmdb": 5660,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "機動戦士ガンダムZZ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mobile-suit-gundam-zz"
+      }
+    }
+  }
+}

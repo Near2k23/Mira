@@ -1,0 +1,13 @@
+{
+  "tmdb": 46669,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Skip Beat!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "skip-beat"
+      }
+    }
+  }
+}

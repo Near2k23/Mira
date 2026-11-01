@@ -1,0 +1,14 @@
+{
+  "tmdb": 60672,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Recently, My Sister is Unusual",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saikin-imouto-no-yousu-ga-chotto-okashiinda-ga"
+      }
+    }
+  },
+  "nota": "tioanime saikin-imouto-no-yousu-ga-chotto-okashiinda-ga: 13 cap. vs 12 en TMDB T1; revisar."
+}

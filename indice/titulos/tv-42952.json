@@ -1,0 +1,14 @@
+{
+  "tmdb": 42952,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "金色のコルダ ～primo passo～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kiniro-no-corda-primo-passo"
+      }
+    }
+  },
+  "nota": "tioanime kiniro-no-corda-primo-passo: 26 cap. vs 25 en TMDB T1; revisar."
+}

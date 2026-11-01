@@ -1,0 +1,16 @@
+{
+  "tmdb": 56351,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kami nomi zo Shiru Sekai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kami-nomi-zo-shiru-sekai",
+        "2": "kami-nomi-zo-shiru-sekai-2",
+        "3": "kami-nomi-zo-shiru-sekai-megami-hen"
+      }
+    }
+  },
+  "nota": "tioanime kami-nomi-zo-shiru-sekai-2: 14 cap. vs 12 en TMDB T2; revisar."
+}

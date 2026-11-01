@@ -1,0 +1,13 @@
+{
+  "tmdb": 45255,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ポヨポヨ観察日記",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "poyopoyo-kansatsu-nikki"
+      }
+    }
+  }
+}

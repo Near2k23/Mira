@@ -1,0 +1,13 @@
+{
+  "tmdb": 52083,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Amagami SS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "amagami-ss-plus"
+      }
+    }
+  }
+}

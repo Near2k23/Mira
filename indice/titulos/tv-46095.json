@@ -1,0 +1,16 @@
+{
+  "tmdb": 46095,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Uta no Prince Sama",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uta-no-prince-sama-maji-love-1000",
+        "2": "uta-no-prince-sama-maji-love-2000",
+        "3": "uta-no-prince-sama-maji-love-revolutions",
+        "4": "uta-noprince-samao-maji-love-legend-star"
+      }
+    }
+  }
+}

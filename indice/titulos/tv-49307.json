@@ -1,0 +1,13 @@
+{
+  "tmdb": 49307,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cyclops Shojo Saipu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cyclops-shoujo-saipu"
+      }
+    }
+  }
+}

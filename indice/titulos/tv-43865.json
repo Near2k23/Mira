@@ -1,0 +1,15 @@
+{
+  "tmdb": 43865,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Psycho-Pass",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "psycho-pass",
+        "2": "psycho-pass-2",
+        "3": "psychopass-3"
+      }
+    }
+  }
+}

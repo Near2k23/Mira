@@ -1,0 +1,13 @@
+{
+  "tmdb": 46092,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sky Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sky-girls"
+      }
+    }
+  }
+}

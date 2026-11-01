@@ -1,0 +1,14 @@
+{
+  "tmdb": 53069,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boku no Imouto wa \"Osaka Okan\"",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "boku-no-imouto-wa-osaka-okan"
+      }
+    }
+  },
+  "nota": "tioanime boku-no-imouto-wa-osaka-okan: 12 cap. vs 13 en TMDB T1; revisar."
+}

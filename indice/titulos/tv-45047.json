@@ -1,0 +1,13 @@
+{
+  "tmdb": 45047,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "FLAG",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "flag"
+      }
+    }
+  }
+}

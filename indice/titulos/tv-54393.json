@@ -1,0 +1,13 @@
+{
+  "tmdb": 54393,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ステラ女学院高等科C3部",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "stella-jogakuin-koutouka-c3-bu"
+      }
+    }
+  }
+}

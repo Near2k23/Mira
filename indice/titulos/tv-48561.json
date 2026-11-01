@@ -1,0 +1,13 @@
+{
+  "tmdb": 48561,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tamako Market",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tamako-market"
+      }
+    }
+  }
+}

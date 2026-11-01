@@ -1,0 +1,13 @@
+{
+  "tmdb": 53352,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saraiya Goyou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saraiya-goyou"
+      }
+    }
+  }
+}

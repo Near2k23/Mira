@@ -1,0 +1,13 @@
+{
+  "tmdb": 56568,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nana",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nana"
+      }
+    }
+  }
+}

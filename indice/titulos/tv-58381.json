@@ -1,0 +1,13 @@
+{
+  "tmdb": 58381,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Super Seisyun Brothers -超青春姉弟s-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "super-seisyun-brothers"
+      }
+    }
+  }
+}

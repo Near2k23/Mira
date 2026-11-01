@@ -1,0 +1,15 @@
+{
+  "tmdb": 60730,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boku wa Tomodachi ga Sukunai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "boku-wa-tomodachi",
+        "2": "boku-wa-tomodachi-ga-sukunai-next"
+      }
+    }
+  },
+  "nota": "tioanime boku-wa-tomodachi: 14 cap. vs 12 en TMDB T1; revisar."
+}

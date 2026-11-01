@@ -1,0 +1,13 @@
+{
+  "tmdb": 45125,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Btooom!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "btooom"
+      }
+    }
+  }
+}

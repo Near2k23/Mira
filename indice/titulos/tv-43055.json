@@ -1,0 +1,13 @@
+{
+  "tmdb": 43055,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スイートプリキュア♪",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "suite-precure"
+      }
+    }
+  }
+}

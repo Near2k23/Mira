@@ -1,0 +1,13 @@
+{
+  "tmdb": 45005,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "緋色の欠片",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hiiro-no-kakera"
+      }
+    }
+  }
+}

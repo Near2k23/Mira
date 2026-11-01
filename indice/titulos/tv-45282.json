@@ -1,0 +1,14 @@
+{
+  "tmdb": 45282,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Inu x Boku SS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "inu-x-boku-ss"
+      }
+    }
+  },
+  "nota": "tioanime inu-x-boku-ss: 13 cap. vs 12 en TMDB T1; revisar."
+}

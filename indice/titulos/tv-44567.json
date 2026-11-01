@@ -1,0 +1,13 @@
+{
+  "tmdb": 44567,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "こいこい7",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koi-koi-7"
+      }
+    }
+  }
+}

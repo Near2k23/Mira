@@ -1,0 +1,13 @@
+{
+  "tmdb": 45998,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kiss X Sis",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kiss-x-sis"
+      }
+    }
+  }
+}

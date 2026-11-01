@@ -1,0 +1,13 @@
+{
+  "tmdb": 45952,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hunter x Hunter",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hunter-x-hunter"
+      }
+    }
+  }
+}

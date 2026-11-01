@@ -1,0 +1,14 @@
+{
+  "tmdb": 45306,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yurumate3Dei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yurumate3dei"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

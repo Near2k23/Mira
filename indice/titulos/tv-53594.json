@@ -1,0 +1,13 @@
+{
+  "tmdb": 53594,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kotoura-San",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kotoura-san"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 43967,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Girls und Panzer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "girls-und-panzer"
+      }
+    }
+  }
+}

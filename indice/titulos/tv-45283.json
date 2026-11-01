@@ -1,0 +1,13 @@
+{
+  "tmdb": 45283,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "つり球",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsuritama"
+      }
+    }
+  }
+}

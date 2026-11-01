@@ -1,0 +1,13 @@
+{
+  "tmdb": 52895,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ビビッドレッド・オペレーション",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vividred-operation"
+      }
+    }
+  }
+}

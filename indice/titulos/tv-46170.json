@@ -1,0 +1,14 @@
+{
+  "tmdb": 46170,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Definitivamente. ¡No me gusta mi hermano para nada!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "oniichan-no-koto"
+      }
+    }
+  },
+  "nota": "tioanime oniichan-no-koto: 13 cap. vs 12 en TMDB T1; revisar."
+}

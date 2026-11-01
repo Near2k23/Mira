@@ -1,0 +1,14 @@
+{
+  "tmdb": 60667,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gundam Build Fighters",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gundam-build-fighters",
+        "2": "gundam-build-fighters-try"
+      }
+    }
+  }
+}

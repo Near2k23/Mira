@@ -1,0 +1,14 @@
+{
+  "tmdb": 42917,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "恋姫†無双",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koihime-musou"
+      }
+    }
+  },
+  "nota": "tioanime koihime-musou: 13 cap. vs 12 en TMDB T1; revisar."
+}

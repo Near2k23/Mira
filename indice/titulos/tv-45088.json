@@ -1,0 +1,15 @@
+{
+  "tmdb": 45088,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "たまゆら",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tamayura-hitotose",
+        "2": "tamayura-more-aggressive"
+      }
+    }
+  },
+  "nota": "tioanime tamayura-more-aggressive: 13 cap. vs 12 en TMDB T2; revisar."
+}

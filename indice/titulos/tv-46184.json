@@ -1,0 +1,13 @@
+{
+  "tmdb": 46184,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Campione!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "campione"
+      }
+    }
+  }
+}

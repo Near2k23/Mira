@@ -1,0 +1,13 @@
+{
+  "tmdb": 44725,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Remi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ie-naki-ko"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 55413,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "しばいぬ子さん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shiba-inuko-san"
+      }
+    }
+  }
+}

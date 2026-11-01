@@ -1,0 +1,13 @@
+{
+  "tmdb": 43417,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BURN-UP EXCESS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "burn-up-excess"
+      }
+    }
+  }
+}

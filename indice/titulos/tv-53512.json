@@ -1,0 +1,13 @@
+{
+  "tmdb": 53512,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "石田とあさくら",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ishida-to-asakura"
+      }
+    }
+  }
+}

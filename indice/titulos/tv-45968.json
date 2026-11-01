@@ -1,0 +1,13 @@
+{
+  "tmdb": 45968,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Binbougami ga!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "binbougami-ga"
+      }
+    }
+  }
+}

@@ -8,6 +8,12 @@
       "temporadas": {
         "1": "mirai-nikki-tv"
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "mirai-nikki-2011"
+      }
     }
-  }
+  },
+  "nota": "tioanime mirai-nikki-2011: 27 cap. vs 26 en TMDB T1; revisar."
 }

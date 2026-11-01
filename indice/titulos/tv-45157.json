@@ -1,0 +1,13 @@
+{
+  "tmdb": 45157,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "高橋留美子劇場",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rumiko-takahashi-anthology"
+      }
+    }
+  }
+}

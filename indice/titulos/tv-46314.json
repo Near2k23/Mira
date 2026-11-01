@@ -1,0 +1,14 @@
+{
+  "tmdb": 46314,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ゾンビローン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zombie-loan"
+      }
+    }
+  },
+  "nota": "tioanime zombie-loan: 13 cap. vs 11 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 49294,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "よんでますよ、アザゼルさん。",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yondemasuyo-azazel-san",
+        "2": "yondemasu-yo-azazel-san-2"
+      }
+    }
+  }
+}

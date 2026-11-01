@@ -1,0 +1,13 @@
+{
+  "tmdb": 42963,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "怪 〜ayakashi〜",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ayakashi-japanese-classic-horror"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 45858,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "めだかボックス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "medaka-box-abnormal"
+      }
+    }
+  }
+}

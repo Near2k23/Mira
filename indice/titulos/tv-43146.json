@@ -1,0 +1,13 @@
+{
+  "tmdb": 43146,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "X-Men",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "x-men"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 44300,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Un puente al cielo estrellado",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hoshizora-e-kakaru-hoshi"
+      }
+    }
+  }
+}

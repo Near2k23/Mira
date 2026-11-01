@@ -1,0 +1,13 @@
+{
+  "tmdb": 50114,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "幕末義人伝 浪漫",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bakumatsu-gijinden-roman"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 60572,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Pokémon",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "16": "pokemon-best-wishes-ii"
+      }
+    }
+  }
+}

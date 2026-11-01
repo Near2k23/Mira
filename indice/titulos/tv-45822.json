@@ -1,0 +1,13 @@
+{
+  "tmdb": 45822,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ixion Saga: Dimension Transfer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ixion-saga-dt"
+      }
+    }
+  }
+}

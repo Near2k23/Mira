@@ -1,0 +1,13 @@
+{
+  "tmdb": 43951,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Perrine, sin familia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "perrine-monogatari"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 45247,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chihayafuru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chihayafuru",
+        "3": "chihayafuru-3"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 46673,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SAMURAI GIRL リアルバウトハイスクール",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "samurai-girl-real-bout-high-school"
+      }
+    }
+  }
+}

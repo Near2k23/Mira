@@ -1,0 +1,13 @@
+{
+  "tmdb": 43168,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "NARUTO SD ロック・リーの青春フルパワー忍伝",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rock-lee-no-seishun"
+      }
+    }
+  }
+}

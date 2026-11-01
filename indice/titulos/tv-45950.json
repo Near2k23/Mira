@@ -1,0 +1,16 @@
+{
+  "tmdb": 45950,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "High School DxD",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "high-school-dxd-new",
+        "3": "high-school-dxd-new-born",
+        "4": "high-school-dxd-hero"
+      }
+    }
+  },
+  "nota": "tioanime high-school-dxd-new: 13 cap. vs 12 en TMDB T2; revisar."
+}

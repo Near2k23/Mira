@@ -1,0 +1,13 @@
+{
+  "tmdb": 45305,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "快盗天使ツインエンジェル 〜キュンキュン☆ときめきパラダイス!!〜",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaitou-tenshi-twin-angel"
+      }
+    }
+  }
+}

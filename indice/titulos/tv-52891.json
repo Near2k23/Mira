@@ -1,0 +1,14 @@
+{
+  "tmdb": 52891,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "YuruYuri",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yuruyuri",
+        "2": "yuruyuri-ii"
+      }
+    }
+  }
+}

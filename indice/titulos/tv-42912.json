@@ -1,0 +1,19 @@
+{
+  "tmdb": 42912,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Súper Once",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "inazuma-eleven",
+        "3": "inazuma-eleven-go-chrono-stone",
+        "4": "inazuma-eleven-go-galaxy"
+      },
+      "desfase": {
+        "3": 1
+      }
+    }
+  },
+  "nota": "tioanime inazuma-eleven-go-chrono-stone: 50 cap. vs 51 en TMDB T3; revisar."
+}

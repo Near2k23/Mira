@@ -1,0 +1,13 @@
+{
+  "tmdb": 53031,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chokkyuu Hyoudai Robot Anime",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chokkyuu-hyoudai-robot-anime-straight-title"
+      }
+    }
+  }
+}

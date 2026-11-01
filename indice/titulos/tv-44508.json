@@ -1,0 +1,14 @@
+{
+  "tmdb": 44508,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chitose Get You!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chitose-get-you"
+      }
+    }
+  },
+  "nota": "tioanime chitose-get-you: 28 cap. vs 26 en TMDB T1; revisar."
+}

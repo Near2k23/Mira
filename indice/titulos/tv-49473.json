@@ -1,0 +1,14 @@
+{
+  "tmdb": 49473,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kamisama no Inai Nichiyoubi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamisama-no-inai-nichiyoubi"
+      }
+    }
+  },
+  "nota": "tioanime kamisama-no-inai-nichiyoubi: 13 cap. vs 12 en TMDB T1; revisar."
+}

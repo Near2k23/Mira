@@ -1,0 +1,14 @@
+{
+  "tmdb": 42960,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魍魎の匣",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mouryou-no-hako"
+      }
+    }
+  },
+  "nota": "tioanime mouryou-no-hako: 14 cap. vs 13 en TMDB T1; revisar."
+}

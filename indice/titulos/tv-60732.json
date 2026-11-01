@@ -1,0 +1,13 @@
+{
+  "tmdb": 60732,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Maken-Ki!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maken-ki"
+      }
+    }
+  }
+}

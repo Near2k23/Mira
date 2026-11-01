@@ -1,0 +1,13 @@
+{
+  "tmdb": 46283,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Zetsuen no Tempest",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zetsuen-no-tempest"
+      }
+    }
+  }
+}

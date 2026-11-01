@@ -1,0 +1,13 @@
+{
+  "tmdb": 49464,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Inu to Hasami wa Tsukaiyou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "inu-to-hasami-wa-tsukaiyou"
+      }
+    }
+  }
+}

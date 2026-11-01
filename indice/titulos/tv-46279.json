@@ -1,0 +1,13 @@
+{
+  "tmdb": 46279,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ヨルムンガンド",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jormungand-perfect-order"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 45853,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Oda Nobuna no Yabou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "oda-nobuna-no-yabou"
+      }
+    }
+  }
+}

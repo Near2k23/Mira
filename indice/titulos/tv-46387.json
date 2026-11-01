@@ -1,0 +1,13 @@
+{
+  "tmdb": 46387,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shining Hearts: Shiawase no Pan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shining-hearts"
+      }
+    }
+  }
+}

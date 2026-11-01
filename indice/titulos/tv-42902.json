@@ -1,0 +1,13 @@
+{
+  "tmdb": 42902,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kurokami",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kurokami"
+      }
+    }
+  }
+}

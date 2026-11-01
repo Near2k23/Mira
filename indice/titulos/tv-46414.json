@@ -1,0 +1,13 @@
+{
+  "tmdb": 46414,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "かのこん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kanokon"
+      }
+    }
+  }
+}

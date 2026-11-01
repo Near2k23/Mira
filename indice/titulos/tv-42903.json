@@ -1,0 +1,14 @@
+{
+  "tmdb": 42903,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "宇宙をかける少女",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sora-kake-girl"
+      }
+    }
+  },
+  "nota": "tioanime sora-kake-girl: 27 cap. vs 26 en TMDB T1; revisar."
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 53721,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Love Live! School Idol Project",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "love-live",
+        "2": "love-live-2"
+      }
+    }
+  },
+  "nota": "tioanime love-live: 14 cap. vs 13 en TMDB T1; revisar."
+}

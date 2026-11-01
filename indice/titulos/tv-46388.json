@@ -1,0 +1,14 @@
+{
+  "tmdb": 46388,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Persona4 the ANIMATION",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "persona-4"
+      }
+    }
+  },
+  "nota": "tioanime persona-4: 26 cap. vs 25 en TMDB T1; revisar."
+}

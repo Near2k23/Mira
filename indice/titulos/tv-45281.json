@@ -1,0 +1,13 @@
+{
+  "tmdb": 45281,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "真剣で私に恋しなさい!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maji-de-watashi-ni-koi-shinasai"
+      }
+    }
+  }
+}

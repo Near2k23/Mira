@@ -1,0 +1,13 @@
+{
+  "tmdb": 45278,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "La cita de Natsuyuki",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "natsuyuki-rendezvous"
+      }
+    }
+  }
+}

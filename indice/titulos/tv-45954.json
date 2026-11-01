@@ -1,0 +1,14 @@
+{
+  "tmdb": 45954,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "C3: Cube x Cursed x Curious",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "c3"
+      }
+    }
+  },
+  "nota": "tioanime c3: 13 cap. vs 12 en TMDB T1; revisar."
+}

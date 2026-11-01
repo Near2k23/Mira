@@ -1,0 +1,13 @@
+{
+  "tmdb": 45190,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Upotte!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "upotte"
+      }
+    }
+  }
+}

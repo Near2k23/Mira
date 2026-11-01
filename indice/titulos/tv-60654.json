@@ -1,0 +1,14 @@
+{
+  "tmdb": 60654,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magi",
+        "2": "magi-the-kingdom-of-magic"
+      }
+    }
+  }
+}

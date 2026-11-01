@@ -1,0 +1,13 @@
+{
+  "tmdb": 45835,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "機動戦士 ガンダム AGE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mobile-suit-gundam-age"
+      }
+    }
+  }
+}

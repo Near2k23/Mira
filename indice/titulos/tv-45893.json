@@ -1,0 +1,14 @@
+{
+  "tmdb": 45893,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ひだまりスケッチ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hidamari-sketch"
+      }
+    }
+  },
+  "nota": "tioanime hidamari-sketch: 14 cap. vs 12 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 57287,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Code:Breaker",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "code-breaker"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 43631,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "AIKa ZERO",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aika-zero"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 43167,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Accel World",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "accel-world"
+      }
+    }
+  },
+  "nota": "tioanime accel-world: 26 cap. vs 24 en TMDB T1; revisar."
+}

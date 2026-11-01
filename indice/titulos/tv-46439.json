@@ -1,0 +1,14 @@
+{
+  "tmdb": 46439,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aria The Scarlet Ammo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hidan-no-aria"
+      }
+    }
+  },
+  "nota": "tioanime hidan-no-aria: 13 cap. vs 12 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 45857,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Katekyō Hitman Reborn!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "katekyo-hitman-reborn"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 57008,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ガリレイドンナ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "galilei-donna"
+      }
+    }
+  }
+}

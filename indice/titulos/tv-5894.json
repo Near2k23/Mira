@@ -1,0 +1,13 @@
+{
+  "tmdb": 5894,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gungrave",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gungrave"
+      }
+    }
+  }
+}

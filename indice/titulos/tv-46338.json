@@ -1,0 +1,13 @@
+{
+  "tmdb": 46338,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "サイレントメビウス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "silent-mobius"
+      }
+    }
+  }
+}

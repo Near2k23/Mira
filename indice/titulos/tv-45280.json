@@ -1,0 +1,13 @@
+{
+  "tmdb": 45280,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "護くんに女神の祝福を！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mamoru-kun-ni-megami-no-shukufuku-wo"
+      }
+    }
+  }
+}

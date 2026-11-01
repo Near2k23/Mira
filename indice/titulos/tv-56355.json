@@ -1,0 +1,16 @@
+{
+  "tmdb": 56355,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hayate the Combat Butler",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hayate-no-gotoku",
+        "2": "hayate-no-gotoku-2",
+        "3": "hayate-no-gotoku-cant-take-my-eyes-off-you",
+        "4": "hayate-no-gotoku-cuties"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 46171,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kemeko Deluxe!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kemeko"
+      }
+    }
+  }
+}

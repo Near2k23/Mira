@@ -1,0 +1,13 @@
+{
+  "tmdb": 43017,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Great Teacher Onizuka",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "great-teacher-onizuka"
+      }
+    }
+  }
+}

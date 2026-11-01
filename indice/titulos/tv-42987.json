@@ -1,0 +1,13 @@
+{
+  "tmdb": 42987,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Himawari!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "himawari"
+      }
+    }
+  }
+}

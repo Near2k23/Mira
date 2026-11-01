@@ -1,0 +1,17 @@
+{
+  "tmdb": 53020,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Teekyu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "teekyuu",
+        "2": "teekyuu-3",
+        "4": "teekyuu-5",
+        "7": "teekyuu-8",
+        "9": "teekyuu-9"
+      }
+    }
+  }
+}

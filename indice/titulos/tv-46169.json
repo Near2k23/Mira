@@ -1,0 +1,13 @@
+{
+  "tmdb": 46169,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mayo Chiki!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mayo-chiki"
+      }
+    }
+  }
+}

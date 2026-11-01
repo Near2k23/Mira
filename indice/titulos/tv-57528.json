@@ -1,0 +1,13 @@
+{
+  "tmdb": 57528,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "境界線上のホライゾン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kyoukai-senjou-no-horizon"
+      }
+    }
+  }
+}

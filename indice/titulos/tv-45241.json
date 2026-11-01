@@ -1,0 +1,14 @@
+{
+  "tmdb": 45241,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Muv-Luv Alternative: Total Eclipse",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "muv-luv-alternative-total-eclipse"
+      }
+    }
+  },
+  "nota": "tioanime muv-luv-alternative-total-eclipse: 25 cap. vs 24 en TMDB T1; revisar."
+}

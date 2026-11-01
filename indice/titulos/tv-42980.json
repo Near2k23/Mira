@@ -1,0 +1,14 @@
+{
+  "tmdb": 42980,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "彩雲国物語",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saiunkoku-monogatari",
+        "2": "saiunkoku-monogatari-2nd-season"
+      }
+    }
+  }
+}

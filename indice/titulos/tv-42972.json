@@ -1,0 +1,13 @@
+{
+  "tmdb": 42972,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rinne no Lagrange",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rinne-no-lagrange"
+      }
+    }
+  }
+}

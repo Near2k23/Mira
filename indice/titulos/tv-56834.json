@@ -1,0 +1,14 @@
+{
+  "tmdb": 56834,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seto no Hanayome",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seto-no-hanayome"
+      }
+    }
+  },
+  "nota": "tioanime seto-no-hanayome: 28 cap. vs 26 en TMDB T1; revisar."
+}

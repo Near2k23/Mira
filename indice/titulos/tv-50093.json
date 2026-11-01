@@ -1,0 +1,13 @@
+{
+  "tmdb": 50093,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アラタカンガタリ 〜革神語〜",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "arata-kangatari"
+      }
+    }
+  }
+}

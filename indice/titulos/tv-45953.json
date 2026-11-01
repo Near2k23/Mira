@@ -1,0 +1,14 @@
+{
+  "tmdb": 45953,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ロウきゅーぶ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ro-kyu-bu",
+        "2": "ro-kyu-bu-ss"
+      }
+    }
+  }
+}

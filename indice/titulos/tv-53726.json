@@ -1,0 +1,13 @@
+{
+  "tmdb": 53726,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mashiro-iro Symphony: The Color of Lovers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mashiro-iro-symphony"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 56425,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Grappler Baki",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "grappler-baki-saidai-tournament-hen"
+      }
+    }
+  }
+}

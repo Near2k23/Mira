@@ -1,0 +1,13 @@
+{
+  "tmdb": 46345,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mew Mew Power",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tokyo-mew-mew"
+      }
+    }
+  }
+}

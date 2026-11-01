@@ -1,0 +1,13 @@
+{
+  "tmdb": 46315,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "桃華月憚",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "touka-gettan"
+      }
+    }
+  }
+}

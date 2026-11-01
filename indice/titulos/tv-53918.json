@@ -1,0 +1,17 @@
+{
+  "tmdb": 53918,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Atrévete a escalar",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yama-no-susume",
+        "2": "yama-no-susume-2",
+        "3": "yama-no-susume-third-season",
+        "4": "yama-no-susume-next-summit"
+      }
+    }
+  },
+  "nota": "tioanime yama-no-susume-2: 26 cap. vs 24 en TMDB T2; revisar. tioanime yama-no-susume: 13 cap. vs 12 en TMDB T1; revisar."
+}

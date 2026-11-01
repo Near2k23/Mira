@@ -1,0 +1,13 @@
+{
+  "tmdb": 45801,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スマイルプリキュア！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "smile-precure"
+      }
+    }
+  }
+}

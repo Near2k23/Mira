@@ -1,0 +1,14 @@
+{
+  "tmdb": 46093,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Koi to Senkyo to Chocolate",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koi-to-senkyo-to-chocolate"
+      }
+    }
+  },
+  "nota": "tioanime koi-to-senkyo-to-chocolate: 13 cap. vs 12 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 46390,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mikami La cazafantasmas",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ghost-sweeper-gs-mikami"
+      }
+    }
+  }
+}

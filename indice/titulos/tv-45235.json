@@ -1,0 +1,14 @@
+{
+  "tmdb": 45235,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sin alas para volar",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ore-tachi-ni-tsubasa-wa-nai"
+      }
+    }
+  },
+  "nota": "tioanime ore-tachi-ni-tsubasa-wa-nai: 13 cap. vs 12 en TMDB T1; revisar."
+}

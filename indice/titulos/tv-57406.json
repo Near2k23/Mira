@@ -1,0 +1,13 @@
+{
+  "tmdb": 57406,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aoki Hagane no Arpeggio",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aoki-hagane-no-arpeggio"
+      }
+    }
+  }
+}

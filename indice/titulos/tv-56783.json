@@ -1,0 +1,13 @@
+{
+  "tmdb": 56783,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "生徒会の一存",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seitokai-no-ichizon"
+      }
+    }
+  }
+}

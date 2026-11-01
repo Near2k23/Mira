@@ -1,0 +1,14 @@
+{
+  "tmdb": 53787,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aria the Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aria-the-animation",
+        "2": "aria-the-natural"
+      }
+    }
+  }
+}

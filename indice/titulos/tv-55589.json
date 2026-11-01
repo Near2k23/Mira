@@ -1,0 +1,14 @@
+{
+  "tmdb": 55589,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kyou no Asuka Show",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kyou-no-asuka-show"
+      }
+    }
+  },
+  "nota": "tioanime kyou-no-asuka-show: 18 cap. vs 20 en TMDB T1; revisar."
+}

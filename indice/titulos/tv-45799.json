@@ -1,0 +1,14 @@
+{
+  "tmdb": 45799,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "K Project",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "k-project",
+        "2": "k-return-of-kings"
+      }
+    }
+  }
+}
