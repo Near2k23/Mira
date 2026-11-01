@@ -1,0 +1,14 @@
+{
+  "tmdb": 194665,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "High Card",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "high-card",
+        "2": "high-card-season-2"
+      }
+    }
+  }
+}

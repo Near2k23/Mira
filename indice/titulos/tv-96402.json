@@ -1,0 +1,20 @@
+{
+  "tmdb": 96402,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "itai-no-wa-iya-nanode-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu",
+        "2": "itai-no-wa-iya-nanode-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu",
+        "2": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2"
+      }
+    }
+  }
+}

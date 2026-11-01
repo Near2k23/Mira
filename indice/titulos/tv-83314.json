@@ -1,0 +1,19 @@
+{
+  "tmdb": 83314,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tsurune: Kazemai Koukou Kyuudou-bu",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "tsurune-kazemai-koukou-kyuudou-bu",
+        "2": "tsurune-tsunagari-no-issha"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "tsurune-tsunagari-no-issha"
+      }
+    }
+  }
+}

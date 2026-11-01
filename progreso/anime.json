@@ -721,7 +721,32 @@
   "tv-208891": "nuevo",
   "tv-213883": "nuevo",
   "tv-216391": "nuevo",
-  "movie-998731": "nuevo"
+  "movie-998731": "nuevo",
+  "tv-83314": "nuevo",
+  "tv-93653": "nuevo",
+  "tv-96402": "nuevo",
+  "tv-97617": "nuevo",
+  "tv-102086": "nuevo",
+  "tv-105556": "nuevo",
+  "tv-120470": "nuevo",
+  "tv-128824": "nuevo",
+  "tv-131366": "nuevo",
+  "tv-154098": "nuevo",
+  "tv-155942": "nuevo",
+  "tv-156563": "nuevo",
+  "tv-194665": "nuevo",
+  "tv-194718": "nuevo",
+  "tv-195081": "nuevo",
+  "tv-198152": "nuevo",
+  "tv-201889": "nuevo",
+  "tv-204519": "nuevo",
+  "tv-205308": "nuevo",
+  "tv-206324": "nuevo",
+  "tv-206748": "nuevo",
+  "tv-207965": "nuevo",
+  "tv-211297": "nuevo",
+  "tv-212963": "nuevo",
+  "movie-997317": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -852,7 +877,10 @@
   "zuoshou-shanglan": "no está en TMDB / no ubicado",
   "lupin-iii-vs-cats-eye": "no está en TMDB / no ubicado",
   "wu-liuqi-anying-suming": "no está en TMDB / no ubicado",
-  "cardfight-vanguard-willdress-season-2": "no está en TMDB / no ubicado"
+  "cardfight-vanguard-willdress-season-2": "no está en TMDB / no ubicado",
+  "tv-153697": "T1 (ayakashi-triangle): 13 eps en el sitio vs 12 en TMDB",
+  "nanatsu-no-taizai-ensa-no-edinburgh": "no está en TMDB / no ubicado",
+  "yi-ren-zhi-xia-5": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -975,6 +1003,11 @@
    "agregados": 27,
    "completados": 0,
    "saltados": 10
+  },
+  "latest_released 47-48": {
+   "agregados": 25,
+   "completados": 0,
+   "saltados": 12
   }
  }
 }

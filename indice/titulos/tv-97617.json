@@ -1,0 +1,20 @@
+{
+  "tmdb": 97617,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "maou-gakuin-no-futekigousha",
+        "2": "maou-gakuin-no-futekigousha-ii"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "maou-gakuin-no-futekigousha",
+        "2": "maou-gakuin-no-futekigousha-2nd-season"
+      }
+    }
+  }
+}
