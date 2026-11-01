@@ -1,0 +1,13 @@
+{
+  "tmdb": 24912,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Escuela de Detectives",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tantei-gakuen-q"
+      }
+    }
+  }
+}

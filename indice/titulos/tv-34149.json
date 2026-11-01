@@ -1,0 +1,14 @@
+{
+  "tmdb": 34149,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "円盤皇女ワるきゅーレ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ufo-princess-valkyrie",
+        "2": "ufo-princess-valkyrie-2"
+      }
+    }
+  }
+}

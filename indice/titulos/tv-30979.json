@@ -1,0 +1,13 @@
+{
+  "tmdb": 30979,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gravitation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gravitation"
+      }
+    }
+  }
+}

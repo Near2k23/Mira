@@ -1,0 +1,13 @@
+{
+  "tmdb": 30981,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Monster",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "monster"
+      }
+    }
+  }
+}

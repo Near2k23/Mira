@@ -1,0 +1,13 @@
+{
+  "tmdb": 24392,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Valkyria Chronicles",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "senjou-no-valkyria-valkyria-chronicles"
+      }
+    }
+  }
+}

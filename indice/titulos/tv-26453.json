@@ -1,0 +1,13 @@
+{
+  "tmdb": 26453,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Trigun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "trigun"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 30180,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "DearS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dears"
+      }
+    }
+  },
+  "nota": "tioanime dears: 13 cap. vs 12 en TMDB T1; revisar."
+}

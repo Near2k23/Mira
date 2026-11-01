@@ -1,0 +1,14 @@
+{
+  "tmdb": 34141,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "D.Gray-man",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "d-gray-man"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

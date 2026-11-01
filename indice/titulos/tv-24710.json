@@ -1,0 +1,13 @@
+{
+  "tmdb": 24710,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nadia El misterio de la piedra azul",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fushigi-no-umi-no-nadia"
+      }
+    }
+  }
+}

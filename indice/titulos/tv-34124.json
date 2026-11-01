@@ -1,0 +1,13 @@
+{
+  "tmdb": 34124,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kanon",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kanon-2006"
+      }
+    }
+  }
+}

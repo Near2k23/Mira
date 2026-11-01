@@ -1,0 +1,13 @@
+{
+  "tmdb": 31736,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Eyeshield 21",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "eyeshield-21"
+      }
+    }
+  }
+}

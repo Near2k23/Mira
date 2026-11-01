@@ -1,0 +1,13 @@
+{
+  "tmdb": 30987,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "RIDEBACK -ライドバック-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ride-back"
+      }
+    }
+  }
+}

@@ -9,6 +9,12 @@
         "1": "sengoku-youko-yonaoshi-kyoudai-hen",
         "2": "sengoku-youko-senma-konton-hen"
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "sengoku-youko"
+      },
+      "numeracion": "absoluta"
     }
   }
 }

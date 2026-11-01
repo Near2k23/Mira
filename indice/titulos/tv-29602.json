@@ -1,0 +1,17 @@
+{
+  "tmdb": 29602,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "メジャー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "major",
+        "3": "major-3",
+        "4": "major-4",
+        "5": "major-5",
+        "6": "major-6"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34060,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Demon Lord Dante",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "demon-lord-dante"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 26340,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "今、そこにいる僕",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ima-soko-ni-iru-boku"
+      }
+    }
+  }
+}

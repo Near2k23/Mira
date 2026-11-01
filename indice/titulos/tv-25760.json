@@ -1,0 +1,13 @@
+{
+  "tmdb": 25760,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cuando las cigarras lloran",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "higurashi-no-naku-koro-ni"
+      }
+    }
+  }
+}

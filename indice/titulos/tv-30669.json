@@ -1,0 +1,14 @@
+{
+  "tmdb": 30669,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yu Yu Hakusho",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yu-yu-hakusho"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

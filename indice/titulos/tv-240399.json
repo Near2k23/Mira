@@ -1,0 +1,13 @@
+{
+  "tmdb": 240399,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "リンカイ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rinkai"
+      }
+    }
+  }
+}

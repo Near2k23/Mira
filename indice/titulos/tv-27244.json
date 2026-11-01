@@ -1,0 +1,13 @@
+{
+  "tmdb": 27244,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "遙かなる時空の中で ～八葉抄～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "harukanaru-toki-no-naka-de-hachiyou-shou"
+      }
+    }
+  }
+}

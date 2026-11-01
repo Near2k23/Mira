@@ -1,0 +1,13 @@
+{
+  "tmdb": 25917,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "φなる・あぷろーち",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "final-approach"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 27167,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lovely Complex",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lovely-complex"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34092,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔法戦士リウイ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahou-senshi-louie"
+      }
+    }
+  }
+}

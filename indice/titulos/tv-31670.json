@@ -1,0 +1,13 @@
+{
+  "tmdb": 31670,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Air Gear",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "air-gear"
+      }
+    }
+  }
+}

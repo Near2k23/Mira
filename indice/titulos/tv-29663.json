@@ -1,0 +1,13 @@
+{
+  "tmdb": 29663,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スカルマン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-skull-man"
+      }
+    }
+  }
+}

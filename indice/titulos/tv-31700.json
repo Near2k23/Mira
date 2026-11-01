@@ -1,0 +1,13 @@
+{
+  "tmdb": 31700,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "獣王星",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jyu-oh-sei"
+      }
+    }
+  }
+}

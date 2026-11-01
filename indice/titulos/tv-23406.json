@@ -1,0 +1,13 @@
+{
+  "tmdb": 23406,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Trinity Blood",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "trinity-blood"
+      }
+    }
+  }
+}

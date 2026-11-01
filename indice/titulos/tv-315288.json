@@ -1,0 +1,13 @@
+{
+  "tmdb": 315288,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "はじめの一歩 Rising",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hajime-no-ippo-rising"
+      }
+    }
+  }
+}

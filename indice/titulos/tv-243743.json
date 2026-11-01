@@ -1,0 +1,14 @@
+{
+  "tmdb": 243743,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Plus-Sized Elf",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "elfsan-wa-yaserarenai"
+      }
+    }
+  },
+  "nota": "tioanime elfsan-wa-yaserarenai: 14 cap. vs 12 en TMDB T1; revisar."
+}

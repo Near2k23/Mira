@@ -1,0 +1,13 @@
+{
+  "tmdb": 34061,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chrno Crusade",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chrono-crusade"
+      }
+    }
+  }
+}

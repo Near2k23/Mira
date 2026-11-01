@@ -1,0 +1,13 @@
+{
+  "tmdb": 27067,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Soul Hunter",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "senkaiden-houshin-engi"
+      }
+    }
+  }
+}

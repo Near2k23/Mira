@@ -1,0 +1,13 @@
+{
+  "tmdb": 26843,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yami to Boushi to Hon no Tabibito",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yami-to-boushi"
+      }
+    }
+  }
+}

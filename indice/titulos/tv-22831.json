@@ -1,0 +1,13 @@
+{
+  "tmdb": 22831,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gunsmith Cats",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gunsmith-cats"
+      }
+    }
+  }
+}

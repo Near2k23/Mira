@@ -1,0 +1,13 @@
+{
+  "tmdb": 27757,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boys Over Flowers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hana-yori-dango"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 31665,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "School Rumble",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "school-rumble"
+      }
+    }
+  },
+  "nota": "tioanime school-rumble: 28 cap. vs 26 en TMDB T1; revisar."
+}

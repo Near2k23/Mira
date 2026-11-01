@@ -1,0 +1,14 @@
+{
+  "tmdb": 22634,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shakugan no Shana",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shakugan-no-shana",
+        "2": "shakugan-no-shana-second"
+      }
+    }
+  }
+}

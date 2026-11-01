@@ -1,0 +1,13 @@
+{
+  "tmdb": 30386,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "B't X",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "b-t-x"
+      }
+    }
+  }
+}

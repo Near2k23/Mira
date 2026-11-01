@@ -1,0 +1,14 @@
+{
+  "tmdb": 31572,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lupin III",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "5": "lupin-iii-part-v",
+        "6": "lupin-iii-part-6"
+      }
+    }
+  }
+}

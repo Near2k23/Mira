@@ -25,6 +25,11 @@
           }
         ]
       }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "bleach-sennen-kessenhen"
+      }
     }
   }
 }

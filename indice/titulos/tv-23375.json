@@ -1,0 +1,13 @@
+{
+  "tmdb": 23375,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "学園アリス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gakuen-alice"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 25275,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yoku Wakaru Gendai Mahou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yoku-wakaru-gendai-mahou"
+      }
+    }
+  },
+  "nota": "tioanime yoku-wakaru-gendai-mahou: 13 cap. vs 12 en TMDB T1; revisar."
+}

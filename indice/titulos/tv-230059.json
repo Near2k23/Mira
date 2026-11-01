@@ -1,0 +1,13 @@
+{
+  "tmdb": 230059,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A Sign of Affection",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yubisaki-to-renren"
+      }
+    }
+  }
+}

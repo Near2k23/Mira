@@ -1,0 +1,13 @@
+{
+  "tmdb": 27438,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ToHeart2",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "to-heart-2"
+      }
+    }
+  }
+}

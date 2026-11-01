@@ -1,0 +1,13 @@
+{
+  "tmdb": 28853,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "女子高生 GIRL'S-HIGH",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "girls-high"
+      }
+    }
+  }
+}

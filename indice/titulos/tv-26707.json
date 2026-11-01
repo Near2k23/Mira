@@ -1,0 +1,15 @@
+{
+  "tmdb": 26707,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Spice and Wolf",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "spice-and-wolf",
+        "2": "spice-and-wolf-2"
+      }
+    }
+  },
+  "nota": "tioanime spice-and-wolf: 13 cap. vs 12 en TMDB T1; revisar."
+}

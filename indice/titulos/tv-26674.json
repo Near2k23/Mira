@@ -1,0 +1,13 @@
+{
+  "tmdb": 26674,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Solty Rei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "solty-rei"
+      }
+    }
+  }
+}

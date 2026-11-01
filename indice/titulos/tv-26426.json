@@ -1,0 +1,13 @@
+{
+  "tmdb": 26426,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "MISSION-E",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mission-e"
+      }
+    }
+  }
+}

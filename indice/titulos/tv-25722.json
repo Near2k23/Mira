@@ -1,0 +1,13 @@
+{
+  "tmdb": 25722,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "こどものおもちゃ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kodomo-no-omocha"
+      }
+    }
+  }
+}

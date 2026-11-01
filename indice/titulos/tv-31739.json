@@ -1,0 +1,13 @@
+{
+  "tmdb": 31739,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kiba",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kiba"
+      }
+    }
+  }
+}

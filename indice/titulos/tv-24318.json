@@ -1,0 +1,13 @@
+{
+  "tmdb": 24318,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "かりん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "karin"
+      }
+    }
+  }
+}

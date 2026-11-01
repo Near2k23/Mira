@@ -1,0 +1,13 @@
+{
+  "tmdb": 32963,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Canvas2 ～虹色のスケッチ～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "canvas-2-niji-iro-no-sketch"
+      }
+    }
+  }
+}

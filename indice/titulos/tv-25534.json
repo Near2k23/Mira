@@ -1,0 +1,13 @@
+{
+  "tmdb": 25534,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "LEGEND OF BASARA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "legend-of-basara"
+      }
+    }
+  }
+}

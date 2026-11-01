@@ -1,0 +1,14 @@
+{
+  "tmdb": 25365,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "キミキス pure rouge",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kimikiss-pure-rouge"
+      }
+    }
+  },
+  "nota": "tioanime kimikiss-pure-rouge: 25 cap. vs 24 en TMDB T1; revisar."
+}

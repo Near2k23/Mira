@@ -1,0 +1,13 @@
+{
+  "tmdb": 25099,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "こみっくパーティー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "comic-party"
+      }
+    }
+  }
+}

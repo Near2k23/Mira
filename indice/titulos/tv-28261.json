@@ -1,0 +1,13 @@
+{
+  "tmdb": 28261,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "超GALS! 寿蘭",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "super-gals-kotobuki-ran"
+      }
+    }
+  }
+}

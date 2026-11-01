@@ -1,0 +1,14 @@
+{
+  "tmdb": 31731,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "GUNSLINGER GIRL",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gunslinger-girl",
+        "2": "gunslinger-girl-il-teatrino"
+      }
+    }
+  }
+}

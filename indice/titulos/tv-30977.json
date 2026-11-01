@@ -1,0 +1,15 @@
+{
+  "tmdb": 30977,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A Certain Scientific Railgun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "to-aru-kagaku-no-railgun",
+        "2": "toaru-kagaku-no-railgun-s",
+        "3": "toaru-kagaku-no-railgun-t"
+      }
+    }
+  }
+}

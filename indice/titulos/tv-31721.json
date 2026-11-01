@@ -1,0 +1,15 @@
+{
+  "tmdb": 31721,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "La princesa cadáver",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shikabane-hime-aka",
+        "2": "shikabane-hime-kuro"
+      }
+    }
+  },
+  "nota": "tioanime shikabane-hime-kuro: 13 cap. vs 12 en TMDB T2; revisar."
+}

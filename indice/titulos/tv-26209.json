@@ -1,0 +1,15 @@
+{
+  "tmdb": 26209,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "星界の紋章",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seikai-no-monshou",
+        "2": "seikai-no-senki",
+        "3": "seikai-no-senki-2"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 22827,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shinigami no Ballad",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shinigami-no-ballad"
+      }
+    }
+  }
+}

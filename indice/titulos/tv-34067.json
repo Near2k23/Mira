@@ -1,0 +1,14 @@
+{
+  "tmdb": 34067,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔法遣いに大切なこと",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahou-tsukai-ni-taisetsu-na-koto",
+        "2": "mahou-tsukai-ni-taisetsu-na-koto-natsu-no-sora"
+      }
+    }
+  }
+}

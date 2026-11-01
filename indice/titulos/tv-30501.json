@@ -1,0 +1,13 @@
+{
+  "tmdb": 30501,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "テイルズ オブ エターニア THE ANIMATION",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tales-of-eternia"
+      }
+    }
+  }
+}

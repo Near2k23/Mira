@@ -1,0 +1,14 @@
+{
+  "tmdb": 34075,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yes！プリキュア5",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yes-precure-5",
+        "2": "yes-precure-5-gogo"
+      }
+    }
+  }
+}

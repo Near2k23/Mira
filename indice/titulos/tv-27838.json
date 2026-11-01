@@ -1,0 +1,13 @@
+{
+  "tmdb": 27838,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "花右京メイド隊 LaVerite",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hanaukyo-maid-team-la-verite"
+      }
+    }
+  }
+}

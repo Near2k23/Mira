@@ -1,0 +1,13 @@
+{
+  "tmdb": 34138,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "モノクローム・ファクター",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "monochrome-factor"
+      }
+    }
+  }
+}

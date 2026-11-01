@@ -1,0 +1,13 @@
+{
+  "tmdb": 29616,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Desert Punk",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sunabouzu"
+      }
+    }
+  }
+}

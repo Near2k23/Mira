@@ -1,0 +1,13 @@
+{
+  "tmdb": 25504,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "After War Gundam X",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "after-war-gundam-x"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 31730,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "キャシャーン Sins",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "casshern-sins"
+      }
+    }
+  }
+}

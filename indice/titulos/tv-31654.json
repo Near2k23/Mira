@@ -1,0 +1,14 @@
+{
+  "tmdb": 31654,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Digimon",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "digimon-adventure",
+        "2": "digimon-2"
+      }
+    }
+  }
+}

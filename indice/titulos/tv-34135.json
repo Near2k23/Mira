@@ -1,0 +1,13 @@
+{
+  "tmdb": 34135,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kamisama Kazoku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamisama-kazoku"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 27942,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "らいむいろ戦奇譚",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lime-iro-senkitan"
+      }
+    }
+  }
+}

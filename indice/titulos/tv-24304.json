@@ -1,0 +1,13 @@
+{
+  "tmdb": 24304,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dear Boys",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dear-boys"
+      }
+    }
+  }
+}

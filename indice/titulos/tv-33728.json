@@ -1,0 +1,13 @@
+{
+  "tmdb": 33728,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "錬金3級 まじかる?ぽか〜ん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "renkin-san-kyuu-magical-pokaan"
+      }
+    }
+  }
+}

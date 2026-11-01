@@ -1,0 +1,14 @@
+{
+  "tmdb": 27845,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El príncipe del tenis",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-prince-of-tennis"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

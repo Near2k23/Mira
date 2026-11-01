@@ -1,0 +1,13 @@
+{
+  "tmdb": 321121,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "エウレカセブンAO",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "eureka-seven-astral-ocean"
+      }
+    }
+  }
+}

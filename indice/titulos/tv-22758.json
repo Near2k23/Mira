@@ -1,0 +1,13 @@
+{
+  "tmdb": 22758,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ちっちゃな雪使いシュガー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chicchana-yukitsukai-sugar"
+      }
+    }
+  }
+}

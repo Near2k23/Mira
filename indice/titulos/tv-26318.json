@@ -1,0 +1,17 @@
+{
+  "tmdb": 26318,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Los justicieros",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "slayers",
+        "2": "slayers-next",
+        "3": "slayers-try",
+        "4": "slayers-revolution",
+        "5": "slayers-evolution-r"
+      }
+    }
+  }
+}

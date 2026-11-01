@@ -1,0 +1,14 @@
+{
+  "tmdb": 34069,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "神曲奏界ポリフォニカ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shinkyoku-sukai-polyphonica",
+        "2": "shinkyoku-soukai-polyphonica-crimson-s"
+      }
+    }
+  }
+}

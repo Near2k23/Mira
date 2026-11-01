@@ -1,0 +1,13 @@
+{
+  "tmdb": 26328,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "喰霊-零-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ga-rei-zero"
+      }
+    }
+  }
+}

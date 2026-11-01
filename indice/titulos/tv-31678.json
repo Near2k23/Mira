@@ -1,0 +1,17 @@
+{
+  "tmdb": 31678,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "結界師",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kekkaishi"
+      },
+      "desfase": {
+        "1": 2
+      }
+    }
+  },
+  "nota": "tioanime kekkaishi: 50 cap. vs 52 en TMDB T1; revisar."
+}

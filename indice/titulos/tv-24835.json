@@ -1,0 +1,15 @@
+{
+  "tmdb": 24835,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Clannad",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "clannad",
+        "2": "clannad-after-story"
+      }
+    }
+  },
+  "nota": "tioanime clannad-after-story: 24 cap. vs 22 en TMDB T2; revisar. tioanime clannad: 24 cap. vs 22 en TMDB T1; revisar."
+}

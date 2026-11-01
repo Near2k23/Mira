@@ -1,0 +1,14 @@
+{
+  "tmdb": 22519,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yamato Takeru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yamato-takeru"
+      }
+    }
+  },
+  "nota": "tioanime yamato-takeru: 36 cap. vs 37 en TMDB T1; revisar."
+}

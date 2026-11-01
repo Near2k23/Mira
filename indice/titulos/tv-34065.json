@@ -1,0 +1,13 @@
+{
+  "tmdb": 34065,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Black Cat",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "black-cat"
+      }
+    }
+  }
+}

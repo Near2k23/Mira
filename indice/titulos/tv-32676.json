@@ -1,0 +1,13 @@
+{
+  "tmdb": 32676,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lady Oscar",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "versailles-no-bara"
+      }
+    }
+  }
+}

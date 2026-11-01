@@ -1,0 +1,13 @@
+{
+  "tmdb": 29884,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "咲-Saki-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "saki-zenkoku-hen"
+      }
+    }
+  }
+}

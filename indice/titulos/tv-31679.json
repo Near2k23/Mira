@@ -1,0 +1,15 @@
+{
+  "tmdb": 31679,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Last Exile",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "last-exile",
+        "2": "last-exile-ginyoku-no-fam"
+      }
+    }
+  },
+  "nota": "tioanime last-exile-ginyoku-no-fam: 23 cap. vs 21 en TMDB T2; revisar."
+}

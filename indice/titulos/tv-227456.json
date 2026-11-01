@@ -1,0 +1,13 @@
+{
+  "tmdb": 227456,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "戦国BASARA Judge End",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sengoku-basara-judge-end"
+      }
+    }
+  }
+}

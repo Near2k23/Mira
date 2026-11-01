@@ -1,0 +1,13 @@
+{
+  "tmdb": 236338,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Me encantan las Magical Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahou-shoujo-ni-akogarete"
+      }
+    }
+  }
+}

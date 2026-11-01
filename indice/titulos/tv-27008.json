@@ -1,0 +1,13 @@
+{
+  "tmdb": 27008,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "シャングリ・ラ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shangri-la"
+      }
+    }
+  }
+}

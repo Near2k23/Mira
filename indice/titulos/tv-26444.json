@@ -1,0 +1,16 @@
+{
+  "tmdb": 26444,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Da Capo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "da-capo",
+        "3": "da-capo-2",
+        "5": "da-capo-iii"
+      }
+    }
+  },
+  "nota": "tioanime da-capo-iii: 14 cap. vs 13 en TMDB T5; revisar."
+}

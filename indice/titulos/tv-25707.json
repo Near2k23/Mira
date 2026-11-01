@@ -1,0 +1,14 @@
+{
+  "tmdb": 25707,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Super Campeones",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "captain-tsubasa"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

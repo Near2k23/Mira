@@ -1,0 +1,13 @@
+{
+  "tmdb": 27952,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ぴたテン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "pita-ten"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 31718,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Darker than Black",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "darker-than-black",
+        "2": "darker-than-black-2"
+      }
+    }
+  },
+  "nota": "tioanime darker-than-black: 26 cap. vs 25 en TMDB T1; revisar."
+}

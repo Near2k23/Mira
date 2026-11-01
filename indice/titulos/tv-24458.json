@@ -1,0 +1,13 @@
+{
+  "tmdb": 24458,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bamboo Blade",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bamboo-blade"
+      }
+    }
+  }
+}

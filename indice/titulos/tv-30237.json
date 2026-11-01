@@ -1,0 +1,13 @@
+{
+  "tmdb": 30237,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "地球へ…",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "terra-e"
+      }
+    }
+  }
+}

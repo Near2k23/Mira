@@ -1,0 +1,13 @@
+{
+  "tmdb": 31741,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Black Blood Brothers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "black-blood-brothers"
+      }
+    }
+  }
+}

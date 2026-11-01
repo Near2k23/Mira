@@ -1,0 +1,13 @@
+{
+  "tmdb": 25676,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "D・N・ANGEL",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dn-angel"
+      }
+    }
+  }
+}

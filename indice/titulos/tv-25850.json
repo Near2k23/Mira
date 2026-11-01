@@ -1,0 +1,13 @@
+{
+  "tmdb": 25850,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saber Marionette J",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saber-marionette-j"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 31706,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gun X Sword",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gun-x-sword"
+      }
+    }
+  }
+}

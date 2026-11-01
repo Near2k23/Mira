@@ -1,0 +1,13 @@
+{
+  "tmdb": 25111,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "西の善き魔女 Astraea Testament",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nishi-no-yoki-majo-astraea-testament"
+      }
+    }
+  }
+}

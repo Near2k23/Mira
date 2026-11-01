@@ -1,0 +1,13 @@
+{
+  "tmdb": 24438,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スパイラル ～推理の絆～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "spiral-suiri-no-kizuna"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 26045,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BLUE DROP ～天使達の戯曲～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blue-drop-tenshi-tachi-no-gikyoku"
+      }
+    }
+  }
+}

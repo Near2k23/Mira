@@ -1,0 +1,13 @@
+{
+  "tmdb": 25499,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Umineko no Naku Koro ni",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "umineko-no-naku-koro-ni"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 25797,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mobile Suit Victory Gundam",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mobile-suit-victory-gundam"
+      }
+    }
+  }
+}

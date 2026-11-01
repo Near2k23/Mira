@@ -1,0 +1,15 @@
+{
+  "tmdb": 25492,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sengoku Basara",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sengoku-basara",
+        "2": "sengoku-basara-ii"
+      }
+    }
+  },
+  "nota": "tioanime sengoku-basara: 13 cap. vs 12 en TMDB T1; revisar."
+}

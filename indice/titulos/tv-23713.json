@@ -1,0 +1,13 @@
+{
+  "tmdb": 23713,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Over Drive",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "over-drie"
+      }
+    }
+  }
+}

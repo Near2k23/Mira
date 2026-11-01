@@ -1,0 +1,14 @@
+{
+  "tmdb": 27346,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ToHeart",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "to-heart",
+        "2": "to-heart-remember-my-memories"
+      }
+    }
+  }
+}

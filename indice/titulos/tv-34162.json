@@ -1,0 +1,13 @@
+{
+  "tmdb": 34162,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "True Tears",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "true-tears"
+      }
+    }
+  }
+}

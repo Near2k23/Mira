@@ -1,0 +1,14 @@
+{
+  "tmdb": 27660,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Legend of the Galactic Heroes",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ginga-eiyuu-densetsu"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34095,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ひとひら",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hitohira"
+      }
+    }
+  }
+}

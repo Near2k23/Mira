@@ -1,0 +1,13 @@
+{
+  "tmdb": 22974,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Umi Monogatari ~Anata ga Ite Kureta Koto~",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "umi-monogatari"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 30631,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "H2O: Footprints in the Sand",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "h2o-footprints-in-the-sand"
+      }
+    }
+  }
+}

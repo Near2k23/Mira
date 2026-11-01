@@ -1,0 +1,14 @@
+{
+  "tmdb": 27813,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "月詠～MOON PHASE～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsukuyomi-moon-phase"
+      }
+    }
+  },
+  "nota": "tioanime tsukuyomi-moon-phase: 26 cap. vs 25 en TMDB T1; revisar."
+}

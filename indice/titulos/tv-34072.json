@@ -1,0 +1,13 @@
+{
+  "tmdb": 34072,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "愛してるぜ ベイベ★★",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aishiteruze-baby"
+      }
+    }
+  }
+}

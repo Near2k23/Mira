@@ -1,0 +1,14 @@
+{
+  "tmdb": 31687,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragonaut: The Resonance",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dragonaut"
+      }
+    }
+  },
+  "nota": "tioanime dragonaut: 26 cap. vs 25 en TMDB T1; revisar."
+}

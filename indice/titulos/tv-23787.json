@@ -1,0 +1,13 @@
+{
+  "tmdb": 23787,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nube, el maestro del infierno",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jigoku-sensei-nube"
+      }
+    }
+  }
+}

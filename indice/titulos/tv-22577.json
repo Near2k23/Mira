@@ -1,0 +1,13 @@
+{
+  "tmdb": 22577,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "僕等がいた",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bokura-ga-ita"
+      }
+    }
+  }
+}

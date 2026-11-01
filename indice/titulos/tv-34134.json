@@ -1,0 +1,13 @@
+{
+  "tmdb": 34134,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "銀盤カレイドスコープ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ginban-kaleidoscope"
+      }
+    }
+  }
+}

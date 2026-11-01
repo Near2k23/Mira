@@ -1,0 +1,13 @@
+{
+  "tmdb": 26107,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ギルガメッシュ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gilgamesh"
+      }
+    }
+  }
+}

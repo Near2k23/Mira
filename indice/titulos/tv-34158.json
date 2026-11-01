@@ -1,0 +1,14 @@
+{
+  "tmdb": 34158,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Las Guerreras Mágicas",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magic-knight-rayearth",
+        "2": "magic-knight-rayearth-2"
+      }
+    }
+  }
+}

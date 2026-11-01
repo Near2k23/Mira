@@ -1,0 +1,13 @@
+{
+  "tmdb": 26563,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Futari Ecchi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futari-ecchi"
+      }
+    }
+  }
+}

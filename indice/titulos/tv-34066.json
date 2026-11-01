@@ -1,0 +1,13 @@
+{
+  "tmdb": 34066,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ゼノサーガ THE ANIMATION",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "xenosaga-the-animation"
+      }
+    }
+  }
+}

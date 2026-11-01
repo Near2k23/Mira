@@ -1,0 +1,13 @@
+{
+  "tmdb": 31729,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Peach Girl",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "peach-girl"
+      }
+    }
+  }
+}

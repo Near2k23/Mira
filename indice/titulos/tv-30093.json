@@ -1,0 +1,13 @@
+{
+  "tmdb": 30093,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mobile Fighter G Gundam",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kidou-butouden-g-gundam"
+      }
+    }
+  }
+}

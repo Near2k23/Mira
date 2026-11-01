@@ -1,0 +1,13 @@
+{
+  "tmdb": 27736,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Candidate for Goddess",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "megami-kouhosei"
+      }
+    }
+  }
+}

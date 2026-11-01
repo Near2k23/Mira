@@ -1,0 +1,14 @@
+{
+  "tmdb": 31711,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "神魂合体ゴーダンナー！！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shinkon-gattai-godannar",
+        "2": "shinkon-gattai-godannar-2nd-season"
+      }
+    }
+  }
+}

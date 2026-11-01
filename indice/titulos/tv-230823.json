@@ -1,0 +1,13 @@
+{
+  "tmdb": 230823,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Demon Prince of Momochi House",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "momochisan-chi-no-ayakashi-ouji"
+      }
+    }
+  }
+}

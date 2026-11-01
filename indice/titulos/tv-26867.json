@@ -1,0 +1,13 @@
+{
+  "tmdb": 26867,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mushishi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mushi-shi"
+      }
+    }
+  }
+}

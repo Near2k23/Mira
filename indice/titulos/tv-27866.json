@@ -1,0 +1,15 @@
+{
+  "tmdb": 27866,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "エフ ア テイル オブ メモリーズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ef-a-tale-of-memories",
+        "2": "ef-a-tale-of-melodies"
+      }
+    }
+  },
+  "nota": "tioanime ef-a-tale-of-melodies: 13 cap. vs 12 en TMDB T2; revisar."
+}

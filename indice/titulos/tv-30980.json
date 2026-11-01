@@ -1,0 +1,15 @@
+{
+  "tmdb": 30980,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A Certain Magical Index",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "toaru-majutsu-no-index",
+        "2": "toaru-majutsu-ii",
+        "3": "toaru-majutsu-no-index-iii"
+      }
+    }
+  }
+}

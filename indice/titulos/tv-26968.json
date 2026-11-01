@@ -1,0 +1,14 @@
+{
+  "tmdb": 26968,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ソウル リンク",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soul-link"
+      }
+    }
+  },
+  "nota": "tioanime soul-link: 13 cap. vs 12 en TMDB T1; revisar."
+}

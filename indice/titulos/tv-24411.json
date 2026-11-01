@@ -1,0 +1,13 @@
+{
+  "tmdb": 24411,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "これが私の御主人様",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kore-ga-watashi-no-goshujin-sama"
+      }
+    }
+  }
+}

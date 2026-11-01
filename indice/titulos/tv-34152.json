@@ -1,0 +1,13 @@
+{
+  "tmdb": 34152,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boogiepop Phantom",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "boogiepop-phantom"
+      }
+    }
+  }
+}

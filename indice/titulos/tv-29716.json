@@ -1,0 +1,13 @@
+{
+  "tmdb": 29716,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アンドロイド・アナ MAICO 2010",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "android-ana-maico-2010"
+      }
+    }
+  }
+}

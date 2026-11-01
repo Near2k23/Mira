@@ -1,0 +1,13 @@
+{
+  "tmdb": 34105,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Golden Boy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "golden-boy"
+      }
+    }
+  }
+}

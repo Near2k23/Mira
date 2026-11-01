@@ -1,0 +1,13 @@
+{
+  "tmdb": 29540,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Zoids: New Century Zero",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zoids-zero"
+      }
+    }
+  }
+}

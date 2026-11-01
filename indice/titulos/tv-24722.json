@@ -1,0 +1,13 @@
+{
+  "tmdb": 24722,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Grenadier Hohoemi no Senshi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "grenadier-hohoemi-no-senshi"
+      }
+    }
+  }
+}

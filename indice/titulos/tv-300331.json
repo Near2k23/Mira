@@ -1,0 +1,14 @@
+{
+  "tmdb": 300331,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "グラビテーション",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gravitation-lyrics-of-love"
+      }
+    }
+  },
+  "nota": "tioanime gravitation-lyrics-of-love: 1 cap. vs 2 en TMDB T1; revisar."
+}

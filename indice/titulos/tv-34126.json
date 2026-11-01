@@ -1,0 +1,13 @@
+{
+  "tmdb": 34126,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "イノセント・ヴィーナス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "innocent-venus"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 34148,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "この醜くも美しい世界",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kono-minikuku-mo-utsukushii-sekai"
+      }
+    }
+  }
+}

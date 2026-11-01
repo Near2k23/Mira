@@ -1,0 +1,13 @@
+{
+  "tmdb": 29358,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ヒロイック・エイジ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "heroic-age"
+      }
+    }
+  }
+}

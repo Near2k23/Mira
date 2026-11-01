@@ -1,0 +1,13 @@
+{
+  "tmdb": 28061,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "School Days",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "school-days"
+      }
+    }
+  }
+}

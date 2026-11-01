@@ -1,0 +1,13 @@
+{
+  "tmdb": 25891,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Soukyuu No Fafner",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soukyuu-no-fafner-dead-aggressor-exodus-2"
+      }
+    }
+  }
+}
