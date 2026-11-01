@@ -1,0 +1,19 @@
+{
+  "tmdb": 76139,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Poputepipikku",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "poputepipikku",
+        "2": "poputepipikku-2nd-season"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "2": "poputepipikku-2nd-season"
+      }
+    }
+  }
+}

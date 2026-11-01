@@ -1,0 +1,20 @@
+{
+  "tmdb": 99080,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Peter Grill to Kenja no Jikan",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "peter-grill-to-kenja-no-jikan",
+        "2": "peter-grill-to-kenja-no-jikan-super-extra"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "peter-grill-to-kenja-no-jikan",
+        "2": "peter-grill-to-kenja-no-jikan-super-extra"
+      }
+    }
+  }
+}

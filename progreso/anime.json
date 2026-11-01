@@ -746,7 +746,33 @@
   "tv-207965": "nuevo",
   "tv-211297": "nuevo",
   "tv-212963": "nuevo",
-  "movie-997317": "nuevo"
+  "movie-997317": "nuevo",
+  "tv-39659": "nuevo",
+  "tv-61441": "nuevo",
+  "tv-76139": "nuevo",
+  "tv-99080": "nuevo",
+  "tv-112696": "nuevo",
+  "tv-119100": "nuevo",
+  "tv-121702": "nuevo",
+  "tv-133938": "nuevo",
+  "tv-134667": "completado",
+  "tv-139287": "nuevo",
+  "tv-156510": "nuevo",
+  "tv-158293": "nuevo",
+  "tv-194831": "nuevo",
+  "tv-195990": "nuevo",
+  "tv-196369": "nuevo",
+  "tv-203192": "nuevo",
+  "tv-204716": "nuevo",
+  "tv-205961": "nuevo",
+  "tv-208730": "nuevo",
+  "movie-783675": "nuevo",
+  "movie-876792": "nuevo",
+  "movie-916224": "nuevo",
+  "movie-893712": "nuevo",
+  "movie-966709": "nuevo",
+  "movie-874743": "nuevo",
+  "movie-874745": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -880,7 +906,11 @@
   "cardfight-vanguard-willdress-season-2": "no está en TMDB / no ubicado",
   "tv-153697": "T1 (ayakashi-triangle): 13 eps en el sitio vs 12 en TMDB",
   "nanatsu-no-taizai-ensa-no-edinburgh": "no está en TMDB / no ubicado",
-  "yi-ren-zhi-xia-5": "no está en TMDB / no ubicado"
+  "yi-ren-zhi-xia-5": "no está en TMDB / no ubicado",
+  "oemojisangjuui": "no está en TMDB / no ubicado",
+  "tonikaku-kawaii-seifuku": "no está en TMDB / no ubicado",
+  "yama-no-susume-next-summit": "no está en TMDB / no ubicado",
+  "c-danchi": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -1008,6 +1038,11 @@
    "agregados": 25,
    "completados": 0,
    "saltados": 12
+  },
+  "latest_released 49-50": {
+   "agregados": 25,
+   "completados": 1,
+   "saltados": 10
   }
  }
 }

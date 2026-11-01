@@ -1,0 +1,11 @@
+{
+  "tmdb": 783675,
+  "tipo": "movie",
+  "categoria": "anime",
+  "titulo": "The First Slam Dunk",
+  "fuentes": {
+    "animeav1": {
+      "slug": "the-first-slam-dunk"
+    }
+  }
+}

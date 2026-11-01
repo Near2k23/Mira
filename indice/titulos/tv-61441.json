@@ -1,0 +1,26 @@
+{
+  "tmdb": 61441,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yowamushi Pedal",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "yowamushi-pedal",
+        "2": "yowamushi-pedal-grande-road",
+        "3": "yowamushi-pedal-new-generation",
+        "4": "yowamushi-pedal-glory-line",
+        "5": "yowamushi-pedal-limit-break"
+      }
+    },
+    "tioanime": {
+      "temporadas": {
+        "1": "yowamushi-pedal",
+        "2": "yowamushi-pedal-grande-road",
+        "3": "yowamushi-pedal-new-generation",
+        "4": "yowamushi-pedal-glory-line",
+        "5": "yowamushi-pedal-limit-break"
+      }
+    }
+  }
+}

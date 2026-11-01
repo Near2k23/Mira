@@ -1,0 +1,13 @@
+{
+  "tmdb": 208730,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Romantic Killer",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "romantic-killer"
+      }
+    }
+  }
+}
