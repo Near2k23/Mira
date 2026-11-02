@@ -14,10 +14,12 @@
     },
     "tioanime": {
       "temporadas": {
+        "1": "haikyuu",
         "2": "haikyuu-second-season",
         "3": "haikyuu-third-season",
         "4": "haikyuu-to-the-top"
       }
     }
-  }
+  },
+  "nota": "tioanime haikyuu: 26 cap. vs 25 en TMDB T1; revisar."
 }

@@ -1,0 +1,13 @@
+{
+  "tmdb": 60826,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dai-Shogun: Great Revolution",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fuuun-ishin-dai-shougun"
+      }
+    }
+  }
+}

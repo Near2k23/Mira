@@ -1,0 +1,15 @@
+{
+  "tmdb": 62741,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Soy una Diosa ¿Y ahora qué?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamisama-hajimemashita",
+        "2": "kamisama-hajimemashita-2"
+      }
+    }
+  },
+  "nota": "tioanime kamisama-hajimemashita: 14 cap. vs 13 en TMDB T1; revisar."
+}

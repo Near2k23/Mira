@@ -1,0 +1,14 @@
+{
+  "tmdb": 63627,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "わかば＊ガール",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wakaba-girl"
+      }
+    }
+  },
+  "nota": "tioanime wakaba-girl: 14 cap. vs 13 en TMDB T1; revisar."
+}

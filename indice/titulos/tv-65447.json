@@ -1,0 +1,13 @@
+{
+  "tmdb": 65447,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rainbow: Nisha Rokubou no Shichinin",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rainbow-nisha-rokubou-no-shichinin"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 66120,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "NORN9 ノルン+ノネット",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "norn-9-norn-plus-nonet"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 63525,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "超次元ゲイム ネプテューヌ The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "choujigen-game-neptune-animation"
+      }
+    }
+  },
+  "nota": "tioanime choujigen-game-neptune-animation: 14 cap. vs 12 en TMDB T1; revisar."
+}

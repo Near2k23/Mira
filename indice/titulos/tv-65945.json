@@ -1,0 +1,13 @@
+{
+  "tmdb": 65945,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kabaneri of the Iron Fortress",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koutetsujou-no-kabaneri"
+      }
+    }
+  }
+}

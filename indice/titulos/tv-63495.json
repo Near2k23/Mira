@@ -1,0 +1,13 @@
+{
+  "tmdb": 63495,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "がっこうぐらし!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gakkou-gurashi"
+      }
+    }
+  }
+}

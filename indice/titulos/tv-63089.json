@@ -1,0 +1,13 @@
+{
+  "tmdb": 63089,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ケイオスドラゴン 赤竜戦役",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chaos-dragon-sekiryuu-seneki"
+      }
+    }
+  }
+}

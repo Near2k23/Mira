@@ -1,0 +1,13 @@
+{
+  "tmdb": 66110,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "パンでPeace！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "pan-de-peace"
+      }
+    }
+  }
+}

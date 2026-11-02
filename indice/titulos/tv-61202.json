@@ -1,0 +1,13 @@
+{
+  "tmdb": 61202,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "東京ESP",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tokyo-esp"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 62283,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "電波教師",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "denpa-kyoushi-tv"
+      }
+    }
+  }
+}

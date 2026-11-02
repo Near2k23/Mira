@@ -1,0 +1,13 @@
+{
+  "tmdb": 66856,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Locodol",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futsuu-no-joshikousei-ga-yatte-mita"
+      }
+    }
+  }
+}

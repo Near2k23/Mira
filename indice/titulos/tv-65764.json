@@ -1,0 +1,13 @@
+{
+  "tmdb": 65764,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Absolute Duo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "absolute-duo"
+      }
+    }
+  }
+}

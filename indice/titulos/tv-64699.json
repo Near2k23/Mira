@@ -1,0 +1,13 @@
+{
+  "tmdb": 64699,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "櫻子さんの足下には死体が埋まっている",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru"
+      }
+    }
+  }
+}

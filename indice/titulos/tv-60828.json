@@ -1,0 +1,13 @@
+{
+  "tmdb": 60828,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kamigami no Asobi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamigami-no-asobi"
+      }
+    }
+  }
+}

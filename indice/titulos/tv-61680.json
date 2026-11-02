@@ -1,0 +1,13 @@
+{
+  "tmdb": 61680,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ウィザード・バリスターズ～弁魔士セシル",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wizard-barristers-benmashi-cecil"
+      }
+    }
+  }
+}

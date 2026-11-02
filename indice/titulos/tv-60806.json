@@ -1,0 +1,13 @@
+{
+  "tmdb": 60806,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "キャプテン・アース",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "captain-earth"
+      }
+    }
+  }
+}

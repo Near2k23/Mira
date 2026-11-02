@@ -1,0 +1,13 @@
+{
+  "tmdb": 66926,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Valkyrie Drive -Mermaid-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "valkyrie-drive-mermaid"
+      }
+    }
+  }
+}

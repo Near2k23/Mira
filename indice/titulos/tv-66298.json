@@ -1,0 +1,13 @@
+{
+  "tmdb": 66298,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wagamama High Spec",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wagamama-high-spec"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 65713,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aokana: Four Rhythm Across the Blue",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ao-no-kanata-no-four-rhythm"
+      }
+    }
+  }
+}

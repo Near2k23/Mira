@@ -1,0 +1,13 @@
+{
+  "tmdb": 61407,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Denki-gai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "denki-gai-no-honya-san"
+      }
+    }
+  }
+}

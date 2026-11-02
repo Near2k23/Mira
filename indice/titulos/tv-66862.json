@@ -1,0 +1,14 @@
+{
+  "tmdb": 66862,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shouwa Genroku Rakugo Shinju",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shouwa-genroku-rakugo-shinjuu",
+        "2": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi"
+      }
+    }
+  }
+}

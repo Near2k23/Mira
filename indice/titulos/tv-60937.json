@@ -1,0 +1,13 @@
+{
+  "tmdb": 60937,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Eve no Jikan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "eve-no-jikan"
+      }
+    }
+  }
+}

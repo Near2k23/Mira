@@ -1,0 +1,13 @@
+{
+  "tmdb": 65951,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Lost Village",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mayoiga"
+      }
+    }
+  }
+}

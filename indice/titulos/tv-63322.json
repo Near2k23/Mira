@@ -1,0 +1,16 @@
+{
+  "tmdb": 63322,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Senki Zesshou Symphogear",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "senki-zesshou-symphogear-g",
+        "3": "senki-zesshou-symphogear-gx",
+        "4": "senki-zesshou-symphogear-axz",
+        "5": "senki-zesshou-symphogear-xv"
+      }
+    }
+  }
+}

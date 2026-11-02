@@ -1,0 +1,13 @@
+{
+  "tmdb": 60868,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Walkure Romanze",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "walkure-romanze"
+      }
+    }
+  }
+}

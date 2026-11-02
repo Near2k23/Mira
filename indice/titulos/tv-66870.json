@@ -1,0 +1,14 @@
+{
+  "tmdb": 66870,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magi: Las Aventuras de Sinbad",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magi-sinbad-no-bouken-tv"
+      }
+    }
+  },
+  "nota": "tioanime magi-sinbad-no-bouken-tv: 12 cap. vs 13 en TMDB T1; revisar."
+}

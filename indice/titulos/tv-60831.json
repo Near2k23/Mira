@@ -1,0 +1,14 @@
+{
+  "tmdb": 60831,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Knights of Sidonia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sidonia-no-kishi",
+        "2": "sidonia-no-kishi-daikyuu-wakusei-seneki"
+      }
+    }
+  }
+}

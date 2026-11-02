@@ -1,0 +1,14 @@
+{
+  "tmdb": 65614,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Witch Craft Works",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "witch-craft-works"
+      }
+    }
+  },
+  "nota": "tioanime witch-craft-works: 13 cap. vs 12 en TMDB T1; revisar."
+}

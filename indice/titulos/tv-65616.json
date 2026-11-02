@@ -1,0 +1,13 @@
+{
+  "tmdb": 65616,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ノブナガ・ザ・フール",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nobunaga-the-fool"
+      }
+    }
+  }
+}

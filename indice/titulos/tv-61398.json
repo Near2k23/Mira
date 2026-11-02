@@ -1,0 +1,14 @@
+{
+  "tmdb": 61398,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Terra Formars",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "terra-formers",
+        "2": "terra-formars-revenge"
+      }
+    }
+  }
+}

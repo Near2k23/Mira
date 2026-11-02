@@ -1,0 +1,13 @@
+{
+  "tmdb": 67019,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "オズマフィア",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ozmafia"
+      }
+    }
+  }
+}

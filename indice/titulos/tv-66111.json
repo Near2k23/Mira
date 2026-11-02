@@ -1,0 +1,14 @@
+{
+  "tmdb": 66111,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "マクロスΔ（デルタ）",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "macross-delta"
+      }
+    }
+  },
+  "nota": "tioanime macross-delta: 27 cap. vs 26 en TMDB T1; revisar."
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 61434,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "怪盗ジョーカー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaitou-joker",
+        "2": "kaitou-joker-2",
+        "3": "kaitou-joker-4th-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 61529,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "鬼灯の冷徹",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hoozuki-no-reitetsu",
+        "2": "hoozuki-no-reitetsu-2nd-season"
+      }
+    }
+  }
+}

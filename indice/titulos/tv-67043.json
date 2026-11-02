@@ -1,0 +1,14 @@
+{
+  "tmdb": 67043,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "91 Days",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "91-days"
+      }
+    }
+  },
+  "nota": "tioanime 91-days: 13 cap. vs 12 en TMDB T1; revisar."
+}

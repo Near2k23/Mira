@@ -1,0 +1,13 @@
+{
+  "tmdb": 65954,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Alderamin on the Sky",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nejimaki-seirei-senki-tenkyou-no-alderamin"
+      }
+    }
+  }
+}

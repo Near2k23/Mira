@@ -1,0 +1,15 @@
+{
+  "tmdb": 60843,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gochūmon wa Usagi Desu ka?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gochuumon-wa-usagi-desu-ka",
+        "2": "gochuumon-wa-usagi-desu-ka-2",
+        "3": "gochuumon-wa-usagi-desu-ka-bloom"
+      }
+    }
+  }
+}

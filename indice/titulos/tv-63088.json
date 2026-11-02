@@ -1,0 +1,13 @@
+{
+  "tmdb": 63088,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aoharu x Kikanjuu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aoharu-x-kikanjuu"
+      }
+    }
+  }
+}

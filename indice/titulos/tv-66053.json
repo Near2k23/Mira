@@ -1,0 +1,14 @@
+{
+  "tmdb": 66053,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Berserk",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "berserk-2016",
+        "2": "berserk-2017"
+      }
+    }
+  }
+}

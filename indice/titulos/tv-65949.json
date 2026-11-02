@@ -1,0 +1,13 @@
+{
+  "tmdb": 65949,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Joker Game",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "joker-game"
+      }
+    }
+  }
+}

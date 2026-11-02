@@ -1,0 +1,13 @@
+{
+  "tmdb": 60871,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ソウルイーターノット！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soul-eater-not"
+      }
+    }
+  }
+}

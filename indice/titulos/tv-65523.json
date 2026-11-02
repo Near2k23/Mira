@@ -1,0 +1,14 @@
+{
+  "tmdb": 65523,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dagashi Kashi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dagashi-kashi",
+        "2": "dagashi-kashi-2"
+      }
+    }
+  }
+}

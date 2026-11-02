@@ -1,0 +1,13 @@
+{
+  "tmdb": 66229,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ゼクス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zx-ignition"
+      }
+    }
+  }
+}

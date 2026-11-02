@@ -1,0 +1,13 @@
+{
+  "tmdb": 65955,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kono Bijutsubu ni wa Mondai ga Aru!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kono-bijutsubu-ni-wa-mondai-ga-aru"
+      }
+    }
+  }
+}

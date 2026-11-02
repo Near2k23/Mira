@@ -1,0 +1,14 @@
+{
+  "tmdb": 60835,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kanojo ga Flag wo Oraretara",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kanojo-ga-flag-wo-oraretara"
+      }
+    }
+  },
+  "nota": "tioanime kanojo-ga-flag-wo-oraretara: 15 cap. vs 13 en TMDB T1; revisar."
+}

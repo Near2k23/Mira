@@ -1,0 +1,13 @@
+{
+  "tmdb": 61485,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Girl Friend BETA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "girlfriend-kari"
+      }
+    }
+  }
+}

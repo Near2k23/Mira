@@ -1,0 +1,14 @@
+{
+  "tmdb": 65036,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SHOW BY ROCK!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "show-by-rock",
+        "2": "show-by-rock-2nd"
+      }
+    }
+  }
+}

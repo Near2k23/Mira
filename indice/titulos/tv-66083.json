@@ -1,0 +1,13 @@
+{
+  "tmdb": 66083,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Joukamachi no Dandelion",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "joukamachi-no-dandelion"
+      }
+    }
+  }
+}

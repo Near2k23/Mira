@@ -1,0 +1,13 @@
+{
+  "tmdb": 66919,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seiken Tsukai no World Break",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seiken-tsukai-no-world-break"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 66112,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "少年メイド",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shounen-maid"
+      }
+    }
+  }
+}

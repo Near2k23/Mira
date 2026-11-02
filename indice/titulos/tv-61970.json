@@ -1,0 +1,13 @@
+{
+  "tmdb": 61970,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ben-To",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ben-to"
+      }
+    }
+  }
+}

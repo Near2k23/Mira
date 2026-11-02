@@ -1,0 +1,13 @@
+{
+  "tmdb": 65774,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "石膏ボーイズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sekkou-boys"
+      }
+    }
+  }
+}

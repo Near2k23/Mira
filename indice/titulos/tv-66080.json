@@ -1,0 +1,13 @@
+{
+  "tmdb": 66080,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kuromukuro",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kuromukuro"
+      }
+    }
+  }
+}

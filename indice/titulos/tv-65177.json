@@ -1,0 +1,13 @@
+{
+  "tmdb": 65177,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ハルチカ ～ハルタとチカは青春する～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "haruchika-haruta-to-chika-wa-seishun-suru"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 60810,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragonar Academy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seikoku-no-dragonar"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 66106,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "三者三葉",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sansha-sanyou"
+      }
+    }
+  }
+}

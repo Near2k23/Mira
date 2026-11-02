@@ -1,0 +1,13 @@
+{
+  "tmdb": 66113,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Anne-Happy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "anne-happyo"
+      }
+    }
+  }
+}

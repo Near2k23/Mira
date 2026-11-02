@@ -1,0 +1,13 @@
+{
+  "tmdb": 66993,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Makura no Danshi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "makura-no-danshi"
+      }
+    }
+  }
+}

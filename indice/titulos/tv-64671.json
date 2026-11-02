@@ -1,0 +1,14 @@
+{
+  "tmdb": 64671,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gakusen Toshi Asterisk",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gakusen-toshi-asterisk",
+        "2": "gakusen-toshi-asterisk-2nd-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 65944,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sakamoto desu ga?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakamoto-desu-ga"
+      }
+    }
+  },
+  "nota": "tioanime sakamoto-desu-ga: 13 cap. vs 12 en TMDB T1; revisar."
+}

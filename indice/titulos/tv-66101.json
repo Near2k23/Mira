@@ -1,0 +1,14 @@
+{
+  "tmdb": 66101,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rewrite",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rewrite",
+        "2": "rewrite-moon-and-terra"
+      }
+    }
+  }
+}

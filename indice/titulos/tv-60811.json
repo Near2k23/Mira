@@ -1,0 +1,13 @@
+{
+  "tmdb": 60811,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ping Pong The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ping-pong-the-animation"
+      }
+    }
+  }
+}

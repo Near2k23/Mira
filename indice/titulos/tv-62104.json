@@ -14,10 +14,12 @@
     },
     "tioanime": {
       "temporadas": {
+        "1": "nanatsu-no-taizai",
         "2": "nanatsu-no-taizai-imashime-no-fukkatsu",
         "3": "nanatsu-no-taizai-kamigami-no-gekirin",
         "4": "nanatsu-no-taizai-fundo-no-shinpan"
       }
     }
-  }
+  },
+  "nota": "tioanime nanatsu-no-taizai: 26 cap. vs 24 en TMDB T1; revisar."
 }

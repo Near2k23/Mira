@@ -1,0 +1,13 @@
+{
+  "tmdb": 65980,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "プリンス・オブ・ストライド オルタナティブ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "prince-of-stride-alternative"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 61433,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "No entiendo lo que dice mi esposo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "danna-ga-nani-wo-itteiru-ka-wakaranai-ken",
+        "2": "danna-ga-nani-wo-itteiru-ka-wakaranai-ken-2-sure-me"
+      }
+    }
+  }
+}

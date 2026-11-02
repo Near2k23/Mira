@@ -1,0 +1,13 @@
+{
+  "tmdb": 61438,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "DRAMAtical Murder",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dramatical-murder"
+      }
+    }
+  }
+}

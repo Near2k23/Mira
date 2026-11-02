@@ -1,0 +1,13 @@
+{
+  "tmdb": 66958,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Orange",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "orange"
+      }
+    }
+  }
+}

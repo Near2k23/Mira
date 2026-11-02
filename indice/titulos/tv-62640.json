@@ -1,0 +1,14 @@
+{
+  "tmdb": 62640,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nisekoi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "nisekoi-2"
+      }
+    }
+  },
+  "nota": "tioanime nisekoi-2: 13 cap. vs 12 en TMDB T2; revisar."
+}

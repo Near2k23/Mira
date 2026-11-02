@@ -1,0 +1,13 @@
+{
+  "tmdb": 65957,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Battery, la animación",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "battery"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 66107,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "宇宙パトロールルル子",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uchuu-patrol-luluco"
+      }
+    }
+  }
+}

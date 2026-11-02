@@ -1,0 +1,13 @@
+{
+  "tmdb": 62911,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nobunaga Concerto",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nobunaga-concerto"
+      }
+    }
+  }
+}

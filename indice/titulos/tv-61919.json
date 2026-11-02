@@ -1,0 +1,13 @@
+{
+  "tmdb": 61919,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "夜ノヤッターマン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yoru-no-yatterman"
+      }
+    }
+  }
+}

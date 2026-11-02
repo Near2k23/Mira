@@ -1,0 +1,14 @@
+{
+  "tmdb": 63463,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "THE iDOLM@STER",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-idolmster"
+      }
+    }
+  },
+  "nota": "tioanime the-idolmster: 26 cap. vs 25 en TMDB T1; revisar."
+}

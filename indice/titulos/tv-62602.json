@@ -1,0 +1,14 @@
+{
+  "tmdb": 62602,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ao Haru Ride",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ao-haru-ride"
+      }
+    }
+  },
+  "nota": "tioanime ao-haru-ride: 14 cap. vs 12 en TMDB T1; revisar."
+}

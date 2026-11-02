@@ -1,0 +1,13 @@
+{
+  "tmdb": 67049,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "JK-MESHI!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jk-meshi"
+      }
+    }
+  }
+}

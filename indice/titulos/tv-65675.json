@@ -1,0 +1,13 @@
+{
+  "tmdb": 65675,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "カーニヴァル",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "karneval-tv"
+      }
+    }
+  }
+}

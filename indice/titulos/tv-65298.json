@@ -1,0 +1,13 @@
+{
+  "tmdb": 65298,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "おじさんとマシュマロ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ojisan-to-marshmallow"
+      }
+    }
+  }
+}

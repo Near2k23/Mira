@@ -1,0 +1,13 @@
+{
+  "tmdb": 66863,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mujin Fafnir",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "juuou-mujin-no-fafnir"
+      }
+    }
+  }
+}

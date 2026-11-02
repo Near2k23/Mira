@@ -1,0 +1,14 @@
+{
+  "tmdb": 60805,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gokukoku no Brynhildr",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gokukoku-no-brynhildr"
+      }
+    }
+  },
+  "nota": "tioanime gokukoku-no-brynhildr: 14 cap. vs 13 en TMDB T1; revisar."
+}

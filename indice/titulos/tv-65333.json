@@ -1,0 +1,14 @@
+{
+  "tmdb": 65333,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Myriad Colors Phantom World",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "musaigen-no-phantom-world"
+      }
+    }
+  },
+  "nota": "tioanime musaigen-no-phantom-world: 14 cap. vs 13 en TMDB T1; revisar."
+}

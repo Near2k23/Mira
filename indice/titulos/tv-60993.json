@@ -1,0 +1,13 @@
+{
+  "tmdb": 60993,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "人生相談テレビアニメーション「人生」",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jinsei"
+      }
+    }
+  }
+}

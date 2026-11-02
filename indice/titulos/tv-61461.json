@@ -1,0 +1,13 @@
+{
+  "tmdb": 61461,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akatsuki no Yona",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akatsuki-no-yona"
+      }
+    }
+  }
+}

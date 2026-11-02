@@ -1,0 +1,13 @@
+{
+  "tmdb": 61425,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cross Ange: Tenshi to Ryuu no Rondo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cross-ange-tenshi-to-ryuu-no-rondo"
+      }
+    }
+  }
+}

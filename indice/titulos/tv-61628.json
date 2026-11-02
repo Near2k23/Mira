@@ -1,0 +1,17 @@
+{
+  "tmdb": 61628,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "World Trigger",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "world-trigger",
+        "3": "world-trigger-3rd-season"
+      },
+      "desfase": {
+        "3": 64
+      }
+    }
+  }
+}

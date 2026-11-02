@@ -1,0 +1,14 @@
+{
+  "tmdb": 60845,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "悪魔のリドル",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akuma-no-riddle"
+      }
+    }
+  },
+  "nota": "tioanime akuma-no-riddle: 14 cap. vs 12 en TMDB T1; revisar."
+}

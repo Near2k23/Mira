@@ -1,0 +1,14 @@
+{
+  "tmdb": 65329,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hyouka",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hyouka"
+      }
+    }
+  },
+  "nota": "tioanime hyouka: 23 cap. vs 22 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 62327,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Blood Blockade Battlefront",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "kekkai-sensen-beyond"
+      }
+    }
+  },
+  "nota": "tioanime kekkai-sensen-beyond: 13 cap. vs 12 en TMDB T2; revisar."
+}

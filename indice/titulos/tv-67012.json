@@ -1,0 +1,15 @@
+{
+  "tmdb": 67012,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "NEW GAME!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "new-game",
+        "2": "new-game2"
+      }
+    }
+  },
+  "nota": "tioanime new-game: 13 cap. vs 12 en TMDB T1; revisar."
+}

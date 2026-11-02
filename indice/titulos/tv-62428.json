@@ -1,0 +1,13 @@
+{
+  "tmdb": 62428,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Los Caballeros del Zodiaco: Alma de Oro",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saint-seiya-soul-of-gold"
+      }
+    }
+  }
+}

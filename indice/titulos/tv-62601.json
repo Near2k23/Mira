@@ -1,0 +1,15 @@
+{
+  "tmdb": 62601,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kyoukai no Rinne",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kyoukai-no-rinne-tv",
+        "2": "kyoukai-no-rinne-tv-2",
+        "3": "kyoukai-no-rinne-tv-3rd-season"
+      }
+    }
+  }
+}

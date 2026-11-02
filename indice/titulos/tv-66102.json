@@ -1,0 +1,13 @@
+{
+  "tmdb": 66102,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cerberus",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seisen-cerberus-ryuukoku-no-fatalite"
+      }
+    }
+  }
+}

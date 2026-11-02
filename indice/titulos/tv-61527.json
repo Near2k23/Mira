@@ -1,0 +1,14 @@
+{
+  "tmdb": 61527,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gatchaman Crowds",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gatchaman-crowds",
+        "2": "gatchaman-crowds-insight"
+      }
+    }
+  }
+}

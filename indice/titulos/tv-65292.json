@@ -1,0 +1,13 @@
+{
+  "tmdb": 65292,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ajin",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ajin-2nd-season"
+      }
+    }
+  }
+}

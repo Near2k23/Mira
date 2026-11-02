@@ -1,0 +1,13 @@
+{
+  "tmdb": 65439,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Big Order",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "big-order-tv"
+      }
+    }
+  }
+}

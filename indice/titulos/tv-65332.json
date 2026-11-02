@@ -1,0 +1,13 @@
+{
+  "tmdb": 65332,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Amagi Brilliant Park",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "amagi-brilliant-park"
+      }
+    }
+  }
+}

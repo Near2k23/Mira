@@ -1,0 +1,14 @@
+{
+  "tmdb": 66115,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KAGEWANI",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kagewani",
+        "2": "kagewani-shou"
+      }
+    }
+  }
+}

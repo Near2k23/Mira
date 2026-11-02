@@ -1,0 +1,13 @@
+{
+  "tmdb": 64831,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ISUCA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "isuca"
+      }
+    }
+  }
+}

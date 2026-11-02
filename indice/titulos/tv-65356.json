@@ -1,0 +1,14 @@
+{
+  "tmdb": 65356,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ground Control to Psychoelectric Girl",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "denpa-onna-to-seishun-otoko"
+      }
+    }
+  },
+  "nota": "tioanime denpa-onna-to-seishun-otoko: 13 cap. vs 12 en TMDB T1; revisar."
+}

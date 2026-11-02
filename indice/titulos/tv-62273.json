@@ -12,8 +12,12 @@
     },
     "tioanime": {
       "temporadas": {
-        "2": "shokugeki-no-souma-ni-no-sara"
+        "1": "shokugeki-no-souma",
+        "2": "shokugeki-no-souma-ni-no-sara",
+        "4": "shokugeki-no-souma-shin-no-sara",
+        "5": "shokugeki-no-souma-gou-no-sara"
       }
     }
-  }
+  },
+  "nota": "tioanime shokugeki-no-souma: 25 cap. vs 24 en TMDB T1; revisar."
 }

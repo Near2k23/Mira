@@ -1,0 +1,13 @@
+{
+  "tmdb": 61379,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Monthly Girls' Nozaki Kun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gekkan-shoujo-nozaki-kun"
+      }
+    }
+  }
+}

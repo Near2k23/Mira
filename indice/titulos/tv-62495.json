@@ -1,0 +1,17 @@
+{
+  "tmdb": 62495,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ronja, la hija del bandolero",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sanzoku-no-musume-ronja"
+      },
+      "desfase": {
+        "1": 1
+      }
+    }
+  },
+  "nota": "tioanime sanzoku-no-musume-ronja: 25 cap. vs 26 en TMDB T1; revisar."
+}

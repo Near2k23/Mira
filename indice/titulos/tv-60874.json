@@ -1,0 +1,13 @@
+{
+  "tmdb": 60874,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スペース☆ダンディ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "space-dandy-2"
+      }
+    }
+  }
+}

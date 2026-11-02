@@ -1,0 +1,13 @@
+{
+  "tmdb": 62715,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dragon Ball Super",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dragon-ball-super"
+      }
+    }
+  }
+}

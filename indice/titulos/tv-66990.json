@@ -1,0 +1,13 @@
+{
+  "tmdb": 66990,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "甘々と稲妻",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "amaama-to-inazuma"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 61389,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Los Guerreros del Zodiaco: El Lienzo Perdido",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saint-seiya-the-lost-canvas"
+      }
+    }
+  }
+}

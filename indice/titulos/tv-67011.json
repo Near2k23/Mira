@@ -1,0 +1,13 @@
+{
+  "tmdb": 67011,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hybrid x Heart Magias Academy Ataraxia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "masou-gakuen-hxh"
+      }
+    }
+  }
+}

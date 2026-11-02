@@ -13,9 +13,11 @@
     },
     "tioanime": {
       "temporadas": {
+        "1": "mob-psycho-100",
         "2": "mob-psycho-100-ii",
         "3": "mob-psycho-100-iii"
       }
     }
-  }
+  },
+  "nota": "tioanime mob-psycho-100: 13 cap. vs 12 en TMDB T1; revisar."
 }

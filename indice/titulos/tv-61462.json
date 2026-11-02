@@ -1,0 +1,13 @@
+{
+  "tmdb": 61462,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "桜Trick",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakura-trick"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 61421,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Terror in Resonance",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zankyou-no-terror"
+      }
+    }
+  }
+}

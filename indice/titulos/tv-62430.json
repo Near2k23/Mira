@@ -1,0 +1,14 @@
+{
+  "tmdb": 62430,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Arslan Senki",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "arslan-senki-tv",
+        "2": "arslan-senki-tv-fuujin-ranbu"
+      }
+    }
+  }
+}

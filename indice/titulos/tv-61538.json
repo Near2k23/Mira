@@ -1,0 +1,13 @@
+{
+  "tmdb": 61538,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wonder Momo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wonder-momo"
+      }
+    }
+  }
+}

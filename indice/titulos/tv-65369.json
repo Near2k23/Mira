@@ -1,0 +1,14 @@
+{
+  "tmdb": 65369,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Grimgar of Fantasy and Ash",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hai-to-gensou-no-grimgar"
+      }
+    }
+  },
+  "nota": "tioanime hai-to-gensou-no-grimgar: 13 cap. vs 12 en TMDB T1; revisar."
+}

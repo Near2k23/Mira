@@ -1,0 +1,15 @@
+{
+  "tmdb": 61415,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fate/stay night [Unlimited Blade Works]",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fate-stay-night-unlimited-blade-works",
+        "2": "fate-stay-night-unlimited-blade-works-2"
+      }
+    }
+  },
+  "nota": "tioanime fate-stay-night-unlimited-blade-works: 13 cap. vs 12 en TMDB T1; revisar."
+}

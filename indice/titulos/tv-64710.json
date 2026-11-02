@@ -1,0 +1,14 @@
+{
+  "tmdb": 64710,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Noragami",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "noragami",
+        "2": "noragami-aragoto"
+      }
+    }
+  }
+}

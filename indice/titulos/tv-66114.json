@@ -1,0 +1,13 @@
+{
+  "tmdb": 66114,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "鬼斬",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "onigiri"
+      }
+    }
+  }
+}

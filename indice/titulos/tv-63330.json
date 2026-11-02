@@ -1,0 +1,15 @@
+{
+  "tmdb": 63330,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Okusama ga Seitokaichou!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "okusama-ga-seito-kaichou",
+        "2": "okusama-ga-seitokaichou"
+      }
+    }
+  },
+  "nota": "tioanime okusama-ga-seito-kaichou: 13 cap. vs 12 en TMDB T1; revisar."
+}

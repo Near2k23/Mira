@@ -1,0 +1,13 @@
+{
+  "tmdb": 61435,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "オレん家のフロ事情",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "orenchi-no-furo-jijou"
+      }
+    }
+  }
+}

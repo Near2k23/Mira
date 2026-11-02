@@ -1,0 +1,13 @@
+{
+  "tmdb": 61465,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Persona4 The Golden ANIMATION",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "persona-4-the-golden-animation"
+      }
+    }
+  }
+}

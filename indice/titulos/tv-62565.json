@@ -1,0 +1,13 @@
+{
+  "tmdb": 62565,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ore Monogatari!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ore-monogatari"
+      }
+    }
+  }
+}

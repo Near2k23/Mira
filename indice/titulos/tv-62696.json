@@ -1,0 +1,13 @@
+{
+  "tmdb": 62696,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "onii-chan-dakedo"
+      }
+    }
+  }
+}

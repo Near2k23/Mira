@@ -1,0 +1,13 @@
+{
+  "tmdb": 61414,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ガンダム Gのレコンギスタ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gundam-g-no-reconguista"
+      }
+    }
+  }
+}

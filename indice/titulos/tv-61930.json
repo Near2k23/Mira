@@ -1,0 +1,15 @@
+{
+  "tmdb": 61930,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Binan Koukou Chikyuu Bouei-bu LOVE!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "binan-koukou-chikyuu-bouei-bu-love",
+        "2": "binan-koukou-chikyuu-bouei-bu-love-love",
+        "3": "binan-koukou-chikyuu-boueibu-happy-kiss"
+      }
+    }
+  }
+}

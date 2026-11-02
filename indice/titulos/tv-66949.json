@@ -1,0 +1,13 @@
+{
+  "tmdb": 66949,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "初恋モンスター",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hatsukoi-monster"
+      }
+    }
+  }
+}

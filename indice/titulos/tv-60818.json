@@ -1,0 +1,13 @@
+{
+  "tmdb": 60818,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Soredemo Sekai wa Utsukushii",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soredemo-sekai-wa-utsukushii"
+      }
+    }
+  }
+}

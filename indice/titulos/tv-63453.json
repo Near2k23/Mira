@@ -1,0 +1,13 @@
+{
+  "tmdb": 63453,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "牙狼〈GARO〉-炎の刻印-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "garo-honoo-no-kokuin"
+      }
+    }
+  }
+}

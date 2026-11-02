@@ -1,0 +1,13 @@
+{
+  "tmdb": 60812,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "僕らはみんな河合荘",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bokura-wa-minna-kawaisou"
+      }
+    }
+  }
+}

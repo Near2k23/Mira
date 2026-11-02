@@ -1,0 +1,14 @@
+{
+  "tmdb": 66103,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ace Attorney",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gyakuten-saiban-sono-shinjitsu-igiari",
+        "2": "gyakuten-saiban-sono-shinjitsu-igi-ari-season-2"
+      }
+    }
+  }
+}

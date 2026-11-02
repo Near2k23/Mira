@@ -1,0 +1,13 @@
+{
+  "tmdb": 66077,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "田中くんはいつもけだるげ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tanaka-kun-wa-itsumo-kedaruge"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 64706,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Prison School",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kangoku-gakuen"
+      }
+    }
+  },
+  "nota": "tioanime kangoku-gakuen: 13 cap. vs 12 en TMDB T1; revisar."
+}

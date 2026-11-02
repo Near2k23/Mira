@@ -1,0 +1,14 @@
+{
+  "tmdb": 61339,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sailor Moon Crystal",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bishoujo-senshi-sailor-moon-crystal"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

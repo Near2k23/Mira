@@ -1,0 +1,14 @@
+{
+  "tmdb": 61440,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Strike The Blood",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "strike-the-blood",
+        "4": "strike-the-blood-iv"
+      }
+    }
+  }
+}

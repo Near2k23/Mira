@@ -1,0 +1,13 @@
+{
+  "tmdb": 64163,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shinmai Maou no Testament",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shinmai-maou-no-keiyakusha"
+      }
+    }
+  }
+}

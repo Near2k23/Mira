@@ -1,0 +1,13 @@
+{
+  "tmdb": 66730,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Divine Gate",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gate-jieitai-kanochi-nite-kaku-tatakaeri-enryuu-hen"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 62070,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ghost in the Shell: Arise – Alternative Architecture",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ghost-in-the-shell-arise-alternative-architecture"
+      }
+    }
+  }
+}

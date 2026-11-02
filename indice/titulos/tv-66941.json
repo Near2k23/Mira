@@ -1,0 +1,13 @@
+{
+  "tmdb": 66941,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ReLIFE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "relife"
+      }
+    }
+  }
+}

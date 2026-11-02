@@ -1,0 +1,13 @@
+{
+  "tmdb": 62450,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Plastic Memories",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "plastic-memories"
+      }
+    }
+  }
+}

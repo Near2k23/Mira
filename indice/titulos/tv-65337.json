@@ -1,0 +1,13 @@
+{
+  "tmdb": 65337,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ろんぐらいだぁす！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "long-riders"
+      }
+    }
+  }
+}

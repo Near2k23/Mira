@@ -1,0 +1,13 @@
+{
+  "tmdb": 60733,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nourin",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nourin"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "tmdb": 64139,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "牙狼 –紅蓮ノ月",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "garo-guren-no-tsuki"
+      },
+      "desfase": {
+        "1": 1
+      }
+    }
+  },
+  "nota": "tioanime garo-guren-no-tsuki: 23 cap. vs 24 en TMDB T1; revisar."
+}

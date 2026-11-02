@@ -1,0 +1,14 @@
+{
+  "tmdb": 61530,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Inugami-san to Nekoyama-san",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "inugami-san-to-nekoyama-san"
+      }
+    }
+  },
+  "nota": "tioanime inugami-san-to-nekoyama-san: 13 cap. vs 12 en TMDB T1; revisar."
+}

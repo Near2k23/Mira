@@ -1,0 +1,13 @@
+{
+  "tmdb": 62568,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yamada and the Seven Witches",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yamada-kun-to-7-nin-no-majo-tv"
+      }
+    }
+  }
+}

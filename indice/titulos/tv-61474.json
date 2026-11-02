@@ -1,0 +1,13 @@
+{
+  "tmdb": 61474,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ore, Twintails ni Narimasu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ore-twintails-ni-narimasu"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 65503,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アイカツ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aikatsu-2"
+      }
+    }
+  },
+  "nota": "tioanime aikatsu-2: 51 cap. vs 50 en TMDB T1; revisar."
+}

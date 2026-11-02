@@ -1,0 +1,14 @@
+{
+  "tmdb": 65712,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dimension W",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dimension-w"
+      }
+    }
+  },
+  "nota": "tioanime dimension-w: 13 cap. vs 12 en TMDB T1; revisar."
+}

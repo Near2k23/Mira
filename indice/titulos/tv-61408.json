@@ -1,0 +1,13 @@
+{
+  "tmdb": 61408,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nagi no Asukara",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nagi-no-asukara"
+      }
+    }
+  }
+}

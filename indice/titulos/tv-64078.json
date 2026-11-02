@@ -1,0 +1,13 @@
+{
+  "tmdb": 64078,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lance N' Masques",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lance-n-masques"
+      }
+    }
+  }
+}

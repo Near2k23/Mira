@@ -1,0 +1,16 @@
+{
+  "tmdb": 61456,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Free! Iwatobi Swim Club",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "free",
+        "2": "free-eternal-summer",
+        "3": "free-dive-to-the-future"
+      }
+    }
+  },
+  "nota": "tioanime free-eternal-summer: 14 cap. vs 13 en TMDB T2; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 61742,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Laughing Under the Clouds",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "donten-ni-warau"
+      }
+    }
+  }
+}

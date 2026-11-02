@@ -1,0 +1,13 @@
+{
+  "tmdb": 65952,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El gran pasaje",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fune-wo-amu"
+      }
+    }
+  }
+}

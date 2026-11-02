@@ -1,0 +1,13 @@
+{
+  "tmdb": 65934,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Flying Witch",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "flying-witch"
+      }
+    }
+  }
+}

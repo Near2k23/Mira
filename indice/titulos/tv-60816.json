@@ -1,0 +1,13 @@
+{
+  "tmdb": 60816,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Selector Infected Wixoss",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "selector-spread-wixoss"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 65711,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KanColle: Kantai Collection",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kantai-collection-kancolle"
+      }
+    }
+  }
+}

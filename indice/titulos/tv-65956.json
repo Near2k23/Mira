@@ -1,0 +1,14 @@
+{
+  "tmdb": 65956,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Morose Mononokean",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fukigen-na-mononokean",
+        "2": "fukigen-na-mononokean-tsuzuki"
+      }
+    }
+  }
+}

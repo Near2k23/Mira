@@ -1,0 +1,15 @@
+{
+  "tmdb": 66991,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tales of Zestiria the X",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tales-of-zestiria-the-x",
+        "2": "tales-of-zestiria-the-x-2017"
+      }
+    }
+  },
+  "nota": "tioanime tales-of-zestiria-the-x: 13 cap. vs 12 en TMDB T1; revisar."
+}

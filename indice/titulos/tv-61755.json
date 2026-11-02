@@ -1,0 +1,14 @@
+{
+  "tmdb": 61755,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "watamote"
+      }
+    }
+  },
+  "nota": "tioanime watamote: 13 cap. vs 12 en TMDB T1; revisar."
+}

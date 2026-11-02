@@ -1,0 +1,13 @@
+{
+  "tmdb": 65816,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saijaku Muhai no Bahamut",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saijaku-muhai-no-bahamut"
+      }
+    }
+  }
+}

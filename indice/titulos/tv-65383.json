@@ -1,0 +1,14 @@
+{
+  "tmdb": 65383,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Love Live! Sunshine!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "love-live-sunshine",
+        "2": "love-live-sunshine-2nd-season"
+      }
+    }
+  }
+}

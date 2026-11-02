@@ -1,0 +1,14 @@
+{
+  "tmdb": 66104,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SUPER LOVERS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "super-lovers",
+        "2": "super-lovers-2"
+      }
+    }
+  }
+}

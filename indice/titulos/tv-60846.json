@@ -1,0 +1,15 @@
+{
+  "tmdb": 60846,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Log Horizon",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "log-horizon",
+        "2": "log-horizon-2",
+        "3": "log-horizon-entaku-houkai"
+      }
+    }
+  }
+}

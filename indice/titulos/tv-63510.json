@@ -1,0 +1,13 @@
+{
+  "tmdb": 63510,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ataque A Los Titanes: Junior High",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shingeki-kyojin-chuugakkou"
+      }
+    }
+  }
+}

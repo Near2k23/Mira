@@ -1,0 +1,13 @@
+{
+  "tmdb": 66105,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "High School Fleet",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "haifuri"
+      }
+    }
+  }
+}

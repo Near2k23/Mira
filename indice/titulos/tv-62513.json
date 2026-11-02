@@ -1,0 +1,13 @@
+{
+  "tmdb": 62513,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ヴァンパイアホームズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vampire-holmes"
+      }
+    }
+  }
+}

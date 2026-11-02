@@ -1,0 +1,13 @@
+{
+  "tmdb": 65602,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "恋愛ラボ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "love-lab"
+      }
+    }
+  }
+}

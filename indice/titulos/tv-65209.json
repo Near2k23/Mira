@@ -1,0 +1,13 @@
+{
+  "tmdb": 65209,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Phantasy Star Online 2 The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "phantasy-star-online-2-the-animation"
+      }
+    }
+  }
+}

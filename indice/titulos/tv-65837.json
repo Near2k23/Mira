@@ -1,0 +1,13 @@
+{
+  "tmdb": 65837,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Schwarzesmarken",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "schwarzesmarken"
+      }
+    }
+  }
+}

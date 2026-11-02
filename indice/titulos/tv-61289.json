@@ -1,0 +1,13 @@
+{
+  "tmdb": 61289,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aoi Bungaku Series",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aoi-bungaku-series"
+      }
+    }
+  }
+}

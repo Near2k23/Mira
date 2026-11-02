@@ -1,0 +1,13 @@
+{
+  "tmdb": 64754,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kowabon",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kowabon"
+      }
+    }
+  }
+}

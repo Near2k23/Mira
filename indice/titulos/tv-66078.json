@@ -1,0 +1,13 @@
+{
+  "tmdb": 66078,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Twin Star Exorcists",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sousei-no-onmyouji"
+      }
+    }
+  }
+}

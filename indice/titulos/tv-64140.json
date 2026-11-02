@@ -1,0 +1,13 @@
+{
+  "tmdb": 64140,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ヘヴィーオブジェクト",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "heavy-object"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 66875,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Non Non Biyori",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "non-non-biyori",
+        "2": "non-non-biyori-repeat",
+        "3": "non-non-biyori-nonstop"
+      }
+    }
+  }
+}

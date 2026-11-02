@@ -1,0 +1,13 @@
+{
+  "tmdb": 66716,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "天体のメソッド",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sora-no-method"
+      }
+    }
+  }
+}

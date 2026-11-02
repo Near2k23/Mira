@@ -1,0 +1,13 @@
+{
+  "tmdb": 61337,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔術士オーフェン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "majutsushi-orphen"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 60832,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nanana's Buried Treasure",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ryuugajou-nanana-no-maizoukin"
+      }
+    }
+  },
+  "nota": "tioanime ryuugajou-nanana-no-maizoukin: 12 cap. vs 11 en TMDB T1; revisar."
+}

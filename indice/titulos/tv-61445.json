@@ -1,0 +1,15 @@
+{
+  "tmdb": 61445,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rage of Bahamut",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shingeki-no-bahamut-genesis",
+        "2": "shingeki-no-bahamut-virgin-soul"
+      }
+    }
+  },
+  "nota": "tioanime shingeki-no-bahamut-genesis: 13 cap. vs 12 en TMDB T1; revisar."
+}

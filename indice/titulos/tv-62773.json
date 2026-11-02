@@ -1,0 +1,13 @@
+{
+  "tmdb": 62773,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "God Eater",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "god-eater"
+      }
+    }
+  }
+}

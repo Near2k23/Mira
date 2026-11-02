@@ -1,0 +1,13 @@
+{
+  "tmdb": 66979,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Days",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "days-tv"
+      }
+    }
+  }
+}

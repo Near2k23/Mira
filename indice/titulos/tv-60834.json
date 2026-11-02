@@ -1,0 +1,13 @@
+{
+  "tmdb": 60834,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Black Bullet",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "black-bullet"
+      }
+    }
+  }
+}

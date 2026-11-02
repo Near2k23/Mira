@@ -1,0 +1,13 @@
+{
+  "tmdb": 61363,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "サムライフラメンコ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "samurai-flamenco"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 60829,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "暴れん坊力士！！松太郎",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "abarenbou-rikishi-matsutarou"
+      }
+    }
+  }
+}

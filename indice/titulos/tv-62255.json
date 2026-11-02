@@ -1,0 +1,13 @@
+{
+  "tmdb": 62255,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Serafín del Fín",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "owari-no-seraph-nagoya-kessen-hen"
+      }
+    }
+  }
+}

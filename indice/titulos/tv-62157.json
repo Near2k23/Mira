@@ -1,0 +1,13 @@
+{
+  "tmdb": 62157,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "純潔のマリア",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "junketsu-no-maria"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 64957,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shirogane no Ishi: Argevollen",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shirogane-no-ishi-argevollen"
+      }
+    }
+  }
+}

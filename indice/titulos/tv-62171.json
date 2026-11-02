@@ -1,0 +1,13 @@
+{
+  "tmdb": 62171,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hagure Yuusha no Estetica",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hagure-yuusha-no-estetica"
+      }
+    }
+  }
+}

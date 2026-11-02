@@ -1,0 +1,13 @@
+{
+  "tmdb": 62227,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Triage X",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "triage-x"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 62323,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gunslinger Stratos: The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gunslinger-stratos-the-animation"
+      }
+    }
+  }
+}

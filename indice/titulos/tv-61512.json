@@ -1,0 +1,15 @@
+{
+  "tmdb": 61512,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Diabolik Lovers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "diabolik-lovers",
+        "2": "diabolik-lovers-more-blood"
+      }
+    }
+  },
+  "nota": "tioanime diabolik-lovers: 14 cap. vs 12 en TMDB T1; revisar."
+}

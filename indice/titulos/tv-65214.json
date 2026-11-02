@@ -1,0 +1,13 @@
+{
+  "tmdb": 65214,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Active Raid",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "active-raid-kidou-kyoushuushitsu-dai-hachi-gakar"
+      }
+    }
+  }
+}

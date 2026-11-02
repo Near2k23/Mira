@@ -1,0 +1,14 @@
+{
+  "tmdb": 65206,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "霊剣山",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "reikenzan-hoshikuzu-tachi-no-utage",
+        "2": "reikenzan-eichi-e-no-shikaku"
+      }
+    }
+  }
+}

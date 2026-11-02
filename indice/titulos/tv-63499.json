@@ -1,0 +1,13 @@
+{
+  "tmdb": 63499,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Classroom☆Crisis",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "classroom-crisis"
+      }
+    }
+  }
+}

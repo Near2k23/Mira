@@ -1,0 +1,13 @@
+{
+  "tmdb": 65933,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "エンドライド",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "endride"
+      }
+    }
+  }
+}

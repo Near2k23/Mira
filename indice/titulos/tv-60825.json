@@ -1,0 +1,13 @@
+{
+  "tmdb": 60825,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hitsugi no Chaika",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hitsugi-no-chaika"
+      }
+    }
+  }
+}

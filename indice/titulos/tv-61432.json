@@ -1,0 +1,13 @@
+{
+  "tmdb": 61432,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "繰繰れ！コックリさん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gugure-kokkuri-san"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 65851,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Daitoshokan no Hitsujikai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "daitoshokan-no-hitsujikai"
+      }
+    }
+  }
+}

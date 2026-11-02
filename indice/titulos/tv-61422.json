@@ -1,0 +1,14 @@
+{
+  "tmdb": 61422,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Le Fruit de la Grisaia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "grisaia-no-kajitsu",
+        "2": "grisaia-no-rakuen"
+      }
+    }
+  }
+}

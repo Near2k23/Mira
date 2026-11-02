@@ -1,0 +1,13 @@
+{
+  "tmdb": 65053,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "幕末Rock",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bakumatsu-rock"
+      }
+    }
+  }
+}
