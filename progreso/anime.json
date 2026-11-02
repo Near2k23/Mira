@@ -772,7 +772,29 @@
   "movie-893712": "nuevo",
   "movie-966709": "nuevo",
   "movie-874743": "nuevo",
-  "movie-874745": "nuevo"
+  "movie-874745": "nuevo",
+  "tv-91997": "nuevo",
+  "tv-99083": "nuevo",
+  "tv-111819": "completado",
+  "tv-113256": "completado",
+  "tv-131365": "completado",
+  "tv-197848": "completado",
+  "tv-205672": "completado",
+  "tv-207784": "completado",
+  "tv-217404": "completado",
+  "tv-222784": "completado",
+  "tv-230059": "completado",
+  "tv-230288": "completado",
+  "tv-230823": "completado",
+  "tv-231677": "nuevo",
+  "tv-232926": "completado",
+  "tv-236144": "completado",
+  "tv-236338": "completado",
+  "tv-236532": "completado",
+  "movie-1062807": "completado",
+  "movie-997086": "nuevo",
+  "movie-1086591": "nuevo",
+  "movie-1071101": "nuevo"
  },
  "saltados": {
   "tv-42509": "T1 (steinsgate): 25 eps en el sitio vs 24 en TMDB",
@@ -910,7 +932,13 @@
   "oemojisangjuui": "no está en TMDB / no ubicado",
   "tonikaku-kawaii-seifuku": "no está en TMDB / no ubicado",
   "yama-no-susume-next-summit": "no está en TMDB / no ubicado",
-  "c-danchi": "no está en TMDB / no ubicado"
+  "c-danchi": "no está en TMDB / no ubicado",
+  "boku-no-hero-academia-ua-heroes-battle": "no está en TMDB",
+  "burn-the-witch-08": "Especial",
+  "xian-wang-de-richang-shenghuo-4": "no está en TMDB / no ubicado",
+  "boku-no-kokoro-no-yabai-yatsu-twi-yaba": "no está en TMDB / no ubicado",
+  "tensei-shitara-slime-datta-ken-coleus-no-yume": "no está en TMDB / no ubicado",
+  "the-idolmster-cinderella-girls-u149-special": "no está en TMDB / no ubicado"
  },
  "notas": [
   "tv-46261",
@@ -921,7 +949,8 @@
   "tv-46195",
   "tv-236385",
   "tv-93816",
-  "tv-197368"
+  "tv-197368",
+  "tv-99083"
  ],
  "paginas": {
   "latest_released 1-2": {
@@ -1043,6 +1072,11 @@
    "agregados": 25,
    "completados": 1,
    "saltados": 10
+  },
+  "latest_released 37-38": {
+   "agregados": 6,
+   "completados": 16,
+   "saltados": 11
   }
  }
 }

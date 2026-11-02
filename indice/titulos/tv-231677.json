@@ -1,0 +1,13 @@
+{
+  "tmdb": 231677,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Good Night World",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "good-night-world"
+      }
+    }
+  }
+}

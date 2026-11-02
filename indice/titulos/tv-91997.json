@@ -1,0 +1,13 @@
+{
+  "tmdb": 91997,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Pluto",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "pluto"
+      }
+    }
+  }
+}
