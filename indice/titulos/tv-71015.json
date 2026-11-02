@@ -1,0 +1,13 @@
+{
+  "tmdb": 71015,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The World YAMIZUKAN",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sekai-no-yami-zukan"
+      }
+    }
+  }
+}

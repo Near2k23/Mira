@@ -1,0 +1,13 @@
+{
+  "tmdb": 67627,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Idol Time Pripara",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "puri-para"
+      }
+    }
+  }
+}

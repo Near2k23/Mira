@@ -1,0 +1,13 @@
+{
+  "tmdb": 74095,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Juni Taisen: Zodiac War",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "juuni-taisen"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 72806,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ストレンジ・プラス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shin-strange-plus"
+      }
+    }
+  }
+}

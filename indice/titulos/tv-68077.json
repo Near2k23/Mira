@@ -1,0 +1,13 @@
+{
+  "tmdb": 68077,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magic-Kyun! Renaissance",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magic-kyun-renaissance"
+      }
+    }
+  }
+}

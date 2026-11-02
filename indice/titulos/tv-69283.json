@@ -1,0 +1,13 @@
+{
+  "tmdb": 69283,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "elDLIVE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "eldlive"
+      }
+    }
+  }
+}

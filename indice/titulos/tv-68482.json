@@ -1,0 +1,15 @@
+{
+  "tmdb": 68482,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "雨色ココア",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ame-iro-cocoa-rainy-color-e-youkoso",
+        "4": "ameiro-cocoa-series-amecon",
+        "5": "ameiro-cocoa-side-g"
+      }
+    }
+  }
+}

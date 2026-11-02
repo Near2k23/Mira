@@ -1,0 +1,13 @@
+{
+  "tmdb": 67154,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rakudai Kishi no Cavalry",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rakudai-kishi-no-cavalry"
+      }
+    }
+  }
+}

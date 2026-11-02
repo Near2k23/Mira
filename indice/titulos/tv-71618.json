@@ -1,0 +1,13 @@
+{
+  "tmdb": 71618,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hidan no Aria AA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hidan-no-aria-aa"
+      }
+    }
+  }
+}

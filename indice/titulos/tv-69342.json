@@ -1,0 +1,13 @@
+{
+  "tmdb": 69342,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seiren",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seiren"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 72425,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Restaurant to Another World",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-shokudou",
+        "2": "isekai-shokudou-2"
+      }
+    }
+  }
+}

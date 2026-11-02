@@ -1,0 +1,14 @@
+{
+  "tmdb": 74163,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Recovery of an MMO Junkie",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "netjuu-no-susume"
+      }
+    }
+  },
+  "nota": "tioanime netjuu-no-susume: 12 cap. vs 10 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 71011,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Love Kome: We Love Rice",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "love-kome-we-love-rice-2nd-season"
+      }
+    }
+  }
+}

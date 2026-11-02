@@ -1,0 +1,13 @@
+{
+  "tmdb": 72028,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Katsugeki: Touken Ranbu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "katsugekitouken-ranbu"
+      }
+    }
+  }
+}

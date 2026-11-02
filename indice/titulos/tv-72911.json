@@ -1,0 +1,13 @@
+{
+  "tmdb": 72911,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gingitsune: Zorro Mensajero de los Dioses",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gingitsune"
+      }
+    }
+  }
+}

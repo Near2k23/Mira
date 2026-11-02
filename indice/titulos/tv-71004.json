@@ -1,0 +1,13 @@
+{
+  "tmdb": 71004,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "覆面系ノイズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fukumenkei-noise"
+      }
+    }
+  }
+}

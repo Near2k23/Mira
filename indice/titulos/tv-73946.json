@@ -1,0 +1,13 @@
+{
+  "tmdb": 73946,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Inuyashiki: Last Hero",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "inuyashiki"
+      }
+    }
+  }
+}

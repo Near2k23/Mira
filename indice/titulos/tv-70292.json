@@ -1,0 +1,13 @@
+{
+  "tmdb": 70292,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Perfecto Infiltrado",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "subete-ga-f-ni-naru-the-perfect-insider"
+      }
+    }
+  }
+}

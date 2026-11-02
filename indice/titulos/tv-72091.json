@@ -1,0 +1,13 @@
+{
+  "tmdb": 72091,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mahou Sensou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahou-sensou"
+      }
+    }
+  }
+}

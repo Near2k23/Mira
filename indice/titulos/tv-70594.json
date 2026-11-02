@@ -1,0 +1,13 @@
+{
+  "tmdb": 70594,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Alice & Zoroku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "alice-to-zouroku"
+      }
+    }
+  }
+}

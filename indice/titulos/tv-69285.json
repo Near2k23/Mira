@@ -1,0 +1,14 @@
+{
+  "tmdb": 69285,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gabriel DropOut",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gabriel-dropout"
+      }
+    }
+  },
+  "nota": "tioanime gabriel-dropout: 14 cap. vs 12 en TMDB T1; revisar."
+}

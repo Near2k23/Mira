@@ -1,0 +1,13 @@
+{
+  "tmdb": 73017,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Children of the Whales",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kujira-no-kora-wa-sajou-ni-utau"
+      }
+    }
+  }
+}

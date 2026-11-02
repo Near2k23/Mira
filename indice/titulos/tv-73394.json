@@ -1,0 +1,14 @@
+{
+  "tmdb": 73394,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ゴ～！ゴ～！ご～しちご～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "go-go-575"
+      }
+    }
+  },
+  "nota": "tioanime go-go-575: 5 cap. vs 4 en TMDB T1; revisar."
+}

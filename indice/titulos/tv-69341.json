@@ -1,0 +1,13 @@
+{
+  "tmdb": 69341,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スクールガールストライカーズ Animation Channel",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "schoolgirl-strikers-animation-channel"
+      }
+    }
+  }
+}

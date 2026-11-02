@@ -1,0 +1,13 @@
+{
+  "tmdb": 70228,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kimi no Iru Machi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-no-iru-machi"
+      }
+    }
+  }
+}

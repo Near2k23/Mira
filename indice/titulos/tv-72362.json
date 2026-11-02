@@ -1,0 +1,13 @@
+{
+  "tmdb": 72362,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Welcome to the Ballroom",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ballroom-e-youkoso"
+      }
+    }
+  }
+}

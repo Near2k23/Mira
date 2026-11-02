@@ -1,0 +1,15 @@
+{
+  "tmdb": 71003,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スタミュ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "high-school-star-musical",
+        "2": "starmyu-2nd-season",
+        "3": "starmyu-3rd-season"
+      }
+    }
+  }
+}

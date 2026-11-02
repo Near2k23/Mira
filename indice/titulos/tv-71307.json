@@ -1,0 +1,13 @@
+{
+  "tmdb": 71307,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Pupa",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "pupa"
+      }
+    }
+  }
+}

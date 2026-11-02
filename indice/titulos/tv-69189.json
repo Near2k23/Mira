@@ -1,0 +1,14 @@
+{
+  "tmdb": 69189,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aチャンネル",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "a-channel"
+      }
+    }
+  },
+  "nota": "tioanime a-channel: 14 cap. vs 12 en TMDB T1; revisar."
+}

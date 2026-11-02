@@ -1,0 +1,13 @@
+{
+  "tmdb": 72635,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Knight’s & Magic",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "knights-magic"
+      }
+    }
+  }
+}

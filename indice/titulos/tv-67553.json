@@ -1,0 +1,14 @@
+{
+  "tmdb": 67553,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sky Wizards Academy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kuusen-madoushi-kouhosei-no-kyoukan"
+      }
+    }
+  },
+  "nota": "tioanime kuusen-madoushi-kouhosei-no-kyoukan: 13 cap. vs 12 en TMDB T1; revisar."
+}

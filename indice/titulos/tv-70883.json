@@ -1,0 +1,13 @@
+{
+  "tmdb": 70883,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Love Tyrant (Renai Bokun)",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "renai-boukun"
+      }
+    }
+  }
+}

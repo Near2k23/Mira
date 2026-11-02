@@ -1,0 +1,14 @@
+{
+  "tmdb": 68134,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Anime De Training! Ex",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "anitore-ex",
+        "2": "anitore-xx"
+      }
+    }
+  }
+}

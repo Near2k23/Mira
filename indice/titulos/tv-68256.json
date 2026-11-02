@@ -1,0 +1,13 @@
+{
+  "tmdb": 68256,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Comet Lucifer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "comet-lucifer"
+      }
+    }
+  }
+}

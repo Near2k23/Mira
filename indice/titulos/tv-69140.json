@@ -1,0 +1,14 @@
+{
+  "tmdb": 69140,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "戦国鳥獣戯画",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sengoku-choujuu-giga"
+      },
+      "numeracion": "absoluta"
+    }
+  }
+}

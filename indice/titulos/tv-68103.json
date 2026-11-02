@@ -1,0 +1,14 @@
+{
+  "tmdb": 68103,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ドリフターズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "drifters"
+      }
+    }
+  },
+  "nota": "tioanime drifters: 13 cap. vs 12 en TMDB T1; revisar."
+}

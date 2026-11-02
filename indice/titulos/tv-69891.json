@@ -1,0 +1,13 @@
+{
+  "tmdb": 69891,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "乱歩奇譚 Game of Laplace",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ranpo-kitan-game-of-laplace"
+      }
+    }
+  }
+}

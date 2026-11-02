@@ -1,0 +1,13 @@
+{
+  "tmdb": 72523,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Angel's 3Piece!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tenshi-no-3p"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 69286,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hand Shakers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hand-shakers"
+      }
+    }
+  }
+}

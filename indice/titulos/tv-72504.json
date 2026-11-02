@@ -1,0 +1,13 @@
+{
+  "tmdb": 72504,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Battle Girl High School",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "battle-girl-high-school-battle-girl-project"
+      }
+    }
+  }
+}

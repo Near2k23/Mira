@@ -1,0 +1,13 @@
+{
+  "tmdb": 68099,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Digimon Universe Appli Monsters",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "digimon-universe-appli-monsters"
+      }
+    }
+  }
+}

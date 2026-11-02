@@ -1,0 +1,13 @@
+{
+  "tmdb": 68224,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Udon no Kuni no Kiniro Kemari",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "udon-no-kuni-no-kiniro-kemari"
+      }
+    }
+  }
+}

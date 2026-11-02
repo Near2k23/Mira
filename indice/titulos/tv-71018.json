@@ -1,0 +1,14 @@
+{
+  "tmdb": 71018,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seven Mortal Sins",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sin-nanatsu-no-taizai"
+      }
+    }
+  },
+  "nota": "tioanime sin-nanatsu-no-taizai: 13 cap. vs 12 en TMDB T1; revisar."
+}

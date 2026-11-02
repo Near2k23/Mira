@@ -1,0 +1,14 @@
+{
+  "tmdb": 71493,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yuki Yuna wa Yusha de Aru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yuuki-yuuna-wa-yusha-de-aru",
+        "3": "yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou"
+      }
+    }
+  }
+}

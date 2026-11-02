@@ -1,0 +1,13 @@
+{
+  "tmdb": 72737,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "18if",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "18if"
+      }
+    }
+  }
+}

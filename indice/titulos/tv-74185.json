@@ -1,0 +1,13 @@
+{
+  "tmdb": 74185,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Girls' Last Tour",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shoujo-shuumatsu-ryokou"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 68100,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "刀剣乱舞-花丸-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "touken-ranbu-hanamaru",
+        "2": "zoku-touken-ranbu-hanamaru"
+      }
+    }
+  }
+}

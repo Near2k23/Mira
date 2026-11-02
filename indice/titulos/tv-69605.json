@@ -1,0 +1,14 @@
+{
+  "tmdb": 69605,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Urawa no Usagi-chan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "urawa-no-usagi-chan",
+        "2": "musashino"
+      }
+    }
+  }
+}

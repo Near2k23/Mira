@@ -1,0 +1,13 @@
+{
+  "tmdb": 68399,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ステラのまほう",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "stella-no-mahou"
+      }
+    }
+  }
+}

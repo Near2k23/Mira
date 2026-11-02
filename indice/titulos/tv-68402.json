@@ -1,0 +1,14 @@
+{
+  "tmdb": 68402,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "装神少女まとい",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soushin-shoujo-matoi"
+      }
+    }
+  },
+  "nota": "tioanime soushin-shoujo-matoi: 13 cap. vs 12 en TMDB T1; revisar."
+}

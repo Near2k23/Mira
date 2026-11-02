@@ -1,0 +1,13 @@
+{
+  "tmdb": 74184,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Noche sangrienta de Sengoku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sengoku-night-blood"
+      }
+    }
+  }
+}

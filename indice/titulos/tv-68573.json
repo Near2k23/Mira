@@ -1,0 +1,13 @@
+{
+  "tmdb": 68573,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "まじっく快斗1412",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magic-kaito-1412"
+      }
+    }
+  }
+}

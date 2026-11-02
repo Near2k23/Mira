@@ -1,0 +1,13 @@
+{
+  "tmdb": 68102,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Brave Witches",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "brave-witches"
+      }
+    }
+  }
+}

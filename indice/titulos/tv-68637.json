@@ -1,0 +1,13 @@
+{
+  "tmdb": 68637,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "オオカミさんと七人の仲間たち",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "okami-san"
+      }
+    }
+  }
+}

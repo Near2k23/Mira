@@ -1,0 +1,13 @@
+{
+  "tmdb": 72508,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Konbini Kareshi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "konbini-kareshi"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 67628,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "B-PROJECT～鼓動＊アンビシャス～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "b-project-kodouambitious",
+        "2": "b-project-zecchou-emotion",
+        "3": "bproject-netsuretsulove-call"
+      }
+    }
+  }
+}

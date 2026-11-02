@@ -1,0 +1,14 @@
+{
+  "tmdb": 71000,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tsugumomo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsugumomo",
+        "2": "tsugu-tsugumomo"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 72509,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tsuredure Children",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsurezure-children"
+      }
+    }
+  }
+}

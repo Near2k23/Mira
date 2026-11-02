@@ -1,0 +1,13 @@
+{
+  "tmdb": 71834,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Manyu Scroll",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "manyu-hiken-cho"
+      }
+    }
+  }
+}

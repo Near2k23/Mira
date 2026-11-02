@@ -1,0 +1,13 @@
+{
+  "tmdb": 67710,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "サーヴァンプ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "servamp"
+      }
+    }
+  }
+}

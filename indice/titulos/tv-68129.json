@@ -1,0 +1,13 @@
+{
+  "tmdb": 68129,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yuri!!! on Ice",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yuri-on-ice"
+      }
+    }
+  }
+}

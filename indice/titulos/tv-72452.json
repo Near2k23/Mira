@@ -1,0 +1,14 @@
+{
+  "tmdb": 72452,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Oneechan ga Kita",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "oneechan-ga-kita"
+      }
+    }
+  },
+  "nota": "tioanime oneechan-ga-kita: 13 cap. vs 12 en TMDB T1; revisar."
+}

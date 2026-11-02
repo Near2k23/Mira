@@ -1,0 +1,13 @@
+{
+  "tmdb": 68080,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Izetta: The Last Witch",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shuumatsu-no-izetta"
+      }
+    }
+  }
+}

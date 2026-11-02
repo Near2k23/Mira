@@ -1,0 +1,14 @@
+{
+  "tmdb": 72698,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "武装神姫",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "busou-shinki"
+      }
+    }
+  },
+  "nota": "tioanime busou-shinki: 13 cap. vs 12 en TMDB T1; revisar."
+}

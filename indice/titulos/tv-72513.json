@@ -1,0 +1,13 @@
+{
+  "tmdb": 72513,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ノラと皇女と野良猫ハート",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nora-to-oujo-to-noraneko-heart"
+      }
+    }
+  }
+}

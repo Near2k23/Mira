@@ -1,0 +1,13 @@
+{
+  "tmdb": 72921,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "幸腹グラフィティ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koufuku-graffiti"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 72300,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hina Logic: From Luck & Logic",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hina-logi-from-luck-logic"
+      }
+    }
+  }
+}

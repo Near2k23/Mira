@@ -1,0 +1,13 @@
+{
+  "tmdb": 69297,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nyanko Days",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nyanko-days"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 69298,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "One Room",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "one-room",
+        "2": "one-room-2nd-season"
+      }
+    }
+  },
+  "nota": "tioanime one-room-2nd-season: 13 cap. vs 12 en TMDB T2; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 72838,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "紅殻のパンドラ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koukaku-no-pandora"
+      }
+    }
+  }
+}

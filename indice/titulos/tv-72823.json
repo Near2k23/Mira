@@ -1,0 +1,14 @@
+{
+  "tmdb": 72823,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Military!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "military"
+      }
+    }
+  },
+  "nota": "tioanime military: 13 cap. vs 12 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 72636,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Made in Abyss",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "made-in-abyss",
+        "2": "made-in-abyss-retsujitsu-no-ougonkyou"
+      }
+    }
+  }
+}

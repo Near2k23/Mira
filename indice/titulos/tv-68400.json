@@ -1,0 +1,13 @@
+{
+  "tmdb": 68400,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ナゾトキネ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nazotokine"
+      }
+    }
+  }
+}

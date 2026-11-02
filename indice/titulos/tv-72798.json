@@ -1,0 +1,14 @@
+{
+  "tmdb": 72798,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ore no Nounai Sentakushi ga, Gakuen Love Come wo Zenryoku de Jyama Shiteiru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "noucome"
+      }
+    }
+  },
+  "nota": "tioanime noucome: 11 cap. vs 10 en TMDB T1; revisar."
+}

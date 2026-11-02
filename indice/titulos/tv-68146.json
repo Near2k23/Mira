@@ -1,0 +1,16 @@
+{
+  "tmdb": 68146,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "信長の忍び",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nobunaga-no-shinobi",
+        "2": "nobunaga-no-shinobi-ise-kanegasakihen",
+        "3": "nobunaga-no-shinobi-anegawa-ishiyamahen"
+      }
+    }
+  },
+  "nota": "tioanime nobunaga-no-shinobi: 27 cap. vs 26 en TMDB T1; revisar."
+}

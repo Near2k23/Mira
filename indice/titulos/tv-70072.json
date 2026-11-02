@@ -1,0 +1,13 @@
+{
+  "tmdb": 70072,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "White Album 2",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "white-album-2-2013"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 70545,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "世界征服～謀略のズヴィズダー～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sekai-seifuku-bouryaku-no-zvezda"
+      }
+    }
+  },
+  "nota": "tioanime sekai-seifuku-bouryaku-no-zvezda: 13 cap. vs 12 en TMDB T1; revisar."
+}

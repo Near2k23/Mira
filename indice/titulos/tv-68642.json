@@ -1,0 +1,13 @@
+{
+  "tmdb": 68642,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ユリ熊嵐",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yuri-kuma-arashi"
+      }
+    }
+  }
+}

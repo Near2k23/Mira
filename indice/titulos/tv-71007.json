@@ -1,0 +1,13 @@
+{
+  "tmdb": 71007,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ID-0",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "id0"
+      }
+    }
+  }
+}

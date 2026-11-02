@@ -1,0 +1,14 @@
+{
+  "tmdb": 72296,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "My First Girlfriend is a Gal",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hajimete-no-gal"
+      }
+    }
+  },
+  "nota": "tioanime hajimete-no-gal: 11 cap. vs 10 en TMDB T1; revisar."
+}

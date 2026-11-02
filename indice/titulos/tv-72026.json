@@ -1,0 +1,14 @@
+{
+  "tmdb": 72026,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "LOVE and LIES",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koi-to-uso"
+      }
+    }
+  },
+  "nota": "tioanime koi-to-uso: 13 cap. vs 12 en TMDB T1; revisar."
+}

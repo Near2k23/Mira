@@ -6,6 +6,9 @@
   "fuentes": {
     "tioanime": {
       "temporadas": {
+        "1": "osomatsu-san",
+        "2": "osomatsusan-2",
+        "3": "osomatsusan-3rd-season",
         "4": "osomatsusan-4th-season"
       }
     },
@@ -16,5 +19,6 @@
         "4": "osomatsu-san-4th-season"
       }
     }
-  }
+  },
+  "nota": "tioanime osomatsu-san: 26 cap. vs 25 en TMDB T1; revisar."
 }

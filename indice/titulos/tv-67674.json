@@ -1,0 +1,13 @@
+{
+  "tmdb": 67674,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Danganronpa 3: The End of Hope's Peak High School",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "danganronpa-3-the-end-of-kibougamine-gakuen-ze"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 68089,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "灼熱の卓球娘",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shakunetsu-no-takkyuu-musume"
+      }
+    }
+  }
+}

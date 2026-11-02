@@ -1,0 +1,14 @@
+{
+  "tmdb": 74087,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dies Irae",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dies-irae"
+      }
+    }
+  },
+  "nota": "tioanime dies-irae: 18 cap. vs 17 en TMDB T1; revisar."
+}

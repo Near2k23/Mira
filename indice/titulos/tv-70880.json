@@ -1,0 +1,13 @@
+{
+  "tmdb": 70880,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tsukigakirei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsuki-ga-kirei"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 68485,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ブレイブルー オルターメモリー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "blazblue-alter-memory"
+      }
+    }
+  }
+}

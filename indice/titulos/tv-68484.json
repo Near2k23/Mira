@@ -1,0 +1,14 @@
+{
+  "tmdb": 68484,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Crane Game Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bishoujo-yuugi-unit-crane-game-girls",
+        "2": "bishoujo-yuugi-unit-crane-game-girls-galaxy"
+      }
+    }
+  }
+}

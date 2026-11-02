@@ -1,0 +1,13 @@
+{
+  "tmdb": 72919,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "異国迷路のクロワーゼ The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ikoku-meiro-no-croisee"
+      }
+    }
+  }
+}

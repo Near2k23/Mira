@@ -1,0 +1,14 @@
+{
+  "tmdb": 67143,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "いなり、こんこん、恋いろは。",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "inari-konkon-koi-iroha"
+      }
+    }
+  },
+  "nota": "tioanime inari-konkon-koi-iroha: 11 cap. vs 10 en TMDB T1; revisar."
+}

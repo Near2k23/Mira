@@ -1,0 +1,13 @@
+{
+  "tmdb": 68270,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "侍霊演武[ソウルバスター] 将星乱",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "soul-buster"
+      }
+    }
+  }
+}

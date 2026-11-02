@@ -1,0 +1,13 @@
+{
+  "tmdb": 68417,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aika R-16: Misión Virgen",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aika-r-16"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 68074,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "タイガーマスクW",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tiger-mask-w"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 69240,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chiruran 1/2",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chiruran-nibun-no-ichi"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 69055,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "鴉 -KARAS-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "karas"
+      }
+    }
+  }
+}

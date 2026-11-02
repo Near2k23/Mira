@@ -1,0 +1,13 @@
+{
+  "tmdb": 72120,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ファンタジスタドール",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fantasista-doll"
+      }
+    }
+  }
+}

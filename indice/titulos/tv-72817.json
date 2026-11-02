@@ -1,0 +1,13 @@
+{
+  "tmdb": 72817,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "無責任ギャラクシー☆タイラー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "musekinin-galaxytylor"
+      }
+    }
+  }
+}

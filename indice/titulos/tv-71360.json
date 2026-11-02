@@ -1,0 +1,13 @@
+{
+  "tmdb": 71360,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yu-Gi-Oh! VRAINS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yugioh-vrains"
+      }
+    }
+  }
+}

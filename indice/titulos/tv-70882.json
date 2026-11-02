@@ -1,0 +1,14 @@
+{
+  "tmdb": 70882,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Busou Shoujo Machiavellianism",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "busou-shoujo-machiavellianism"
+      }
+    }
+  },
+  "nota": "tioanime busou-shoujo-machiavellianism: 13 cap. vs 12 en TMDB T1; revisar."
+}

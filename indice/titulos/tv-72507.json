@@ -1,0 +1,13 @@
+{
+  "tmdb": 72507,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Clean Freak! Aoyama kun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "keppeki-danshi-aoyamakun"
+      }
+    }
+  }
+}

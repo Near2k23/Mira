@@ -1,0 +1,13 @@
+{
+  "tmdb": 67853,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "レガリア The Three Sacred Stars",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "regalia-the-three-sacred-stars"
+      }
+    }
+  }
+}

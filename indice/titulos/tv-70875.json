@@ -1,0 +1,13 @@
+{
+  "tmdb": 70875,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El libro mágico de Zero",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zero-kara-hajimeru-mahou-no-sho"
+      }
+    }
+  }
+}

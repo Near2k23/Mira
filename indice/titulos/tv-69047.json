@@ -1,0 +1,13 @@
+{
+  "tmdb": 69047,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "はがねオーケストラ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hagane-orchestra"
+      }
+    }
+  }
+}

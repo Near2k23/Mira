@@ -1,0 +1,14 @@
+{
+  "tmdb": 70036,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tonari no Seki-kun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tonari-no-seki-kun"
+      }
+    }
+  },
+  "nota": "tioanime tonari-no-seki-kun: 23 cap. vs 21 en TMDB T1; revisar."
+}

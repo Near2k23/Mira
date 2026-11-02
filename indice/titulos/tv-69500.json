@@ -3,7 +3,7 @@
   "tipo": "tv",
   "categoria": "anime",
   "titulo": "Natsume Yuujinchou",
-  "nota": "Temporadas omitidas por no cuadrar episodios: T7 (natsume-yuujinchou-shichi): 13 eps en el sitio vs 12 en TMDB",
+  "nota": "Temporadas omitidas por no cuadrar episodios: T7 (natsume-yuujinchou-shichi): 13 eps en el sitio vs 12 en TMDB tioanime natsume-yuujinchou-shichi: 13 cap. vs 12 en TMDB T7; revisar. tioanime natsume-yuujinchou-roku: 13 cap. vs 11 en TMDB T6; revisar.",
   "fuentes": {
     "animeav1": {
       "temporadas": {
@@ -17,8 +17,13 @@
     },
     "tioanime": {
       "temporadas": {
+        "1": "natsume-yuujin-chou",
         "2": "zoku-natsume-yuujinchou",
-        "5": "natsume-yuujinchou-go"
+        "3": "natsume-yujin-cho-san",
+        "4": "natsume-yuujin-chou-shi",
+        "5": "natsume-yuujinchou-go",
+        "6": "natsume-yuujinchou-roku",
+        "7": "natsume-yuujinchou-shichi"
       }
     }
   }

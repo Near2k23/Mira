@@ -1,0 +1,13 @@
+{
+  "tmdb": 72426,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gamers!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gamers"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 68271,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "クラシカロイド",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "classicaloid",
+        "2": "classicaloid-2nd-season"
+      }
+    }
+  }
+}

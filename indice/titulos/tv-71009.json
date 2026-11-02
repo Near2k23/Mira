@@ -1,0 +1,13 @@
+{
+  "tmdb": 71009,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "カブキブ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kabukibu"
+      }
+    }
+  }
+}

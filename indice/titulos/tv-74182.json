@@ -1,0 +1,14 @@
+{
+  "tmdb": 74182,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Love is Like a Cocktail",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "osake-wa-fuufu-ni-natte-kara"
+      }
+    }
+  },
+  "nota": "tioanime osake-wa-fuufu-ni-natte-kara: 14 cap. vs 13 en TMDB T1; revisar."
+}

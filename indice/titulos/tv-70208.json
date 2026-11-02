@@ -1,0 +1,13 @@
+{
+  "tmdb": 70208,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "タイムボカン24",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "time-bokan-24"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 68379,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "神様のメモ帳",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kamisama-no-memo-chou"
+      }
+    }
+  }
+}

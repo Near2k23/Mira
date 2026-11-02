@@ -1,0 +1,13 @@
+{
+  "tmdb": 71001,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "フレームアームズ・ガール",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "frame-arms-girl"
+      }
+    }
+  }
+}

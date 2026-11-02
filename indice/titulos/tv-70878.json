@@ -1,0 +1,14 @@
+{
+  "tmdb": 70878,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Eromanga Sensei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "eromangasensei"
+      }
+    }
+  },
+  "nota": "tioanime eromangasensei: 14 cap. vs 12 en TMDB T1; revisar."
+}

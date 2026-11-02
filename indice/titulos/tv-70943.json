@@ -1,0 +1,13 @@
+{
+  "tmdb": 70943,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Onihei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "onihei"
+      }
+    }
+  }
+}

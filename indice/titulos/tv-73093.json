@@ -1,0 +1,13 @@
+{
+  "tmdb": 73093,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "En realidad soy...",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jitsu-wa-watashi-wa"
+      }
+    }
+  }
+}

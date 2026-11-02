@@ -1,0 +1,15 @@
+{
+  "tmdb": 69291,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Miss Kobayashi's Dragon Maid",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kobayashi-san-chi-no-maid-dragon",
+        "2": "kobayashisan-chi-no-maid-dragon-s"
+      }
+    }
+  },
+  "nota": "tioanime kobayashisan-chi-no-maid-dragon-s: 13 cap. vs 12 en TMDB T2; revisar. tioanime kobayashi-san-chi-no-maid-dragon: 14 cap. vs 13 en TMDB T1; revisar."
+}

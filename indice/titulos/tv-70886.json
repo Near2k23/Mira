@@ -1,0 +1,13 @@
+{
+  "tmdb": 70886,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アトム ザ・ビギニング",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "atom-the-beginning"
+      }
+    }
+  }
+}

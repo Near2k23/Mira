@@ -1,0 +1,13 @@
+{
+  "tmdb": 74080,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Anime-Gataris",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "animegataris"
+      }
+    }
+  }
+}

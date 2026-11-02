@@ -1,0 +1,13 @@
+{
+  "tmdb": 72506,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A Centaur's Life",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "centaur-no-nayami"
+      }
+    }
+  }
+}

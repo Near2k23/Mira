@@ -1,0 +1,13 @@
+{
+  "tmdb": 69606,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Glasslip",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "glasslip"
+      }
+    }
+  }
+}

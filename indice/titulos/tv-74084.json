@@ -1,0 +1,14 @@
+{
+  "tmdb": 74084,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Code: Realize - Guardian of Rebirth",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "coderealize-sousei-no-himegimi"
+      }
+    }
+  },
+  "nota": "tioanime coderealize-sousei-no-himegimi: 13 cap. vs 12 en TMDB T1; revisar."
+}

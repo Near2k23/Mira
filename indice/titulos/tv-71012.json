@@ -1,0 +1,15 @@
+{
+  "tmdb": 71012,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アイドルマスター シンデレラガールズ劇場",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cinderella-girls-gekijou-2nd-season",
+        "3": "cinderella-girls-gekijou-3rd-season",
+        "4": "cinderella-girls-gekijou-climax-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 70592,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Re:CREATORS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "recreators"
+      }
+    }
+  }
+}

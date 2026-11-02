@@ -1,0 +1,14 @@
+{
+  "tmdb": 68005,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yosuga no Sora",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yosuga-no-sora"
+      }
+    }
+  },
+  "nota": "tioanime yosuga-no-sora: 14 cap. vs 12 en TMDB T1; revisar."
+}

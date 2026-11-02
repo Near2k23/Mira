@@ -1,0 +1,13 @@
+{
+  "tmdb": 67256,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "今日の５の２",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kyou-no-go-no-ni-2008"
+      }
+    }
+  }
+}

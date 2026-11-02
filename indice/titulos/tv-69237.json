@@ -1,0 +1,13 @@
+{
+  "tmdb": 69237,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chain Chronicle: The Light of Haecceitas",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chain-chronicle-haecceitas-no-hikari"
+      }
+    }
+  }
+}

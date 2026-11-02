@@ -1,0 +1,13 @@
+{
+  "tmdb": 74092,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A Sister's All You Need",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "imouto-sae-ireba-ii"
+      }
+    }
+  }
+}

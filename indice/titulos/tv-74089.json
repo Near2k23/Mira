@@ -1,0 +1,13 @@
+{
+  "tmdb": 74089,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Garo: Vanishing Line",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "garo-vanishing-line"
+      }
+    }
+  }
+}

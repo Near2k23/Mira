@@ -1,0 +1,13 @@
+{
+  "tmdb": 74098,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Konohana Kitan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "konohana-kitan"
+      }
+    }
+  }
+}

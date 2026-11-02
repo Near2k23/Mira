@@ -1,0 +1,13 @@
+{
+  "tmdb": 70716,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bikini Warriors",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bikini-warriors"
+      }
+    }
+  }
+}

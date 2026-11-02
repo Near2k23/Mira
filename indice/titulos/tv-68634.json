@@ -1,0 +1,14 @@
+{
+  "tmdb": 68634,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "D-Frag!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "d-frag"
+      }
+    }
+  },
+  "nota": "tioanime d-frag: 13 cap. vs 12 en TMDB T1; revisar."
+}

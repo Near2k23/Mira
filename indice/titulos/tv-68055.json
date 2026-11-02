@@ -1,0 +1,13 @@
+{
+  "tmdb": 68055,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "大家さんは思春期！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ooyasan-wa-shishunki"
+      }
+    }
+  }
+}

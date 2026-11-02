@@ -1,0 +1,13 @@
+{
+  "tmdb": 68101,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Trickster -江戸川乱歩「少年探偵団」より-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "trickster-edogawa-ranpo-shounen-tanteidan-yori"
+      }
+    }
+  }
+}

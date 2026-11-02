@@ -1,0 +1,13 @@
+{
+  "tmdb": 72528,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chronos Ruler",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jikan-no-shihaisha"
+      }
+    }
+  }
+}

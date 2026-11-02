@@ -1,0 +1,13 @@
+{
+  "tmdb": 67389,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Golden Time",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "golden-time"
+      }
+    }
+  }
+}

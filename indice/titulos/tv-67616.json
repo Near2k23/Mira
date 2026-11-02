@@ -1,0 +1,13 @@
+{
+  "tmdb": 67616,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "チア男子!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cheer-danshi"
+      }
+    }
+  }
+}

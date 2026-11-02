@@ -1,0 +1,13 @@
+{
+  "tmdb": 72526,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ひとりじめマイヒーロー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hitorijime-my-hero"
+      }
+    }
+  }
+}

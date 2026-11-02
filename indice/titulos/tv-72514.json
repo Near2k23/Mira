@@ -1,0 +1,13 @@
+{
+  "tmdb": 72514,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Elegant Yokai Apartment Life",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "youkai-apartment-no-yuuga-na-nichijou"
+      }
+    }
+  }
+}

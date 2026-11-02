@@ -1,0 +1,13 @@
+{
+  "tmdb": 72511,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fastest Finger First",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nana-maru-san-batsu"
+      }
+    }
+  }
+}

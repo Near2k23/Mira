@@ -1,0 +1,13 @@
+{
+  "tmdb": 71465,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ロボットガールズＺ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "robot-girls-z"
+      }
+    }
+  }
+}

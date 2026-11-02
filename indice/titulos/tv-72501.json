@@ -1,0 +1,13 @@
+{
+  "tmdb": 72501,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "クリオネの灯り",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "clione-no-akari"
+      }
+    }
+  }
+}

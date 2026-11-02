@@ -1,0 +1,13 @@
+{
+  "tmdb": 74018,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Legend of the Galactic Heroes: Die Neue These",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ginga-eiyuu-densetsu-die-neue-these-kaikou"
+      }
+    }
+  }
+}

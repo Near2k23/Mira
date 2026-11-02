@@ -1,0 +1,13 @@
+{
+  "tmdb": 71013,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "サクラクエスト",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakura-quest"
+      }
+    }
+  }
+}

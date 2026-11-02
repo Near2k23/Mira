@@ -1,0 +1,13 @@
+{
+  "tmdb": 72304,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fate/Apocrypha",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fateapocrypha"
+      }
+    }
+  }
+}

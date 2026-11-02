@@ -1,0 +1,14 @@
+{
+  "tmdb": 71016,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KADO: The Right Answer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "seikaisuru-kado"
+      }
+    }
+  },
+  "nota": "tioanime seikaisuru-kado: 13 cap. vs 12 en TMDB T1; revisar."
+}

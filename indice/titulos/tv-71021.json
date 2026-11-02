@@ -1,0 +1,13 @@
+{
+  "tmdb": 71021,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Twin Angels BREAK",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaitou-tenshi-twin-angel-tv"
+      }
+    }
+  }
+}

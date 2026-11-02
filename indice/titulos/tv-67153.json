@@ -1,0 +1,14 @@
+{
+  "tmdb": 67153,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tsukiuta. The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsukiuta-the-animation",
+        "2": "tsukiuta-the-animation-2"
+      }
+    }
+  }
+}

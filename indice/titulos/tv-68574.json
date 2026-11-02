@@ -1,0 +1,13 @@
+{
+  "tmdb": 68574,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Disappearance of Nagato Yuki-Chan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nagato-yuki-chan-no-shoushitsu"
+      }
+    }
+  }
+}

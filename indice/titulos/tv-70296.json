@@ -1,0 +1,13 @@
+{
+  "tmdb": 70296,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Taimadou Gakuen 35 Shiken Shoutai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "taimadou-gakuen-35-shiken-shoutai"
+      }
+    }
+  }
+}

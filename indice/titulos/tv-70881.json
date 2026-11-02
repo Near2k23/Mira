@@ -1,0 +1,13 @@
+{
+  "tmdb": 70881,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boruto: Naruto Next Generations",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "boruto-naruto-next-generations-tv"
+      }
+    }
+  }
+}

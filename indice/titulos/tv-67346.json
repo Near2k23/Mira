@@ -1,0 +1,15 @@
+{
+  "tmdb": 67346,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Amanchu!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "amanchu",
+        "2": "amanchu-advance"
+      }
+    }
+  },
+  "nota": "tioanime amanchu: 13 cap. vs 12 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 67249,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Prince of Tennis II",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "new-prince-of-tennis"
+      }
+    }
+  }
+}

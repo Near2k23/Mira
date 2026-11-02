@@ -1,0 +1,13 @@
+{
+  "tmdb": 67677,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "タイムトラベル少女～マリ・ワカと8人の科学者たち～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "time-travel-shoujo-mari-waka-to-8-nin-no-kagakus"
+      }
+    }
+  }
+}

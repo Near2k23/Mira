@@ -1,0 +1,13 @@
+{
+  "tmdb": 68185,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Occultic Nine",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "occulticnine"
+      }
+    }
+  }
+}

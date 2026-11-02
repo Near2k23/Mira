@@ -1,0 +1,13 @@
+{
+  "tmdb": 68071,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "All Out!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "all-out"
+      }
+    }
+  }
+}

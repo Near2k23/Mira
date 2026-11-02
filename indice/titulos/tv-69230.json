@@ -1,0 +1,13 @@
+{
+  "tmdb": 69230,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akiba's Trip The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akibas-trip-the-animation"
+      }
+    }
+  }
+}

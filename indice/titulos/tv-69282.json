@@ -1,0 +1,14 @@
+{
+  "tmdb": 69282,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Interviews With Monster Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "demi-chan-wa-kataritai"
+      }
+    }
+  },
+  "nota": "tioanime demi-chan-wa-kataritai: 13 cap. vs 12 en TMDB T1; revisar."
+}

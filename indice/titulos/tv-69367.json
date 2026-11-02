@@ -1,0 +1,15 @@
+{
+  "tmdb": 69367,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saekano: How to Raise a Boring Girlfriend",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saenai-heroin-no-sodatekata",
+        "2": "saenai-heroine-no-sodatekata"
+      }
+    }
+  },
+  "nota": "tioanime saenai-heroine-no-sodatekata: 12 cap. vs 11 en TMDB T2; revisar. tioanime saenai-heroin-no-sodatekata: 13 cap. vs 12 en TMDB T1; revisar."
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 71005,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Silver Guardian",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gin-no-guardian",
+        "2": "gin-no-guardian-2nd-season"
+      }
+    }
+  }
+}

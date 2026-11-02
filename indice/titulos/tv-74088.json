@@ -1,0 +1,13 @@
+{
+  "tmdb": 74088,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Evil or Live",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "evil-or-live"
+      }
+    }
+  }
+}

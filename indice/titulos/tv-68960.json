@@ -1,0 +1,14 @@
+{
+  "tmdb": 68960,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "オオカミ少女と黒王子",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ookami-shoujo-to-kuro-ouji"
+      }
+    }
+  },
+  "nota": "tioanime ookami-shoujo-to-kuro-ouji: 14 cap. vs 12 en TMDB T1; revisar."
+}

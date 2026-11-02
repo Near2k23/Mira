@@ -1,0 +1,13 @@
+{
+  "tmdb": 70718,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Himegoto",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "himegoto"
+      }
+    }
+  }
+}

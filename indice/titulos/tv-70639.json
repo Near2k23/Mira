@@ -1,0 +1,13 @@
+{
+  "tmdb": 70639,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shuumatsu-nani-shitemasu-ka"
+      }
+    }
+  }
+}

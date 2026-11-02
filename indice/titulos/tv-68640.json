@@ -1,0 +1,13 @@
+{
+  "tmdb": 68640,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Machine Doll wa Kizutsukanai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "machine-doll-wa-kizutsukanai"
+      }
+    }
+  }
+}

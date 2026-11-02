@@ -1,0 +1,13 @@
+{
+  "tmdb": 69345,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "うらら迷路帖",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "urara-meirochou"
+      }
+    }
+  }
+}

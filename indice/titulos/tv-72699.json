@@ -1,0 +1,13 @@
+{
+  "tmdb": 72699,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lord Marksman and Vanadis",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "madan-no-ou-to-vanadis"
+      }
+    }
+  }
+}

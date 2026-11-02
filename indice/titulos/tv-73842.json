@@ -1,0 +1,13 @@
+{
+  "tmdb": 73842,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "がくえんゆーとぴあ まなびストレート！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gakuen-utopia-manabi-straight"
+      }
+    }
+  }
+}

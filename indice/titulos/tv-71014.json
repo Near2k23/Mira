@@ -1,0 +1,13 @@
+{
+  "tmdb": 71014,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "サクラダリセット",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakurada-reset"
+      }
+    }
+  }
+}

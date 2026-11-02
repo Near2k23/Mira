@@ -1,0 +1,13 @@
+{
+  "tmdb": 69292,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El deseo de la escoria",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kuzu-no-honkai"
+      }
+    }
+  }
+}

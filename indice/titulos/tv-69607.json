@@ -1,0 +1,13 @@
+{
+  "tmdb": 69607,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rail Wars!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rail-wars"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 69288,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kemono Friends",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kemono-friends",
+        "2": "kemono-friends-2"
+      }
+    }
+  }
+}

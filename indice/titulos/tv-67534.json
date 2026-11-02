@@ -1,0 +1,13 @@
+{
+  "tmdb": 67534,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "彼女と彼女の猫 -Everything Flows-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kanojo-to-kanojo-no-neko-everything-flows"
+      }
+    }
+  }
+}

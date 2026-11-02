@@ -1,0 +1,17 @@
+{
+  "tmdb": 72524,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ikemen Sengoku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ikemen-sengoku-toki-wo-kakeru-ga-koi-wa-hajimaranai"
+      },
+      "desfase": {
+        "1": 2
+      }
+    }
+  },
+  "nota": "tioanime ikemen-sengoku-toki-wo-kakeru-ga-koi-wa-hajimaranai: 10 cap. vs 12 en TMDB T1; revisar."
+}

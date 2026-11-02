@@ -1,0 +1,17 @@
+{
+  "tmdb": 68389,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Usakame",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "usakame"
+      },
+      "desfase": {
+        "1": 1
+      }
+    }
+  },
+  "nota": "tioanime usakame: 11 cap. vs 12 en TMDB T1; revisar."
+}

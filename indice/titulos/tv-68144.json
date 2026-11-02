@@ -1,0 +1,13 @@
+{
+  "tmdb": 68144,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cheating Craft",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cheating-craft"
+      }
+    }
+  }
+}

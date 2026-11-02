@@ -1,0 +1,13 @@
+{
+  "tmdb": 70636,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Clockwork Planet",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "clockwork-planet"
+      }
+    }
+  }
+}

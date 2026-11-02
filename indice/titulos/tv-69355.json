@@ -1,0 +1,15 @@
+{
+  "tmdb": 69355,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "金田一少年の事件簿R",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kindaichi-shounen-no-likenbo-returns",
+        "2": "kindaichi-shounen-no-likenbo-returns-2"
+      }
+    }
+  },
+  "nota": "tioanime kindaichi-shounen-no-likenbo-returns-2: 23 cap. vs 22 en TMDB T2; revisar."
+}

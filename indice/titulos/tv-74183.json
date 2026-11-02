@@ -1,0 +1,13 @@
+{
+  "tmdb": 74183,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "King's Game: The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ousama-game-the-animation"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tmdb": 69236,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BanG Dream!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bang-dream",
+        "2": "bang-dream-2nd-season",
+        "3": "bang-dream-3rd-season"
+      }
+    }
+  }
+}

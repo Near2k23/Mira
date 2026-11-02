@@ -1,0 +1,13 @@
+{
+  "tmdb": 72503,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "¡Sumérgete!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dive"
+      }
+    }
+  }
+}

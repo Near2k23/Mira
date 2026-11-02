@@ -1,0 +1,13 @@
+{
+  "tmdb": 69820,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Granblue Fantasy: The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "granblue-fantasy-the-animation-season-2"
+      }
+    }
+  }
+}

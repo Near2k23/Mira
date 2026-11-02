@@ -1,0 +1,15 @@
+{
+  "tmdb": 67126,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Himouto! Umaru-chan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "himouto-umaru-chan",
+        "2": "himouto-umaruchan-r"
+      }
+    }
+  },
+  "nota": "tioanime himouto-umaru-chan: 14 cap. vs 12 en TMDB T1; revisar."
+}

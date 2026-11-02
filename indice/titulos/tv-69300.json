@@ -1,0 +1,13 @@
+{
+  "tmdb": 69300,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ピアシェ～私のイタリアン～",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "piace-watashi-no-italian"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 68173,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dream Festival!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dream-festival",
+        "2": "dream-festival-r"
+      }
+    }
+  }
+}

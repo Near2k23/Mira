@@ -1,0 +1,13 @@
+{
+  "tmdb": 69293,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Little Witch Academia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "little-witch-academia-tv"
+      }
+    }
+  }
+}

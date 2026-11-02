@@ -1,0 +1,13 @@
+{
+  "tmdb": 70722,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Momo Kyun Sword",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "momo-kyun-sword"
+      }
+    }
+  }
+}

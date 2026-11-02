@@ -1,0 +1,13 @@
+{
+  "tmdb": 74096,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Just Because!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "just-because"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 67145,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "D.Gray-man HALLOW",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dgray-man-hallow"
+      }
+    }
+  }
+}

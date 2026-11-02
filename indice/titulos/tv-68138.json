@@ -1,0 +1,13 @@
+{
+  "tmdb": 68138,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "El diario fotográfico Yokai de Kiitaro",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kiitarou-shounen-no-youkai-enikki"
+      }
+    }
+  }
+}

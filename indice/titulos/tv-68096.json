@@ -1,0 +1,13 @@
+{
+  "tmdb": 68096,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ViVid Strike！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vivid-strike"
+      }
+    }
+  }
+}

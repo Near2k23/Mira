@@ -1,0 +1,14 @@
+{
+  "tmdb": 68285,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lostorage incited WIXOSS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lostorage-incited-wixoss",
+        "2": "lostorage-conflated-wixoss"
+      }
+    }
+  }
+}
