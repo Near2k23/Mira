@@ -1,0 +1,13 @@
+{
+  "tmdb": 90677,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fategrand-order-zettai-majuu-sensen-babylonia"
+      }
+    }
+  }
+}

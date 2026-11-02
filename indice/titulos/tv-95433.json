@@ -1,0 +1,13 @@
+{
+  "tmdb": 95433,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kakushigoto",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kakushigoto-tv"
+      }
+    }
+  }
+}

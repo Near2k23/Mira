@@ -1,0 +1,13 @@
+{
+  "tmdb": 97923,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Maoujou de Oyasumi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maoujou-de-oyasumi"
+      }
+    }
+  }
+}

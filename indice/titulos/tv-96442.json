@@ -1,0 +1,13 @@
+{
+  "tmdb": 96442,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Life Lessons with Uramichi Oniisan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uramichi-oniisan"
+      }
+    }
+  }
+}

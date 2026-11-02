@@ -1,0 +1,14 @@
+{
+  "tmdb": 95660,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Copihan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "copihan"
+      }
+    }
+  },
+  "nota": "tioanime copihan: 6 cap. vs 7 en TMDB T1; revisar."
+}

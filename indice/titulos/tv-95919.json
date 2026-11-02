@@ -1,0 +1,13 @@
+{
+  "tmdb": 95919,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "まほらば ~Heartful days~",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahoraba-heartful-days"
+      }
+    }
+  }
+}

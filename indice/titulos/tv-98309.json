@@ -1,0 +1,13 @@
+{
+  "tmdb": 98309,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Koikimo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koi-to-yobu-ni-wa-kimochi-warui"
+      }
+    }
+  }
+}

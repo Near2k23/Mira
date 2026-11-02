@@ -1,0 +1,15 @@
+{
+  "tmdb": 94523,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magia Record: Puella Magi Madoka Magica Side Story",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "magia-record-mahou-shoujo-madokamagica-gaiden-tv",
+        "2": "magia-record-mahou-shoujo-madokamagica-gaiden-tv-2nd-season",
+        "3": "magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season"
+      }
+    }
+  }
+}

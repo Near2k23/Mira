@@ -1,0 +1,13 @@
+{
+  "tmdb": 99779,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Noblesse",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "noblesse"
+      }
+    }
+  }
+}

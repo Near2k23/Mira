@@ -1,0 +1,15 @@
+{
+  "tmdb": 912,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Aa! Megami-sama!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "aa-megami-sama-tv",
+        "2": "aa-megami-sama-sorezore-no-tsubasa"
+      }
+    }
+  },
+  "nota": "tioanime aa-megami-sama-sorezore-no-tsubasa: 24 cap. vs 22 en TMDB T2; revisar. tioanime aa-megami-sama-tv: 26 cap. vs 24 en TMDB T1; revisar."
+}

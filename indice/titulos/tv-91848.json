@@ -1,0 +1,13 @@
+{
+  "tmdb": 91848,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "number24",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "number24"
+      }
+    }
+  }
+}

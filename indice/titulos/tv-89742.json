@@ -1,0 +1,14 @@
+{
+  "tmdb": 89742,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "図書館戦争",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "toshokan-sensou"
+      }
+    }
+  },
+  "nota": "tioanime toshokan-sensou: 13 cap. vs 12 en TMDB T1; revisar."
+}

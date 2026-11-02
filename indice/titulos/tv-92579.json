@@ -1,0 +1,13 @@
+{
+  "tmdb": 92579,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Keep Your Hands Off Eizouken!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "eizouken-ni-wa-te-wo-dasu-na"
+      }
+    }
+  }
+}

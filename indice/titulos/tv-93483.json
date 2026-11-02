@@ -1,0 +1,13 @@
+{
+  "tmdb": 93483,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "だぁ! だぁ! だぁ!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "daa-daa-daa-ufo-baby"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 94388,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gibiate",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gibiate"
+      }
+    }
+  }
+}

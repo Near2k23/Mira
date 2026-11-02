@@ -1,0 +1,13 @@
+{
+  "tmdb": 91299,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Assassins Pride",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "assassins-pride"
+      }
+    }
+  }
+}

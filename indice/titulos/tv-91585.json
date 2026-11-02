@@ -1,0 +1,13 @@
+{
+  "tmdb": 91585,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Asteroid in Love",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koisuru-asteroid"
+      }
+    }
+  }
+}

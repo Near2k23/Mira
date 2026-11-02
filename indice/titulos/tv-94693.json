@@ -1,0 +1,13 @@
+{
+  "tmdb": 94693,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wandering Witch: The Journey of Elaina",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "majo-no-tabitabi"
+      }
+    }
+  }
+}

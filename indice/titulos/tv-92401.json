@@ -1,0 +1,13 @@
+{
+  "tmdb": 92401,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "EX-ARM",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "exarm"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 99910,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Warlords of Sigrdrifa",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "senyoku-no-sigrdrifa"
+      }
+    }
+  }
+}

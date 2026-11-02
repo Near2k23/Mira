@@ -1,0 +1,13 @@
+{
+  "tmdb": 91584,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kemono Michi: Rise Up",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hataage-kemono-michi"
+      }
+    }
+  }
+}

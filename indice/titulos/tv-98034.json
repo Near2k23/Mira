@@ -1,0 +1,13 @@
+{
+  "tmdb": 98034,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Digimon Adventure",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "digimon-adventure-2020"
+      }
+    }
+  }
+}

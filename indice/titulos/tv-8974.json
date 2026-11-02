@@ -1,0 +1,16 @@
+{
+  "tmdb": 8974,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hell Girl",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hell-girl",
+        "2": "hell-girl-2",
+        "3": "hell-girl-3",
+        "4": "jigoku-shoujo-yoi-no-togi"
+      }
+    }
+  }
+}

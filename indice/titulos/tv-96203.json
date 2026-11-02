@@ -1,0 +1,13 @@
+{
+  "tmdb": 96203,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gleipnir",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gleipnir"
+      }
+    }
+  }
+}

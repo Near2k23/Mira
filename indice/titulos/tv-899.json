@@ -1,0 +1,13 @@
+{
+  "tmdb": 899,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ヤマトナデシコ七変化♥",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yamato-nadeshiko-shichi-henge"
+      }
+    }
+  }
+}

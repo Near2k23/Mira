@@ -1,0 +1,13 @@
+{
+  "tmdb": 8907,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "BURN-UP SCRAMBLE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "burn-up-scramble"
+      }
+    }
+  }
+}

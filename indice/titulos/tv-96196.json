@@ -1,0 +1,14 @@
+{
+  "tmdb": 96196,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "True Cooking Master Boy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shin-chuuka-ichiban",
+        "2": "shin-chuuka-ichiban-2nd-season"
+      }
+    }
+  }
+}

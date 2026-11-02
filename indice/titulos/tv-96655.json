@@ -1,0 +1,17 @@
+{
+  "tmdb": 96655,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ざしきわらしのタタミちゃん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zashiki-warashi-no-tatamichan"
+      },
+      "desfase": {
+        "1": 1
+      }
+    }
+  },
+  "nota": "tioanime zashiki-warashi-no-tatamichan: 11 cap. vs 12 en TMDB T1; revisar."
+}

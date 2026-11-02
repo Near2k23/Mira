@@ -1,0 +1,13 @@
+{
+  "tmdb": 96444,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Interespecies Reviewers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ishuzoku-reviewers"
+      }
+    }
+  }
+}

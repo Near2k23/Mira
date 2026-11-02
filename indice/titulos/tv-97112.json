@@ -1,0 +1,13 @@
+{
+  "tmdb": 97112,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ARP Backstage Pass",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "arp-backstage-pass"
+      }
+    }
+  }
+}

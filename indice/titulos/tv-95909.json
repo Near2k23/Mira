@@ -1,0 +1,13 @@
+{
+  "tmdb": 95909,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dropout Idol Fruit Tart",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ochikobore-fruit-tart"
+      }
+    }
+  }
+}

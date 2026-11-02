@@ -1,0 +1,13 @@
+{
+  "tmdb": 99071,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kaifuku Jutsushi no Yarinaoshi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaifuku-jutsushi-no-yarinaoshi"
+      }
+    }
+  }
+}

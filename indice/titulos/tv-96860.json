@@ -1,0 +1,13 @@
+{
+  "tmdb": 96860,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A3!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "a3-season-autumn-winter"
+      }
+    }
+  }
+}

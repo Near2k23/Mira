@@ -1,0 +1,15 @@
+{
+  "tmdb": 8864,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": ".hack",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hack-sign",
+        "3": "hack-roots"
+      }
+    }
+  },
+  "nota": "tioanime hack-sign: 28 cap. vs 26 en TMDB T1; revisar."
+}

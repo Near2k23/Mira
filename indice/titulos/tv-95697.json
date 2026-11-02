@@ -1,0 +1,13 @@
+{
+  "tmdb": 95697,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Arte",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "arte"
+      }
+    }
+  }
+}

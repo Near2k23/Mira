@@ -3,7 +3,7 @@
   "tipo": "tv",
   "categoria": "anime",
   "titulo": "Jaku-Chara Tomozaki-kun",
-  "nota": "Temporadas omitidas por no cuadrar episodios: T1 (jaku-chara-tomozaki-kun): 13 eps en el sitio vs 12 en TMDB",
+  "nota": "Temporadas omitidas por no cuadrar episodios: T1 (jaku-chara-tomozaki-kun): 13 eps en el sitio vs 12 en TMDB tioanime jakuchara-tomozakikun: 14 cap. vs 12 en TMDB T1; revisar.",
   "fuentes": {
     "animeav1": {
       "temporadas": {
@@ -12,6 +12,7 @@
     },
     "tioanime": {
       "temporadas": {
+        "1": "jakuchara-tomozakikun",
         "2": "jakuchara-tomozakikun-2nd-stage"
       }
     }

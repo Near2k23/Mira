@@ -1,0 +1,14 @@
+{
+  "tmdb": 90999,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "La ciencia del amor",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita",
+        "2": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart"
+      }
+    }
+  }
+}

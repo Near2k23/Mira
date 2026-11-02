@@ -1,0 +1,13 @@
+{
+  "tmdb": 93688,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Runway de Waratte",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "runway-de-waratte"
+      }
+    }
+  }
+}

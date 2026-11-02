@@ -1,0 +1,13 @@
+{
+  "tmdb": 92599,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Babylon",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "babylon"
+      }
+    }
+  }
+}

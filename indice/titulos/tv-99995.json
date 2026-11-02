@@ -1,0 +1,14 @@
+{
+  "tmdb": 99995,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "I'm Standing on a Million Lives",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "100man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+        "2": "100man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 95317,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nekopara",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nekopara-tv"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 91600,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Rifle is Beautiful",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rifle-is-beautiful"
+      }
+    }
+  }
+}

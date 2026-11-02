@@ -1,0 +1,13 @@
+{
+  "tmdb": 95073,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "まえせつ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "maesetsu"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 94214,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Days of Urashimasakatasen",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "urashimasakatasen-no-nichijou"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 91024,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "oshi-ga-budoukan-ittekuretara-shinu"
+      }
+    }
+  }
+}

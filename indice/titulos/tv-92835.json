@@ -1,0 +1,13 @@
+{
+  "tmdb": 92835,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hoshiai no Sora",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hoshiai-no-sora"
+      }
+    }
+  }
+}

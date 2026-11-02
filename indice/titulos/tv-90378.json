@@ -1,0 +1,13 @@
+{
+  "tmdb": 90378,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hakone-chan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "onsen-yousei-hakone-chan"
+      }
+    }
+  }
+}

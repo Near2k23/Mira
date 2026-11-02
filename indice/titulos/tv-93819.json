@@ -1,0 +1,13 @@
+{
+  "tmdb": 93819,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ACTORS: Songs Connection",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "actors-songs-connection"
+      }
+    }
+  }
+}

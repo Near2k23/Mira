@@ -1,0 +1,13 @@
+{
+  "tmdb": 89367,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "銀牙 -流れ星 銀-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ginga-nagareboshi-gin"
+      }
+    }
+  }
+}

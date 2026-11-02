@@ -1,0 +1,13 @@
+{
+  "tmdb": 91026,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Houkago Saikoro Club",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "houkago-saikoro-club"
+      }
+    }
+  }
+}

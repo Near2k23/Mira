@@ -1,0 +1,13 @@
+{
+  "tmdb": 90377,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ナースウィッチ小麦ちゃんR",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nurse-witch-komugi-chan-r"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 92588,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Deca-Dence",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "decadence"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 98685,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Monster Girl Doctor",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "monster-musume-no-oishasan"
+      }
+    }
+  }
+}

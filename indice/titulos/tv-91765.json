@@ -1,0 +1,13 @@
+{
+  "tmdb": 91765,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Z/X: Code Reunion",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zx-code-reunion"
+      }
+    }
+  }
+}

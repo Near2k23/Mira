@@ -1,0 +1,13 @@
+{
+  "tmdb": 96942,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Back Arrow",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "back-arrow"
+      }
+    }
+  }
+}

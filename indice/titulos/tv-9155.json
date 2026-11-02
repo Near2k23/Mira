@@ -1,0 +1,13 @@
+{
+  "tmdb": 9155,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "宇宙の騎士テッカマンブレード",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uchuu-no-kishi-tekkaman-blade"
+      }
+    }
+  }
+}

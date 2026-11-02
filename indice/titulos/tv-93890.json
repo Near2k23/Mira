@@ -1,0 +1,13 @@
+{
+  "tmdb": 93890,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tamayomi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tamayomi"
+      }
+    }
+  }
+}

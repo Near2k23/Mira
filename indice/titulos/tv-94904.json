@@ -1,0 +1,15 @@
+{
+  "tmdb": 94904,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "My Next Life as a Villainess: All Routes Lead to Doom!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta",
+        "2": "otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x"
+      }
+    }
+  },
+  "nota": "tioanime otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x: 13 cap. vs 12 en TMDB T2; revisar."
+}

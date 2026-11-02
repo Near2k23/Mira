@@ -1,0 +1,13 @@
+{
+  "tmdb": 96398,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sakugan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sakugan"
+      }
+    }
+  }
+}

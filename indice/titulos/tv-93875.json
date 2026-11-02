@@ -1,0 +1,13 @@
+{
+  "tmdb": 93875,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "22/7",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "227"
+      }
+    }
+  }
+}

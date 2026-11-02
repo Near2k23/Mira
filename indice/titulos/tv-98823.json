@@ -1,0 +1,15 @@
+{
+  "tmdb": 98823,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shadowverse",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shadowverse-tv",
+        "2": "shadowverse-flame"
+      }
+    }
+  },
+  "nota": "tioanime shadowverse-tv: 50 cap. vs 48 en TMDB T1; revisar."
+}

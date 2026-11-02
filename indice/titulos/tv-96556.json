@@ -1,0 +1,13 @@
+{
+  "tmdb": 96556,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lapis Re:LIGHTs",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lapis-relights"
+      }
+    }
+  }
+}

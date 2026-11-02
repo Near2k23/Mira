@@ -1,0 +1,13 @@
+{
+  "tmdb": 95135,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "レジェンドオブ・デュオ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "legend-of-duo"
+      }
+    }
+  }
+}

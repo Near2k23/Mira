@@ -1,0 +1,13 @@
+{
+  "tmdb": 99778,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The God of High School",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-god-of-high-school"
+      }
+    }
+  }
+}

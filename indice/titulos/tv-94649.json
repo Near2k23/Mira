@@ -1,0 +1,13 @@
+{
+  "tmdb": 94649,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Infinite Dendrogram",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "infinite-dendrogram"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 93149,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Plunderer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "plunderer"
+      }
+    }
+  }
+}

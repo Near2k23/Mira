@@ -1,0 +1,13 @@
+{
+  "tmdb": 88805,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Are You Lost?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sounan-desu-ka"
+      }
+    }
+  }
+}

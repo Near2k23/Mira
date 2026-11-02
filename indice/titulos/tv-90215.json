@@ -1,0 +1,14 @@
+{
+  "tmdb": 90215,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Isekai Cheat Magician",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-cheat-magician"
+      }
+    }
+  },
+  "nota": "tioanime isekai-cheat-magician: 13 cap. vs 12 en TMDB T1; revisar."
+}

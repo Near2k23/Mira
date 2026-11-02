@@ -1,0 +1,13 @@
+{
+  "tmdb": 9343,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Paranoia Agent",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mousou-dairinin"
+      }
+    }
+  }
+}

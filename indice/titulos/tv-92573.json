@@ -1,0 +1,13 @@
+{
+  "tmdb": 92573,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ななついろ★ドロップス First love that encompasses you",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nanatsuiro-drops"
+      }
+    }
+  }
+}

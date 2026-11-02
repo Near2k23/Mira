@@ -1,0 +1,13 @@
+{
+  "tmdb": 94295,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Futsal Boys!!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "futsal-boys"
+      }
+    }
+  }
+}

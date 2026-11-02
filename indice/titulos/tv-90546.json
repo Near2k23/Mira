@@ -1,0 +1,13 @@
+{
+  "tmdb": 90546,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Toaru Kagaku no Accelerator",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "toaru-kagaku-no-accelerator"
+      }
+    }
+  }
+}

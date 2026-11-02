@@ -1,0 +1,14 @@
+{
+  "tmdb": 98986,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Uzaki-chan Wants to Hang Out!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uzakichan-wa-asobitai",
+        "2": "uzakichan-wa-asobitai-double"
+      }
+    }
+  }
+}

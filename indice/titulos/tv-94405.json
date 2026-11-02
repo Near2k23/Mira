@@ -1,0 +1,13 @@
+{
+  "tmdb": 94405,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wave, Listen to Me!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nami-yo-kiitekure"
+      }
+    }
+  }
+}

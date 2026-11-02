@@ -1,0 +1,13 @@
+{
+  "tmdb": 91452,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chubyo Gekihatsu Boy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chuubyou-gekihatsu-boy"
+      }
+    }
+  }
+}

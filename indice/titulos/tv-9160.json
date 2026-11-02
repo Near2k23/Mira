@@ -1,0 +1,13 @@
+{
+  "tmdb": 9160,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Candy Candy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "candy-candy"
+      }
+    }
+  }
+}

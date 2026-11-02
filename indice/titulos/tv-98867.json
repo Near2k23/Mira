@@ -1,0 +1,13 @@
+{
+  "tmdb": 98867,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ikebukuro West Gate Park",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ikebukuro-west-gate-park"
+      }
+    }
+  }
+}

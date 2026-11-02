@@ -1,0 +1,13 @@
+{
+  "tmdb": 92892,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ahiru no Sora",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ahiru-no-sora"
+      }
+    }
+  }
+}

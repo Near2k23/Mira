@@ -1,0 +1,13 @@
+{
+  "tmdb": 8991,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Digimon Frontier",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "digimon-frontier"
+      }
+    }
+  }
+}

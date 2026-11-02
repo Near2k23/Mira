@@ -1,0 +1,16 @@
+{
+  "tmdb": 91764,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sorcerous Stabber Orphen",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "majutsushi-orphen-hagure-tabi",
+        "2": "majutsushi-orphen-hagure-tabi-kimluckhen",
+        "3": "majutsushi-orphen-hagure-tabi-seiikihen"
+      }
+    }
+  },
+  "nota": "tioanime majutsushi-orphen-hagure-tabi: 14 cap. vs 13 en TMDB T1; revisar."
+}

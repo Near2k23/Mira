@@ -1,0 +1,14 @@
+{
+  "tmdb": 90391,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "少年ハリウッド-HOLLY STAGE FOR 49-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shounen-hollywood-holly-stage-for-49",
+        "2": "shounen-hollywood-holly-stage-for-50"
+      }
+    }
+  }
+}

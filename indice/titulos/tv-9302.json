@@ -1,0 +1,13 @@
+{
+  "tmdb": 9302,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Digimon Tamers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "digimon-tamers"
+      }
+    }
+  }
+}

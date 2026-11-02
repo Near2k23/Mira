@@ -1,0 +1,13 @@
+{
+  "tmdb": 9041,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ノエイン もうひとりの君",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "noein-mou-hitori-no-kimi-e"
+      }
+    }
+  }
+}

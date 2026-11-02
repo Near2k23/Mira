@@ -1,0 +1,13 @@
+{
+  "tmdb": 9542,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bubblegum Crisis Tokyo 2040",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bubblegum-crisis-tokyo-2040"
+      }
+    }
+  }
+}

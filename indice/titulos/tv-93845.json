@@ -1,0 +1,13 @@
+{
+  "tmdb": 93845,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Campana de Bendición",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shukufu"
+      }
+    }
+  }
+}

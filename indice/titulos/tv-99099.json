@@ -1,0 +1,13 @@
+{
+  "tmdb": 99099,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mars Red",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mars-red"
+      }
+    }
+  }
+}

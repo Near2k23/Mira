@@ -1,0 +1,13 @@
+{
+  "tmdb": 90327,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fushigi na Somera-chan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fushigi-na-somera-chan"
+      }
+    }
+  }
+}

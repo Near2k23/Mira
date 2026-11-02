@@ -1,0 +1,13 @@
+{
+  "tmdb": 93830,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Phantasy Star Online 2: Episode Oracle",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "phantasy-star-online-2-episode-oracle"
+      }
+    }
+  }
+}

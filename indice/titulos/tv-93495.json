@@ -1,0 +1,13 @@
+{
+  "tmdb": 93495,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kandagawa Jet Girls",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kandagawa-jet-girls"
+      }
+    }
+  }
+}

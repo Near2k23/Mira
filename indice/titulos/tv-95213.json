@@ -1,0 +1,13 @@
+{
+  "tmdb": 95213,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Heya Camp△",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "heya-camp"
+      }
+    }
+  }
+}

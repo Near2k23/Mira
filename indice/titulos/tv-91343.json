@@ -1,0 +1,13 @@
+{
+  "tmdb": 91343,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Oda Cinnamon Nobunaga",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "oda-cinnamon-nobunaga"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 902,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yu-Gi-Oh! Duelo de Monstruos",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yu-gi-oh"
+      }
+    }
+  }
+}

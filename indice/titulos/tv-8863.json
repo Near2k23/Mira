@@ -1,0 +1,14 @@
+{
+  "tmdb": 8863,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Vandread",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "vandread",
+        "2": "vandread-the-second-stage"
+      }
+    }
+  }
+}

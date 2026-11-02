@@ -1,0 +1,13 @@
+{
+  "tmdb": 94541,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Assault Lily: Bouquet",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "assault-lily-bouquet"
+      }
+    }
+  }
+}

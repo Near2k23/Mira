@@ -1,0 +1,13 @@
+{
+  "tmdb": 94631,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hōkago Teibō Nisshi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "houkago-teibou-nisshi"
+      }
+    }
+  }
+}

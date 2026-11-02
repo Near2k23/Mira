@@ -1,0 +1,13 @@
+{
+  "tmdb": 96150,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Seton Academy: Join the Pack!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "murenase-seton-gakuen"
+      }
+    }
+  }
+}

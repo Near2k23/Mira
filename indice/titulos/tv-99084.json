@@ -1,0 +1,14 @@
+{
+  "tmdb": 99084,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Princess Connect! Re:Dive",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "princess-connect-redive",
+        "2": "princess-connect-redive-season-2"
+      }
+    }
+  }
+}

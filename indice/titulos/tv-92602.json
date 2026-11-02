@@ -1,0 +1,13 @@
+{
+  "tmdb": 92602,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ID: INVADED",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "idinvaded"
+      }
+    }
+  }
+}

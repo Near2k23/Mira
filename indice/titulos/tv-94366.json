@@ -1,0 +1,13 @@
+{
+  "tmdb": 94366,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "流星戦隊ムスメット",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ryuusei-sentai-musumet"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 96371,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shin Sakura Taisen the Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shin-sakura-taisen-the-animation"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 95631,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Super Cub",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "super-cub"
+      }
+    }
+  }
+}

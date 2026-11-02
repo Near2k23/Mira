@@ -1,0 +1,14 @@
+{
+  "tmdb": 89664,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "シゴフミ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shigofumi"
+      }
+    }
+  },
+  "nota": "tioanime shigofumi: 12 cap. vs 13 en TMDB T1; revisar."
+}

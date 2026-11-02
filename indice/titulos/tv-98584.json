@@ -1,0 +1,13 @@
+{
+  "tmdb": 98584,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shachō, Battle no Jikan Desu!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shachou-battle-no-jikan-desu"
+      }
+    }
+  }
+}

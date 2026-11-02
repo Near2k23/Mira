@@ -1,0 +1,13 @@
+{
+  "tmdb": 91455,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Azur Lane",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "azur-lane"
+      }
+    }
+  }
+}

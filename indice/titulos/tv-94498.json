@@ -1,0 +1,13 @@
+{
+  "tmdb": 94498,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Appare-Ranman!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "appareranman"
+      }
+    }
+  }
+}

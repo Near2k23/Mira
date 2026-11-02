@@ -1,0 +1,14 @@
+{
+  "tmdb": 89086,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ぱにぽにだっしゅ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "pani-poni-dash"
+      }
+    }
+  },
+  "nota": "tioanime pani-poni-dash: 27 cap. vs 26 en TMDB T1; revisar."
+}

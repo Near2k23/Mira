@@ -1,0 +1,19 @@
+{
+  "tmdb": 8872,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sousei no Aquarion",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sousei-no-aquarion",
+        "2": "aquarion-evol",
+        "3": "aquarion-logos"
+      },
+      "desfase": {
+        "2": 1
+      }
+    }
+  },
+  "nota": "tioanime aquarion-logos: 27 cap. vs 26 en TMDB T3; revisar. tioanime aquarion-evol: 25 cap. vs 26 en TMDB T2; revisar."
+}

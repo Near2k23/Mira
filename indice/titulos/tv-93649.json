@@ -1,0 +1,13 @@
+{
+  "tmdb": 93649,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shironeko Project: Zero Chronicle",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shironeko-project-zero-chronicle"
+      }
+    }
+  }
+}

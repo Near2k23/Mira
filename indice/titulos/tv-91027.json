@@ -1,0 +1,13 @@
+{
+  "tmdb": 91027,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Val x Love",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "val-x-love"
+      }
+    }
+  }
+}

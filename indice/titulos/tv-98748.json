@@ -1,0 +1,13 @@
+{
+  "tmdb": 98748,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "LISTENERS",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "listeners"
+      }
+    }
+  }
+}

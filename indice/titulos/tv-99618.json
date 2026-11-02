@@ -1,0 +1,13 @@
+{
+  "tmdb": 99618,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "So I'm a Spider, So What?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kumo-desu-ga-nani-ka"
+      }
+    }
+  }
+}

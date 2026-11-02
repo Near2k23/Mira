@@ -1,0 +1,13 @@
+{
+  "tmdb": 889,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Eureka Seven",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "eureka-seven"
+      }
+    }
+  }
+}

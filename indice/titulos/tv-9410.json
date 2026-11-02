@@ -1,0 +1,14 @@
+{
+  "tmdb": 9410,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Basilisk",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "basilisk",
+        "2": "basilisk-ouka-ninpouchou"
+      }
+    }
+  }
+}

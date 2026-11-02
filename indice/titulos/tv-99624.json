@@ -1,0 +1,13 @@
+{
+  "tmdb": 99624,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The 8th son? Are you kidding me?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hachinan-tte-sore-wa-nai-deshou"
+      }
+    }
+  }
+}

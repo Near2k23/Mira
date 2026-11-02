@@ -1,0 +1,14 @@
+{
+  "tmdb": 88806,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Machikado Mazoku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "machikado-mazoku",
+        "2": "machikado-mazoku-2choume"
+      }
+    }
+  }
+}

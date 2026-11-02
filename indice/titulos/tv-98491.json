@@ -1,0 +1,13 @@
+{
+  "tmdb": 98491,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fugou Keiji Balance: Unlimited",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fugou-keiji-balanceunlimited"
+      }
+    }
+  }
+}

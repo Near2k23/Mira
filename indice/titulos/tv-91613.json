@@ -1,0 +1,13 @@
+{
+  "tmdb": 91613,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "銀牙伝説ウィード",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ginga-densetsu-weed"
+      }
+    }
+  }
+}

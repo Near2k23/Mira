@@ -1,0 +1,13 @@
+{
+  "tmdb": 90401,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "旅街レイトショー",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tabi-machi-late-show"
+      }
+    }
+  }
+}

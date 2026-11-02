@@ -1,0 +1,13 @@
+{
+  "tmdb": 94359,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Adachi and Shimamura",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "adachi-to-shimamura"
+      }
+    }
+  }
+}
