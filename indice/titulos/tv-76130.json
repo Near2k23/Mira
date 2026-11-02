@@ -1,0 +1,13 @@
+{
+  "tmdb": 76130,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mordidas mortales",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "killing-bites"
+      }
+    }
+  }
+}

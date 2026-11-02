@@ -1,0 +1,13 @@
+{
+  "tmdb": 88038,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Granbelm",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "granbelm"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 78102,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Steins;Gate 0",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "steinsgate-0"
+      }
+    }
+  },
+  "nota": "tioanime steinsgate-0: 24 cap. vs 23 en TMDB T1; revisar."
+}

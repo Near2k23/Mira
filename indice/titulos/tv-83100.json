@@ -1,0 +1,13 @@
+{
+  "tmdb": 83100,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dororo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dororo"
+      }
+    }
+  }
+}

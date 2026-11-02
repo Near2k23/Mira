@@ -1,0 +1,13 @@
+{
+  "tmdb": 77023,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "だぶるじぇい",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "double-j"
+      }
+    }
+  }
+}

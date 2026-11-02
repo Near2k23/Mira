@@ -1,0 +1,13 @@
+{
+  "tmdb": 77723,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "My Sweet Tyrant",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akkun-to-kanojo"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 76821,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gundam Build Divers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gundam-build-divers"
+      }
+    }
+  },
+  "nota": "tioanime gundam-build-divers: 26 cap. vs 25 en TMDB T1; revisar."
+}

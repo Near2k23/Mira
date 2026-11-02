@@ -1,0 +1,13 @@
+{
+  "tmdb": 76126,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hakata Tonkotsu Ramens",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hakata-tonkotsu-ramens"
+      }
+    }
+  }
+}

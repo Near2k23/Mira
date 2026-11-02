@@ -1,0 +1,13 @@
+{
+  "tmdb": 86123,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "PERSONA -trinity soul-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "persona-trinity-soul"
+      }
+    }
+  }
+}

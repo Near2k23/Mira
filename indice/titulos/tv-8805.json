@@ -1,0 +1,13 @@
+{
+  "tmdb": 8805,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "RAY THE ANIMATION",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ray-the-animation"
+      }
+    }
+  }
+}

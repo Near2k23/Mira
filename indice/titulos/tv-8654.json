@@ -1,0 +1,13 @@
+{
+  "tmdb": 8654,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The SoulTaker",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-soultaker-tamashii-gari"
+      }
+    }
+  }
+}

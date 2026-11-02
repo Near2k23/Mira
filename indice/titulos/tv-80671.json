@@ -1,0 +1,15 @@
+{
+  "tmdb": 80671,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cells at Work!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hataraku-saibou-tv",
+        "2": "hataraku-saibou"
+      }
+    }
+  },
+  "nota": "tioanime hataraku-saibou-tv: 14 cap. vs 13 en TMDB T1; revisar."
+}

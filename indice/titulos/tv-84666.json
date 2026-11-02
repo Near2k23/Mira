@@ -1,0 +1,14 @@
+{
+  "tmdb": 84666,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "WATATEN!: an Angel Flew Down to Me",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "watashi-ni-tenshi-ga-maiorita"
+      }
+    }
+  },
+  "nota": "tioanime watashi-ni-tenshi-ga-maiorita: 13 cap. vs 12 en TMDB T1; revisar."
+}

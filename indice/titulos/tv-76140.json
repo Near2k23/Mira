@@ -1,0 +1,13 @@
+{
+  "tmdb": 76140,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "サンリオ男子",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sanrio-danshi"
+      }
+    }
+  }
+}

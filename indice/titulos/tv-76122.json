@@ -1,0 +1,13 @@
+{
+  "tmdb": 76122,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Death March to the Parallel World Rhapsody",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "death-march-kara-hajimaru-isekai-kyousoukyoku"
+      }
+    }
+  }
+}

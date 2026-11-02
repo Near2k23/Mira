@@ -1,0 +1,13 @@
+{
+  "tmdb": 80537,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hanebado!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hanebado"
+      }
+    }
+  }
+}

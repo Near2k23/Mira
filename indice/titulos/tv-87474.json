@@ -1,0 +1,13 @@
+{
+  "tmdb": 87474,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "なむあみだ仏っ! -蓮台 UTENA-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "namu-amida-butsu-rendai-utena"
+      }
+    }
+  }
+}

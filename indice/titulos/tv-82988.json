@@ -1,0 +1,13 @@
+{
+  "tmdb": 82988,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Conception",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "conception"
+      }
+    }
+  }
+}

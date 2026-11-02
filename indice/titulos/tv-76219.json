@@ -1,0 +1,15 @@
+{
+  "tmdb": 76219,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Miss Monochrome: The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "miss-monochrome-the-animation",
+        "2": "miss-monochrome-the-animation-3"
+      }
+    }
+  },
+  "nota": "tioanime miss-monochrome-the-animation: 15 cap. vs 13 en TMDB T1; revisar."
+}

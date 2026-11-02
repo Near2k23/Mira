@@ -1,0 +1,13 @@
+{
+  "tmdb": 8779,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "La Visión de Escaflowne",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "escaflowne"
+      }
+    }
+  }
+}

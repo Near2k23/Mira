@@ -1,0 +1,14 @@
+{
+  "tmdb": 80665,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "High Score Girl",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "high-score-girl",
+        "2": "high-score-girl-ii"
+      }
+    }
+  }
+}

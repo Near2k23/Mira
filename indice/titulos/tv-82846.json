@@ -1,0 +1,14 @@
+{
+  "tmdb": 82846,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bakumatsu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bakumatsu",
+        "2": "bakumatsu-crisis"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 75431,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Komori-san wa Kotowarenai!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "komori-san-wa-kotowarenai"
+      }
+    }
+  },
+  "nota": "tioanime komori-san-wa-kotowarenai: 13 cap. vs 12 en TMDB T1; revisar."
+}

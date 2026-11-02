@@ -1,0 +1,13 @@
+{
+  "tmdb": 75777,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Koi wa Ameagari no You ni",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "koi-wa-ameagari-no-you-ni"
+      }
+    }
+  }
+}

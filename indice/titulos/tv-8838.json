@@ -1,0 +1,14 @@
+{
+  "tmdb": 8838,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "TEXHNOLYZE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "texhnolyze"
+      }
+    }
+  },
+  "nota": "tioanime texhnolyze: 22 cap. vs 20 en TMDB T1; revisar."
+}

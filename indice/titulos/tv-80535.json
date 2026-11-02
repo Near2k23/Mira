@@ -1,0 +1,13 @@
+{
+  "tmdb": 80535,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ISLAND",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "island"
+      }
+    }
+  }
+}

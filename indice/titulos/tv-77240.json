@@ -1,0 +1,14 @@
+{
+  "tmdb": 77240,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Capitán Tsubasa",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "captain-tsubasa-2018",
+        "2": "captain-tsubasa-season-2-junior-youthhen"
+      }
+    }
+  }
+}

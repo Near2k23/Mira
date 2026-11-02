@@ -1,0 +1,14 @@
+{
+  "tmdb": 76138,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nanatsu no Bitoku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nanatsu-no-bitoku"
+      }
+    }
+  },
+  "nota": "tioanime nanatsu-no-bitoku: 12 cap. vs 10 en TMDB T1; revisar."
+}

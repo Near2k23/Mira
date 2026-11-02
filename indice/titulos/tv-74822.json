@@ -1,0 +1,14 @@
+{
+  "tmdb": 74822,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Million Doll",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "million-doll"
+      }
+    }
+  },
+  "nota": "tioanime million-doll: 12 cap. vs 11 en TMDB T1; revisar."
+}

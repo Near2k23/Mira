@@ -1,0 +1,13 @@
+{
+  "tmdb": 80560,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sirius the Jaeger",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tenrou-sirius-the-jaeger"
+      }
+    }
+  }
+}

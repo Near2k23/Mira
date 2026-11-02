@@ -1,0 +1,14 @@
+{
+  "tmdb": 76899,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "幻影ヲ駆ケル太陽",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "genei-wo-kakeru-taiyou"
+      }
+    }
+  },
+  "nota": "tioanime genei-wo-kakeru-taiyou: 14 cap. vs 13 en TMDB T1; revisar."
+}

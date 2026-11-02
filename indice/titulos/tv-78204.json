@@ -1,0 +1,14 @@
+{
+  "tmdb": 78204,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sword Art Online Alternative:Gun Gale Online",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sword-art-online-alternative-gun-gale-online",
+        "2": "sword-art-online-alternative-gun-gale-online-ii"
+      }
+    }
+  }
+}

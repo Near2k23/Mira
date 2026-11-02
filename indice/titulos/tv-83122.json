@@ -1,0 +1,13 @@
+{
+  "tmdb": 83122,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ケムリクサ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kemurikusa-tv"
+      }
+    }
+  }
+}

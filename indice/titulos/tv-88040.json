@@ -1,0 +1,13 @@
+{
+  "tmdb": 88040,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Given",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "given"
+      }
+    }
+  }
+}

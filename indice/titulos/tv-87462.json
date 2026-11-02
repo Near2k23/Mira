@@ -1,0 +1,13 @@
+{
+  "tmdb": 87462,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ao-chan Can't Study!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "midara-na-aochan-wa-benkyou-ga-dekinai"
+      }
+    }
+  }
+}

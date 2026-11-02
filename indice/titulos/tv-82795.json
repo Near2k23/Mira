@@ -1,0 +1,13 @@
+{
+  "tmdb": 82795,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sora to Umi no Aida",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sora-to-umi-no-aida"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 78122,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Saint Seiya Saintia Shō",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saint-seiya-saintia-shou"
+      }
+    }
+  }
+}

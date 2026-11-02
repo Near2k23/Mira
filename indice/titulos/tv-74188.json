@@ -1,0 +1,13 @@
+{
+  "tmdb": 74188,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Two Car",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "two-car"
+      }
+    }
+  }
+}

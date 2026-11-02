@@ -1,0 +1,14 @@
+{
+  "tmdb": 77294,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ushinawareta Mirai wo Motomete",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ushinawareta-mirai-wo-motomete"
+      }
+    }
+  },
+  "nota": "tioanime ushinawareta-mirai-wo-motomete: 13 cap. vs 12 en TMDB T1; revisar."
+}

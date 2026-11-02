@@ -1,0 +1,14 @@
+{
+  "tmdb": 82958,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Armor Shop for Ladies & Gentlemen",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "otona-no-bouguyasan",
+        "2": "otona-no-bouguyasan-2nd-season"
+      }
+    }
+  }
+}

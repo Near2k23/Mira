@@ -1,0 +1,13 @@
+{
+  "tmdb": 78458,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Butlers X Battlers",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "butlers-chitose-momotose-monogatari"
+      }
+    }
+  }
+}

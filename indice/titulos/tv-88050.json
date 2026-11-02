@@ -1,0 +1,13 @@
+{
+  "tmdb": 88050,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cop Craft",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cop-craft"
+      }
+    }
+  }
+}

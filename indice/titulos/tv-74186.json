@@ -1,0 +1,14 @@
+{
+  "tmdb": 74186,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アイドルマスター Side M",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-idolmster-side-m"
+      }
+    }
+  },
+  "nota": "tioanime the-idolmster-side-m: 14 cap. vs 13 en TMDB T1; revisar."
+}

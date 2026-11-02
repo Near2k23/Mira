@@ -1,0 +1,13 @@
+{
+  "tmdb": 82861,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yagate Kimi ni Naru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yagate-kimi-ni-naru"
+      }
+    }
+  }
+}

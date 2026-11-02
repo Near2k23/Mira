@@ -1,0 +1,13 @@
+{
+  "tmdb": 76132,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "How to Keep a Mummy",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "miira-no-kaikata"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 77237,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ワカコ酒",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wakako-zake"
+      }
+    }
+  }
+}

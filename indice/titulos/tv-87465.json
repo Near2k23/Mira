@@ -1,0 +1,14 @@
+{
+  "tmdb": 87465,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cinderella Nine",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hachigatsu-no-cinderella-nine"
+      }
+    }
+  },
+  "nota": "tioanime hachigatsu-no-cinderella-nine: 13 cap. vs 12 en TMDB T1; revisar."
+}

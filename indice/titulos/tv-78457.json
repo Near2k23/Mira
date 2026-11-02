@@ -1,0 +1,13 @@
+{
+  "tmdb": 78457,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wotakoi: Love Is Hard for Otaku",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wotaku-ni-koi-wa-muzukashii"
+      }
+    }
+  }
+}

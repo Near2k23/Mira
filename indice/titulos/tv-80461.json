@@ -1,0 +1,13 @@
+{
+  "tmdb": 80461,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ongaku Shoujo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ongaku-shoujo-tv"
+      }
+    }
+  }
+}

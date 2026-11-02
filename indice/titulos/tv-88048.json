@@ -1,0 +1,13 @@
+{
+  "tmdb": 88048,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nakanohito Genome [Jikkyouchuu]",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nakanohito-genome-jikkyouchuu"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 8859,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "魔法先生ネギま！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahou-sensei-negima"
+      }
+    }
+  }
+}

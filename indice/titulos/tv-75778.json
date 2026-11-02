@@ -1,0 +1,13 @@
+{
+  "tmdb": 75778,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "25-sai no Joshikousei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "25sai-no-jyoshikousei"
+      }
+    }
+  }
+}

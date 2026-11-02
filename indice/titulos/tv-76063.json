@@ -1,0 +1,13 @@
+{
+  "tmdb": 76063,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Citrus",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "citrus"
+      }
+    }
+  }
+}

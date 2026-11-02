@@ -1,0 +1,13 @@
+{
+  "tmdb": 78464,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "奴隷区 The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "doreiku-the-animation"
+      }
+    }
+  }
+}

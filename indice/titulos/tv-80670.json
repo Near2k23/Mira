@@ -1,0 +1,13 @@
+{
+  "tmdb": 80670,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Master of Ragnarok & Blesser of Einherjar",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hyakuren-no-haou-to-seiyaku-no-valkyria"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 83477,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Price of Smiles",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "egao-no-daika"
+      }
+    }
+  }
+}

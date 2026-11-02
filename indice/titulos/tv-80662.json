@@ -1,0 +1,13 @@
+{
+  "tmdb": 80662,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Miss Caretaker of Sunohara-sou",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sunoharasou-no-kanrininsan"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "tmdb": 74191,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Wake Up, Girls！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wake-up-girls",
+        "2": "wake-up-girls-shin-shou"
+      },
+      "desfase": {
+        "2": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 80767,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Angolmois: Record of Mongol Invasion",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "angolmois-genkou-kassenki"
+      }
+    }
+  }
+}

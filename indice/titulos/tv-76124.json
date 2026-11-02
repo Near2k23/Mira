@@ -1,0 +1,13 @@
+{
+  "tmdb": 76124,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gakuen Babysitters",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gakuen-babysitters"
+      }
+    }
+  }
+}

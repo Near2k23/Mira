@@ -1,0 +1,14 @@
+{
+  "tmdb": 80539,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Asobi Asobase: Workshop of Fun",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "asobi-asobase"
+      }
+    }
+  },
+  "nota": "tioanime asobi-asobase: 14 cap. vs 12 en TMDB T1; revisar."
+}

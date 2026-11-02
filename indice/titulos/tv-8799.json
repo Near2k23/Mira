@@ -1,0 +1,13 @@
+{
+  "tmdb": 8799,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "学園ヘヴン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gakuen-heaven"
+      }
+    }
+  }
+}

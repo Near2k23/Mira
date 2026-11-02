@@ -1,0 +1,14 @@
+{
+  "tmdb": 82879,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Radiant",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "radiant",
+        "2": "radiant-2nd-season"
+      }
+    }
+  }
+}

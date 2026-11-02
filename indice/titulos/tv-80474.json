@@ -1,0 +1,13 @@
+{
+  "tmdb": 80474,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sengoku musō",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sengoku-musou"
+      }
+    }
+  }
+}

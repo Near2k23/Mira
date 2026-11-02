@@ -1,0 +1,13 @@
+{
+  "tmdb": 85942,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Darwin's Game",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "darwins-game"
+      }
+    }
+  }
+}

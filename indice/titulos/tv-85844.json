@@ -1,0 +1,13 @@
+{
+  "tmdb": 85844,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kenja No Mago",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kenja-no-mago"
+      }
+    }
+  }
+}

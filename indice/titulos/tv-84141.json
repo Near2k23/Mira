@@ -1,0 +1,13 @@
+{
+  "tmdb": 84141,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Meiji Tokyo Renka",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "meiji-tokyo-renka"
+      }
+    }
+  }
+}

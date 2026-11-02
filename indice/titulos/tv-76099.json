@@ -1,0 +1,13 @@
+{
+  "tmdb": 76099,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "スロウスタート",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "slow-start"
+      }
+    }
+  }
+}

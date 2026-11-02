@@ -1,0 +1,13 @@
+{
+  "tmdb": 76059,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "A Place Further Than the Universe",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sora-yori-mo-tooi-basho"
+      }
+    }
+  }
+}

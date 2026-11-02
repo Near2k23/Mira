@@ -12,8 +12,11 @@
     },
     "tioanime": {
       "temporadas": {
+        "1": "tensei-shitara-slime-datta-ken",
+        "3": "tensei-shitara-slime-datta-ken-3rd-season",
         "4": "tensei-shitara-slime-datta-ken-4th-season"
       }
     }
-  }
+  },
+  "nota": "tioanime tensei-shitara-slime-datta-ken: 25 cap. vs 24 en TMDB T1; revisar."
 }

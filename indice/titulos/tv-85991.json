@@ -1,0 +1,15 @@
+{
+  "tmdb": 85991,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fruits Basket",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fruits-basket-2019",
+        "2": "fruits-basket-2nd-season",
+        "3": "fruits-basket-the-final"
+      }
+    }
+  }
+}

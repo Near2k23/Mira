@@ -1,0 +1,13 @@
+{
+  "tmdb": 80564,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Banana Fish",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "banana-fish"
+      }
+    }
+  }
+}

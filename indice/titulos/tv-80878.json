@@ -1,0 +1,14 @@
+{
+  "tmdb": 80878,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "それが声優！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sore-ga-seiyuu"
+      }
+    }
+  },
+  "nota": "tioanime sore-ga-seiyuu: 14 cap. vs 13 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 83104,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magical Girl Spec-Ops Asuka",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahou-shoujo-tokushusen-asuka"
+      }
+    }
+  }
+}

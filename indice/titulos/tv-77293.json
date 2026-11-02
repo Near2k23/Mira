@@ -1,0 +1,13 @@
+{
+  "tmdb": 77293,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "VENUS PROJECT -CLIMAX-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "venus-project-climax"
+      }
+    }
+  }
+}

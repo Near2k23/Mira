@@ -1,0 +1,13 @@
+{
+  "tmdb": 80826,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Happy Sugar Life",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "happy-sugar-life"
+      }
+    }
+  }
+}

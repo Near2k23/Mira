@@ -1,0 +1,13 @@
+{
+  "tmdb": 77087,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "あさっての方向。",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "asatte-no-houkou"
+      }
+    }
+  }
+}

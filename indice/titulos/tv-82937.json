@@ -1,0 +1,13 @@
+{
+  "tmdb": 82937,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gaikotsu Shotenin Honda-san",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gaikotsu-shotenin-hondasan"
+      }
+    }
+  }
+}

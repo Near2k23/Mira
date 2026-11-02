@@ -1,0 +1,13 @@
+{
+  "tmdb": 80823,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Lord of Vermilion: The Crimson King",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lord-of-vermilion-guren-no-ou"
+      }
+    }
+  }
+}

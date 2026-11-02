@@ -1,0 +1,13 @@
+{
+  "tmdb": 86762,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "放課後のプレアデス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "houkago-no-pleiades-tv"
+      }
+    }
+  }
+}

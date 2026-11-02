@@ -1,0 +1,13 @@
+{
+  "tmdb": 84667,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Endro!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "endro"
+      }
+    }
+  }
+}

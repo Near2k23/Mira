@@ -1,0 +1,13 @@
+{
+  "tmdb": 82770,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Jingai-san no Yome",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jingaisan-no-yome"
+      }
+    }
+  }
+}

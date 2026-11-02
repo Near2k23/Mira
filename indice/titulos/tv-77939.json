@@ -1,0 +1,14 @@
+{
+  "tmdb": 77939,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Megalo Box",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "megalo-box",
+        "2": "nomad-megalo-box-2"
+      }
+    }
+  }
+}

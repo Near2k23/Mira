@@ -1,0 +1,13 @@
+{
+  "tmdb": 84869,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "マナリアフレンズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "manaria-friends"
+      }
+    }
+  }
+}

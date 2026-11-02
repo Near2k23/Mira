@@ -1,0 +1,13 @@
+{
+  "tmdb": 77089,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ブレイブビーツ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "brave-beats"
+      }
+    }
+  }
+}

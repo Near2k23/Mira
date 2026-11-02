@@ -1,0 +1,13 @@
+{
+  "tmdb": 80834,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Shoujo ☆ Kageki Revue Starlight",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shoujokageki-revue-starlight"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 87476,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nobunaga Teacher's Young Bride",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nobunagasensei-no-osanazuma"
+      }
+    }
+  }
+}

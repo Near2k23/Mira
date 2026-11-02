@@ -1,0 +1,13 @@
+{
+  "tmdb": 82046,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Double Decker! Doug & Kirill",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "double-decker-doug-kirill"
+      }
+    }
+  }
+}

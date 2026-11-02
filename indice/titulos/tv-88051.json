@@ -1,0 +1,13 @@
+{
+  "tmdb": 88051,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "To the Abandoned Sacred Beasts",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "katsute-kami-datta-kemonotachi-e"
+      }
+    }
+  }
+}

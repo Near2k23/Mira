@@ -1,0 +1,14 @@
+{
+  "tmdb": 78617,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "高橋留美子劇場 人魚の森",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mermaid-forest"
+      }
+    }
+  },
+  "nota": "tioanime mermaid-forest: 13 cap. vs 11 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 76494,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ETOTAMA",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "etotama"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 82522,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "RErideD: Tokigoe no Derrida",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rerided-tokigoe-no-derrida"
+      }
+    }
+  }
+}

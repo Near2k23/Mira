@@ -1,0 +1,13 @@
+{
+  "tmdb": 75775,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Junji Ito Collection",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ito-junji-collection"
+      }
+    }
+  }
+}

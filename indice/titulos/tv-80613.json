@@ -1,0 +1,13 @@
+{
+  "tmdb": 80613,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Back Street Girls: Gokudols",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "back-street-girls-gokudolls"
+      }
+    }
+  }
+}

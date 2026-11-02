@@ -1,0 +1,13 @@
+{
+  "tmdb": 88047,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "あんさんぶるスターズ！",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ensemble-stars"
+      }
+    }
+  }
+}

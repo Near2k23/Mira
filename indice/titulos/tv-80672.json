@@ -1,0 +1,13 @@
+{
+  "tmdb": 80672,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "少年陰陽師",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shounen-onmyouji"
+      }
+    }
+  }
+}

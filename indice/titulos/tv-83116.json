@@ -1,0 +1,13 @@
+{
+  "tmdb": 83116,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "How clumsy you are, Miss Ueno.",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uenosan-wa-bukiyou"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 82895,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "SSSS.Gridman",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ssssgridman"
+      }
+    }
+  }
+}

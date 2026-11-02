@@ -1,0 +1,13 @@
+{
+  "tmdb": 83103,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Domestic Girlfriend",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "domestic-na-kanojo"
+      }
+    }
+  }
+}

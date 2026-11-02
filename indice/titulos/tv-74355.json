@@ -1,0 +1,13 @@
+{
+  "tmdb": 74355,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "大正メビウスライン ちっちゃいさん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "taishou-chicchaisan"
+      }
+    }
+  }
+}

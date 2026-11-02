@@ -1,0 +1,13 @@
+{
+  "tmdb": 83102,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Girly Air Force",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "girly-air-force"
+      }
+    }
+  }
+}

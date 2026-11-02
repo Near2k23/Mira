@@ -1,0 +1,13 @@
+{
+  "tmdb": 82865,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gakuen Basara",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gakuen-basara"
+      }
+    }
+  }
+}

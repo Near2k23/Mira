@@ -1,0 +1,14 @@
+{
+  "tmdb": 75863,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hakyuu Houshin Engi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hakyuu-houshin-engi"
+      }
+    }
+  },
+  "nota": "tioanime hakyuu-houshin-engi: 24 cap. vs 23 en TMDB T1; revisar."
+}

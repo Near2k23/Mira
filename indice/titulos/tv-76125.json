@@ -1,0 +1,13 @@
+{
+  "tmdb": 76125,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Record of Grancrest War",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "grancrest-senki"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 77175,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "そにアニ -SUPER SONICO THE ANIMATION-",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "super-sonico-the-animation"
+      }
+    }
+  }
+}

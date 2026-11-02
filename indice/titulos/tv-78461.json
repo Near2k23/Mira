@@ -1,0 +1,13 @@
+{
+  "tmdb": 78461,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "宇宙戦艦ティラミス",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uchuu-senkan-tiramisu-ii"
+      }
+    }
+  }
+}

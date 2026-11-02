@@ -1,0 +1,13 @@
+{
+  "tmdb": 78481,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Last Period: the journey to the end of the despair",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "last-period-owarinaki-rasen-no-monogatari"
+      }
+    }
+  }
+}

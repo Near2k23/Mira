@@ -1,0 +1,13 @@
+{
+  "tmdb": 76134,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "三ツ星カラーズ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mitsuboshi-colors"
+      }
+    }
+  }
+}

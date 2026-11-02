@@ -1,0 +1,15 @@
+{
+  "tmdb": 87473,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yatogame-chan Kansatsu Nikki",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yatogamechan-kansatsu-nikki",
+        "2": "yatogamechan-kansatsu-nikki-nisatsume",
+        "4": "yatogamechan-kansatsu-nikki-4th-season"
+      }
+    }
+  }
+}

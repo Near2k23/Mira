@@ -1,0 +1,13 @@
+{
+  "tmdb": 87447,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kabukicho Sherlock",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kabukichou-sherlock"
+      }
+    }
+  }
+}

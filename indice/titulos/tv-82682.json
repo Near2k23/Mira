@@ -1,0 +1,13 @@
+{
+  "tmdb": 82682,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Akanesasu Shoujo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "akanesasu-shoujo"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 87693,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Strike Witches: 501 Butai Hasshin Shimasu!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "strike-witches-501-butai-hasshin-shimasu",
+        "2": "world-witches-hasshin-shimasu"
+      }
+    }
+  }
+}

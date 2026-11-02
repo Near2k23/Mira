@@ -1,0 +1,13 @@
+{
+  "tmdb": 80448,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tsukumogami Kashimasu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tsukumogami-kashimasu"
+      }
+    }
+  }
+}

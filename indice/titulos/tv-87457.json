@@ -1,0 +1,13 @@
+{
+  "tmdb": 87457,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "消滅都市",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "shoumetsu-toshi"
+      }
+    }
+  }
+}

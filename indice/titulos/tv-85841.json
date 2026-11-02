@@ -1,0 +1,13 @@
+{
+  "tmdb": 85841,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Magmell Ultramarino",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gunjou-no-magmel"
+      }
+    }
+  }
+}

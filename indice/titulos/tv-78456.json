@@ -1,0 +1,14 @@
+{
+  "tmdb": 78456,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Alice or Alice",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "alice-or-alice-siscon-niisan-to-futago-no-imouto"
+      }
+    }
+  },
+  "nota": "tioanime alice-or-alice-siscon-niisan-to-futago-no-imouto: 12 cap. vs 13 en TMDB T1; revisar."
+}

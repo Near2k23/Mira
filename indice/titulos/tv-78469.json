@@ -1,0 +1,13 @@
+{
+  "tmdb": 78469,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dances with the Dragons",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "saredo-tsumibito-wa-ryuu-to-odoru"
+      }
+    }
+  }
+}

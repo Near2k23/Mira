@@ -1,0 +1,13 @@
+{
+  "tmdb": 77729,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Cutie Honey Universe",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "cutie-honey-universe"
+      }
+    }
+  }
+}

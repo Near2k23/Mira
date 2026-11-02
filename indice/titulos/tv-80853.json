@@ -1,0 +1,14 @@
+{
+  "tmdb": 80853,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Muhyo & Roji's Bureau of Supernatural Investigation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "muhyo-to-rouji-no-mahouritsu-soudan-jimusho",
+        "2": "muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season"
+      }
+    }
+  }
+}

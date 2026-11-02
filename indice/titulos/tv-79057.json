@@ -1,0 +1,13 @@
+{
+  "tmdb": 79057,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Majin Bone",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "majin-bone"
+      }
+    }
+  }
+}

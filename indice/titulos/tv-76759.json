@@ -1,0 +1,13 @@
+{
+  "tmdb": 76759,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "GeGeGe no Kitaro",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gegege-no-kitarou-2018"
+      }
+    }
+  }
+}

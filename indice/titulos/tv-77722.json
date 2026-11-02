@@ -1,0 +1,13 @@
+{
+  "tmdb": 77722,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Caligula",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "caligula"
+      }
+    }
+  }
+}

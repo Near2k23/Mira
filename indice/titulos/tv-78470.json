@@ -1,0 +1,13 @@
+{
+  "tmdb": 78470,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Gurazeni: Money Pitch",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gurazeni-season-2"
+      }
+    }
+  }
+}

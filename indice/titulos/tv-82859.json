@@ -1,0 +1,13 @@
+{
+  "tmdb": 82859,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hinomaru Sumo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hinomaruzumou"
+      }
+    }
+  }
+}

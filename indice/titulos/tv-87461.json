@@ -1,0 +1,13 @@
+{
+  "tmdb": 87461,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Helpful Fox Senko-san",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sewayaki-kitsune-no-senkosan"
+      }
+    }
+  }
+}

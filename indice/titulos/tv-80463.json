@@ -1,0 +1,13 @@
+{
+  "tmdb": 80463,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Chuukan Kanriroku Tonegawa",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chuukan-kanriroku-tonegawa"
+      }
+    }
+  }
+}

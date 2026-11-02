@@ -1,0 +1,13 @@
+{
+  "tmdb": 88490,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KING OF PRISM: Shiny Seven Stars",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "king-of-prism-shiny-seven-stars"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 76895,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ちょこッとSister",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chocotto-sister"
+      }
+    }
+  }
+}

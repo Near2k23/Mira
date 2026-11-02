@@ -1,0 +1,13 @@
+{
+  "tmdb": 83150,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Voice of Fox",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kitsune-no-koe"
+      }
+    }
+  }
+}

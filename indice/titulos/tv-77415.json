@@ -1,0 +1,13 @@
+{
+  "tmdb": 77415,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yotsuiro Biyori",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "rokuhoudou-yotsuiro-biyori"
+      }
+    }
+  }
+}

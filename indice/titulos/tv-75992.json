@@ -1,0 +1,13 @@
+{
+  "tmdb": 75992,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Mikakunin de Shinkoukei",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mikakunin-de-shinkoukei"
+      }
+    }
+  }
+}

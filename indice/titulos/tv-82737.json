@@ -1,0 +1,13 @@
+{
+  "tmdb": 82737,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ulysses-jehanne-darc-to-renkin-no-kishi"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 82929,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Anima Yell!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "anima-yell"
+      }
+    }
+  }
+}

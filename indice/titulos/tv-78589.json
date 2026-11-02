@@ -1,0 +1,14 @@
+{
+  "tmdb": 78589,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "KINMOZA!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kiniro-mosaic",
+        "2": "kiniro-mosaic-2"
+      }
+    }
+  }
+}

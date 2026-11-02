@@ -1,0 +1,14 @@
+{
+  "tmdb": 86823,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "みるタイツ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "miru-tights"
+      }
+    }
+  },
+  "nota": "tioanime miru-tights: 12 cap. vs 13 en TMDB T1; revisar."
+}

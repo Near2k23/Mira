@@ -1,0 +1,13 @@
+{
+  "tmdb": 77702,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sitio Web de Chicas Mágicas",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mahou-shoujo-site"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 87445,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "川柳少女",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "senryuu-shoujo"
+      }
+    }
+  }
+}

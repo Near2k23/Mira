@@ -1,0 +1,14 @@
+{
+  "tmdb": 82822,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Zombie Land Saga",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "zombieland-saga",
+        "2": "zombieland-saga-revenge"
+      }
+    }
+  }
+}

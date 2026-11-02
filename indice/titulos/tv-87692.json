@@ -1,0 +1,13 @@
+{
+  "tmdb": 87692,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "AMAZING STRANGER",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "chou-kadou-girl-16-amazing-stranger"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 78474,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Omae wa Mada Gunma wo Shiranai",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "omae-wa-mada-gunma-wo-shiranai"
+      }
+    }
+  }
+}

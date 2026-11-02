@@ -1,0 +1,14 @@
+{
+  "tmdb": 78476,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Major 2nd",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "major-2nd-tv",
+        "2": "major-2nd-tv-2nd-season"
+      }
+    }
+  }
+}

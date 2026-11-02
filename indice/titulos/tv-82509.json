@@ -1,0 +1,14 @@
+{
+  "tmdb": 82509,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Sumomomo Momomo",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sumomomo-momomo"
+      }
+    }
+  },
+  "nota": "tioanime sumomomo-momomo: 24 cap. vs 22 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 85990,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hitoribocchi no Marumaruseikatsu",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hitoribocchi-no-seikatsu"
+      }
+    }
+  }
+}

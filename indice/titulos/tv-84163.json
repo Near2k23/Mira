@@ -1,0 +1,13 @@
+{
+  "tmdb": 84163,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Boogiepop and Others",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "boogiepop-wa-warawanai-2019"
+      }
+    }
+  }
+}

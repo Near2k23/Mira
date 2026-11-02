@@ -1,0 +1,13 @@
+{
+  "tmdb": 78475,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Libra of Nil Admirari",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nil-admirari-no-tenbin-teito-genwaku-kitan"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 77123,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "探偵チームKZ事件ノート",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tantei-team-kz-jiken-note"
+      }
+    }
+  }
+}

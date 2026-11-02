@@ -1,0 +1,13 @@
+{
+  "tmdb": 80623,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Baki",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "2": "baki-dai-raitaisaihen"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tmdb": 74956,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "テルマエ・ロマエ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "thermae-romae"
+      }
+    }
+  },
+  "nota": "tioanime thermae-romae: 7 cap. vs 6 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 74411,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "変ゼミ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hen-zemi"
+      }
+    }
+  }
+}

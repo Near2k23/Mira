@@ -1,0 +1,14 @@
+{
+  "tmdb": 77721,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "3D Kanojo: Real Girl",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "3d-kanojo-real-girl",
+        "2": "3d-kanojo-real-girl-2nd-season"
+      }
+    }
+  }
+}

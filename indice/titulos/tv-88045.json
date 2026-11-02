@@ -1,0 +1,13 @@
+{
+  "tmdb": 88045,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "How Heavy Are the Dumbbells You Lift?",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dumbbell-nan-kilo-moteru"
+      }
+    }
+  }
+}

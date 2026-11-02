@@ -1,0 +1,13 @@
+{
+  "tmdb": 83042,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Merc StoriA: The Apathetic Boy and the Girl in a Bottle",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "merc-storia-mukiryoku-no-shounen-to-bin-no-naka-no-shoujo"
+      }
+    }
+  }
+}

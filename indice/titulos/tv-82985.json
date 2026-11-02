@@ -1,0 +1,13 @@
+{
+  "tmdb": 82985,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "アイドルマスター SideM 理由あってMini!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "the-idolmster-sidem-wake-atte-mini"
+      }
+    }
+  }
+}

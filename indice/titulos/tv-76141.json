@@ -1,0 +1,13 @@
+{
+  "tmdb": 76141,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Ryuo's Work is Never Done!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ryuuou-no-oshigoto"
+      }
+    }
+  }
+}

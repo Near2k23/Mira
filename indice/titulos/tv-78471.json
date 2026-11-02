@@ -1,0 +1,13 @@
+{
+  "tmdb": 78471,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Piano no Mori",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "piano-no-mori-tv"
+      }
+    }
+  }
+}

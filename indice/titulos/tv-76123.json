@@ -1,0 +1,13 @@
+{
+  "tmdb": 76123,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Fate/Extra Last Encore",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fateextra-last-encore"
+      }
+    }
+  }
+}

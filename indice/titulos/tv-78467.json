@@ -1,0 +1,13 @@
+{
+  "tmdb": 78467,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Crossing Time",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "fumikiri-jikan"
+      }
+    }
+  }
+}

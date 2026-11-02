@@ -1,0 +1,14 @@
+{
+  "tmdb": 85177,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Katana Maidens: Mini Toji",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "mini-toji"
+      }
+    }
+  },
+  "nota": "tioanime mini-toji: 11 cap. vs 10 en TMDB T1; revisar."
+}

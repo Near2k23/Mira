@@ -1,0 +1,13 @@
+{
+  "tmdb": 76645,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Ai Tenchi Muyo!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ai-tenchi-muyo"
+      }
+    }
+  }
+}

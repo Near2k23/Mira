@@ -1,0 +1,14 @@
+{
+  "tmdb": 84669,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "The Quintessential Quintuplets (Go-Toubun no Hanayome)",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "gotoubun-no-hanayome",
+        "2": "gotoubun-no-hanayome-2nd-season"
+      }
+    }
+  }
+}

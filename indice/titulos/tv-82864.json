@@ -1,0 +1,14 @@
+{
+  "tmdb": 82864,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "UzaMaid!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "uchi-no-maid-ga-uzasugiru"
+      }
+    }
+  },
+  "nota": "tioanime uchi-no-maid-ga-uzasugiru: 13 cap. vs 12 en TMDB T1; revisar."
+}

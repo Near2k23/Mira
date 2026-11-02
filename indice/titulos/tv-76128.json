@@ -1,0 +1,19 @@
+{
+  "tmdb": 76128,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "IDOLiSH7",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "idolish7",
+        "2": "idolish7-second-beat",
+        "3": "idolish7-third-beat"
+      },
+      "desfase": {
+        "1": 1
+      }
+    }
+  },
+  "nota": "tioanime idolish7: 16 cap. vs 17 en TMDB T1; revisar."
+}

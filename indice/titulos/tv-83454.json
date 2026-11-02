@@ -1,0 +1,13 @@
+{
+  "tmdb": 83454,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "荒野のコトブキ飛行隊",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kouya-no-kotobuki-hikoutai"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "tmdb": 75865,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Karakai Jozu no Takagi-san",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "karakai-jouzu-no-takagisan",
+        "2": "karakai-jouzu-no-takagisan-2",
+        "3": "karakai-jouzu-no-takagisan-3"
+      }
+    }
+  },
+  "nota": "tioanime karakai-jouzu-no-takagisan: 13 cap. vs 12 en TMDB T1; revisar."
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 80464,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Holmes of Kyoto",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kyoto-teramachi-sanjou-no-holmes"
+      }
+    }
+  }
+}

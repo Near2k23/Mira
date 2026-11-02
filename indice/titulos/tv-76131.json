@@ -1,0 +1,13 @@
+{
+  "tmdb": 76131,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "刻刻",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kokkoku"
+      }
+    }
+  }
+}

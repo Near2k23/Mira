@@ -1,0 +1,13 @@
+{
+  "tmdb": 75975,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "多田くんは恋をしない",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tadakun-wa-koi-wo-shinai"
+      }
+    }
+  }
+}

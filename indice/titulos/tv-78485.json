@@ -1,0 +1,13 @@
+{
+  "tmdb": 78485,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Isekai Izakaya: Japanese Food From Another World",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-izakaya-koto-aitheria-no-izakaya-nobu"
+      }
+    }
+  }
+}

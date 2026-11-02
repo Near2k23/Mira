@@ -1,0 +1,13 @@
+{
+  "tmdb": 78473,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Pilotos de dragón: Hisone to Masotan",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hisone-to-masotan"
+      }
+    }
+  }
+}

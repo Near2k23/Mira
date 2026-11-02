@@ -1,0 +1,13 @@
+{
+  "tmdb": 80500,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yozakura Quartet: Hana no Uta",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yozakura-quartet-hana-no-uta"
+      }
+    }
+  }
+}

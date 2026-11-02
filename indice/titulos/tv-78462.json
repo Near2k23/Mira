@@ -1,0 +1,13 @@
+{
+  "tmdb": 78462,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "デビルズライン",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "devils-line"
+      }
+    }
+  }
+}

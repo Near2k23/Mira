@@ -1,0 +1,13 @@
+{
+  "tmdb": 82905,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Release the Spyce",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "release-the-spyce"
+      }
+    }
+  }
+}

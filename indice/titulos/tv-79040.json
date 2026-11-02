@@ -1,0 +1,14 @@
+{
+  "tmdb": 79040,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "じょしらく",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "joshiraku"
+      }
+    }
+  },
+  "nota": "tioanime joshiraku: 14 cap. vs 13 en TMDB T1; revisar."
+}

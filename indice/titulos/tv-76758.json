@@ -1,0 +1,13 @@
+{
+  "tmdb": 76758,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hinamatsuri",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hinamatsuri"
+      }
+    }
+  }
+}

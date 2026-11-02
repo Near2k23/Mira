@@ -1,0 +1,13 @@
+{
+  "tmdb": 82736,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Tonari no Kyuuketsuki-san",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "tonari-no-kyuuketsukisan"
+      }
+    }
+  }
+}

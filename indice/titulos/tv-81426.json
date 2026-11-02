@@ -1,0 +1,13 @@
+{
+  "tmdb": 81426,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "乙女はお姉さまに恋してる",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "otome-wa-boku-ni-koishiteru"
+      }
+    }
+  }
+}

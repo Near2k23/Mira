@@ -1,0 +1,13 @@
+{
+  "tmdb": 79033,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "HIGH SCORE",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "high-score"
+      }
+    }
+  }
+}

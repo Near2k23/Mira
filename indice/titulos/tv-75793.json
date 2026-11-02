@@ -1,0 +1,13 @@
+{
+  "tmdb": 75793,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ラーメン大好き小泉さん",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ramen-daisuki-koizumisan"
+      }
+    }
+  }
+}

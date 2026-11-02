@@ -1,0 +1,13 @@
+{
+  "tmdb": 88042,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "O Maidens in Your Savage Season",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "araburu-kisetsu-no-otomedomo-yo"
+      }
+    }
+  }
+}

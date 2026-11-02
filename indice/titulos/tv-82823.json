@@ -1,0 +1,13 @@
+{
+  "tmdb": 82823,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kishuku Gakkou no Juliet",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kishuku-gakkou-no-juliet"
+      }
+    }
+  }
+}

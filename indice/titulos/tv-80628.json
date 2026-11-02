@@ -1,0 +1,13 @@
+{
+  "tmdb": 80628,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Yume Oukoku to Nemureru 100 Nin no Ouji-sama",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "yume-oukoku-to-nemureru-100-nin-no-oujisama"
+      }
+    }
+  }
+}

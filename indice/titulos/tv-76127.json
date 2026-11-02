@@ -1,0 +1,13 @@
+{
+  "tmdb": 76127,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Hakumei to Mikochi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "hakumei-to-mikochi"
+      }
+    }
+  }
+}

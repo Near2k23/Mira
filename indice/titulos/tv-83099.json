@@ -1,0 +1,13 @@
+{
+  "tmdb": 83099,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "W'z",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "wz"
+      }
+    }
+  }
+}

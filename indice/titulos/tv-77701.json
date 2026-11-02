@@ -1,0 +1,14 @@
+{
+  "tmdb": 77701,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "PERSONA5 the Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "persona-5-the-animation"
+      }
+    }
+  },
+  "nota": "tioanime persona-5-the-animation: 28 cap. vs 26 en TMDB T1; revisar."
+}

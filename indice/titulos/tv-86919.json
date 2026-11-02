@@ -1,0 +1,13 @@
+{
+  "tmdb": 86919,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "さらざんまい",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "sarazanmai"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 80546,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Harukana Receive",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "harukana-receive"
+      }
+    }
+  }
+}

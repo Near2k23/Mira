@@ -1,0 +1,13 @@
+{
+  "tmdb": 82766,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kaze ga Tsuyoku Fuiteiru",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kaze-ga-tsuyoku-fuiteiru"
+      }
+    }
+  }
+}

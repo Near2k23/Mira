@@ -1,0 +1,13 @@
+{
+  "tmdb": 83019,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "My Sister, My Writer",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 82692,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Xuan Yuan Sword Luminary",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "ken-en-ken-aoki-kagayaki"
+      }
+    }
+  }
+}

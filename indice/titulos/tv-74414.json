@@ -1,0 +1,13 @@
+{
+  "tmdb": 74414,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ラムネ",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "lamune"
+      }
+    }
+  }
+}

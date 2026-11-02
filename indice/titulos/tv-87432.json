@@ -1,0 +1,13 @@
+{
+  "tmdb": 87432,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "We Never Learn: BOKUBEN",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bokutachi-wa-benkyou-ga-dekinai-2"
+      }
+    }
+  }
+}

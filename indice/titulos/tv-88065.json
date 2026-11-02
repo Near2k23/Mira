@@ -1,0 +1,13 @@
+{
+  "tmdb": 88065,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Kochoki",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kochouki-wakaki-nobunaga"
+      }
+    }
+  }
+}

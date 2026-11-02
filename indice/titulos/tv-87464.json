@@ -1,0 +1,13 @@
+{
+  "tmdb": 87464,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "RobiHachi",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "robihachi"
+      }
+    }
+  }
+}

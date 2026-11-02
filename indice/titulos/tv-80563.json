@@ -1,0 +1,14 @@
+{
+  "tmdb": 80563,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "How Not to Summon a Demon Lord",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu",
+        "2": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-o"
+      }
+    }
+  }
+}

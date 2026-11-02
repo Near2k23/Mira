@@ -1,0 +1,13 @@
+{
+  "tmdb": 79288,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Planet With",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "planet-with"
+      }
+    }
+  }
+}

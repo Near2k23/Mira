@@ -1,0 +1,13 @@
+{
+  "tmdb": 76120,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "ダメプリ ANIME CARAVAN",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "dame-x-prince-anime-caravan"
+      }
+    }
+  }
+}

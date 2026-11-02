@@ -1,0 +1,13 @@
+{
+  "tmdb": 80460,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Senjuushi (The Thousand Noble Musketeers)",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "senjuushi"
+      }
+    }
+  }
+}

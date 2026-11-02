@@ -1,0 +1,13 @@
+{
+  "tmdb": 83054,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Karakuri Circus",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "karakuri-circus"
+      }
+    }
+  }
+}

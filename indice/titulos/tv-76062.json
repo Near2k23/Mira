@@ -1,0 +1,13 @@
+{
+  "tmdb": 76062,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Beatless",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "beatless"
+      }
+    }
+  }
+}

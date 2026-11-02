@@ -1,0 +1,13 @@
+{
+  "tmdb": 75864,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Katana Maidens: Toji no Miko",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "toji-no-miko"
+      }
+    }
+  }
+}

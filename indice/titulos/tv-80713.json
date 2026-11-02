@@ -1,0 +1,16 @@
+{
+  "tmdb": 80713,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Dropkick on My Devil!!",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "jashinchan-dropkick",
+        "2": "jashinchan-dropkick-s2",
+        "3": "jashinchan-dropkick-x"
+      }
+    }
+  },
+  "nota": "tioanime jashinchan-dropkick-s2: 12 cap. vs 11 en TMDB T2; revisar. tioanime jashinchan-dropkick: 12 cap. vs 11 en TMDB T1; revisar."
+}

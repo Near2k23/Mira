@@ -1,0 +1,13 @@
+{
+  "tmdb": 84663,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Bermuda Triangle: Colorful Pastrale",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "bermuda-triangle-colorful-pastrale"
+      }
+    }
+  }
+}

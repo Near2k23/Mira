@@ -1,0 +1,13 @@
+{
+  "tmdb": 79044,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "君が主で執事が俺で",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "kimi-ga-aruji-de-shitsuji-ga-ore-de"
+      }
+    }
+  }
+}

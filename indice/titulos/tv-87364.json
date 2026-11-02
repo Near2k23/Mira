@@ -1,0 +1,13 @@
+{
+  "tmdb": 87364,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Nyanpire The Animation",
+  "fuentes": {
+    "tioanime": {
+      "temporadas": {
+        "1": "nyanpire-the-animation"
+      }
+    }
+  }
+}
