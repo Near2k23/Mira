@@ -1,8 +1,8 @@
 {
- "fase": "changes",
+ "fase": "fin",
  "pagina": 0,
  "cambios": {},
- "revisados": 44348,
+ "revisados": 55946,
  "agregados": [
   "movie-1400837 Madre siniestra",
   "movie-1507696 Apocalipsis Z: Nuevo mundo",
@@ -86,16 +86,34 @@
   "movie-960876 Destino: Londres",
   "movie-1072074 Inquietud",
   "movie-1415974 Solitaria es la noche: Los crímenes de la familia Bansal",
-  "movie-39514 RED"
+  "movie-39514 RED",
+  "movie-38778 Una cena para tontos",
+  "movie-1045644 Minions y sus amigos: Volumen 2",
+  "movie-11259 Un horizonte lejano",
+  "movie-999075 La chica zurda",
+  "movie-987400 Batman Azteca: Choque de imperios",
+  "movie-1319965 Todo de ti",
+  "movie-1282980 Carretera Forestal",
+  "movie-69668 Detras De Las Paredes",
+  "movie-1321439 El otro París",
+  "movie-9533 Dragón Rojo",
+  "movie-347629 Gracias por tu servicio",
+  "movie-1161617 Código 3",
+  "movie-638960 La Nave",
+  "movie-294016 Trumbo: La lista negra de Hollywood",
+  "movie-76493 El Dictador",
+  "movie-14637 Nada más que la verdad",
+  "movie-1058949 Pequeña Dixie"
  ],
  "saltados": {
-  "ya existía": 2581,
-  "no está en vimeus": 41637,
-  "animación japonesa (va en anime)": 47
+  "ya existía": 3863,
+  "no está en vimeus": 51931,
+  "animación japonesa (va en anime)": 52
  },
  "temporadas_nuevas": [],
  "ventana": 16,
  "paginas_recorridas": 563,
  "cambios_total": 48116,
- "idx": 35800
+ "idx": 48120,
+ "terminado": true
 }
