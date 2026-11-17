@@ -1,0 +1,14 @@
+{
+  "tmdb": 328010,
+  "tipo": "tv",
+  "categoria": "anime",
+  "titulo": "Devils' Crest",
+  "fuentes": {
+    "animeav1": {
+      "temporadas": {
+        "1": "demons-crest"
+      }
+    }
+  },
+  "nota": "animeav1 2026: 3 cap. publicados de 4 en TMDB (en emisión)."
+}
