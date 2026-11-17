@@ -1,13 +1,15 @@
 {
  "revisados": {
-  "animeav1": 0,
+  "animeav1": 1,
   "tioanime": 1
  },
  "paginas": {
-  "animeav1": 2,
+  "animeav1": 3,
   "tioanime": 3
  },
- "agregados": [],
+ "agregados": [
+  "tv-328010 Devils' Crest [animeav1]"
+ ],
  "saltados": [
   {
    "sitio": "tioanime",
@@ -16,6 +18,8 @@
   }
  ],
  "temporadas_nuevas": [],
- "notas": [],
+ "notas": [
+  "tv-328010.json"
+ ],
  "terminado": true
 }

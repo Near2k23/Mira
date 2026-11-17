@@ -1,0 +1,158 @@
+{
+ "fase": "fin",
+ "pagina": 0,
+ "cambios": {},
+ "revisados": 25235,
+ "agregados": [
+  "tv-292741 Nocturno",
+  "tv-254630 12 12 12",
+  "tv-303044 Campus Drivers",
+  "tv-303182 El crimen de Pazos",
+  "tv-297491 Palacio",
+  "tv-314271 Bass X Machina",
+  "tv-2723 Samurai Jack",
+  "tv-31109 Ben 10: Supremacía Alienígena",
+  "tv-44006 Chicago en llamas",
+  "tv-58841 Policías de Chicago",
+  "tv-234310 Buscando a Wanda",
+  "tv-39340 2 Chicas Quebradas",
+  "tv-6040 Ben 10: Fuerza Alienígena",
+  "tv-4239 Casados con hijos",
+  "tv-16286 Yo soy Betty, la fea",
+  "tv-580 Viaje a las estrellas: Espacio Profundo Nueve",
+  "tv-332863 En Coma",
+  "tv-91941 Órfãos da Terra",
+  "tv-287618 Eres Mi Sangre"
+ ],
+ "saltados": {
+  "ya existía": 2670,
+  "dorama (va en doramas)": 401,
+  "animación japonesa (va en anime)": 28,
+  "no está en vimeus": 21876,
+  "reality/talk show/noticias": 241
+ },
+ "temporadas_nuevas": [
+  {
+   "archivo": "tv-279412.json",
+   "titulo": "ふったらどしゃぶり",
+   "temporadas": [
+    2
+   ],
+   "fuentes": [
+    "doramasflix"
+   ],
+   "requiere_revision": true
+  },
+  {
+   "archivo": "tv-85077.json",
+   "titulo": "Los elegidos",
+   "temporadas": [
+    6
+   ],
+   "fuentes": [
+    "vimeus",
+    "embed69"
+   ],
+   "requiere_revision": false
+  },
+  {
+   "archivo": "tv-84773.json",
+   "titulo": "El Señor de los Anillos: Los Anillos de Poder",
+   "temporadas": [
+    3
+   ],
+   "fuentes": [
+    "vimeus",
+    "embed69"
+   ],
+   "requiere_revision": false
+  },
+  {
+   "archivo": "tv-226102.json",
+   "titulo": "크래시",
+   "temporadas": [
+    2
+   ],
+   "fuentes": [
+    "doramasflix"
+   ],
+   "requiere_revision": true
+  },
+  {
+   "archivo": "tv-248830.json",
+   "titulo": "Stick: El swing perfecto",
+   "temporadas": [
+    2
+   ],
+   "fuentes": [
+    "vimeus",
+    "embed69"
+   ],
+   "requiere_revision": false
+  },
+  {
+   "archivo": "tv-225385.json",
+   "titulo": "Palomas negras",
+   "temporadas": [
+    2
+   ],
+   "fuentes": [
+    "vimeus",
+    "embed69"
+   ],
+   "requiere_revision": false
+  },
+  {
+   "archivo": "tv-214582.json",
+   "titulo": "El plan del diablo",
+   "temporadas": [
+    3
+   ],
+   "fuentes": [
+    "doramasflix"
+   ],
+   "requiere_revision": true
+  },
+  {
+   "archivo": "tv-262352.json",
+   "titulo": "The Assassin",
+   "temporadas": [
+    2
+   ],
+   "fuentes": [
+    "vimeus",
+    "embed69"
+   ],
+   "requiere_revision": false
+  },
+  {
+   "archivo": "tv-112745.json",
+   "titulo": "Nos conocimos en Estambul",
+   "temporadas": [
+    2
+   ],
+   "fuentes": [
+    "vimeus",
+    "embed69"
+   ],
+   "requiere_revision": false
+  },
+  {
+   "archivo": "tv-131488.json",
+   "titulo": "La emperatriz",
+   "temporadas": [
+    3
+   ],
+   "fuentes": [
+    "vimeus",
+    "embed69"
+   ],
+   "requiere_revision": false
+  }
+ ],
+ "ventana": 16,
+ "paginas_recorridas": 108,
+ "cambios_total": 24465,
+ "idx": 24480,
+ "terminado": true
+}
