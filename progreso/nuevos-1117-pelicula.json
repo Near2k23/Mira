@@ -2,7 +2,7 @@
  "fase": "changes",
  "pagina": 0,
  "cambios": {},
- "revisados": 15797,
+ "revisados": 28123,
  "agregados": [
   "movie-1400837 Madre siniestra",
   "movie-1507696 Apocalipsis Z: Nuevo mundo",
@@ -36,16 +36,41 @@
   "movie-1083420 Adulthood",
   "movie-1204680 Coyote vs. Acme",
   "movie-928833 El inicio del mundo de Craig",
-  "movie-1140521 El Árbol Mágico"
+  "movie-1140521 El Árbol Mágico",
+  "movie-1062907 Guns & Moses",
+  "movie-1276019 Restless",
+  "movie-574452 Waltzing with Brando",
+  "movie-1741456 Final Orbit",
+  "movie-1263337 El corazón de la bestia",
+  "movie-14430 La Ley de Herodes",
+  "movie-227200 Barbie Y Sus Hermanas En Una Historia De Ponis",
+  "movie-653664 Cena en America",
+  "movie-11667 Street Fighter: La última batalla",
+  "movie-592230 Quantum de sangre",
+  "movie-1667198 The Amazing Digital Circus: El ultimo acto",
+  "movie-1154728 Six jours, ce printemps-là",
+  "movie-645710 Los Voyeristas",
+  "movie-1465063 La isla olvidada",
+  "movie-1663384 Played In My Face",
+  "movie-755898 La guerra de los mundos",
+  "movie-891 Todos los Hombres del Presidente",
+  "movie-45190 Su Excelencia",
+  "movie-719256 La revolución de Jesús",
+  "movie-1235192 Wormtown",
+  "movie-1062402 Bang Bang",
+  "movie-957121 El hombre de abajo",
+  "movie-56288 Mini espías 4: Los ladrones del tiempo",
+  "movie-1078862 A Todas Partes",
+  "movie-736554 Tequila RePasado"
  ],
  "saltados": {
-  "ya existía": 536,
-  "no está en vimeus": 15196,
-  "animación japonesa (va en anime)": 32
+  "ya existía": 1430,
+  "no está en vimeus": 26598,
+  "animación japonesa (va en anime)": 37
  },
  "temporadas_nuevas": [],
  "ventana": 16,
  "paginas_recorridas": 563,
  "cambios_total": 48116,
- "idx": 5520
+ "idx": 18800
 }
