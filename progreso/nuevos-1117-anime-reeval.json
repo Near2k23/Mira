@@ -1,0 +1,64 @@
+{
+ "revisados": {
+  "animeav1": 3,
+  "tioanime": 5
+ },
+ "paginas": {
+  "animeav1": 3,
+  "tioanime": 3
+ },
+ "agregados": [],
+ "saltados": [
+  {
+   "sitio": "animeav1",
+   "id_o_slug": "watashi-no-shiawase-na-kekkon-special",
+   "motivo": "OVA/especial"
+  },
+  {
+   "sitio": "animeav1",
+   "id_o_slug": "cyberpunk-edgerunners-2",
+   "motivo": "no encontrado en TMDB (ja+animación+año/episodios)"
+  },
+  {
+   "sitio": "animeav1",
+   "id_o_slug": "tensei-shitara-ken-deshita-ii",
+   "motivo": "ya existía; temporada nueva pendiente"
+  },
+  {
+   "sitio": "tioanime",
+   "id_o_slug": "demons-crest",
+   "motivo": "OVA/especial"
+  },
+  {
+   "sitio": "tioanime",
+   "id_o_slug": "cyberpunk-edgerunners-2",
+   "motivo": "OVA/especial"
+  },
+  {
+   "sitio": "tioanime",
+   "id_o_slug": "kaijuu-8gou-narumi-no-heijitsu",
+   "motivo": "OVA/especial"
+  },
+  {
+   "sitio": "tioanime",
+   "id_o_slug": "the-ribbon-hero",
+   "motivo": "OVA/especial"
+  },
+  {
+   "sitio": "tioanime",
+   "id_o_slug": "boku-no-hero-academia-i-am-a-hero-too",
+   "motivo": "OVA/especial"
+  }
+ ],
+ "temporadas_nuevas": [
+  {
+   "archivo": "tv-134667.json",
+   "titulo": "Reincarnated as a Sword",
+   "sitio": "animeav1",
+   "slug": "tensei-shitara-ken-deshita-ii",
+   "temporada": 2
+  }
+ ],
+ "notas": [],
+ "terminado": true
+}
