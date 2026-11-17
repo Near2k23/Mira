@@ -2,7 +2,7 @@
  "fase": "changes",
  "pagina": 0,
  "cambios": {},
- "revisados": 28123,
+ "revisados": 44348,
  "agregados": [
   "movie-1400837 Madre siniestra",
   "movie-1507696 Apocalipsis Z: Nuevo mundo",
@@ -61,16 +61,41 @@
   "movie-957121 El hombre de abajo",
   "movie-56288 Mini espías 4: Los ladrones del tiempo",
   "movie-1078862 A Todas Partes",
-  "movie-736554 Tequila RePasado"
+  "movie-736554 Tequila RePasado",
+  "movie-958340 A cierta edad",
+  "movie-1083308 Casando a mi Ex",
+  "movie-1327445 Un cuento de pescadores: La maldición de La Miringua",
+  "movie-1402719 La posada",
+  "movie-1462861 Spider Island",
+  "movie-642 Dos hombres y un destino",
+  "movie-1634790 Elimination Chamber",
+  "movie-1265344 Match: La reina de las apps de citas",
+  "movie-973471 Juego de Sacrificio",
+  "movie-952875 El final que quiero",
+  "movie-797815 La huésped maldita",
+  "movie-1204912 Enfrentando la navidad",
+  "movie-634904 Herencia venonosa",
+  "movie-463272 Johnny English 3.0",
+  "movie-1123278 El ultimo refugio",
+  "movie-865686 Hasta nunca",
+  "movie-1105736 Sombras del pasado",
+  "movie-1744151 Three Housewives and a Body",
+  "movie-828853 Jackass 4.5",
+  "movie-1199840 Mientras Cupido no está",
+  "movie-1575535 Tormento",
+  "movie-960876 Destino: Londres",
+  "movie-1072074 Inquietud",
+  "movie-1415974 Solitaria es la noche: Los crímenes de la familia Bansal",
+  "movie-39514 RED"
  ],
  "saltados": {
-  "ya existía": 1430,
-  "no está en vimeus": 26598,
-  "animación japonesa (va en anime)": 37
+  "ya existía": 2581,
+  "no está en vimeus": 41637,
+  "animación japonesa (va en anime)": 47
  },
  "temporadas_nuevas": [],
  "ventana": 16,
  "paginas_recorridas": 563,
  "cambios_total": 48116,
- "idx": 18800
+ "idx": 35800
 }
