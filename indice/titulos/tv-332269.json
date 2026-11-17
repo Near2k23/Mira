@@ -1,0 +1,13 @@
+{
+  "tmdb": 332269,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "옆자리, 프란체스카",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "francesca-next-door"
+      }
+    }
+  }
+}

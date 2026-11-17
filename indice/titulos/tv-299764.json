@@ -1,0 +1,13 @@
+{
+  "tmdb": 299764,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "뜨거운 안녕",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "happy-anding"
+      }
+    }
+  }
+}

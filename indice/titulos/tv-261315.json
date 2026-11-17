@@ -1,0 +1,13 @@
+{
+  "tmdb": 261315,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "十万狂花入梦来",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "blossom-in-darkness"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 312661,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Milagros en la sala de urgencias",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "miracles-of-the-er"
+      }
+    }
+  }
+}

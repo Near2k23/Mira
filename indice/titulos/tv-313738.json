@@ -1,0 +1,13 @@
+{
+  "tmdb": 313738,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "유일무이 로맨스",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "one-of-a-kind-romance"
+      }
+    }
+  }
+}

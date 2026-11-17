@@ -1,0 +1,13 @@
+{
+  "tmdb": 325689,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "แฟนลับครับผม",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "my-secret-boyfriends"
+      }
+    }
+  }
+}

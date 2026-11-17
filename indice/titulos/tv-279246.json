@@ -1,0 +1,13 @@
+{
+  "tmdb": 279246,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "La emperatriz divorciada",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-remarried-empress"
+      }
+    }
+  }
+}

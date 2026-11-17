@@ -1,0 +1,13 @@
+{
+  "tmdb": 300523,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "푸른길",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-blue-road"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tmdb": 332683,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "地雷グリコ",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "rock-paper-landmine"
+      }
+    }
+  }
+}

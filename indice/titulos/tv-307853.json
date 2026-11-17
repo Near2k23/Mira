@@ -1,0 +1,13 @@
+{
+  "tmdb": 307853,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "今天是太阳雨",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "sunshine-through-the-rain"
+      }
+    }
+  }
+}

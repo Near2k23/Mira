@@ -1,0 +1,13 @@
+{
+  "tmdb": 252886,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Scarlet Heart Ullavee ปาฏิหาริย์ข้ามกาลเวลา",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "scarlet-heart-ullavee"
+      }
+    }
+  }
+}

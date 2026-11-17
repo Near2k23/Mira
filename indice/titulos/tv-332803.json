@@ -1,0 +1,14 @@
+{
+  "tmdb": 332803,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "営業ですから",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "its-just-business"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 10 y TMDB tiene 8; no verificada"
+}

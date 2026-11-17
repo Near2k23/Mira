@@ -1,0 +1,13 @@
+{
+  "tmdb": 341436,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "晚秋寄情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "vow-of-autumn"
+      }
+    }
+  }
+}

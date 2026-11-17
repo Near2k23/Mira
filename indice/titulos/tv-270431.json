@@ -1,0 +1,13 @@
+{
+  "tmdb": 270431,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "Cuando Encuentre la Luna",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "when-i-meet-the-moon"
+      }
+    }
+  }
+}

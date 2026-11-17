@@ -1,0 +1,13 @@
+{
+  "tmdb": 334323,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "おかえり、初恋。",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "welcome-back-first-love"
+      }
+    }
+  }
+}

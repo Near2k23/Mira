@@ -1,0 +1,13 @@
+{
+  "tmdb": 340544,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "贵妃欺人太甚",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-palace-gambit-2"
+      }
+    }
+  }
+}

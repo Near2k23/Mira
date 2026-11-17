@@ -1,0 +1,14 @@
+{
+  "tmdb": 341065,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "十三种爱情",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "thirteen-types-of-love"
+      }
+    }
+  },
+  "nota": "T1: el sitio llega al ep 18 y TMDB tiene 12; no verificada"
+}

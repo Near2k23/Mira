@@ -1,0 +1,13 @@
+{
+  "tmdb": 326973,
+  "tipo": "tv",
+  "categoria": "dorama",
+  "titulo": "ล็อกสุดท้ายคือนายคนเดียว",
+  "fuentes": {
+    "doramasflix": {
+      "temporadas": {
+        "1": "the-last-lock-of-love"
+      }
+    }
+  }
+}
